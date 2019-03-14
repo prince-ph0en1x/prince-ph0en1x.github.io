@@ -4,7 +4,7 @@ subtitle: "a collection of poems"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/poems.jpg"
-date:   0000-02-00 12:12:12
+date:   2000-02-01 12:12:12
 ---
 
 ### Contents
