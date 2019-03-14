@@ -1,6 +1,6 @@
 ---
 title:  "Me"
-subtitle: ""
+subtitle: "just me meeing"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/me.jpg"

@@ -4,7 +4,7 @@ subtitle: "every had that feeling"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/random.jpg"
-date: ""
+date: 2019-03-14
 ---
 
 ### Down the rabbit hole...
