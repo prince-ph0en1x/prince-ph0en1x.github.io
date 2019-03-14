@@ -60,43 +60,45 @@ date:   2013-07-14 12:12:12
 
 ### Blackboard<a name="blackboard"></a>
 
-Cometh knowledge onto thee,
-	Cometh knowledge, to you, through me.
-The dust, the cloud, the light, the lines,
-	The letters scribbled on -
-An intelligent face, among all dreamy gaze,
-	A mirror to all, am I.
+```
+Cometh knowledge onto thee,  
+	Cometh knowledge, to you, through me.  
+The dust, the cloud, the light, the lines,  
+	The letters scribbled on -  
+An intelligent face, among all dreamy gaze,  
+	A mirror to all, am I.  
 
-The King of the class, the pride, the lust -
-	The battlefield where wars are fought,
-Me the hero, in the Trojan scenario,
-	On the giant book of historic thoughts.
+The King of the class, the pride, the lust -  
+	The battlefield where wars are fought,  
+Me the hero, in the Trojan scenario,  
+	On the giant book of historic thoughts.  
 
-Projectors and whiteboards, new in the trade,
-	Smart may be they, than me,
-Think 'wice err you speak, as they are -
-	Yet far less efficient.
-Find me Oxbridge, to the remotest hamlet,
-	A slate my grandson be.
+Projectors and whiteboards, new in the trade,  
+	Smart may be they, than me,  
+Think 'wice err you speak, as they are -  
+	Yet far less efficient.  
+Find me Oxbridge, to the remotest hamlet,  
+	A slate my grandson be.  
 
-Professors and artists, lessons and activities,
-	Flow all to you, through me.
-I am the board, black inside out,
+Professors and artists, lessons and activities,  
+	Flow all to you, through me.  
+I am the board, black inside out,  
 	The bearer of all these fame.
+```  
 
 ### Muse of the blank canvas<a name="muse-of-the-blank-canvas"></a>
 
-A painting there...
-hung alone, blank.
-To it yet, colours
-wait, till a touch...
-for life to bloom.
-The story it told,
-as I gazed, amazed...
-Muse she was past,
-her dreamy stare,
-in touch of brush,
-it was decorated...
-The canvas as now,
-future - a thought,
-hung alone, blank...
+A painting there...  
+hung alone, blank.  
+To it yet, colours  
+wait, till a touch...  
+for life to bloom.  
+The story it told,  
+as I gazed, amazed...  
+Muse she was past,  
+her dreamy stare,  
+in touch of brush,  
+it was decorated...  
+The canvas as now,  
+future - a thought,  
+hung alone, blank...  
