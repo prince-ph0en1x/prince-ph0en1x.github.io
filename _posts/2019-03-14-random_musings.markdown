@@ -1,6 +1,6 @@
 ---
 title:  "Random musing"
-subtitle: "every had that feeling"
+subtitle: "ever had that feeling"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/random.jpg"
