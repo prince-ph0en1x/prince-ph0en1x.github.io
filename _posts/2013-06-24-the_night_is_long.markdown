@@ -4,10 +4,11 @@ subtitle: "a collection of poems"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/poems.jpg"
-date:   2013-06-14 12:12:12
+date:   2013-07-14 12:12:12
 ---
 
 ### Contents
+
 * We shall meet again
 * Crossroad of Peace
 * Arshia, the Heavenly
@@ -57,7 +58,7 @@ date:   2013-06-14 12:12:12
 * Showers
 * Ahead
 
-### Blackboard
+### Blackboard<a name="blackboard"></a>
 
 Cometh knowledge onto thee,
 	Cometh knowledge, to you, through me.
@@ -83,7 +84,7 @@ Professors and artists, lessons and activities,
 I am the board, black inside out,
 	The bearer of all these fame.
 
-### Muse of the blank canvas
+### Muse of the blank canvas<a name="muse-of-the-blank-canvas"></a>
 
 A painting there...
 hung alone, blank.
