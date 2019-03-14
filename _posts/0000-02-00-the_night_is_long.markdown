@@ -12,7 +12,7 @@ date:   2013-07-14 12:12:12
 * We shall meet again
 * Crossroad of Peace
 * Arshia, the Heavenly
-* The Secret
+* <a href="the-secret">The Secret</a>
 * Déjà vu
 * Dark Paradise
 * The day I became someone
@@ -88,17 +88,47 @@ I am the board, black inside out,
 
 ### Muse of the blank canvas<a name="muse-of-the-blank-canvas"></a>
 
-A painting there...  
-hung alone, blank.  
-To it yet, colours  
-wait, till a touch...  
-for life to bloom.  
-The story it told,  
-as I gazed, amazed...  
-Muse she was past,  
-her dreamy stare,  
-in touch of brush,  
-it was decorated...  
-The canvas as now,  
-future - a thought,  
-hung alone, blank...  
+```
+A painting there...
+hung alone, blank.
+To it yet, colours
+wait, till a touch...
+for life to bloom.
+The story it told,
+as I gazed, amazed...
+Muse she was past,
+her dreamy stare,
+in touch of brush,
+it was decorated...
+The canvas as now,
+future - a thought,
+hung alone, blank...
+```  
+
+<a id = "the-secret">.</a>
+### The Secret
+
+```
+The scent of old paper - the thoughts, in his mind;
+The ink-pot - the mahogany table, he writes on;
+The open window - the cold breeze, blowing by;
+The overcast sky - the cloudy mood, my Lord all alone...
+
+It was then he took me up,
+	And held me hand by hand.
+A refreshing bath, in the near blue tub,
+	My spirits refilled up again.
+The paper I toughed, and his thoughts flowed,
+	I, his humble servant.
+The silent prayer, the golden emote,
+	Three little words, scribbled then.
+And at the end, not all is the same,
+	When the name was stamped on.
+Whisper I shouldn't, for it's a secret,
+	Between me and my Lord...
+
+The scent of old paper - the thoughts, in his mind;
+The ink-pot - the mahogany table, he writes on;
+The open window - the cold breeze, blowing by;
+The overcast sky - the cloudy mood, and the letter of my Lord...
+```
