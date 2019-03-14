@@ -4,7 +4,7 @@ subtitle: "just me meeing"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/me.jpg"
-date:   0000-10-00 12:12:12
+date:   1991-07-07 12:12:12
 ---
 
 ### Who am I?
