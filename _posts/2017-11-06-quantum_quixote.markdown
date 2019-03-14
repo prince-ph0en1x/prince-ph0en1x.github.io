@@ -4,7 +4,7 @@ subtitle: "quivalric qomic"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/qq.jpg"
-date:   2000-05-01 12:12:12
+date:   2000-05-02 12:12:12
 ---
 
 ### Quixote?
