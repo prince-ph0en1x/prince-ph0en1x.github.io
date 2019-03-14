@@ -4,7 +4,7 @@ subtitle: "a collection of poems"
 author: "aritra"
 avatar: "img/authors/aritra.jpg"
 image: "img/pages/poems.jpg"
-date:   2013-07-14 12:12:12
+date:   0000-02-00 12:12:12
 ---
 
 ### Contents
@@ -12,7 +12,7 @@ date:   2013-07-14 12:12:12
 * We shall meet again
 * Crossroad of Peace
 * Arshia, the Heavenly
-* <a href="the-secret">The Secret</a>
+* <a href="the_secret">The Secret</a>
 * Déjà vu
 * Dark Paradise
 * The day I became someone
@@ -105,7 +105,7 @@ future - a thought,
 hung alone, blank...
 ```  
 
-<a id = "the-secret">.</a>
+<a id = "the_secret">.</a>
 ### The Secret
 
 ```
