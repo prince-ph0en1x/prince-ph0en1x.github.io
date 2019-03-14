@@ -7,58 +7,7 @@ image: "img/pages/poems.jpg"
 date:   2000-02-01 12:12:12
 ---
 
-### Contents
-
-* We shall meet again
-* Crossroad of Peace
-* Arshia, the Heavenly
-* <a href="the_secret">The Secret</a>
-* Déjà vu
-* Dark Paradise
-* The day I became someone
-* As night falls 
-* Inertial minds 
-* The Thinker
-* [Blackboard](#blackboard)
-* Death Lane
-* Shortened My Skills?
-* String Theory!
-* Time thou heal
-* The butterfly
-* Breathless
-* To the shore
-* Said Krishna
-* Spheres of Brain and Earth
-* Pages from the Owl’s Diary
-* Sonnet of Love
-* Monuments of Love
-* Under the Spell
-* The battle
-* Atheist
-* Storm
-* Shapeshifter
-* Tick
-* Bridge to Humanity
-* Crazy Candle
-* Lost
-* Scratch of friendship
-* Kaleidoscope
-* Daydreams and Dreams
-* [Muse of the blank canvas](#muse-of-the-blank-canvas)
-* Legion
-* Zephyr Castle
-* Geeks of Physics
-* Geeks to Freaks
-* Maidens of war
-* Ode to Love
-* Reins of Time
-* Tug of war
-* Ode to Space Engineers
-* Pride
-* Showers
-* Ahead
-
-### Blackboard<a name="blackboard"></a>
+### Blackboard
 
 ```
 Cometh knowledge onto thee,  
@@ -86,7 +35,7 @@ I am the board, black inside out,
 	The bearer of all these fame.
 ```  
 
-### Muse of the blank canvas<a name="muse-of-the-blank-canvas"></a>
+### Muse of the blank canvas
 
 ```
 A painting there...
@@ -105,7 +54,6 @@ future - a thought,
 hung alone, blank...
 ```  
 
-<a id = "the_secret">.</a>
 ### The Secret
 
 ```
