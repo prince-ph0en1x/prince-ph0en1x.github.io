@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Aritra Sarkar</title>
+        <description>SatChitAnanda</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Fri, 15 Mar 2019 14:06:53 +0100</pubDate>
+        <lastBuildDate>Fri, 15 Mar 2019 14:06:53 +0100</lastBuildDate>
+        <generator>Jekyll v3.7.4</generator>
+        
+        <item>
+            <title>Me</title>
+            <description>&lt;h3 id=&quot;who-am-i&quot;&gt;Who am I?&lt;/h3&gt;
+
+&lt;p&gt;Hello World! I’m a genetic program unplugged from the matrix, living my clock ticks by random if-else&lt;/p&gt;
+</description>
+            <pubDate>Tue, 10 Oct 2000 14:12:12 +0200</pubDate>
+            <link>http://localhost:4000#/2000/10/10/me.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/10/10/me.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Research</title>
+            <description>&lt;h3 id=&quot;the-grand-un-unified-theory&quot;&gt;The Grand (Un-)unified Theory&lt;/h3&gt;
+
+&lt;p&gt;While theoretical physicists are lamenting over the differences and compatibility of two of the most fundamental physical laws, a more birds eye view of the landscape of the universal design reveals some very important structures, that are so deeply embedded around us, we need to ask, why?
+Here I ponder over some of those structures that I find particularly interesting.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Godel’s Incompleteness Theorems&lt;/li&gt;
+  &lt;li&gt;Kolmogorov Complexity&lt;/li&gt;
+  &lt;li&gt;Quines&lt;/li&gt;
+  &lt;li&gt;Fractals&lt;/li&gt;
+  &lt;li&gt;Chaos&lt;/li&gt;
+  &lt;li&gt;Shannon Entropy&lt;/li&gt;
+  &lt;li&gt;Holographic Universe&lt;/li&gt;
+  &lt;li&gt;Quantum Entanglement&lt;/li&gt;
+  &lt;li&gt;Golden Mean&lt;/li&gt;
+  &lt;li&gt;Neural Network&lt;/li&gt;
+  &lt;li&gt;DNA&lt;/li&gt;
+  &lt;li&gt;Thermodynamics&lt;/li&gt;
+  &lt;li&gt;Standard Model&lt;/li&gt;
+  &lt;li&gt;Brainwaves&lt;/li&gt;
+  &lt;li&gt;Plank Units&lt;/li&gt;
+  &lt;li&gt;Cellular Automata&lt;/li&gt;
+  &lt;li&gt;Church-Turing Thesis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Mon, 02 Oct 2000 14:12:12 +0200</pubDate>
+            <link>http://localhost:4000#/2000/10/02/research.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/10/02/research.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Random musing</title>
+            <description>&lt;h3 id=&quot;down-the-rabbit-hole&quot;&gt;Down the rabbit hole…&lt;/h3&gt;
+&lt;p&gt;Can you stop thinking? Can you stop thinking about thinking? … there you go… down the portal again… exploring the unknown unknowns…&lt;/p&gt;
+
+&lt;h3 id=&quot;quotes&quot;&gt;Quotes&lt;/h3&gt;
+
+&lt;p&gt;A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Be it described by, Low-complexity art or Occam’s razor; Nature favors designs with high informational entropy with low Kolmogorov complexity… in short, God is a lazy programmer!&lt;/li&gt;
+  &lt;li&gt;“Sarcasm is a word in the lexicon”… is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel’s Incompleteness Theorem.&lt;/li&gt;
+  &lt;li&gt;All of learning theory is mostly “Classification + Correlation”… dividing data into sets and understanding the relations between them.&lt;/li&gt;
+  &lt;li&gt;Pressing UnDo does not take you into the past, it takes you to an alternate future. Pressing ReDo does not correct your mistake, it accounts for a misjudgment requiring two actions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Wed, 03 May 2000 14:12:12 +0200</pubDate>
+            <link>http://localhost:4000#/2000/05/03/random_musings.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/05/03/random_musings.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Quantum Quixote</title>
+            <description>&lt;h3 id=&quot;quixote&quot;&gt;Quixote?&lt;/h3&gt;
+&lt;p&gt;There is already a &lt;a href=&quot;http://dabacon.org/pontiff/&quot;&gt;Quantum Pontiff&lt;/a&gt;, &lt;a href=&quot;https://www.quantumsheikh.com/&quot;&gt;Quantum Sheikh&lt;/a&gt; and &lt;a href=&quot;http://quantumpundit.blogspot.com/&quot;&gt;Quantum Pundit&lt;/a&gt;. Hey, I am a Hindu by birth and pundit is already taken! Also, I am so confused - am I an atheist or an agnostic. Duh! It is not about your real faith…. do I believe in a single way of doing computation, a single enterprise taking over, a single physical platform…. no! But also, when it comes to quantum, I am not an atheist like &lt;a href=&quot;https://gilkalai.wordpress.com/&quot;&gt;Gil Kalai&lt;/a&gt;. Rather the opposite. I like to dream big - even unrealistic, quixotic. And that has set me on a course through the stormy waters on my own adventure: The Ingenious Gentleman Sir Quan’ Quixote of Delft.&lt;/p&gt;
+
+&lt;h3 id=&quot;there-and-back-again&quot;&gt;There and back again&lt;/h3&gt;
+
+&lt;p&gt;My little book of adventures:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The observer principle&lt;/li&gt;
+  &lt;li&gt;Do we always need two laws?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Tue, 02 May 2000 14:12:12 +0200</pubDate>
+            <link>http://localhost:4000#/2000/05/02/quantum_quixote.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/05/02/quantum_quixote.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Intelligence</title>
+            <description>
+</description>
+            <pubDate>Mon, 01 May 2000 14:12:12 +0200</pubDate>
+            <link>http://localhost:4000#/2000/05/01/intelligence.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/05/01/intelligence.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>The night is long</title>
+            <description>&lt;h3 id=&quot;blackboard&quot;&gt;Blackboard&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Cometh knowledge onto thee,  
+	Cometh knowledge, to you, through me.  
+The dust, the cloud, the light, the lines,  
+	The letters scribbled on -  
+An intelligent face, among all dreamy gaze,  
+	A mirror to all, am I.  
+
+The King of the class, the pride, the lust -  
+	The battlefield where wars are fought,  
+Me the hero, in the Trojan scenario,  
+	On the giant book of historic thoughts.  
+
+Projectors and whiteboards, new in the trade,  
+	Smart may be they, than me,  
+Think 'wice err you speak, as they are -  
+	Yet far less efficient.  
+Find me Oxbridge, to the remotest hamlet,  
+	A slate my grandson be.  
+
+Professors and artists, lessons and activities,  
+	Flow all to you, through me.  
+I am the board, black inside out,  
+	The bearer of all these fame.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;muse-of-the-blank-canvas&quot;&gt;Muse of the blank canvas&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A painting there...
+hung alone, blank.
+To it yet, colours
+wait, till a touch...
+for life to bloom.
+The story it told,
+as I gazed, amazed...
+Muse she was past,
+her dreamy stare,
+in touch of brush,
+it was decorated...
+The canvas as now,
+future - a thought,
+hung alone, blank...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;the-secret&quot;&gt;The Secret&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The scent of old paper - the thoughts, in his mind;
+The ink-pot - the mahogany table, he writes on;
+The open window - the cold breeze, blowing by;
+The overcast sky - the cloudy mood, my Lord all alone...
+
+It was then he took me up,
+	And held me hand by hand.
+A refreshing bath, in the near blue tub,
+	My spirits refilled up again.
+The paper I toughed, and his thoughts flowed,
+	I, his humble servant.
+The silent prayer, the golden emote,
+	Three little words, scribbled then.
+And at the end, not all is the same,
+	When the name was stamped on.
+Whisper I shouldn't, for it's a secret,
+	Between me and my Lord...
+
+The scent of old paper - the thoughts, in his mind;
+The ink-pot - the mahogany table, he writes on;
+The open window - the cold breeze, blowing by;
+The overcast sky - the cloudy mood, and the letter of my Lord...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+            <pubDate>Tue, 01 Feb 2000 13:12:12 +0100</pubDate>
+            <link>http://localhost:4000#/2000/02/01/the_night_is_long.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2000/02/01/the_night_is_long.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>
