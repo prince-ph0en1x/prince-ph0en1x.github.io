@@ -1,1 +1,0 @@
-Trying out Git Pages for hosting my personal webpage
