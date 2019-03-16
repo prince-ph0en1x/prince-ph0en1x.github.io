@@ -20,7 +20,7 @@ Like a tea tray in the sky.
 
 My first two poems, *We shall meet again* and *Crossroads of Peace* were written before I left for my college, vividly painting the hurricane of sensations. During my times at college, I have questioned myself over and over again - why am I doing this? Is the pain worth it? How long before I return back home? *Déjà vu*, *The day I became someone*, *As night falls*, *Time thou heal*, *Breathless*, *Pages from the Owl's Diary* bears testimony to those brooding moments. This indeed gives the title of the collection - **The Night is Long**.
 
-Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasim has always been a part of my jovial character. No wonder it didn't take long to express themselves in my poems, like *Inertial minds*, *Blackboard*, *Shortened My Skills?*, *String Theory!*, *Said Krishna*, *Monuments of Love*, *Atheist*, *Geeks of Physics*, etc. I also concentrated on the poetic imagery in *Dark Paradise*, *Dark Paradise*, *Death Lane*, etc. I translated tunes of bengali folk songs in *The butterfly* and *To the shore*. Around this time, I was introduced to Rumi and Pablo Neruda. Poetry flows in the wind, and like the dandelion, hooks to you mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to wake up was *Muse of the blank canvas*. It is a 14 line 14 word sonnet - carved by the inspiration of the great bengali poet - Madhusudhan. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
+Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like *Inertial minds*, *Blackboard*, *Shortened My Skills?*, *String Theory!*, *Said Krishna*, *Spheres of Brain and Earth*, *Monuments of Love*, *Atheist*, *Geeks of Physics*, etc. I also concentrated on the poetic imagery in *The Secret*, *Dark Paradise*, *Under the Spell*, *Death Lane*, etc. I translated tunes of bengali folk songs in *The butterfly* and *To the shore*. Around this time, I was introduced to Rumi and Pablo Neruda. Poetry flows in the wind, and like the dandelion, hooks to you mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to wake up was *Muse of the blank canvas*. It is a 14 line 14 word sonnet - carved by the inspiration of the great bengali poet - Madhusudhan. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
 
 <div class="row">
 <div class="medium-8 medium-push-2 columns" markdown="1">
@@ -955,7 +955,7 @@ from home...
 from those rickshaws,  
 along those dusty village roads.  
 how different are those...  
-\textbf{}  
+
 I wonder.  
 and wonder along..  
 over seconds and minutes  
@@ -1128,105 +1128,6 @@ The canvas as now,
 future - a thought,  
 hung alone, blank...
 
-### Legion 
-
-N.A.
-
-### Zephyr Castle
-
-N.A.
-
-### Geeks of Physics
-
-N.A.
-
-### Geeks to Freaks
-
-N.A.
-
-### Maidens of war
-
-Lived a maiden in the past,
-kidnapped by a monster of the finest class,
-the pther half so virtuous and strong,
-waged a war for years long,
-crossed the sea on a bridge made he,
-thus the saga of Ram and Sita be.
-
-### Ode to Love
-
-Twice a two years have past,
-Since days flew from dawn to dusk,
-When sheltered in love we remain.
-
-The world gazes with eyes of lust,
-As we seek aegis in our trust,
-The pillars stand strong and tall.
-
-A speck in time when our souls meet,
-In the meadow of calmness and peace,
-Like a glimpse of the hourglass.
-
-### Tug of war
-
-A:
-Silver beams of the gleaming Moon,
-Comes not from the stars so soon,
-Yet a starry night enthralls me to wonder,
-When its not shadowed by the silver bowl...
-Can we have two beacons of light,
-To rule the sky at day and night,
-Never stealing the show of the other,
-While casting their brilliant sight.
-What wrong it is to have two parts,
-Of the old soul's essence scattered in,
-For in fear if the Sun finds the Moon,
-Out-caste when in its territory be...
-I wonder through the night so long,
-In the calm and quietness of doom,
-Yet as the first rays of dawn kisses the sky,
-The nightmare wraps with the flower's bloom.
-
-
-K:
-Made me think of the paining soul
-Tied to the barren half of time,
-Aching for a glimpse of the other face,
-To bask in the brilliance of its glow.
-What if the sunflower had craved the Moon,
-And looked at the sky to find him caged,
-Caged in the yellow rays of Sun,
-The serene silver rays, shunned in the blaze.
-And the pain while withering away at dusk
-When her lover finally finds a way.
-What if the Moon had not belonged to day
-yet only remained a fairy of the night
-Like the two beacons for two halves of time,
-Never to intersect each other.
-Would the Sunflower's love still grow deep,
-Knowing only the Lily can claim it,
-Or would he wait for Moon to rule the days,
-And find the tears of love glistening in its rays.
-
-### Ode to Space Engineers
-
-N.A.
-
-### Pride
-
-a step, and two, and a step again,
-each step, he took with pride,
-the world gazed, in awe and
-as he soared over the skies,
-
-and there was this stone,
-placed carefully,
-by one who calls him Fate,
-
-he stumbles, in his mind he fumbles,
-and curses those 
-
-
 ### Showers
 
 On such a rainy day,
@@ -1269,3 +1170,14 @@ Walk, walk, walk ahead...
 May the wind be with you,
 Walk ahead hand in hand,
 Taking me with you ;)
+
+### To be added
+#### Legion 
+#### Zephyr Castle
+#### Geeks of Physics
+#### Geeks to Freaks
+#### Maidens of war
+#### Ode to Love
+#### Tug of war
+#### Ode to Space Engineers
+#### Pride
