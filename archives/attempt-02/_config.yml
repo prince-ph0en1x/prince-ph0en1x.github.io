@@ -1,0 +1,7 @@
+# Site settings
+title: Aritra Sarkar
+description: SatChitAnanda
+keywords: Blog, Research
+author: aritra
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
