@@ -4,6 +4,8 @@ title: "Musings"
 meta_title: ""
 subheadline: ""
 teaser: "ever had that feeling"
+header:
+   image_fullwidth: "random.jpg"
 permalink: "/musings/"
 ---
 
@@ -17,3 +19,5 @@ A collection of those eureka moments when you find an allegory worth remembering
 * "Sarcasm is a word in the lexicon"... is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel's Incompleteness Theorem.
 * All of learning theory is mostly "Classification + Correlation"... dividing data into sets and understanding the relations between them.
 * Pressing UnDo does not take you into the past, it takes you to an alternate future. Pressing ReDo does not correct your mistake, it accounts for a misjudgment requiring two actions.
+
+... so this is the place where I collect my ideas for future blog posts

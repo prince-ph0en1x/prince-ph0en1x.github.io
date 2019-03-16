@@ -4,6 +4,8 @@ title: "Research"
 meta_title: "formalising thoughts"
 subheadline: ""
 teaser: ""
+header:
+   image_fullwidth: "research.jpg"
 permalink: "/research/"
 ---
 

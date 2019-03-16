@@ -17,12 +17,19 @@
   url: "/blog/"
   side: left
 
+- title: Creō
+  url: "/creative-corner/"
+  side: left
+  dropdown:
+  - title: "Poems"
+    url: "/creative-corner/the-night-is-long/"
+  - title: "Art & Craft"
+    url: "/creative-corner/art-n-craft/"
+  - title: "Photography"
+    url: "/creative-corner/photography/"
+
 - title: Musings
   url: "/musings/"
-  side: left
-
-- title: Poems
-  url: "/the-night-is-long/"
   side: left
 
 - title: "About Me"
