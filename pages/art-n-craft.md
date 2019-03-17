@@ -11,13 +11,11 @@ categories:
 tags:
   -
 header:
-   image_fullwidth: "art/gallery-002.jpg"
+   image_fullwidth: "art/gallery-014.jpg"
 #
 # Gallery
 #
 gallery:
-    - image_url: art/gallery-000.jpg
-      caption: 
     - image_url: art/gallery-001.jpg
       caption: 
     - image_url: art/gallery-002.jpg
