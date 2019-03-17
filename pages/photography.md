@@ -10,23 +10,23 @@ categories:
   -
 tags:
   -
+header:
+   image_fullwidth: "photos/gallery-001.jpg"
 #
 # Gallery
 #
 gallery:
-    - image_url: gallery-example-1.jpg
+    - image_url: photos/gallery-000.jpg
       caption: Rhine Falls
-    - image_url: gallery-000.jpg
+    - image_url: photos/gallery-001.jpg
       caption: 
-    - image_url: gallery-001.jpg
+    - image_url: photos/gallery-002.jpg
       caption: 
-    - image_url: gallery-002.jpg
+    - image_url: photos/gallery-003.jpg
       caption: 
-    - image_url: gallery-003.jpg
+    - image_url: photos/gallery-004.jpg
       caption: 
-    - image_url: gallery-004.jpg
-      caption: 
-    - image_url: gallery-005.jpg
+    - image_url: photos/gallery-005.jpg
       caption: 
 #
 # Styling
