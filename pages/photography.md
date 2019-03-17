@@ -16,17 +16,17 @@ tags:
 gallery:
     - image_url: gallery-example-1.jpg
       caption: Rhine Falls
-    - image_url: 000.jpg
+    - image_url: gallery-000.jpg
       caption: 
-    - image_url: 001.jpg
+    - image_url: gallery-001.jpg
       caption: 
-    - image_url: 002.jpg
+    - image_url: gallery-002.jpg
       caption: 
-    - image_url: 003.jpg
+    - image_url: gallery-003.jpg
       caption: 
-    - image_url: 004.jpg
+    - image_url: gallery-004.jpg
       caption: 
-    - image_url: 005.jpg
+    - image_url: gallery-005.jpg
       caption: 
 #
 # Styling
