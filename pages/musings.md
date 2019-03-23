@@ -46,11 +46,11 @@ A: I don't think god is necessary. Yes, organised religion was necessary to guid
 science; god is an added burden, a deviation from Occam's razor.
 
 T: I would argue that god is Occam's razor. Believing in an omnipotent god resolves all problems. But, let's keep that aside for a 
-while and assume that god is not necessary. But so is mayonnaise. But mayonnaise exists. There are no many things that you do not 
+while and assume that god is not necessary. But so is mayonnaise. But mayonnaise exists. There are so many things that you do not 
 believe is necessary, or do not even know that it exist - but in reality, they do exist. How does that change the reality of its 
 existance.
 
-A: Yes, I do not know that mayonnaise brand americans use; that does not refute its existance. But, it is possible to totally live 
+A: Yes, I do not know what mayonnaise brands americans use; that does not refute its existance. But, it is possible to totally live 
 without mayonnaise. Removing mayonnaise from the equation of human civilization will not threaten the existence of the universe.
 
 T: Some mayo based dishes would fail to exist then. But the non-existance of mayo to you does not mean it doesn't exist.
@@ -59,7 +59,7 @@ A: Yes. So mayo is known by more people, validating its existance. That is what 
 
 T: Atleast 1 person in the World believes that god exist. Does that mean there is god.
 
-A: No. A mojority believing in something, or an individual believeing in something does not make it real. The difference between 
+A: No. A mojority believing in something, or an individual believing in something does not make it real. The difference between 
 mayo is it can be sensed, experimented and physically tangibly manipulated by other human beings in the same way.
 
 T: So is it with god. Theists agree how they experience god.

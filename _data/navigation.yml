@@ -13,8 +13,8 @@
   - title: "Quantum"
     url: "/research/quantum/"
 
-- title: Quantum Quixote
-  url: "/blog/"
+- title: Musings
+  url: "/musings/"
   side: left
 
 - title: Creō
@@ -27,10 +27,6 @@
     url: "/creative-corner/art-n-craft/"
   - title: "Photography"
     url: "/creative-corner/photography/"
-
-- title: Musings
-  url: "/musings/"
-  side: left
 
 - title: "About Me"
   url: "/me/"
