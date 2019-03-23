@@ -12,7 +12,7 @@ permalink: "/research/"
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**me meeing**
+**Topics**
 {: #toc }
 *  TOC
 {:toc}
@@ -32,19 +32,15 @@ permalink: "/research/"
 
 ## On the shoulder of giants
 
-I have been deeply inspired by many 'giants' in the scientific community. I hold them in the highest regard for either their thoughts well resonated with mine or their propositions fuels my neural engines to do research.
+I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard for either their thoughts well resonate with mine or their propositions fuel my neural engines to do research.
 * Alan Turing - Turing machine, Turing test
 * John von Neumann - Self-replicating machines; automata theory; stored program
 * Kurt Gödel - Incompleteness theorem
 * Andrey Kolmogorov - Algorithmic complexity
-* Gregory Chaitin - Algorithmic complexity,omega number
-* Stephen Wolfram - Cellular automata types
 * Benoit Mandelbrot - Fractals
-* Roger Penrose - Quantum mind, Penrose tilings
 * Albert Einstein - General relativity
 * John Archbald Wheeler - It from bit
 * Max Plank - Plank units
-* Jurgen Schmidhuber - Low complexity art, Gödel machines
 * Werner Heisenberg - Uncertainty principle
 * Claude Shannon - Information theory
 * Richard Feynman - Quantum computation, Feynman diagrams
@@ -54,12 +50,30 @@ I have been deeply inspired by many 'giants' in the scientific community. I hold
 * Marvin Minsky - Artificial intelligence
 * Neils Bohr - Atomic model
 * Erwin Schrodinger - Wavefunction
+* James Maxwell - Maxwell's demon
+* Stephen Hawkins - Hawkings radiation
+
+...and among those who are still around
+* Gregory Chaitin - Algorithmic complexity,omega number
+* Stephen Wolfram - Cellular automata types
+* David Deutsch - Constructor theory
+* Roger Penrose - Quantum mind, Penrose tilings
+* Jurgen Schmidhuber - Low complexity art, Gödel machines
 * Leonard Susskind - String theory, loop quantum gravity
 * Ken Thompson - Regular expressions, Unix, B
-* James Maxwell - Maxwell's demon
 * Edward Witten - M-Theory
-* Stephen Hawkins - Hawkings radiation
+
 ... the list keeps growing as the horizon of my knowledge widens.
+
+## Unification vs Occam's Razor
+
+When you are into the topic of emergence, you can't help but wonder about the phase transitions where different laws take over at different scales. Quoting Douglas R. Hofstadter (from the book I am a strange loop), "thinkodynamics is explained by statistical mentalics", sometimes knowing everything about individual components of a system (e.g. neuron) tell us very little of how the components behave as a whole (e.g. consciousness). It is not sorcery that the usual scientific method of reductionism does not work here. It is simply that many laws of the overall system is embedded in the interaction behaviour of the components, rather than the components themselves. In physics, we call this coupling. In quantum computing, perhaps, a similar notion is of entanglement. Following the ideas of Juan M. Maldacena (in his ER = EPR paper with Leonard Susskind), in classical mechanics, they are wormholes.
+
+A question that perhaps keeps popping up is, are gravity (general relativity) and quantum mechanics one and the same - two different ways (even mutually conflicting at times) of interpreting the same thing? They work extremely well in their own niche scale - GR for galactic scales, QM for atomic scales. The obviously problems arise when there is both, mass concentrated in small space, as in the early Universe or blackholes. One way of approaching this problem is called the Holographic Principle, where two very different interpretations, a bulk theory in n-dimensions and a boundary theory in (n-1)-dimensions, describe a single reality.
+
+However, grand unified theory (GUT) and consciousness are not the only places where scientists have trouble going from 2 views of reality to 1. It is very much a problem within the [basic postulates][1] of quantum mechanics itself; where normally a closed system evolves unitarily (which is invertible, deterministic and continuous), while any interaction with an observer (nothing to do with consciousness), results in a measurement (which in irreversible, probabilistic and instantaneous).
+
+What is more interesting for me is however, this this duality true for computability and complexity as well? For complexity, Shannon and Kolmogorov metrics converge asymptotically for true randomness. For computability, what is the difference between the state machine and the tape in the Turing Machine. For languages, what is the difference between syntax and semantics?
 
 ## The Grand (Un-)unified Theory
 
@@ -82,3 +96,5 @@ Here I ponder over some of those structures that I find particularly interesting
 * Plank Units
 * Cellular Automata
 * Church-Turing Thesis
+
+ [1]: https://www.scottaaronson.com/blog/?p=3943
