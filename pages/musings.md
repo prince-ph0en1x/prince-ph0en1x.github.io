@@ -33,6 +33,10 @@ A collection of those eureka moments when you find an allegory worth remembering
 * "Sarcasm is a word in the lexicon"... is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel's Incompleteness Theorem.
 * All of learning theory is mostly "Classification + Correlation"... dividing data into sets and understanding the relations between them.
 * Pressing UnDo does not take you into the past, it takes you to an alternate future. Pressing ReDo does not correct your mistake, it accounts for a misjudgment requiring two actions.
+* When you are rolling some dice you can either accept that the results are truly random or you can believe that they are decided by God. But, if you choose the latter, you must understand that this God of yours must roll some virtual dice of his own in order to decide your dice rolling results.
+* Probabilities do not exist. It is only useful for faking the future as present. Statistics is what is real. 
+* If a string is compressed, it must include the decompressor compiler length as part of it.
+* Randomness is not predictable, not patterned, not biased. Randomness is whatever is left over when we have listed all the known patterns in the universe. [ref][https://www.3quarksdaily.com/3quarksdaily/2014/10/randomness-the-ghost-in-the-machine.html]
 
 ## My 'dharma'
 
@@ -144,6 +148,28 @@ deus ex.
 T: So does god exist?
 
 A: I submit, the problem of god existing is not provable; just like the existance of infinity. No one has seen or experience infinity. It is not necessary, at the same time; knowing its capability and limitation is. Since it is not provable, discussing its real existance is beyond my scope.
+
+### Teleological argument and the Problem of Evil
+
+(TBD)
+
+### Sanatan dharma and Carvaka epistemology
+
+Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
+```
+But, after all, who knows, and who can say
+Whence it all came, and how creation happened?
+the gods themselves are later than creation,
+so who knows truly whence it has arisen?
+
+Whence all creation had its origin,
+the creator, whether he fashioned it or whether he did not,
+the creator, who surveys it all from highest heaven,
+he knows — or maybe even he does not know.
+```
+
+Here let me first review Shashi Tharoor's book, Why I am a Hindu? and later I will elucidate while I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. Hinduism).
+
 
 ## Fascinating Fiction
 * Swastika - The Gateway To Time Travel
