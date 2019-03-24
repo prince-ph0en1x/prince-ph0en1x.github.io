@@ -32,7 +32,53 @@ permalink: "/research/"
 
 ## Curriculum vitae
 
-[view CV](../docs/Aritra_CV.pdf)
+* [CV as pdf](../docs/Aritra_CV.pdf)
+* [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
+
+#### Current Projects
+* Near-term quantum optimisation and learning algorithm for genomics (PhD thesis)
+* Evolutionary quines on gene expressions for recursive self-improvement systems  
+* Spiking neural network based associative memory evolution for context-based navigation
+
+... if you want to do your master's thesis in QCA lab on topics related to my research interests, feel free to contact me.
+
+#### Past Projects
+* Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
+* Quantum Innovation Environment (QuInE), a PyQT based IDE for quantum programming
+* Brain-inspired robotic mapping and navigation using time-series of hexagonal grid and place cells
+* System design of warehouse automation using multi-agent collaborative box-pushing strategies
+* Human brain simulation in GPU with Inferior Olive model in OpenCL and CUDA
+* GATK based human genome sequencing for distributed Spark platform in Scala
+* Fuzzing and concolic execution on RERS-2016 problems using AFL and KLEE
+* Optimizing a SoC using ρ-VEX VLIW processors
+* Enhancing the Plasma processor IP core
+* Accelerating object tracking in OMAP3530 application processor
+* Solar energy forecasting using ORCA system
+* Earthquake occurrence analysis and aftershock prediction using MATLAB and Tableau
+* Elevation mapping using stereo vision enabled heterogeneous multi-agent network (B.Tech. thesis)
+* Computer vision based centralized multi-agent system on MATLAB and Arduino
+* Self-configuring classical logic gate circuits using genetic programming in Java
+* Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
+
+#### Associations
+* Delft University of Technology
+   - Doctor of Philosophy (2018 - 2022)
+      - Quantum Computer Architecture Lab
+      - QuTech
+      - Faculty of Applied Sciences
+   - Master of Science (2016 - 2018) in Computer Engineering
+      - Department of Quantum & Computer Engineering
+      - Faculty of Electrical Engineering, Mathematics and Computer Sciences
+* Tata Consultancy Services, Research and Innovation
+   - Embedded Systems and Robotics Group, Kolkata
+      - Research Intern (2017 - 2018)
+* Department of Space, Government of India
+   - Indian Space Research Organisation
+      - ISRO Satellite Centre (now renamed as [U.R. Rao Satellite Centre](https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc)), Bengaluru
+      - Scientist/Engineer (2013 - 2016)
+   - Indian Institute of Space Science and Technology, Thiruvananthapuram
+      - Bachelor of Technology (2009 - 2013) in Avionics
+* Assembly of God Church School, Kolkata
 
 ## On the shoulder of giants
 
