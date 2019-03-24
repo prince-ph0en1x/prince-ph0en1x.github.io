@@ -30,6 +30,10 @@ permalink: "/research/"
 * Quantum Information and Computation
 * Emergent Properties of a System
 
+## Curriculum vitae
+
+[view CV](../docs/Aritra_CV.pdf)
+
 ## On the shoulder of giants
 
 I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard for either their thoughts well resonate with mine or their propositions fuel my neural engines to do research.

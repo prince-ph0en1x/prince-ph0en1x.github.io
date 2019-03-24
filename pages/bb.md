@@ -6,12 +6,12 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "bb01.jpg"
-permalink: "/research/bb/"
+permalink: "/musings/bb/"
 ---
 
 ## POVs 
 
-[Charu][https://charuagrawal.com/thoughts/]
+[Charu](https://charuagrawal.com/thoughts/)
 
 * Should blog typos be corrected?
 * Should art have a price?
