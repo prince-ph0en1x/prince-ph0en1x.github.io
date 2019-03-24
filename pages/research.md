@@ -23,22 +23,20 @@ permalink: "/research/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-## Current research interests
-
+## Research interests
 * Algorithmic Complexity
 * Learning Theory, Artificial General Intelligence, Recursive Self Improvement
 * Quantum Information and Computation
 * Emergent Properties of a System
 
 ## Curriculum vitae
-
 * [CV as pdf](../docs/Aritra_CV.pdf)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 
 #### Current Projects
 * Near-term quantum optimisation and learning algorithm for genomics (PhD thesis)
 * Evolutionary quines on gene expressions for recursive self-improvement systems  
-* Spiking neural network based associative memory evolution for context-based navigation
+* Spiking neural network based associative memory evolution for context based navigation
 
 ... if you want to do your master's thesis in QCA lab on topics related to my research interests, feel free to contact me.
 
@@ -61,24 +59,24 @@ permalink: "/research/"
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
 
 #### Associations
-* Delft University of Technology
+* [Delft University of Technology](https://www.tudelft.nl/en/)
    - Doctor of Philosophy (2018 - 2022)
-      - Quantum Computer Architecture Lab
-      - QuTech
-      - Faculty of Applied Sciences
+      - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)
+      - [QuTech](https://qutech.nl/)
+      - [Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences/)
    - Master of Science (2016 - 2018) in Computer Engineering
-      - Department of Quantum & Computer Engineering
-      - Faculty of Electrical Engineering, Mathematics and Computer Sciences
-* Tata Consultancy Services, Research and Innovation
-   - Embedded Systems and Robotics Group, Kolkata
+      - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/)
+      - [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
+* [Tata Consultancy Services, Research and Innovation](https://www.tcs.com/research-and-innovation)
+   - [Embedded Systems and Robotics Group](https://www.tcs.com/building-next-generation-smart-machines), Kolkata
       - Research Intern (2017 - 2018)
 * Department of Space, Government of India
-   - Indian Space Research Organisation
+   - [Indian Space Research Organisation](https://www.isro.gov.in/)
       - ISRO Satellite Centre (now renamed as [U.R. Rao Satellite Centre](https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc)), Bengaluru
       - Scientist/Engineer (2013 - 2016)
-   - Indian Institute of Space Science and Technology, Thiruvananthapuram
+   - [Indian Institute of Space Science and Technology](http://www.iist.ac.in/), Thiruvananthapuram
       - Bachelor of Technology (2009 - 2013) in Avionics
-* Assembly of God Church School, Kolkata
+* [Assembly of God Church School](http://agcschools.edu.in/), Kolkata
 
 ## On the shoulder of giants
 
