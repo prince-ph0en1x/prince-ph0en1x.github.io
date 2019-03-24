@@ -9,7 +9,7 @@ header:
 permalink: "/musings/bb/"
 ---
 
-## POVs 
+## Perspectives 
 
 [Charu](https://charuagrawal.com/thoughts/)
 
