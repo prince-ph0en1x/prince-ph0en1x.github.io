@@ -80,7 +80,8 @@ Every object is influenced by its environment. If you know me and not know how I
 * Double cheese margherita with jalapeno and pepperoni 
 * Kesar pista icecream
 
-### Hindi Songs
+### Playlists
+#### Hindi Songs
 * Choti Si Asha - Roja
 * Yeh Jo Desh - Swades
 * Aashayen - Iqbal
@@ -122,8 +123,7 @@ Every object is influenced by its environment. If you know me and not know how I
 * Jaadu Hai Nasha Hai 
 * Tu Hi Re
 * Chore Aye Hum Yeh Galiyan - Maachis
-
-### Bengali Songs
+#### Bengali Songs
 * Ami Banglar Gaan Gai - Pratul Mukhopadhayay
 * Swapno Dekhbo Bole - Moushumi Bhoumik
 * Nilanjana 4 - Nachiketa
@@ -146,8 +146,7 @@ Every object is influenced by its environment. If you know me and not know how I
 * Shaono Raate Jodi
 * Holud Pakhi
 * Aaj Eshechi Eshechi Bodhuhe - Dwijendra geeti
-
-### English Songs
+#### English Songs
 * My Heart Will Go On - Titanic
 * Summer Of 69 - Bryan Adams
 * Incomplete - Backstreet Boys
@@ -192,7 +191,8 @@ Every object is influenced by its environment. If you know me and not know how I
 * May It Be - Enya 
 * Earth Song Michael Jackson 
 
-### Hollywood Actors
+### Actors/Actresses
+#### English Actors
 * Johnny Depp
 * Morgan Freeman
 * Ian McKellen
@@ -208,8 +208,7 @@ Every object is influenced by its environment. If you know me and not know how I
 * Keanu Reeves
 * Hugh Jackman
 * Jim Carrey
-
-### Hollywood Actresses
+#### English Actresses
 * Helena Bonham Carter
 * Judi Dench
 * Keira Knightley
@@ -223,8 +222,40 @@ Every object is influenced by its environment. If you know me and not know how I
 * Eva Green
 * Halle Berry
 * Megan Fox
+#### Bengali Actors
+* Soumitra Chatterjee
+* Rabi Ghosh
+* Bhanu Bandopadhyay
+* Santosh Dutta
+* Chinmoy Roy
+* Parambrata Chatterjee
+* Paran Bandopadhyay
+* Kaushik Ganguly
+* Kharaj Mukherjee
+* Sabyasachi Chakraborty
+* Mir Afsar Ali
+#### Bengali Actresses
+* Tanuja
+* Suchitra Sen
+* Raima Sen
+* Swastika Mukherjee
+#### Hindi Actors
+* Shahid Kapoor
+* Aamir Khan
+* Ranbir Kapoor
+* Paresh Rawal
+* Rishi Kapoor
+* Imran Khan
+#### Hindi Actresses
+* Parineeti Chopra
+* Kajol
+* Deepika Padukone
+* Ileana D'Cruz
+* Katrina Kaif
+* Radhika Apte
 
-### Hollywood Movies
+### Movies
+#### English
 * Lord of the Rings
 * Pirates of the Carribean
 * I-Robot
@@ -238,8 +269,45 @@ Every object is influenced by its environment. If you know me and not know how I
 * Narnia
 * Alice in Wonderland
 * Avengers
+* Les Misérables
+* Sweeney Todd: The Demon Barber of Fleet Street
+* The Hateful Eight
+* Murder on the Orient Express
+#### Bengali
+* Goopy Gynen Bagha Byne
+* Feluda
+* Basanta Bilap
+* Raja Saja
+* Deya Neya
+* Mouchak
+* Bhooter Bhobityot
+* Patalghor
+#### Hindi
+* 3 Idiots
+* OMG - Oh My God!
+* PK
+* Barfi!
+* Jab We Met
+* Phata Poster Nikhla Hero
+* Shaandaar
+* Namastey London
+* Jagga Jasoos
+* Zindagi Na Milegi Dobara
+* Ajab Prem Ki Ghazab Kahani
+* Delhi Belly
+* Jaane Tu... Ya Jaane Na
+* Mere Brother Ki Dulhan
+* Break Ke Baad
+* Hasee Toh Phasee
+* Meri Pyaari Bindu
+* Shuddh Desi Romance
+* Hawaizaada
+* Vaah! Life Ho Toh Aisi!
+* Munna Bhai M.B.B.S.
+* Hera Pheri
 
 ### TV Series
+#### English
 * Fringe
 * Game of Thrones
 * Sherlock

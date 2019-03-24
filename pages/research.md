@@ -21,7 +21,7 @@ permalink: "/research/"
 
 
 
-<div class="medium-12 medium-pull-0 columns" markdown="1">
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 ## Current research interests
 

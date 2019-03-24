@@ -23,10 +23,10 @@ I really like the Socrates way of a conversation or debate. So let me present wh
 
 
 
-<div class="medium-12 medium-pull-0 columns" markdown="1">
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 
-## God and Mayonnaise
+### God and Mayonnaise
 
 T: What are your views about god?
 
@@ -107,13 +107,13 @@ T: So does god exist?
 
 A: I submit, the problem of god existing is not provable; just like the existence of infinity. No one has seen or experience infinity. It is not necessary, at the same time; knowing its capability and limitation is. Since it is not provable, discussing its real existence is beyond my scope.
 
-## Teleological argument and the Problem of Evil
+### Teleological argument and the Problem of Evil
 
 (... in progress)
 
-## Sanatan dharma and Carvaka epistemology
+### Sanatan dharma and Carvaka epistemology
 
-### Nasadiya Sukta
+#### Nasadiya Sukta
 
 Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
 ```
@@ -133,7 +133,7 @@ These verses corroborate both a sense of freedom of thought as well as a limit o
 While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
 Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a subset (or even an extension) from the established canon existing today.
 
-### Why I am a Hindu
+#### Why I am a Hindu
 
 *a book that strikes the right chords but skips a few beats*
 
@@ -162,9 +162,9 @@ Things I wish were there
 * Chanakya's neeti and merging some religious ideals into politics for the sake of better politics
 * More discussions on the other sects (besides Daiva, Adaivtva and Charvaka)
 
-Things I wish wasn't there
+Things I wish weren't there
 * The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two. 
 
-### Translating 'Dharma'
+#### Translating 'Dharma'
 
 (... in progress)
