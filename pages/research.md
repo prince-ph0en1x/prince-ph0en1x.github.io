@@ -9,6 +9,16 @@ header:
 permalink: "/research/"
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136827293-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136827293-1');
+</script>
+
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
