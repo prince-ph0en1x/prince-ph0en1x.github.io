@@ -16,6 +16,11 @@
 - title: Musings
   url: "/musings/"
   side: left
+  dropdown:
+  - title: "My Dharma"
+    url: "/musings/my-dharma/"
+  - title: "Blog Battles"
+    url: "/musings/bb/"
 
 - title: Creō
   url: "/creative-corner/"

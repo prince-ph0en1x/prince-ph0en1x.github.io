@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aritificial General Intelligence"
+title: "Artificial General Intelligence"
 meta_title: ""
 subheadline: ""
 teaser: "can we codify it?"
