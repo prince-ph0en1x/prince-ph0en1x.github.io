@@ -26,7 +26,7 @@ I really like the Socrates way of a conversation or debate. So let me present wh
 <div class="medium-12 medium-pull-0 columns" markdown="1">
 
 
-# God and Mayonnaise
+## God and Mayonnaise
 
 T: What are your views about god?
 
@@ -107,11 +107,13 @@ T: So does god exist?
 
 A: I submit, the problem of god existing is not provable; just like the existence of infinity. No one has seen or experience infinity. It is not necessary, at the same time; knowing its capability and limitation is. Since it is not provable, discussing its real existence is beyond my scope.
 
-# Teleological argument and the Problem of Evil
+## Teleological argument and the Problem of Evil
 
 (... in progress)
 
-# Sanatan dharma and Carvaka epistemology
+## Sanatan dharma and Carvaka epistemology
+
+### Nasadiya Sukta
 
 Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
 ```
@@ -126,6 +128,43 @@ the creator, who surveys it all from highest heaven,
 he knows — or maybe even he does not know.
 ```
 
-Here let me first review Shashi Tharoor's book, Why I am a Hindu? and later I will elucidate while I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. Hinduism).
+These verses corroborate both a sense of freedom of thought as well as a limit on human thought itself. It is a win-win strategy; allowing hinduism to ever evolve with the changing morals and scientific understanding of the physical world, at the same time, allowing its followers to participate in this change without a strict bound on what is subjectable to questioning.
+
+While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
+Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a subset (or even an extension) from the established canon existing today.
+
+### Why I am a Hindu
+
+*a book that strikes the right chords but skips a few beats*
+
+Here let me first briefly review Shashi Tharoor's book, [Why I Am a Hindu](https://www.amazon.in/Why-Hindu-Dr-Shashi-Tharoor/dp/9386021102/), which is the one book I would recommend to an English reader to get you started with understanding India and its ancient culture.
+
+Things I appreciated
+* Hinduism is different; difficult to draw correspondences with sematic faiths; the idea of acceptance and mutual respect
+* Plural vs secular
+* Everything is subject to interpretation and questioning
+* Sacred texts and gurus are guides to self-realization - need not be the ultimate truth
+* Summary of hindu tenets - karma, moksha, etc.
+* A good balance between nice vocabulary and simple language to drive home the idea
+* Some fun parts - temple weighing; ganesha stories
+* Personal life story - father praying
+* Discussion on caste and reservation
+
+Things I want to question
+* Schoolboy atheism troubled by the limits of rationality - there are limits to science and technology as well as formal reasoning - that doesn't call for a divine figure - calls for a never-ending strive to understand the unknown
+* If hinduism is a lived faith - how does one segregate a social practice from the tenets of the religion - e.g. sati, caste
+* Does hinduism accepting jainism, sikh and buddhism make them the mother faith - the other side of the story
+
+Things I wish were there
+* Sufism
+* Other old religions and pagans comparison (esp., hellanic and egyptian) - their polytheism
+* The geographic factor of the himalayas that helped hinduism to flourish unchallenged - trade and war-hammers requires different streets
+* Chanakya's neeti and merging some religious ideals into politics for the sake of better politics
+* More discussions on the other sects (besides Daiva, Adaivtva and Charvaka)
+
+Things I wish wasn't there
+* The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two. 
+
+### Translating 'Dharma'
 
 (... in progress)
