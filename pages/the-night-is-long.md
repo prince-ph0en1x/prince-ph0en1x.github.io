@@ -20,7 +20,7 @@ Like a tea tray in the sky.
 
 My first two poems, [We shall meet again](http://aritrasarkar.com/creative-corner/the-night-is-long/#we-shall-meet-again) and [Crossroads of Peace](http://aritrasarkar.com/creative-corner/the-night-is-long/#crossroad-of-peace) were written before I left for my college, vividly painting the hurricane of sensations. During my times at college, I had questioned myself over and over again - why am I doing this? Is the pain worth it? How long before I return back home? [Déjà vu](http://aritrasarkar.com/creative-corner/the-night-is-long/#dj-vu), [The day I became someone](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-day-i-became-someone), [As night falls](http://aritrasarkar.com/creative-corner/the-night-is-long/#as-night-falls), [Time thou heal](http://aritrasarkar.com/creative-corner/the-night-is-long/#time-thou-heal), [Breathless](http://aritrasarkar.com/creative-corner/the-night-is-long/#breathless), [Pages from the Owl's Diary](http://aritrasarkar.com/creative-corner/the-night-is-long/#pages-from-the-owls-diary) bear testimony to those brooding moments. This indeed gives the title of the collection - **The Night is Long**.
 
-Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
+Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great Bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
 
 <div class="row">
 <div class="medium-8 medium-push-2 columns" markdown="1">
@@ -199,7 +199,7 @@ It was then he took me up,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And held me hand by hand.  
 A refreshing bath, in the near blue tub,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My spirits refilled up again.  
-The paper I toughed, and his thoughts flowed,  
+The paper I touched, and his thoughts flowed,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I, his humble servant.  
 The silent prayer, the golden emote,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Three little words, scribbled then.  
@@ -563,6 +563,8 @@ Run fast and make me free.
 
 ### To the shore
 
+*A translation of Bhoomi's song Kande Sudhu Mon*
+
 Why my mind cries?  
 Only cries...  
 When the golden and silver lights,  
@@ -599,6 +601,8 @@ Like a weevil-eaten oar,
 Crushed and destroyed each day.
 
 ### Said Krishna
+
+*It is often we quote and paraphrase ancient wisdom to suit our needs. This is a satirical take on that.*
 
 Said Krishna, Lord of Heaven and Earth -  
   
@@ -821,6 +825,8 @@ And a place to dig his grave, in the Kingdom of the winning King.
 
 ### Atheist
 
+*Inspired by a paragraph from Dan Brown's Angels and Demons. I am an [atheist](http://aritrasarkar.com/musings/my-dharma/) myself.*
+
 Tell me the truth,  
 (in the name of God)...  
 have you seen It, ever?  
@@ -971,6 +977,8 @@ along those...
 
 ### Bridge to Humanity
 
+*Written in fulmination over the [Kolkata flyover collapse](https://en.wikipedia.org/wiki/Kolkata_flyover_collapse) when political blame game overshadowed basic humanity.*
+
 How did the foundations plummet?  
 Whose fault was it?  
 Was it an act of a benevolent God?  
@@ -1008,6 +1016,8 @@ Stopped the light.... stopped the tear....
 
 ### Lost
 
+*A accompanying poem of a photograph taken by Rupsa of [Pakhi Pahar](http://www.theweekendleader.com/Culture/2719/sculpting-a-hill.html)*
+
 This ecstatic mountain,  
 On the edge of the World,  
 Shall mend what's broken,  
@@ -1027,6 +1037,8 @@ But I say, the World's still the same...
 There's just less in it.
 
 ### Scratch of friendship
+
+*In reminiscence of February 22nd, Krishna and my friendaversary.*
 
 Behold! Behold, a score and two,   
 of the slimmest month in the queue,  
@@ -1066,6 +1078,8 @@ looking over the rims...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...thinking how were the days before?
 
 ### Kaleidoscope
+
+*Inspired by Pablo Neruda's Book of Questions. It questions the established conventions we take for granted. The poem ends with a reference to Schrödinger's cat from a reversed point of view of quantum measurement.*
 
 Why is the good called good, not bad?  
 Why doesn't the stairs go up to hell?  
@@ -1119,6 +1133,8 @@ Traveller, what dreams do you dream?
 
 ### Muse of the blank canvas 
 
+*14 lines, 14 letters per line. A blank canvas reminiscing of the painting she would be in the future.*
+
 A painting there...  
 hung alone, blank.  
 To it yet, colours  
@@ -1136,46 +1152,48 @@ hung alone, blank...
 
 ### Showers
 
-On such a rainy day,
-I was staring straight through the window,
-Looking over the trickling drops on the moistened pane,
-The walls of blur caged my vision
-I stood by the oriel floating away,
-To the muddy field,
-The screams of joy of childhood days,
-Sailing a paper boat,
-On the pond to its brim.
-As showers of blessing pour in bounty,
-The World outside looks too hazy,
-I close my eyes in peace, in faith,
-And dream away...in divine grace.
+On such a rainy day,  
+I was staring straight through the window,  
+Looking over the trickling drops on the moistened pane,  
+The walls of blur caged my vision  
+I stood by the oriel floating away,  
+To the muddy field,  
+The screams of joy of childhood days,  
+Sailing a paper boat,  
+On the pond to its brim.  
+As showers of blessing pour in bounty,  
+The World outside looks too hazy,  
+I close my eyes in peace, in faith,  
+And dream away...in divine grace.  
 
 ### Ahead
 
-Walk, walk, walk ahead...
-Though running is more fun,
-For you are now an year older,
-Than the girl in yesterday's picture.
+*Written on Rupsa's birthday*
 
-Walk, walk, walk ahead...
-For everyone cannot run,
-Take that old man with you,
-And the toddler while you steer.
+Walk, walk, walk ahead...  
+Though running is more fun,  
+For you are now an year older,  
+Than the girl in yesterday's picture.  
 
-Walk, walk, walk ahead...
-But do look back once a while,
-As memories are built with each footstep,
-All the places you have been.
+Walk, walk, walk ahead...  
+For everyone cannot run,  
+Take that old man with you,  
+And the toddler while you steer.  
 
-Walk, walk, walk ahead...
-Enjoy the sunrise and sunset,
-Life's tiny bit of joys and sorrows,
-The beauty embedded within.
+Walk, walk, walk ahead...  
+But do look back once a while,  
+As memories are built with each footstep,  
+All the places you have been.  
 
-Walk, walk, walk ahead...
-May the wind be with you,
-Walk ahead hand in hand,
-Taking me with you ;)
+Walk, walk, walk ahead...  
+Enjoy the sunrise and sunset,  
+Life's tiny bit of joys and sorrows,  
+The beauty embedded within.  
+
+Walk, walk, walk ahead...  
+May the wind be with you,  
+Walk ahead hand in hand,  
+Taking me with you ;)  
 
 ### To be added
 #### Legion 
