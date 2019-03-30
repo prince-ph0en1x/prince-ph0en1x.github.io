@@ -20,15 +20,15 @@ Like a tea tray in the sky.
 
 My first two poems, [We shall meet again](http://aritrasarkar.com/creative-corner/the-night-is-long/#we-shall-meet-again) and [Crossroads of Peace](http://aritrasarkar.com/creative-corner/the-night-is-long/#crossroad-of-peace) were written before I left for my college, vividly painting the hurricane of sensations. During my times at college, I had questioned myself over and over again - why am I doing this? Is the pain worth it? How long before I return back home? [Déjà vu](http://aritrasarkar.com/creative-corner/the-night-is-long/#dj-vu), [The day I became someone](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-day-i-became-someone), [As night falls](http://aritrasarkar.com/creative-corner/the-night-is-long/#as-night-falls), [Time thou heal](http://aritrasarkar.com/creative-corner/the-night-is-long/#time-thou-heal), [Breathless](http://aritrasarkar.com/creative-corner/the-night-is-long/#breathless), [Pages from the Owl's Diary](http://aritrasarkar.com/creative-corner/the-night-is-long/#pages-from-the-owls-diary) bear testimony to those brooding moments. This indeed gives the title of the collection - **The Night is Long**.
 
-Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great Bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
+Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great Bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. 
 
 ## The Night Is Long
   
-  
+I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me....  
+
 <div class="row">
 <div class="medium-8 medium-push-2 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Contents**
 {: #toc }
 *  TOC
 {:toc}
@@ -195,6 +195,8 @@ The controller, of all your beings.
 I am You and You are Me;  
 And together, we are Arshia - the Heavenly.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The Secret
 
 The scent of old paper - the thoughts, in his mind;  
@@ -219,6 +221,8 @@ The scent of old paper - the thoughts, in his mind;
 The ink-pot - the mahogany table, he writes on;  
 The open window - the cold breeze, blowing by;  
 The overcast sky - the cloudy mood, and the letter of my Lord...
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Déjà vu
 
@@ -249,6 +253,8 @@ Hope is the friend, you remind us of,
 Golden moments, come back I pray,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes, I will", is all you would say.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Dark Paradise
 
 My hands stretched out to the void,  
@@ -270,6 +276,8 @@ What mystery of Elysian have I stepped on?
 The darkness reveals, but my friends,  
 Then a voice speaks up -  
 "My child, I am within".
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### The day I became someone
 
@@ -294,6 +302,8 @@ Do we need to change at every crossroads, again and again?
 Just be as you are, you are only One -  
 You are someone, not anyone among everyone.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### As night falls
 
 As night falls; the day ends,  
@@ -312,6 +322,8 @@ The eternal hug; the feeling of belonging,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still to wait, before it's felt.  
 The work to be finished; the target hit,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For which the bow, I have drawn.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Inertial minds
 
@@ -352,6 +364,8 @@ We would ne'r lag behind the crew.
 We would lead the World in the days to come,  
 Heritage and Advances, would go all along.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The Thinker
 
 The spring's dawn, the cuckoo call,  
@@ -379,6 +393,8 @@ The past, the future - the forgotten present;
 Thoughts random, do come and die,  
 The storm, the zephyr, quite again.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Blackboard
 
 Cometh knowledge onto thee,  
@@ -404,6 +420,8 @@ Professors and artists, lessons and activities,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flow all to you, through me.  
 I am the board, black inside out,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bearer of all these fame.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Death Lane
 
@@ -431,6 +449,8 @@ Must they end, the life, the man,
 The cockroach, the rat, the kite and all - the creatures of the night,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Watch and bow their heads in 'hail' -  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the King of the Death Lane.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Shortened My Skills?
 
@@ -461,6 +481,8 @@ Yet skipping the vowels,
 Hebrew may it be, or Greek!  
 The reader reads and gets,  
 Every bit of it!   
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### String Theory!
 
@@ -499,6 +521,8 @@ Strings and thread,
 Dancing to the tune,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mother Nature's sound.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Time thou heal
 
 There was a time,  
@@ -531,6 +555,8 @@ Dilute a fear,
 Time thou art,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a healer above rest.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The butterfly
 
 To the blue horizon with glee, I flutter.  
@@ -544,6 +570,8 @@ Spraying paint over the city's heart and veins.
   
 Time's calling me to change it all.  
 The poetry of summer, winter and fall.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Breathless
 
@@ -567,6 +595,8 @@ Faster faster, hours run.
 Faster still, I pray thee.  
 Hands and legs of the clock,  
 Run fast and make me free.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### To the shore
 
@@ -607,6 +637,8 @@ Dreams of man,
 Like a weevil-eaten oar,  
 Crushed and destroyed each day.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Said Krishna
 
 *It is often we quote and paraphrase ancient wisdom to suit our needs. This is a satirical take on that.*
@@ -629,6 +661,8 @@ Head and heart not so dear,
 Use your muscles against your fear.  
   
 And thus followed our politicians!
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Spheres of Brain and Earth
 
@@ -658,6 +692,8 @@ destroys when on top.'
 Our palaces our dreams shall come true,
 if Nature shall bleed dearly too,  
 this the Sphere quietly knew.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Pages from the Owl's Diary
 
@@ -700,6 +736,8 @@ As in his notebook this scribbled hard, dampens through the night,
 The calls of joy, subdued to be soon, yet heralds the morning light.  
 Dried tears elated becomes, the candle lit again,  
 Closing the book, future continues, though mysteries of yin and yang.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Sonnet of Love
 
@@ -750,6 +788,8 @@ through thick and thin.
 Through thorns yet unseen..  
 ..we walk hand in hand.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Monuments of Love
 
 The monuments, castles and forts were built,  
@@ -764,6 +804,8 @@ selfish yet to share the throb.
   
 Seek we still of a love so true,  
 That space nor time fails to conjure.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Under the Spell
 
@@ -804,6 +846,8 @@ of the sterling rays,
 make me forget this grown up age,  
 still as I look upon thee, in awe.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The battle
 
 ...and then came a day, when the lights flickered,   
@@ -829,6 +873,8 @@ and burn the houses to ashes with mirth.
 Or is He the new ruler, the Kingdom to prosper, with the crown.  
 For the farmer it's all the same, for as long his green surround him.  
 And a place to dig his grave, in the Kingdom of the winning King.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Atheist
 
@@ -883,6 +929,8 @@ before the dusty history, on which termites grew,
 And rewritten they were in imagination so true,  
 allegory misinterpreted by when we knew.
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Storm
 
 And then there were too few,  
@@ -909,6 +957,8 @@ And in the darkness maunders He,
 'Unity burn in the depths of agony!  
 The peace in death after the War is won,  
 The peace in death after the War is lost...'
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Shapeshifter
 
@@ -949,6 +999,8 @@ spread the fragrance...
 It's time,  
 to shape-shift again....
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Tick
 
 have you ever heard the seconds hand?  
@@ -982,6 +1034,8 @@ and hours and years
 I wonder,  
 along those...
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Bridge to Humanity
 
 *Written in fulmination over the [Kolkata flyover collapse](https://en.wikipedia.org/wiki/Kolkata_flyover_collapse) when political blame game overshadowed basic humanity.*
@@ -1000,6 +1054,8 @@ Did the bridge of humanity,
 Take the fall too?  
 Or do the index marks matter more,  
 Than the flesh trapped mortar and stone.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Crazy Candle
 
@@ -1020,6 +1076,8 @@ With each zephyr here and there.
   
 And then a stronger gust,....  
 Stopped the light.... stopped the tear....
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Lost
 
@@ -1042,6 +1100,8 @@ Over fields that shone greener and bright...
 Time they say has made The World shrink,  
 But I say, the World's still the same...  
 There's just less in it.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Scratch of friendship
 
@@ -1084,6 +1144,8 @@ For over tea on this evening so true,
 looking over the rims...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...thinking how were the days before?
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Kaleidoscope
 
 *Inspired by Pablo Neruda's Book of Questions. It questions the established conventions we take for granted. The poem ends with a reference to Schrödinger's cat from a reversed point of view of quantum measurement.*
@@ -1107,6 +1169,8 @@ If a glimpse into the box kills the cat,
 Will it pray for us to look?  
 Do our prayers for a sight of God the same?  
 Who placed us in the box till Judgment?
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Daydreams and Dreams 
 
@@ -1138,6 +1202,8 @@ Awake to escape the higher-self within,
 confused over daydreams and dreams...  
 Traveller, what dreams do you dream?
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Muse of the blank canvas 
 
 *14 lines, 14 letters per line. A blank canvas reminiscing of the painting she would be in the future.*
@@ -1157,6 +1223,8 @@ The canvas as now,
 future - a thought,  
 hung alone, blank...
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### Showers
 
 On such a rainy day,  
@@ -1172,6 +1240,8 @@ As showers of blessing pour in bounty,
 The World outside looks too hazy,  
 I close my eyes in peace, in faith,  
 And dream away...in divine grace.  
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Ahead
 
@@ -1201,6 +1271,8 @@ Walk, walk, walk ahead...
 May the wind be with you,  
 Walk ahead hand in hand,  
 Taking me with you ;)  
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### To be added
 #### Legion 
