@@ -23,7 +23,8 @@ My first two poems, [We shall meet again](http://aritrasarkar.com/creative-corne
 Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great Bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
 
 ## The Night Is Long
-
+  
+  
 <div class="row">
 <div class="medium-8 medium-push-2 columns" markdown="1">
 <div class="panel radius" markdown="1">
@@ -95,7 +96,7 @@ The owl flew towards the sky.
 Stars shining bright, on the cold moonlit night,  
 By the window, a drop trickles down my eye.
 
-[^](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Crossroad of Peace
 
@@ -155,6 +156,8 @@ Peace may come and go,
 That is the way of life.  
 But my love for her remains,  
 Till the end of time.
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### Arshia, the Heavenly
 
