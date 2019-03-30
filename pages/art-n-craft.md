@@ -46,6 +46,12 @@ gallery:
       caption:
     - image_url: art/gallery-015.jpg
       caption:
+    - image_url: art/gallery-016.jpg
+      caption:
+    - image_url: art/gallery-017.jpg
+      caption:
+    - image_url: art/gallery-018.jpg
+      caption:
 #
 # Styling
 #
