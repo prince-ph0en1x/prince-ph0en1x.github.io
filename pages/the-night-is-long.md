@@ -38,7 +38,7 @@ Most of my initial poems were about me, - or rather, about a young boy's journey
 
 ### We shall meet again
 
-*This are the first verses I ever penned down. It paints the love story of Rupsa and me between the year 2003 to 2009. From her being the dream girl in the neighbourhood whom I am too shy to ask out, to the days 6 years later, when we are finally in a serious relationship yet, I need to leave my home city soon for my college.*
+*These are the first verses I ever penned down. It paints the love story of Rupsa and me between the year 2003 to 2009. From her being the dream girl in the neighbourhood whom I am too shy to ask out, to the days 6 years later, when we are finally in a serious relationship yet, I need to leave my home city soon for my college.*
 
 Stars shining bright, on the cold moonlit night,  
 On the lamp-post, an owl perched.  
