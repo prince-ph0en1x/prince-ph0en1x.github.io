@@ -31,10 +31,10 @@ I really like the Socrates way of a conversation or debate. So let me present wh
 T: What are your views about god?
 
 A: I don't think god is necessary. Yes, organised religion was necessary to guide people to morality. But in the current era of 
-science; god is an added burden, a deviation from Occam's razor.
+science; god is an added burden, a deviation from [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor).
 
-T: I would argue that god is Occam's razor. Believing in an omnipotent god resolves all problems. But, let's keep that aside for a 
-while and assume that god is not necessary. But so is mayonnaise. But mayonnaise exists. There are so many things that you do not believe is necessary, or do not even know that it exists - but in reality, they do exist. How does that change the reality of its existence?
+T: I would argue that god IS Occam's razor. Believing in an omnipotent god resolves all problems. But, let's keep that aside for a 
+while and assume that god is not necessary. But so is mayonnaise. But mayonnaise exists. There are so many things that you do not believe is necessary, or do not even know that they exist - but in reality, they do. How does that change the reality of its existence?
 
 A: Yes, I do not know what mayonnaise brands Americans use; that does not refute its existence. But, it is possible to totally live without mayonnaise. Removing mayonnaise from the equation of human civilization will not threaten the existence of the universe.
 
@@ -49,13 +49,13 @@ mayo is it can be sensed, experimented and physically tangibly manipulated by ot
 
 T: So is it with god. Theists agree on how they experience god.
 
-A: But so are dreams. That brings us to the dream argument. Both mayo and god generates electrical signals in the neurons. Both dream and reality do. Why is one more real and another is fiction. Dreams are real in my argument. Dreams are fragments of real thought caused by neural impulsed. They are as real as thinking of the notion of a god. Both create realistic signals. But just as we agree on dreams being just thoughts and not occurring in the physical world, so are divine miracles.
+A: But so are dreams. That brings us to the [dream argument](https://en.wikipedia.org/wiki/Dream_argument). Both mayo and god generate electrical signals in the neurons. Both dream and reality do. Why is one more real and another is fiction? Dreams are real in my argument. Dreams are fragments of real thought caused by neural impulses. They are as real as thinking of the notion of a god. Both create realistic signals. But just as we agree on dreams being just thoughts and not occurring in the physical world, so are divine miracles.
 
 T: How do you distinguish that the mayo taste is physical while the dream of mayo is not?
 
-A: Sensor fusion? In dreams, the starting sensor data is missing. We don't remember the exact sight, smell or taste; we directly experience the mayo. In reality, the low-level sensor data is also accessible. It's not always black or white - under the effect of alcohol sometimes feels like dreamy, because we start to lose reception of the sensor data.
+A: Sensor fusion? In dreams, the starting sensor data is missing. We don't remember the exact sight, smell or taste; we directly experience the mayo. In reality, the low-level sensor data is also accessible. It's not always black or white - under the effect of alcohol sometimes we feel dreamy, because we start to lose reception of the sensor data.
 
-T: So is the feelings like loneliness, boredom, fear, also fake
+T: So are the feelings like loneliness, boredom, fear, also fake?
 
 A: No they are not. They are supported by idle sensor organs, or physical activities, etc.
 
@@ -73,7 +73,7 @@ A: I am ok as long as it just affects our emotions, and; the emotions indirectly
 
 T: Why is that not necessary according to you?
 
-A: Because I can invoke the same courage without believing in the existence of a god. I do not need to equate god as a meta-emotion. God CAN be a meta-emotion; a subset of meta-emotions just like sense altering drugs; but it is not the only way. I am ok people deriving strength by believing in God. But I am not ok if they say that the Voyager is still continuing in space due to god's grace.
+A: Because I can invoke the same courage without believing in the existence of a god. I do not need to equate god as a meta-emotion. God CAN be a meta-emotion; a subset of meta-emotions just like sense altering drugs; but it is not the only way. I am ok people deriving strength by believing in God. But I am not ok if they say that the [Voyager](https://en.wikipedia.org/wiki/Voyager_program) is still continuing in space due to god's grace.
 
 T: Well, there have been multiple possibilities when the spacecraft could have failed. Say it surviving means True (T). Thus its current state is TTTT....n times.... Now, that is a 1 in $2^n$ chance, which is rare. A single False would make it fail.
 

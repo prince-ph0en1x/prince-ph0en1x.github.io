@@ -9,18 +9,18 @@ header:
 permalink: "/creative-corner/the-night-is-long/"
 ---
 
-My poetic journey began sometime in 2009. The first few years were weaved in harmony by two major chords - me leaving my hometown for college and with it my new found love for a long-distance relationship; and, my first experiences of managing myself, my ambitions, my joys, my sorrows. These emotional outbursts created enough downpour for the seeds of creativity to sprout its first greens.
+My poetic journey began sometime in 2009. The first few years were weaved in harmony by two major chords - me leaving my hometown for college and with it my new found love (for a long-distance relationship) and; my first experiences of managing myself, my ambitions, my joys, my sorrows. These emotional outbursts created enough downpour for the seeds of creativity to sprout its first greens.
 
-'Writing' for me was always a destiny awaiting spring. My maternal grandfather was a witty poet who loved to play with rhythms. I recall creating spoof versions of nursery rhymes with him. If you have read Alice in Wonderland, you would know what I am hinting at...
+'Writing' for me was always a destiny awaiting spring. My dad used to write novel in his youth. He still pens down poems and song lyrics which he sings himself. My maternal grandfather was a witty poet who loved to play with rhythms. I recall creating spoof versions of nursery rhymes with him. If you have read Alice in Wonderland, you would know what I am hinting at...
 
 Twinkle, twinkle, little bat!  
 How I wonder what you're at!  
 Up above the world you fly,  
 Like a tea tray in the sky.  
 
-My first two poems, *We shall meet again* and *Crossroads of Peace* were written before I left for my college, vividly painting the hurricane of sensations. During my times at college, I have questioned myself over and over again - why am I doing this? Is the pain worth it? How long before I return back home? *Déjà vu*, *The day I became someone*, *As night falls*, *Time thou heal*, *Breathless*, *Pages from the Owl's Diary* bears testimony to those brooding moments. This indeed gives the title of the collection - **The Night is Long**.
+My first two poems, [We shall meet again](http://aritrasarkar.com/creative-corner/the-night-is-long/#we-shall-meet-again) and [Crossroads of Peace](http://aritrasarkar.com/creative-corner/the-night-is-long/#crossroad-of-peace) were written before I left for my college, vividly painting the hurricane of sensations. During my times at college, I had questioned myself over and over again - why am I doing this? Is the pain worth it? How long before I return back home? [Déjà vu](http://aritrasarkar.com/creative-corner/the-night-is-long/#dj-vu), [The day I became someone](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-day-i-became-someone), [As night falls](http://aritrasarkar.com/creative-corner/the-night-is-long/#as-night-falls), [Time thou heal](http://aritrasarkar.com/creative-corner/the-night-is-long/#time-thou-heal), [Breathless](http://aritrasarkar.com/creative-corner/the-night-is-long/#breathless), [Pages from the Owl's Diary](http://aritrasarkar.com/creative-corner/the-night-is-long/#pages-from-the-owls-diary) bear testimony to those brooding moments. This indeed gives the title of the collection - **The Night is Long**.
 
-Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like *Inertial minds*, *Blackboard*, *Shortened My Skills?*, *String Theory!*, *Said Krishna*, *Spheres of Brain and Earth*, *Monuments of Love*, *Atheist*, *Geeks of Physics*, etc. I also concentrated on the poetic imagery in *The Secret*, *Dark Paradise*, *Under the Spell*, *Death Lane*, etc. I translated tunes of bengali folk songs in *The butterfly* and *To the shore*. Around this time, I was introduced to Rumi and Pablo Neruda. Poetry flows in the wind, and like the dandelion, hooks to you mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to wake up was *Muse of the blank canvas*. It is a 14 line 14 character sonnet - carved by the inspiration of the great bengali poet - Madhusudhan. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
+Most of my initial poems were about me, - or rather, about a young boy's journey to maturity. Soon I grew bored of playing the same chords, the synonyms and change in rhythms weren't enough to play a different tune. Eventually I started writing two different types of poems. Sarcasm has always been a part of my jovial character. No wonder it didn't take long for it to diffuse in my poems, like [Inertial minds](http://aritrasarkar.com/creative-corner/the-night-is-long/#inertial-minds), [Blackboard](http://aritrasarkar.com/creative-corner/the-night-is-long/#blackboard), [Shortened My Skills?](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills), [String Theory!](http://aritrasarkar.com/creative-corner/the-night-is-long/#string-theory), [Said Krishna](http://aritrasarkar.com/creative-corner/the-night-is-long/#said-krishna), [Spheres of Brain and Earth](http://aritrasarkar.com/creative-corner/the-night-is-long/#spheres-of-brain-and-earth), [Monuments of Love](http://aritrasarkar.com/creative-corner/the-night-is-long/#monuments-of-love), [Atheist](http://aritrasarkar.com/creative-corner/the-night-is-long/#atheist), [Geeks of Physics](http://aritrasarkar.com/creative-corner/the-night-is-long/#geeks-of-physics), etc. I also concentrated on the poetic imagery in [The Secret](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-secret), [Dark Paradise](http://aritrasarkar.com/creative-corner/the-night-is-long/#dark-paradise), [Under the Spell](http://aritrasarkar.com/creative-corner/the-night-is-long/#under-the-spell), [Death Lane](http://aritrasarkar.com/creative-corner/the-night-is-long/#death-lane), etc. I translated tunes of Bengali folk songs in [The butterfly](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-butterfly) and [To the shore](http://aritrasarkar.com/creative-corner/the-night-is-long/#to-the-shore). Around this time, I was introduced to [Rumi](https://en.wikipedia.org/wiki/Rumi) and [Pablo Neruda](https://en.wikipedia.org/wiki/Pablo_Neruda) by my dear friend, Krishna. Poetry flows in the wind, and like the dandelion, hooks to your mind while you race though your otherwise routined life. It has always been the same with me. Sometimes I end up writing 3 poems in a single flight of 3 hours, at other time there are drought for over 6 months. The poem that perhaps took all my brain cells to jingle up was [Muse of the blank canvas](http://aritrasarkar.com/creative-corner/the-night-is-long/#muse-of-the-blank-canvas). It is a 14 line 14 character sonnet - carved from the inspiration of the great bengali poet - [Madhusudhan](https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt). The preface however cannot end without thanking my English home tutor for 6 long years during my school days, Joydeep sir. It is to him that I fully owe my mastery of vocabulary. I welcome the surfers who stumbled on this page, to tune your heart in my rhythm and sing a few songs with me.... 
 
 <div class="row">
 <div class="medium-8 medium-push-2 columns" markdown="1">
@@ -37,6 +37,8 @@ Most of my initial poems were about me, - or rather, about a young boy's journey
 <div class="medium-8 medium-pull-2 columns" markdown="1">
 
 ### We shall meet again
+
+*This are the first verses I ever penned down. It paints the love story of Rupsa and me between the year 2003 to 2009. From her being the dream girl in the neighbourhood whom I am too shy to ask out, to the days 6 years later, when we are finally in a serious relationship yet, I need to leave my home city soon for my college.*
 
 Stars shining bright, on the cold moonlit night,  
 On the lamp-post, an owl perched.  
@@ -92,6 +94,8 @@ Stars shining bright, on the cold moonlit night,
 By the window, a drop trickles down my eye.
 
 ### Crossroad of Peace
+
+*I still remember scribbling this poem on a piece of paper while on my way to IIT-JEE counselling at Kharagpur. As the car was dashing past crossroads on the highway, I had long left the focus and drifted to the raging emotional mess.*
 
 On the track so perfect,  
 All was going through,  
@@ -149,6 +153,8 @@ But my love for her remains,
 Till the end of time.
 
 ### Arshia, the Heavenly
+
+*Arshia is a very special character in my life's story. My personification of a hallucinatory imaginary younger/twin sister I never had. While I love to live in the real-World, it is to this character I resort to, the crown-princess of my mind's castle, hiding my deepest secrets. Talking to Arshia is the closest to a conversation with God for me.*
 
 It was a night, a cold dark night;  
 And I was sitting under the Tree.  
