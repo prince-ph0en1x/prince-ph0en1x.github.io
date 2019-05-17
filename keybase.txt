@@ -2,16 +2,15 @@
 layout: none
 permalink: .well-known/keybase.txt
 ---
-
 ==================================================================
-http://keybase.io/aritra_sarkar
+https://keybase.io/aritra_sarkar
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://aritrasarkar.com
-  * I am aritra_sarkar (http://keybase.io/aritra_sarkar) on keybase.
-  * I have a public key with fingerprint 0DC2 804D 0A7C 109D FC21  C861 8999 3210 EDB8 67D4
+  * I am an admin of https://aritrasarkar.com
+  * I am aritra_sarkar (https://keybase.io/aritra_sarkar) on keybase.
+  * I have a public key ASDLYiDFW0slNbg2rC3W_bgiWW3zZtDJeV1vzHydJFONZAo
 
 To do so, I am signing this object:
 
@@ -19,55 +18,43 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "01012876b99aa269ca93f928887da55417cb714a979c0da54033f8d692c2b4b207da0a",
-      "fingerprint": "0dc2804d0a7c109dfc21c86189993210edb867d4",
       "host": "keybase.io",
-      "key_id": "89993210edb867d4",
-      "kid": "01012876b99aa269ca93f928887da55417cb714a979c0da54033f8d692c2b4b207da0a",
+      "kid": "0120cb6220c55b4b2535b836ac2dd6fdb822596df366d0c9795d6fcc7c9d24538d640a",
       "uid": "902fa60d286b42b189d7925f435b7819",
       "username": "aritra_sarkar"
     },
+    "merkle_root": {
+      "ctime": 1558087598,
+      "hash": "decdf38bf4ce81598a4f2e70e8d854c235928789fc672b7144824eed31cfa0e34d53adabbd2fbffa0f6cbb769f4e2a3c3c610a25ee64fae100260a7eaa72833e",
+      "hash_meta": "c31a564512c57bdef5abf9ac18abce361e31287b8aef688eab94ff6151f5bdef",
+      "seqno": 5392158
+    },
     "service": {
+      "entropy": "His1HXh6ryWgOdemCAjHRNjy",
       "hostname": "aritrasarkar.com",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1558010549,
-  "expire_in": 157680000,
-  "prev": "90c77ba23ca1668fe8a618730c2a1e158b984eb56b110eaf1fe95adc30a1fe18",
-  "seqno": 6,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558087606,
+  "expire_in": 504576000,
+  "prev": "188163222cd124a8879e7682e16b01a9d2d0d893535f4627b64ea1293fd3e070",
+  "seqno": 30,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.0
-Comment: http://keybase.io/crypto
-
-yMInAnicrZJbSBVBGMePmaaSEhWRFVjbQ4miO3udOUbQzSQp6EJgRYe5rW4nz572
-rNqpfOhimVAWRBQWBEGYFVpkREGklGVKPZwCg4rMzLDIHoLohs1aPQQ9Ni8z883v
-+8//+2buZCYHMpIujeSWfZ76wUnq6ThTFdj0fEP7Tok4LC4Fd0phPjbxrYzHvFDY
-ZlJQkoEMFGgaBCGMFQNRjFQLKRBCk2Fd14BJiQk0jExEZRHRZFW1IDOQQhWiEUUW
-mIylfMmyI+Xcjbp2xPNlGVWgrDEZmxTIiFlUARQaACKEVAXInBFomEwTiRVOzM8Q
-5giO8QLbETGxCY3Z+wf/n31XjckhWbGwITMFGkRTiPDJTKTolqbqxIQA+WCMuxFc
-yQWNXdtzcSiG3TB2pdp8SRxV25T73fXL+Qv7RRVQp1KIRF3Hc6izVZxWeF40FvSz
-vXjUx2s4Cf0WChE7wkRDRUY1d2O2E5GCQJDUs31loOtQNEDXUL7Et0dtl4dsn9BN
-A8pi+Pfw6rGyqGkSrKgUA8OAFodYvIGpylTBgAMdEgQ1TnSDANFjbAGLIx0zqspY
-LAGU/NK2RRwpaAibuFxIxuzyCPaqXC7Vdt7eND6QlBFITRnnf7RARvqkP9/vTWLC
-6MoL53r7Su6F2xqWFp1jNVW89dTlmr7KvLeJ1f31xSzr23Ce0Tm8vW7ibvzuZnfj
-AzRSOiu9OTt+t3fd68Ml8x7VLWiJdy56EG8PfwXgyMWymalzclOuZkUfGkOnXp5d
-EG5O39vW05L9dGhKtXPFrX13q/3Nsl0FpYPPju3/cj7R+urmYLgwsXx+atr1J8XN
-Jw7m5Ew7uep1Y8vH9XPn1t1om93UkXH/cfd7Z8Vw/qfWwbLNuh7oyt5THFx452Fa
-F8wjRfMymV44mT9XZh1dm95bOiO5a1q79X2gpejQmuOjmYtzuq/tcA70fd+4JTkx
-lOycfjHwY0nDvhP9/dPVpqZ6hx74CVkrR3I=
-=TsHx
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgy2IgxVtLJTW4Nqwt1v24Illt82bQyXldb8x8nSRTjWQKp3BheWxvYWTESpcCHsQgGIFjIizRJKiHnnaC4WsBqdLQ2JNTX0Yntk6hKT/T4HDEILGNIgfzEyq82dzx6KqAPbnuX+Jf5KFURazoAmv7r3EKAgHCo3NpZ8RAsPZW8+HmWgk+F/Ed0+qgwOJS61Z9g7Ie4X/3mW38VfuSIFyqLMpHal4BVc9QAfuIIWf0IEmBHeBvG1tsKSsrDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHHh2U3AjG9aWjFsKi8jKBnb0b+7Exepuk66fTZmZl3Wo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: http://keybase.io/aritra_sarkar
+View my publicly-auditable identity here: https://keybase.io/aritra_sarkar
 
 ==================================================================
