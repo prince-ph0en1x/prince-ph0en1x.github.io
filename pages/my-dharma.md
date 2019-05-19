@@ -30,10 +30,10 @@ I really like the Socrates way of a conversation or debate. So let me present wh
 
 T: What are your views about god?
 
-A: I don't think god is necessary. Yes, organised religion was necessary to guide people to morality. But in the current era of 
+A: I don't think god is necessary. Yes, organised religion was necessary to guide people to morality. But in the current era of
 science; god is an added burden, a deviation from [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor).
 
-T: I would argue that god IS Occam's razor. Believing in an omnipotent god resolves all problems. But, let's keep that aside for a 
+T: I would argue that god IS Occam's razor. Believing in an omnipotent god resolves all problems. But, let's keep that aside for a
 while and assume that god is not necessary. But so is mayonnaise. But mayonnaise exists. There are so many things that you do not believe is necessary, or do not even know that they exist - but in reality, they do. How does that change the reality of its existence?
 
 A: Yes, I do not know what mayonnaise brands Americans use; that does not refute its existence. But, it is possible to totally live without mayonnaise. Removing mayonnaise from the equation of human civilization will not threaten the existence of the universe.
@@ -44,7 +44,7 @@ A: Yes. So mayo is known by more people, validating its existence. That is what 
 
 T: At least 1 person in the World believes that god exists. Does that mean there is god?
 
-A: No. A majority believing in something or an individual believing in something does not make it real. The difference between 
+A: No. A majority believing in something or an individual believing in something does not make it real. The difference between
 mayo is it can be sensed, experimented and physically tangibly manipulated by other human beings in the same way.
 
 T: So is it with god. Theists agree on how they experience god.
@@ -163,8 +163,22 @@ Things I wish were there
 * More discussions on the other sects (besides Daiva, Adaivtva and Charvaka)
 
 Things I wish weren't there
-* The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two. 
+* The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two.
 
 #### Translating 'Dharma'
 
 (... in progress)
+
+### Views
+
+#### Omnivore
+
+#### Euthanasia
+
+#### LGBTQQIP2SAA
+
+#### Marriage
+
+#### Governance
+
+#### Space junk
