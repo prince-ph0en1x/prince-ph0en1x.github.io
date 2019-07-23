@@ -70,7 +70,7 @@ However, grand unified theory (GUT) and consciousness are not the only places wh
 
 What is more interesting as a computer scientist is to wonder, is this duality true for computability and complexity as well? For complexity, Shannon and Kolmogorov metrics converge asymptotically for true randomness. For computability, what is the difference between the state machine and the tape in the Turing Machine. For languages, what is the difference between syntax and semantics? Why does the explaination capability of a neural network inversely proportional to it computation expressibility - is that the Godel's incompleteness theorem in action?
 
-## The Grand (Un-)unified Theory
+### The Grand (Un-)unified Theory
 
 While theoretical physicists are lamenting over the differences and compatibility of two of the most fundamental physical laws, a more birds eye view of the landscape of the universal design reveals some very important structures, that are so deeply embedded around us, we need to ask, why?
 Here I ponder over some of those structures that I find particularly interesting.

@@ -34,6 +34,7 @@ permalink: "/research/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 ### Research interests
+
 My research interests evolve over time. Some of the current core themes are:
 * Emergence - phase changes in computational complexity, gravity from quantum entanglement
 * Algorithmic Complexity - universality, expressibility, fractals, tensor networks
