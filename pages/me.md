@@ -63,120 +63,14 @@ Every object is influenced by its environment. If you know me and not know how I
 
 * **Painter/Artist**: M.C. Escher; Iman Maleki; Georgy Kurasov
 * **Musician**: Yanni; Yiruma; Shiv Kumar Sharma; Zakir Hussain; Kenny G; The Corrs; Kourosh Zolani
-* **Music**: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-6O2UKIdWWVhM28IihzifJl)
+* **Playlists**: [List](./playlists.txt)
+    * *Music*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-6O2UKIdWWVhM28IihzifJl)
+    * *English*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-6lRR_rx95wwbThcRJKMQd_)
+    * *Bengali*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-5qPhZhBqZSLUlaF2xTwMl6)
+    * *Hindi*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-7pbdqfUlGYpMzRYm1rjdKA)
 
 * **Food**: Hyderabadi mutton biriyani; Ilish bhapa; Spaghetti alfredo; Kesar pista icecream
 
-### Playlists
-#### Hindi Songs
-* Choti Si Asha - Roja
-* Yeh Jo Desh - Swades
-* Aashayen - Iqbal
-* Kal Ho Naa Hoh - Kal Ho Naa Hoh
-* Chal Diye - Amit Sana
-* Yeh Pal - Qazi & Ruprekha - Qazi & Ruprekha
-* Yaaron Chalo - Aapka Abhijit Sawant - Abhijit Sawant
-* Laare Chhoti - Ek Challis Ki Last Local
-* Tanha Dil - Shaan
-* Yaad Aayenge Yeh Pal - Indian Idol - Indian Idol 1
-* Jaana - Indian Idol - Indian Idol 1
-* Janam Janam - Aapka Abhijit Sawant - Abhijit Sawant
-* Lakshya - Lakshya
-* Kandhon Se Milte Hai - Lakshya
-* Lamha Lamha - Gangster
-* Tu Hi Mere Sab Hai - Gangster
-* Choti Choti Saharon Se - Bunty Aur Bubly
-* Chalte Chalte
-* Kabhi Alvide Naa Kehna - Kabhi Alvide Naa Kehna
-* Yeh Jo Desh - Swades
-* Pehli Nazar Mein - Race
-* Chanda Re - Eklavya
-* Piya Bole - Parineeta
-* Tumse Hi - Jab We Met
-* Chand Sifarish - Faana
-* Milo Naa Milo - Love Story 2050
-* Jiya Dharak - Kalyug
-* Jabse Tere Naina - Saawariya
-* Nile Nile Ambar
-* Dooba Dooba - Silk Route
-* Ye Hawa Kehti Hai Kya
-* Woh Pehli Baar
-* Dil Kha Rha Hai
-* Ajnabi Sheher
-* Tune Joo Na Kaha
-* Zara Sa
-* Aao Milo Chale - Jab We Met
-* Ahista
-* Jaadu Hai Nasha Hai
-* Tu Hi Re
-* Chore Aye Hum Yeh Galiyan - Maachis
-#### Bengali Songs
-* Ami Banglar Gaan Gai - Pratul Mukhopadhayay
-* Swapno Dekhbo Bole - Moushumi Bhoumik
-* Nilanjana 4 - Nachiketa
-* Na Ghore Jamuna Ami - Bhoomi
-* Tumi Asbe Bolei - Nachiketa
-* Oi Je Akasher Gai - Indranil
-* Ek Ekke Ek - Sanat Singha
-* Majhi Re - Bong Connection
-* Coffee Houser Sei Addata - Manna De
-* Purano Sei Diner Kotha
-* Chele Belar Golpo Shonar Dingulo
-* Dhitang Dhitang Bole
-* O Nadire
-* Path Harabo Bolei
-* Ami Ek Jajabor
-* Beche Thakar Gaan - Rupam Islam
-* Ami Jharer Kache Rekhe Gelam
-* Khelicho A Bisholoye - Anup Jalata
-* Ekla Chalo - Nachiketa
-* Shaono Raate Jodi
-* Holud Pakhi
-* Aaj Eshechi Eshechi Bodhuhe - Dwijendra geeti
-#### English Songs
-* My Heart Will Go On - Titanic
-* Summer Of 69 - Bryan Adams
-* Incomplete - Backstreet Boys
-* Words - Boyzone
-* Final Countdown - Europe
-* I Still - Backstreet Boys
-* Everything I Do - Bryan Adams
-* Rhythm Divine - Enrique
-* Show Me The Meaning - Backstreet Boys
-* You Are My #1 - Enrique
-* Wind Of Change
-* Coming Back To Life - Pink Floyd
-* Soldiers Of Fortune - Deep Purple
-* Whenever - Shakira
-* Sacrifice - Elton John
-* Once In Every Lifetime - Eragon - Jem
-* Right Here Waiting - Repeat Offender - Richard Marx
-* Keep Your Mind Wide Open - Bridge To Terabithia - Annasophia Robb
-* Hero - Mariah Carey
-* Just Your Imagination - Cranberries
-* Heal The World - Michael Jackson
-* Falling - Richard Marx
-* Keep Holding On - Eragon - Avril Lavinge
-* Hold You One More Time - Richard Marx
-* The Call -Narnia - Regina Spektor
-* At The Beginning - Richard Marx
-* Hazard - Richard Marx
-* From This Moment On - Shania Twain
-* Love Story - Taylor Swift
-* Seasons In The Sun - Westlife
-* Wanna Grow Old With You - Westlife
-* Queen Of My Heart - Westlife
-* You'll Be In My Heart - Phil Collins
-* It Must Have Been Love - Roxette
-* When You Say Nothing At All - Alison Krauss
-* Love Of My Life - Queen
-* The Diary Of Jane - Breaking Benjamin
-* 10,000 Promises - Backstreet Boys
-* Sound Of Silence - Simon & Garfunkle
-* Only Time - Enya
-* Sleeping Child Breaking Benjamin
-* May It Be - Enya
-* Earth Song Michael Jackson
 
 ### Actors/Actresses
 #### English Actors
