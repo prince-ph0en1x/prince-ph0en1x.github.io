@@ -63,25 +63,9 @@ Every object is influenced by its environment. If you know me and not know how I
 
 * **Painter/Artist**: M.C. Escher; Iman Maleki; Georgy Kurasov
 * **Musician**: Yanni; Yiruma; Shiv Kumar Sharma; Zakir Hussain; Kenny G; The Corrs; Kourosh Zolani
+* **Music**: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-6O2UKIdWWVhM28IihzifJl)
 
-### Painter/Artist
-* M.C. Escher
-* Iman Maleki
-* Georgy Kurasov
-
-### Musician
-* Yanni
-* Yiruma
-* Shiv Kumar Sharma
-* Zakir Hussain
-* Kenny G
-
-### Food
-* Hyderabadi mutton biriyani
-* Ilish bhapa
-* Spaghetti alfredo
-* Double cheese margherita with jalapeno and pepperoni
-* Kesar pista icecream
+* **Food**: Hyderabadi mutton biriyani; Ilish bhapa; Spaghetti alfredo; Kesar pista icecream
 
 ### Playlists
 #### Hindi Songs
