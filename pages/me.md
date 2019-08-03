@@ -35,7 +35,7 @@ doesn't quite encapsulate anything of who I am. The name hardly a shell, my curr
 
 but before that... a trip down memory lane... of each spin on the potter's wheel that shaped who I am today... an ode to every event, every person, who touched my life and moulded me.
 
-... I was born on the rainy month of July, 1991 in Purulia, West Bengal. I lived there for the best part of my life. The place infused in me the simplicity of the district folks, the love for nature as well as the laid-back attitude towards life. I began my schooling there, at Little Angels School (don't know, how I still grew up to be a cunning imp though). An year after I got admission into the Assembly of God Church School, Purulia. My parents were both doctors working at the district hospital. 
+... I was born on the rainy month of July, 1991 in Purulia, West Bengal. I lived there for the best part of my life. The place infused in me the simplicity of the district folks, the love for nature as well as the laid-back attitude towards life. I began my schooling there, at Little Angels School (don't know, how I still grew up to be a cunning imp though). An year after I got admission into the Assembly of God Church School, Purulia. My parents were both doctors working at the district hospital.
 
 When I was in class three, my parents were transferred to Kolkata. We shifted leaving behind old friends and games. I joined the Assembly of God Church, Royd Street on November, 1999. For the first few months we stayed at my maternal uncle's residence, then we shifted to our new apartment in South Kolkata. Life was monotonous at home. I was a slow friend maker, so I found a better friend in my new computer. However, I made some friends in school. Years rolled by, and I focused my attention to academics and honing my skills in art and music.
 
@@ -53,13 +53,16 @@ The second change came much more recently with social media feeds. Facebook (and
 
 I write with the hope that it would stimulate the occasional visitors to see the World with a different eye.
 
-When was the last time you stopped in your busy lives, thinking of how the World we live in looks like, sounds like, and most of all, feels like. Shackled in the clutches of our busy routine, we forget to smile at the babies wailing to get our attention. The babies inside us all. We ignore them until we are old enough to understand that we are now too old. Take a few minutes off from the tomorrow's schedule and enjoy the present. 
+When was the last time you stopped in your busy lives, thinking of how the World we live in looks like, sounds like, and most of all, feels like. Shackled in the clutches of our busy routine, we forget to smile at the babies wailing to get our attention. The babies inside us all. We ignore them until we are old enough to understand that we are now too old. Take a few minutes off from the tomorrow's schedule and enjoy the present.
 
 Do we really see the World the way it is? Or is the World the way we see it?
 
 ## My favourites
 
 Every object is influenced by its environment. If you know me and not know how I interact with my surrounding - it is just half my story. Knowing my environment is as simple as knowing my biases. And why do biases exist? That is the compressed embedding of multitudes of experiences in the past. It is really like those neural network weights, which can no longer explain the contribution of each training data in tuning a particular weight to the value it is. This section is perhaps the easiest for me to pen down (or rather type out), yet, quite probably, just going through these list can give the readers quite a clear sketch of my character.
+
+* **Painter/Artist**: M.C. Escher; Iman Maleki; Georgy Kurasov
+* **Musician**: Yanni; Yiruma; Shiv Kumar Sharma; Zakir Hussain; Kenny G; The Corrs; Kourosh Zolani
 
 ### Painter/Artist
 * M.C. Escher
@@ -77,7 +80,7 @@ Every object is influenced by its environment. If you know me and not know how I
 * Hyderabadi mutton biriyani
 * Ilish bhapa
 * Spaghetti alfredo
-* Double cheese margherita with jalapeno and pepperoni 
+* Double cheese margherita with jalapeno and pepperoni
 * Kesar pista icecream
 
 ### Playlists
@@ -119,8 +122,8 @@ Every object is influenced by its environment. If you know me and not know how I
 * Tune Joo Na Kaha
 * Zara Sa
 * Aao Milo Chale - Jab We Met
-* Ahista 
-* Jaadu Hai Nasha Hai 
+* Ahista
+* Jaadu Hai Nasha Hai
 * Tu Hi Re
 * Chore Aye Hum Yeh Galiyan - Maachis
 #### Bengali Songs
@@ -187,9 +190,9 @@ Every object is influenced by its environment. If you know me and not know how I
 * 10,000 Promises - Backstreet Boys
 * Sound Of Silence - Simon & Garfunkle
 * Only Time - Enya
-* Sleeping Child Breaking Benjamin 
-* May It Be - Enya 
-* Earth Song Michael Jackson 
+* Sleeping Child Breaking Benjamin
+* May It Be - Enya
+* Earth Song Michael Jackson
 
 ### Actors/Actresses
 #### English Actors
