@@ -36,18 +36,18 @@ permalink: "/research/"
 ### Research interests
 
 My research interests evolve over time. Some of the current core themes are:
-* Emergence - phase changes in computational complexity, gravity from quantum entanglement
-* Algorithmic Complexity - universality, expressibility, fractals, tensor networks
-* Artificial General Intelligence - recursive self-improvement, artificial life, explainable neural networks
-* Quantum Computation - quantum Hamiltonian complexity, quantum optimization, quantum learning theory
-* Soft-computing - hardness of approximate, neuro-evolution
+* *Emergence* - phase changes in computational complexity, gravity from quantum entanglement
+* *Algorithmic Complexity* - universality, expressibility, fractals, tensor networks
+* *Artificial General Intelligence* - recursive self-improvement, artificial life, explainable neural networks
+* *Quantum Computation* - quantum Hamiltonian complexity, quantum optimization, quantum learning theory
+* *Soft-computing* - hardness of approximate, neuro-evolution
 
 #### Current Projects
-* Near-term quantum optimization and learning algorithm for genomics (Ph.D. dissertation)
+* Near-term quantum optimization and learning algorithms for genomics (Ph.D. dissertation)
 * Evolutionary quines on gene expressions for recursive self-improvement systems
-* Spiking neural network based associative memory evolution for context-based navigation
+* Spiking neural network based associative memory neuro-evolution
 
-... if you are interest for a master's thesis in QCA lab on related topics, feel free to contact me.
+... Interested in a research collaboration (or master's thesis) within QCA lab on related topics? Contact me over LinkedIn or email.
 
 #### Past Projects
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
