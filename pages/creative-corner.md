@@ -3,12 +3,10 @@ layout: page
 title: "Creō"
 meta_title: ""
 subheadline: ""
-teaser: "creative corner"
+teaser: ""
 header:
    image_fullwidth: "creativecorner.jpg"
 permalink: "/creative-corner/"
 ---
 
-### The other side
-
-The two sides of the brain
+Here I curate my [poems](http://aritrasarkar.com/creative-corner/the-night-is-long/), [paintings](http://aritrasarkar.com/creative-corner/art-n-craft/), [photographs](http://aritrasarkar.com/creative-corner/photography/) and [cooking recipies](/creative-corner/photography/).
