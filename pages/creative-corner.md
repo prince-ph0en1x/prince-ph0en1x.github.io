@@ -9,4 +9,4 @@ header:
 permalink: "/creative-corner/"
 ---
 
-Here I curate my [poems](http://aritrasarkar.com/creative-corner/the-night-is-long/), [paintings](http://aritrasarkar.com/creative-corner/art-n-craft/), [photographs](http://aritrasarkar.com/creative-corner/photography/) and [cooking recipies](/creative-corner/photography/).
+Here I curate my [poems](/creative-corner/the-night-is-long/), [paintings](/creative-corner/art-n-craft/), [photographs](/creative-corner/photography/) and [cooking recipies](/creative-corner/recipes/).
