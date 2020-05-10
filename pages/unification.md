@@ -53,8 +53,10 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * Stephen Wolfram - Cellular automata types
 * David Deutsch - Constructor theory
 * Roger Penrose - Quantum mind, Penrose tilings
+* Hector Zenil - Algorithmic complexity
 * Jürgen Schmidhuber - Low complexity art, Gödel machines
 * Leonard Susskind - String theory, loop quantum gravity
+* Scott Aaronson - Quantum complexity theory
 * Ken Thompson - Regular expressions, Unix, B
 * Edward Witten - M-Theory
 
