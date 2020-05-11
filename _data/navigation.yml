@@ -21,8 +21,8 @@
   dropdown:
   - title: "My Dharma"
     url: "/musings/my-dharma/"
-  - title: "Blog Battles"
-    url: "/musings/bb/"
+  - title: "Society"
+    url: "/musings/society/"
 
 - title: Creō
   url: "/creative-corner/"

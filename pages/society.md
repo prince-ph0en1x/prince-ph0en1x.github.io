@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "bb01.jpg"
-permalink: "/musings/bb/"
+permalink: "/musings/society/"
 ---
 
 Man is a (self-proclaimed) social animal. Some more than others. I feel more comfortable associating myself with the latter group. I do not enjoy social gatherings much, interacting with strangers. I am comfortable discussing random topics with my few close friends and family. However, these random topics often include discussing perspectives on various social issues. Here, I intend to curate some of those views of mine.
