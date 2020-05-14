@@ -1282,6 +1282,31 @@ Taking me with you ;)
 
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### You stole her face
+
+*2020-05-14 in memory of* [Charu](https://charuagrawal.com/thoughts/)
+
+there was a face  
+the face of no one  
+the face that warped  
+with changing thought  
+
+there was a face  
+of love and care  
+a face that reminded me  
+of god  
+
+and then I met you  
+the no one became someone  
+etching in memory  
+her faceless face  
+
+all is lost  
+in thought in life  
+in a godless world  
+she is out of sight  
+
+
 ### *To be added*
 #### Legion 
 #### Zephyr Castle
