@@ -1306,6 +1306,36 @@ in thought in life
 in a godless world  
 she is out of sight  
 
+### The birth of hate
+
+*I don't remember hating anyone. I love spreading love. The first time I felt hated is ironically for someone whom I still love dearly. It is like inception. The subtle emotion of love getting lost forever, slowly, silently.* 
+
+Love, a diamond, at the crown jewel,  
+Of tales told over centuries  
+Sorry, anger, mistrust, pain... and their aides,  
+Not as neglected as hate.  
+
+Hate has been so base in verse,  
+That often confused with others.  
+Yet hate is rare, like pearls,  
+A dear one over multiple layers.  
+
+At its birth, left all awestruck,  
+Love and hate, siblings are.  
+Playing their loops infinitely,  
+Like a dime spinning reality.  
+
+The stories scribed by love,  
+Is wiped by hate.  
+While those of hate,  
+Is erased by love in time.  
+
+The newborn doesn't cry  
+It peacefully paints hate,  
+All over the kingdom  
+That once existed.  
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### *To be added*
 #### Legion 
