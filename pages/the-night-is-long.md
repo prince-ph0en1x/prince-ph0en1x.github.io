@@ -1306,6 +1306,8 @@ in thought in life
 in a godless world  
 she is out of sight  
 
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The birth of hate
 
 *I don't remember hating anyone. I love spreading love. The first time I felt hated is ironically for someone whom I still love dearly. It is like inception. The subtle emotion of love getting lost forever, slowly, silently.* 
@@ -1334,6 +1336,19 @@ The newborn doesn't cry
 It peacefully paints hate,  
 All over the kingdom  
 That once existed.  
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
+### Jewels and snakes
+
+*Memories can be both good and bad. It's our choice to curate only the good ones.* 
+
+Lock 'em up in a vault  
+And stow them away  
+The diamonds and venomous snakes  
+Together let them stay  
+For the snakes would die with time  
+The jewels would remain  
 
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
