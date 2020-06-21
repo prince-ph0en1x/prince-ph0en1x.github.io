@@ -10,10 +10,11 @@ header:
 permalink: "/research/emergence/"
 ---
 
+## Posts
+
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Topics**
 {: #toc }
 *  TOC
 {:toc}
@@ -26,6 +27,8 @@ permalink: "/research/emergence/"
 
 ### Pattern and Randomness
 
+(Oct 22, 2019)
+
 Everytime we talk about Emergence, there is a notion of a pattern, something that we consider favourable, that eventually comes into existence by the complex interactions and dynamics of the system in question. On the other hand, the word 'random' typically represents the opposite of 'pattern'. Or does it?
 
 I argue here, randomness is an emergent property. Say I got {H,H,H} on 3 successive coin tosses, I can interpret the coin as 100% biases. But it can also happen to be one of those 8 possibilities that showed up in this Universe, while the other 7 cases were swept under the rug of the many-World's interpretation of a measurement (albeit classical). Whether it is actually unbiased cannot be understood from a few trials unless the law of large numbers comes into play, i.e. until the prefect ideal probability distribution is at least captured in some approximation in the statistics. Randomness is a statistical parameter, making no sense for a single experiment, like the temperature of an individual atom. Often, randomness is associated with the entropy of the microstate. 3 Heads has higher order and less surprise than 2 Heads and 1 Tail. But that assumes the coin is unbiased as a prior. What if we want to understand the property of the system itself? For example, if we are looking for radio signals from extra-terrestrial life, or decodings the heiroglyphs of an ancient civilization? How would we distinguish a random signal from a non-random one? The entropy of a bitstring also deals with how much information can be communicated via it, or in the Kolmogorov sense, if it can be compressed and later decompressed with a wrapper semantic overhead. Let's assume a situation where I tell a friend that I would either send a string of 1s if the answer if yes, or a string of equal 1s and 0s if the answer is no. Assuming no noise in the channel, now, the meaning of the word random loses it's entropic context, as here, a string with 75% 1s would be more near to a random message.
@@ -34,7 +37,11 @@ Is pattern also an emergent parameter? Is it a statistical low entropy configura
 * Arguments against the 1st idea: based on how we semantically understand something, a higher entropy system can show more pattern. E.g. a program in BrainFuck printing 1s forever will have less algorithmic entropy than a program in C++ generating the Fibonacci series due to the inherent non-rationality of te golden mean; or a C++ code for 1s would have lower entropy than a BrainFuck code for golden mean; even though it should depend on the semantics of the language for the compiler, like an english sentence has lower entropy than a japanese sentence due to the higher number of japanese alphabets.
 * Arguments against the 2nd idea: if something has semantic meaning, it should be reducible to a cost function for which a pattern would give a higher score than a random input. For a program/language, it would be syntactic correctness, e.g. grammarly. But still the association to the application is missing, the same problem as with shannon information metric.
 
-### Fractals
+[*^ back to top ^*](http://aritrasarkar.com/research/emergence/#posts)
+
+### Fascination with Fractals
+
+(Oct 22, 2019)
 
 Why are fractals so ubiquitous in Nature than Euclidian geometry? What property of fractals make them so favourable for these blueprints? I like to approach this from 2 different angles.
 
@@ -44,9 +51,13 @@ This has to do with compressing. Fractals are the edge of chaos, where the syste
 
 So fractals in a way allows us to start with a vague design and then periodically tweek it with small modifications to reach the design of interest. The question remains: is that how the Universal laws emerged? Chunks of smaller and smaller sized phenomena adding higher order refinements to the evolution of the universe.
 
+[*^ back to top ^*](http://aritrasarkar.com/research/emergence/#posts)
+
 ### GUT from It
 
-Recently I was reading this article on [contructing space-time from computation](https://arxiv.org/abs/1602.06987) which opened the flood gates of correlating theories in my head.
+(Mar 27, 2019)
+
+Recently I was reading this article on [constructing space-time from computation](https://arxiv.org/abs/1602.06987) which opened the flood gates of correlating theories in my head.
 
 Before I describe my proposition, let's list down the ingredients:
 * [Plancherel's theorem](https://en.wikipedia.org/wiki/Plancherel_theorem) which states the integral of a function's squared modulus is equal to the integral of the squared modulus of its frequency spectrum.
@@ -65,3 +76,5 @@ $$ \biggl\Vert \int_0^{t_u} |f(x)|^2dx - \int_{-\infty}^\infty|f(\xi)|^2d\xi \bi
 The interpretation:
 
 Let $f(x)$ be the state of the Universe encoded as a bit string. The absolute difference between the integral of the function's squared modulus and the integral of the squared modulus of its frequency spectrum gives us the amount of new information generated by the Universe in the time duration of the integral of the function, i.e. $[0,t_u]$. This is equivalent to the work value of the bit string given by the fuel value of the string scaled by the Boltzmann constant and the temperature, following reversed Launderer's principle. The fuel value is the difference between the length of the string and the conditional Kolmogorov complexity of the bit string, given the Fourier transform of it. This transform represents the derivable physical laws given the bit pattern of the Universe.
+
+[*^ back to top ^*](http://aritrasarkar.com/research/emergence/#posts)
