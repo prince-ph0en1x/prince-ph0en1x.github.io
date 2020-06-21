@@ -9,6 +9,8 @@ header:
 permalink: "/research/quantum/"
 ---
 
+## Posts
+
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
@@ -113,6 +115,8 @@ If we design special purpose hardware to support a specific data transform, it w
 (Mar 24, 2019)
 
 There is already a [Quantum Pontiff][1], [Quantum Sheikh][2] and [Quantum Pundit][3]. Hey, I am a Hindu by birth and pundit is already taken! Also, I am so confused - am I an atheist or an agnostic. Duh! It is not about your real faith.... do I believe in a single way of doing computation, a single enterprise taking over, a single physical platform.... no! But also, when it comes to quantum, I am not an atheist like [Gil Kalai][4]. Rather the opposite. I like to dream big - even unrealistic, quixotic. And that has set me on a course through the stormy waters on my own adventure: The Ingenious Gentleman Sir Quan' Quixote of Delft.
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#Posts)
 
  [1]: http://dabacon.org/pontiff/
  [2]: https://www.quantumsheikh.com/
