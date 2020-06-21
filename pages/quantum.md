@@ -32,13 +32,13 @@ The first stop in my opinion should be the [Awesome Quantum Computing][5] GitHub
 Other good meta-resources are [Quantum Computing Report][6], [Quantum Computing Stack Exchange][7] and [Quantiki][8].
 
 Some of my recommendations for recorded talks:
-* [Quantum Machine Learning and PennyLane by Maria Schuld | QWorld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
-* [The Potential Impact of Quantum Computers on Society by Ronald de Wolf | QWorld]9https://www.youtube.com/watch?v=ych-yB9QP_A)
-* [Quantum Computing: From Qubits to Quantum Accelerators - Koen Bertels](https://www.youtube.com/watch?v=Gz5XZJ5QnlU)
-* [Q2B 2018 - Quantum Algorithms Landscape](https://www.youtube.com/watch?v=PJRatgm8sL0)
-* [WQCG Episode IX, Variational Quantum Machine Learning, 07.10.2019](https://www.youtube.com/watch?v=P52iqU50NHg)
-* [Scott Aaronson on Computational Complexity Theory and Quantum Computers](https://www.youtube.com/watch?v=0jrybODBUpA)
-* [Keynote address by Seth Lloyd](slideslive.com/38918779)
+* [Quantum Machine Learning and PennyLane by Maria Schuld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
+* [The Potential Impact of Quantum Computers on Society by Ronald de Wolf](https://www.youtube.com/watch?v=ych-yB9QP_A)
+* [Quantum Computing: From Qubits to Quantum Accelerators by Koen Bertels](https://www.youtube.com/watch?v=Gz5XZJ5QnlU)
+* [Quantum Algorithms Landscape by Adam Bouland](https://www.youtube.com/watch?v=PJRatgm8sL0)
+* [Variational Quantum Machine Learning by Jacob Biamonte](https://www.youtube.com/watch?v=P52iqU50NHg)
+* [Computational Complexity Theory and Quantum Computers by Scott Aaronson](https://www.youtube.com/watch?v=0jrybODBUpA)
+* [Quantum Quandam Quantum Futurum by Seth Lloyd](slideslive.com/38918779)
 
  [5]:[https://github.com/desireevl/awesome-quantum-computing]
  [6]:[https://quantumcomputingreport.com/]
