@@ -9,10 +9,11 @@ header:
 permalink: "/research/agi/"
 ---
 
+## Posts
+
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Topics**
 {: #toc }
 *  TOC
 {:toc}
@@ -23,7 +24,17 @@ permalink: "/research/agi/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
+### AIXI and Godel Machines
+
+(coming soon)
+
+[*^ back to top ^*](http://aritrasarkar.com/research/agi/#posts)
+
 ### AGI vs Narrow AI
+
+(coming soon)
+
+[*^ back to top ^*](http://aritrasarkar.com/research/agi/#posts)
 
 ### AGI Chatbots
 
@@ -44,7 +55,7 @@ Ok, now to the 2 aspects that are required to make these types of AI:
 1. Interface - humanoid, voice commands, etc..
 2. Intelligence - self-evolving, meta-learning, etc..
 
-(1)
+#### Interface
 
 The technological know-how of the state-of-the-art research in artificial intelligence is very close to what we might need. The knowledge is scattered in various artefacts - but the ingredients exist:
 
@@ -55,7 +66,7 @@ The technological know-how of the state-of-the-art research in artificial intell
 
 Clubbing these into a single entity would make a great interface!
 
-(2)
+#### Intelligence
 
 Now, to the brain.
 
@@ -86,3 +97,4 @@ Links:
 	2. Replika Cake-Chat https://github.com/TREE-Ind/skill-fallback-cakechat
 	3. Desktop control https://github.com/TREE-Ind/desktop-control
 
+[*^ back to top ^*](http://aritrasarkar.com/research/agi/#posts)

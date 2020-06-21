@@ -14,7 +14,6 @@ permalink: "/research/quantum/"
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Topics**
 {: #toc }
 *  TOC
 {:toc}
@@ -25,15 +24,19 @@ permalink: "/research/quantum/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-Q for Quantum; QC for Quantum Computer/Computing/Computation
+(abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
 ### Q Mythbusters
 
 (coming soon)
 
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+
 ### Career in QC - a guide for highschoolers
 
 (coming soon)
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
 ### QC Resources
 
@@ -51,6 +54,8 @@ Some of my recommendations for recorded talks:
 * [Variational Quantum Machine Learning by Jacob Biamonte](https://www.youtube.com/watch?v=P52iqU50NHg)
 * [Computational Complexity Theory and Quantum Computers by Scott Aaronson](https://www.youtube.com/watch?v=0jrybODBUpA)
 * [Quantum Quandam Quantum Futurum by Seth Lloyd](slideslive.com/38918779)
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
  [5]:[https://github.com/desireevl/awesome-quantum-computing]
  [6]:[https://quantumcomputingreport.com/]
@@ -73,6 +78,8 @@ Often access to the internal state vector and execution capabilities on HPC syst
 Available algorithmic primities, ease of expressing a logic in high-level and analytic tools like metrics and visualizations are also desirable.
 Do not worry too much about not choosing the mainstream most popular one as cross-compilers between the dominant tools will soon be a norm.
 Beware, developing 'realistic' application is difficult due to limitation in quantum computer simulation using classical logic.
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
 ### Universal Gate Set
 
@@ -110,13 +117,15 @@ Also, the matrix forms of these gates has no complex elements making them easy t
 One important point often overlooked is that by chosing to implement a general function by a universal set, we lose some performance.
 If we design special purpose hardware to support a specific data transform, it will most likely be more optimal than doing so with the blocks from a universal set, similar to how ASICs are faster than CPUs.
 
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+
 ### Quantum Quixote
 
 (Mar 24, 2019)
 
 There is already a [Quantum Pontiff][1], [Quantum Sheikh][2] and [Quantum Pundit][3]. Hey, I am a Hindu by birth and pundit is already taken! Also, I am so confused - am I an atheist or an agnostic. Duh! It is not about your real faith.... do I believe in a single way of doing computation, a single enterprise taking over, a single physical platform.... no! But also, when it comes to quantum, I am not an atheist like [Gil Kalai][4]. Rather the opposite. I like to dream big - even unrealistic, quixotic. And that has set me on a course through the stormy waters on my own adventure: The Ingenious Gentleman Sir Quan' Quixote of Delft.
 
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#Posts)
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
  [1]: http://dabacon.org/pontiff/
  [2]: https://www.quantumsheikh.com/
