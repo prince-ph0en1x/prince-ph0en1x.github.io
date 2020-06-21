@@ -106,6 +106,7 @@ Are there more such dualities?
 * the entanglement and the coherence
 * value of a field and its change at a certain position
 * spin on 2 different axis
+
 Does generalization take you only as far as indentifying 2 fundamental ideas working in a symphony? We can either call it a single coin, or we can call them two opposite faces, or acknowledge only the face facing us, or the entire set of possibilities while they/it are/is spinning.
 
 [*^ back to top ^*](http://aritrasarkar.com/research/unification/#posts)
