@@ -23,7 +23,17 @@ permalink: "/research/quantum/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-### Quantum Computing Resources
+Q for Quantum; QC for Quantum Computer/Computing/Computation
+
+### Q Mythbusters
+
+(coming soon)
+
+### Career in QC - a guide for highschoolers
+
+(coming soon)
+
+### QC Resources
 
 (Jun 21, 2020)
 
@@ -45,7 +55,7 @@ Some of my recommendations for recorded talks:
  [7]:[https://quantumcomputing.stackexchange.com/]
  [8]:[https://quantiki.org/]
 
-### Quantum Programming Languages
+### Q Programming Languages
 
 (Jun 21, 2020)
 
