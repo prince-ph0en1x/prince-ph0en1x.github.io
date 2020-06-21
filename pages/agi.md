@@ -38,6 +38,8 @@ permalink: "/research/agi/"
 
 ### AGI Chatbots
 
+(Apr 8, 2019)
+
 Who doesn't want an AI like Jarvis!
 
 Let's have a look at some of the equally or more powerful/conscious AIs in fiction:
