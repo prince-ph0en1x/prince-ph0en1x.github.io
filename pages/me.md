@@ -82,7 +82,7 @@ Every object is influenced by its environment. If you know me and not know how I
     * Bikram Ghosh
     * Vangelis
 * **Movies**
-    * *English*: Lord of the Rings; Pirates of the Carribean; I-Robot; The Matrix; Transcendence; Intersteller; Inception; Lucy; X-Men; Thor; Narnia; Alice in Wonderland; Avengers; Les Misérables; Sweeney Todd: The Demon Barber of Fleet Street; The Hateful Eight; Murder on the Orient Express
+    * *English*: Lord of the Rings; Pirates of the Carribean; I-Robot; The Matrix; Transcendence; Mr. Nobody; Intersteller; Inception; Lucy; X-Men; Thor; Narnia; Alice in Wonderland; Avengers; Les Misérables; Sweeney Todd: The Demon Barber of Fleet Street; The Hateful Eight; Murder on the Orient Express
     * *Bengali*: Goopy Gynen Bagha Byne; Feluda; Basanta Bilap; Raja Saja; Deya Neya; Mouchak; Bhooter Bhobityot; Patalghor
     * *Hindi*: 3 Idiots; OMG - Oh My God!; PK; Barfi!; Jab We Met; Phata Poster Nikhla Hero; Shaandaar; Namastey London; Jagga Jasoos; Zindagi Na Milegi Dobara; Ajab Prem Ki Ghazab Kahani; Delhi Belly; Jaane Tu... Ya Jaane Na; Mere Brother Ki Dulhan; Break Ke Baad; Hasee Toh Phasee; Meri Pyaari Bindu; Shuddh Desi Romance; Hawaizaada; Vaah! Life Ho Toh Aisi!; Munna Bhai M.B.B.S.; Hera Pheri
 * **TV Series**
