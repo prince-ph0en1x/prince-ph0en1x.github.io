@@ -43,6 +43,8 @@ From primary to secondary, and then to higher secondary. Years flew till I found
 
 ... (add IIST, ISRO, TUD)
 
+INTJ
+
 ## Why this website?
 
 Long back, in my childhood days, my parents tried to instil in me the habit of maintaining a diary. I used to receive a new diary as a New Year gift but my enthusiasm to flip through the pages lasted only as far as my interest in the occasional glossy pages of thematic illustrations in it. A week at the most - the span of my interest to pen down the eventful moments at the end of each day. The rest of the 51 weeks were usually spent in stacking other books from school on top of the diary, till it was right at the bottom of the pile by year end.

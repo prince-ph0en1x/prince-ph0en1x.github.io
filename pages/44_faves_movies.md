@@ -9,10 +9,60 @@ header:
 permalink: "/faves/movies/"
 ---
 
-* **Movies**
-    * *English*: Lord of the Rings; Pirates of the Carribean; I-Robot; The Matrix; Transcendence; Mr. Nobody; Intersteller; Inception; Lucy; X-Men; Thor; Narnia; Alice in Wonderland; Avengers; Les Misérables; Sweeney Todd: The Demon Barber of Fleet Street; The Hateful Eight; Murder on the Orient Express
-    * *Bengali*: Goopy Gynen Bagha Byne; Feluda; Basanta Bilap; Raja Saja; Deya Neya; Mouchak; Bhooter Bhobityot; Patalghor
-    * *Hindi*: 3 Idiots; OMG - Oh My God!; PK; Barfi!; Jab We Met; Phata Poster Nikhla Hero; Shaandaar; Namastey London; Jagga Jasoos; Zindagi Na Milegi Dobara; Ajab Prem Ki Ghazab Kahani; Delhi Belly; Jaane Tu... Ya Jaane Na; Mere Brother Ki Dulhan; Break Ke Baad; Hasee Toh Phasee; Meri Pyaari Bindu; Shuddh Desi Romance; Hawaizaada; Vaah! Life Ho Toh Aisi!; Munna Bhai M.B.B.S.; Hera Pheri
+* **English Movies**
+    * Lord of the Rings
+    * Pirates of the Carribean
+    * I-Robot
+    * The Matrix
+    * Transcendence
+    * Mr. Nobody
+    * Intersteller
+    * Inception
+    * Lucy
+    * X-Men
+    * Thor
+    * Narnia
+    * Alice in Wonderland
+    * Avengers
+    * Les Misérables
+    * Sweeney Todd: The Demon Barber of Fleet Street
+    * The Hateful Eight
+    * Murder on the Orient Express
+    * Spirit: Stallion of the Cimarron
+
+* **Bengali Movies** 
+    * Goopy Gynen Bagha Byne
+    * Feluda
+    * Basanta Bilap
+    * Raja Saja
+    * Deya Neya
+    * Mouchak
+    * Bhooter Bhobityot
+    * Patalghor
+
+* **Hindi Movies**
+    * 3 Idiots
+    * OMG - Oh My God!
+    * PK
+    * Barfi!
+    * Jab We Met
+    * Phata Poster Nikhla Hero
+    * Shaandaar
+    * Namastey London
+    * Jagga Jasoos
+    * Zindagi Na Milegi Dobara
+    * Ajab Prem Ki Ghazab Kahani
+    * Delhi Belly
+    * Jaane Tu... Ya Jaane Na
+    * Mere Brother Ki Dulhan
+    * Break Ke Baad
+    * Hasee Toh Phasee
+    * Meri Pyaari Bindu
+    * Shuddh Desi Romance
+    * Hawaizaada
+    * Vaah! Life Ho Toh Aisi!
+    * Munna Bhai M.B.B.S.
+    * Hera Pheri
 
 * **TV Series**
     * Westworld
@@ -23,6 +73,7 @@ permalink: "/faves/movies/"
     * Big Bang Theory
     * Rick and Morty
     * Final Space
+    * BoJack Horseman
     * Lie to me
 
 I also watch a lot of Indian comedy shows.

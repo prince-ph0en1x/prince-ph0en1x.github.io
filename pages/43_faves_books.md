@@ -15,5 +15,11 @@ These are the books I would take with me where ever I shift. They are like my ho
 * Art of War
 * Manual of the Warrior of the Light
 
+Reading list:
+* Labyrinths (by Jorge Luis Borges)
+* The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (by Sydney Padua)
+* Outgrowing God: A Beginner's Guide (by Richard Dawkins)
+
+
 
 
