@@ -119,7 +119,8 @@ Some of my recommendations for beginners:
 * [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
 * [Five Quantum Computing Misconceptions](https://www.youtube.com/watch?v=kEry1TaN4-k)
 * [The high-stakes race to make quantum computers work - Chiara Decaroli](https://www.youtube.com/watch?v=r_t96FqWE4M)
-* [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=OWJCfOvochA)
+* [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty - WIRED](https://www.youtube.com/watch?v=OWJCfOvochA)
+* [Computing a Universe Simulation](https://www.youtube.com/watch?v=0GLgZvTCbaA&)
 
 Some of my recommendations for recorded talks:
 * [Quantum Machine Learning and PennyLane by Maria Schuld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
