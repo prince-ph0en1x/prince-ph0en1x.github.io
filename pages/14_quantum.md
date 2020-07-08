@@ -33,8 +33,75 @@ permalink: "/research/quantum/"
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
 ### Career in QC - a guide for highschoolers
+ 
+The answer to the ultimate question of life, the universe, and everything might not be as simple as [42](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy#42,_or_The_Answer_to_the_Ultimate_Question_of_Life,_The_Universe,_and_Everything). Rather, a more intriguing inquiry that fascinates scientists is, can a sentient computer like the ones we find in Sci-Fi stories and movies be built? What questions can it answer once it is built? What are the [fundamental limits](https://en.wikipedia.org/wiki/Limits_of_computation) we come across while building increasingly powerful computers? 
 
-(coming soon)
+What is this cool gadget? What can you do with it? Where can you find one? How to use it? Read on.
+
+#### “…the coolest gadget…”
+
+The computer revolution has been immensely successful. From the internet explosion to [DotA playing bots](https://openai.com/projects/five/); from mobile phones to Martian rovers - it has transformed almost every aspect of human life.
+
+Unfortunately, this steam-rolling advancement of the digital age will soon face a major roadblock – the boss-fight with the fundamental laws of physics. 
+
+To explain this in brief, this huge advancement in digital applications were sanctioned by the growth of processing power, which in turn was possible due to miniaturization of the electronic circuit elements (called [Moore’s law](https://en.wikipedia.org/wiki/Moore's_law) of transistor scaling). The limit where these circuits are a single-atom-wide is within sight. You can’t manufacture it any smaller, ramifying its effect as a standstill in processing power and thereby of the thriving global economy based on upgrading computing devices.
+
+Major computing corporations (like IBM, Google, Microsoft, Intel) place their bets on a fundamentally different way of computing – quantum computing. In this paradigm, instead of being restricted by the [strange properties](https://en.wikipedia.org/wiki/Quantum_computing) that arise in the single-atom-width domain that deter making faster computers, these properties are used to perform the calculations itself. 
+
+Surprisingly, these quantum methods are theoretically much more powerful than normal (classical) computers based on binary switching logic of 0s and 1s.
+
+There’s a catch. Nature seems to hide this powerful device very well with its laws. This form of computation is only possible if these small particles (called qubits) are secluded from any outside disturbances and influences, like energy from heat and magnetic field or the programmer trying to glimpse how much of the computation has it completed.
+
+Thus, these computers are shelved in 2 floors tall refrigerators which are cooled to almost 0 kelvin (that’s colder than outer space). These literally are the ‘coolest’ computers out there!
+
+This fragility makes them very costly to build and maintain. Well, at least for now.
+
+What would you use such an immensely powerful computer for? Of course, it should be able to do everything your laptop PC can. You can play games on it if you want. But that will be like using your PC to calculate 7*13. You can as well do it on your handheld calculator at the same speed if not faster, as they are simpler, specialized to do such calculations. 
+Similarly, most of what you use your laptops for is too easy a task for a quantum computer; not worth the trouble of building such a costly gadget. Instead, a powerful gadget like that better fits the pursuit to tackle the more notorious problems that we deal with – in [mathematics, physics, chemistry, biology, economics, etc.](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing/) So hold on to your laptop for playing your favorite game just yet (or possibly for a very long time).
+
+You might always be on the lookout for the latest graphics card in the market to allow you to play the latest game. Graphics cards or GPUs (graphics processing units) are different from the generic CPUs running the OS in that they are specialized electronics (called accelerators) designed with the purpose of speeding up graphical calculations. The CPU takes the help of the GPU every time it is tasked with some heavy graphics processing.
+
+In the foreseeable future, quantum computers (QC) will be another accelerator like the GPU, to which the CPU will offload specific tasks that are beyond the league of classical computation.
+
+De-hype alert: while quantum computers are the most powerful gadget we can imagine with our current theories of computation and physics, there are many questions which remain tough (at times impossible) even for a QC – and perhaps for any computation process (e.g. predicting the next coin flip result).
+
+#### “…there is?”
+
+Why don’t scientists already use a QC to solve all the difficult problems of the world and liberate mankind?
+
+Well, the short answer is, we don’t have a good quantum computer yet. 
+
+It is a field that is [still maturing](https://dilbert.com/strip/2012-04-17) and started the engineering efforts only about a decade back. In comparison, our present computers have enjoyed a development time of over half a century.
+
+To make a perfect QC, it must be absolutely isolated from any environment, which is incredibly difficult. As a bargain, we now have Noisy-Intermediate-Scale Quantum (NISQ) devices. These are gadgets that can perform limited calculations using the secret recipe but may not be powerful enough to dethrone their classical competitors.
+
+Nevertheless, there is a group of experimentalists who are exploring the usefulness of NISQ devices. They use the quantum computing stack (check out this [infographic](https://www.tudelft.nl/en/eemcs/current/nodes/how/the-wonderful-world-of-quantum-computing/) from the [Delft University of Technology](https://www.tudelft.nl/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)) where a high-level algorithmic logic for the application gets transformed to precise electrical control pulses that are sent to the quantum computer housed in the refrigerator. Building each layer requires different expertise.
+
+#### “…can you tinker with…”
+
+The good news is, these NISQ devices are already available as cloud computing services. And you can run your calculation on them for free! IBM, Intel and D-Wave offer some of their devices for experimentation while others require paid subscriptions. 
+
+They are programmed differently though. To [tinker](https://www.scientificamerican.com/article/the-quantum-app-store-is-coming/) with them, be sure to spend some time first on the tutorials of these webpages.
+
+#### “How soon…”
+
+How long before these gadgets become computing behemoths? Scientists are optimistic. In the 10-15 year timeline, the power of QC for certain specialized tasks will reign supreme. The most promising advantage would be in optimization tasks, molecular simulations and cryptography. There are lots of work to be done to progress in this field.
+
+The timeline fits perfectly if you are a high-schooler or in your undergrad. It takes training to develop the background and intuition. It’s one thing to study counter-intuitive quantum phenomena for passing your physics examinations, it’s another thing to master wielding these incredible powerful weapons against real-world problems. 
+
+Hardware developers need to unravel how to scale up quantum computers and make them less erroneous. Training in experimental physics, micro-electronics are computer engineering is helpful. QC is costly to build in a garage. Most work in academic labs or MNCs with lots of funding, closely guarding their secret techniques of making such a device.
+
+On the other hand, many individuals and startup companies are thinking about real-world applications. The theoretical field of quantum computation is much matured, but in those days, there was no drive to test the algorithms on a real device. 
+
+The new generation of quantum programmers is more aware of the developments of quantum hardware balancing implementation feasibility with usefulness. Quantum programming demands a mix of domain knowledge (say, of the stock market for financial modeling), theoretical computer science, linear algebra and some basic quantum mechanics.
+
+The cherry on the cake is that a host of programming platforms and tutorials are freely available. So, grab your laptop and start learning the basics. [It is never too early to start!](https://thehill.com/opinion/cybersecurity/503779-do-we-need-a-quantum-generation)
+
+Back to the question: 
+
+*How soon can you tinker with the coolest gadget there is?*
+
+*You already can. Buckle-up to train in the ways of its magic. The world awaits the quantum wizard in you.*
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
