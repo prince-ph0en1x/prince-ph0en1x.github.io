@@ -67,6 +67,10 @@ My research interests evolve over time. Some of the current core themes are:
 * Self-configuring classical logic gate circuits using genetic programming in Java
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
 
+### Presentations
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis" title="Quantum algorithms for pattern matching in genomic sequences - 2018-06-22" target="_blank">Quantum algorithms for pattern matching in genomic sequences - 2018-06-22</a> </strong> from <strong><a href="https://www.slideshare.net/aritrasarkar" target="_blank">Aritra Sarkar</a></strong> </div>
+
 ### Curriculum vitae
 * [CV as pdf](../docs/Aritra_CV.pdf)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
