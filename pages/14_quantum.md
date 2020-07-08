@@ -33,7 +33,9 @@ permalink: "/research/quantum/"
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
 ### Career in QC - a guide for highschoolers
- 
+
+(Jul 8, 2020)
+
 The answer to the ultimate question of life, the universe, and everything might not be as simple as [42](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy#42,_or_The_Answer_to_the_Ultimate_Question_of_Life,_The_Universe,_and_Everything). Rather, a more intriguing inquiry that fascinates scientists is, can a sentient computer like the ones we find in Sci-Fi stories and movies be built? What questions can it answer once it is built? What are the [fundamental limits](https://en.wikipedia.org/wiki/Limits_of_computation) we come across while building increasingly powerful computers? 
 
 What is this cool gadget? What can you do with it? Where can you find one? How to use it? Read on.
@@ -107,11 +109,17 @@ Back to the question:
 
 ### QC Resources
 
-(Jun 21, 2020)
+(Created Jun 21, 2020) (Updated Jul 7, 2020)
 
 There are some great resources available over the internet.
 The first stop in my opinion should be the [Awesome Quantum Computing][5] GitHub page.
 Other good meta-resources are [Quantum Computing Report][6], [Quantum Computing Stack Exchange][7] and [Quantiki][8].
+
+Some of my recommendations for beginners:
+* [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
+* [Five Quantum Computing Misconceptions](https://www.youtube.com/watch?v=kEry1TaN4-k)
+* [The high-stakes race to make quantum computers work - Chiara Decaroli](https://www.youtube.com/watch?v=r_t96FqWE4M)
+* [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=OWJCfOvochA)
 
 Some of my recommendations for recorded talks:
 * [Quantum Machine Learning and PennyLane by Maria Schuld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
