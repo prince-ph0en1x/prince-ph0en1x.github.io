@@ -33,9 +33,8 @@ permalink: "/research/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-### Research interests
-
-My research interests evolve over time. Some of the current core themes are:
+### Research Themes
+My research interests evolve over time. Some of the current core themes are:  
 * *Emergence* - phase changes in computational complexity, gravity from quantum entanglement
 * *Algorithmic Complexity* - universality, expressibility, fractals, tensor networks
 * *Artificial General Intelligence* - recursive self-improvement, artificial life, explainable neural networks
@@ -43,11 +42,12 @@ My research interests evolve over time. Some of the current core themes are:
 * *Soft-computing* - hardness of approximate, neuro-evolution
 
 #### Current Projects
-* Near-term quantum optimization and learning algorithms for genomics (Ph.D. dissertation)
+* Quantum-accelerated estimation of algorithmic information (Ph.D. dissertation)
+* Near-term quantum optimization and learning algorithms
 * Evolutionary quines on gene expressions for recursive self-improvement systems
 * Spiking neural network based associative memory neuro-evolution
 
-... Interested in a research collaboration (or master's thesis) within QCA lab on related topics? Contact me over LinkedIn or email.
+... interested in a research collaboration (or master's thesis) within QCA lab on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
 
 #### Past Projects
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
@@ -69,11 +69,26 @@ My research interests evolve over time. Some of the current core themes are:
 
 ### Presentations
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis" title="Quantum algorithms for pattern matching in genomic sequences - 2018-06-22" target="_blank">Quantum algorithms for pattern matching in genomic sequences - 2018-06-22</a> </strong> from <strong><a href="//www.slideshare.net/aritrasarkar" target="_blank">Aritra Sarkar</a></strong> </div>
+2020-04-28: QX Simulator and quantum programming (Electronics for Quantum Computing lecture at TU Delft)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+2019-01-25: Genomics algorithms on digital NISQ accelerators (at Universitat Politècnica de València, Spain)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div>
+
+2019-01-23: HiPEAC'19 Tutorial on Quantum algorithms using QX (at València, Spain)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+2018-06-22: Quantum algorithms for pattern matching in genomic sequences (M.Sc. thesis defence at TU Delft)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> </div>
 
 ### Curriculum vitae
 * [CV as pdf](../docs/Aritra_CV.pdf)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
+* [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
 
 #### Associations
 * [Delft University of Technology](https://www.tudelft.nl/en/)
