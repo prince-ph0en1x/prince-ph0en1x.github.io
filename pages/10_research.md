@@ -68,22 +68,27 @@ My research interests evolve over time. Some of the current core themes are:
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
 
 ### Presentations
-
+The presentations are divided into 4 phases: PhD, MSc, ISRO and BTech.
+#### Nov 2018 - present
 2020-04-28: QX Simulator and quantum programming (Electronics for Quantum Computing lecture at TU Delft)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 2019-01-25: Genomics algorithms on digital NISQ accelerators (at Universitat Politècnica de València, Spain)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 2019-01-23: HiPEAC'19 Tutorial on Quantum algorithms using QX (at València, Spain)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
+#### Aug 2016 - Jun 2018
 2018-06-22: Quantum algorithms for pattern matching in genomic sequences (M.Sc. thesis defence at TU Delft)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+#### Oct 2013 - Jul 2016
+#### Aug 2009 - May 2013
 
 ### Curriculum vitae
 * [CV as pdf](../docs/Aritra_CV.pdf)
