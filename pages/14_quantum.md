@@ -63,8 +63,14 @@ To quantumly simulate that, we need a quantum computer memory of, well, 2<sup>20
 To classically simulate that, we would need (2<sup>200</sup>)<sup>200</sup> bits.
 
 Coming to the Mythbuster, this correlation in cardinality of number of basis states in 2<sup>200</sup> qubits and number of atoms in the Universe should be taken in the same spirit as [1 person's total DNA in all cells could stretch to the sun and back 61 times](https://www.kqed.org/quest/1219/a-long-and-winding-dna).
-That doesn't say much about the power of quantum computation expect just dilate your retina on the incomprehensibility of the powers of 2.
+That doesn't say much about the power of quantum computation except just dilate your retina on the incomprehensibility of the powers of 2.
 This has nothing to do with the Quantum Supremacy limit that I will discuss soon.
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+
+#### Quantum supremacy
+
+(coming soon)
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
