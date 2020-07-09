@@ -28,7 +28,43 @@ permalink: "/research/quantum/"
 
 ### Q Mythbusters
 
-(coming soon)
+#### 200 qubits can map to all the atoms in the Universe
+
+(Jul 9, 2020)
+
+Well, no.
+
+So, where does this claim come from?
+
+The basis of this is the [Eddington number](https://en.wikipedia.org/wiki/Eddington_number), estimating the number of protons in the observable universe. Of course with assumptions like all matter can be taken to be hydrogen and estimates of the number and sizes of galaxies and stars in the universe.
+
+The number of elementary particles of matter is roughly 2<sup>200</sup>. The total [information](https://www.youtube.com/watch?v=XxVlGAFX7vA) (including other informational carriers like photons, neutrinos, blackholes) still it below the 10<sup>120</sup> Bekenstein bound of our Universe's volume (more on that in a seperate post later).
+
+By the way, 2<sup>200</sup> equals ~10<sup>80</sup>. Not that it helps in wrapping our head around the trail of zeros in the decimal version.
+
+The exponent in base-2 (binary) helps when we compare computing powers.
+
+Now coming to quantum computing using qubits (yes, you can use qutrits, or qudits too), each qubit can be in a superposition of 0 or 1.
+That means, 200 qubits has 2<sup>200</sup> basis states that can be in a superpositions.
+You can encode a complex amplitude for each of those states.
+
+But what can you do with 200 qubits?
+You can encode 2<sup>200</sup> classical states and run some algorithm.
+This is indeed the power of quantum computation when you are processing classical data like in optimization or machine learning.
+Again, assuming, the algorithm design does the heavy-lifting of interfering the superpositions such that on measuring, you get the 200 bits dictated by the [Holevo's bound](https://en.wikipedia.org/wiki/Holevo%27s_theorem), corresponding to the answer (e.g. the optimal assignment).
+
+Now to physical simulation of quantum states, a.k.a. Feynman's use-cases of quantum computing.
+You can simulate 2 quantum particle's quantum degree of freedom, with, well, 2 qubits.
+Not with 2 bits.
+You would need 2<sup>2</sup> complex numbers for that.
+This is where quantum shines in molecular simulations.
+However, the 2<sup>200</sup> from the Eddington number were the number of quantum particle in the universe.
+To quantumly simulate that, we need a quantum computer memory of, well, 2<sup>200</sup> qubits.
+To classically simulate that, we would need (2<sup>200</sup>)<sup>200</sup> bits.
+
+Coming to the Mythbuster, this correlation in cardinality of number of basis states in 2<sup>200</sup> qubits and number of atoms in the Universe should be taken in the same spirit as [1 person's total DNA in all cells could stretch to the sun and back 61 times](https://www.kqed.org/quest/1219/a-long-and-winding-dna).
+That doesn't say much about the power of quantum computation expect just dilate your retina on the incomprehensibility of the powers of 2.
+This has nothing to do with the Quantum Supremacy limit that I will discuss soon.
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
