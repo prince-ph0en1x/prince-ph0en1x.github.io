@@ -23,7 +23,58 @@ Man is a (self-proclaimed) social animal. Some more than others. I feel more com
 
 ### Exams, marks and IQ
 
-* Value of standardized exams?
+* Value of standardized exams? Marks in exams/degrees vs. gaining knowledge.
+
+### Price of knowledge
+
+* Opensourcing vs. education having a cost
+
+### Clarity vs. Technicality
+
+* being clear (mathematical) vs. being easy to understand (toy examples)
+
+### Gender roles
+
+* Male vs. female ... who should pay, direction vs. maps
+
+### Modern art vs. Realism
+
+### Digital art
+
+### Meaning of life
+
+* To contribute to humanity or be happy oneself
+
+### Social media role
+
+* Can they be a source of knowledge?
+
+### PhD vs. Industry
+
+* Ethics to contribute to the world... different ways
+
+### Love vs. arranged marriages
+
+### Backpack vs Suitcase
+
+### Boundaries between countries
+
+### Vegan vs. Non-vegetarian
+
+### Being choosy with food
+
+### Adventure sport vs. couch potato
+
+* Use human being's main power - brain
+
+### Wheels vs Legs
+
+### Afterlife vs. Death
+
+### Needing inspiration vs doing what you need to
+
+* Routine vs no routine
+* Indecisive vs firm decisions
 
 ### Right and wrong
 
