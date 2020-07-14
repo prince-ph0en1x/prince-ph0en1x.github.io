@@ -90,6 +90,12 @@ The presentations are divided into 4 phases: PhD, MSc, ISRO and BTech.
 #### Oct 2013 - Jul 2016
 #### Aug 2009 - May 2013
 
+#### Presentations from QCA team
+
+Quantum Computing: From Qubits to Quantum Accelerators - Koen Bertels  
+<br>
+<iframe width="340" height="290" src="https://www.youtube.com/embed/Gz5XZJ5QnlU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Curriculum vitae
 * [CV as pdf](../docs/Aritra_CV.pdf)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
