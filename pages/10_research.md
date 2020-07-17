@@ -68,8 +68,11 @@ My research interests evolve over time. Some of the current core themes are:
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
 
 ### Presentations
-The presentations are divided into 4 phases: PhD, MSc, ISRO and BTech.
-#### Nov 2018 - present
+ 
+2020-07-14: Quantum-accelerated genomics - prospects and impacts (Quantum for Healthcare MeetUp)
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v3oOANR8TW2r1e" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 2020-04-28: QX Simulator and quantum programming (Electronics for Quantum Computing lecture at TU Delft)  
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
@@ -82,13 +85,9 @@ The presentations are divided into 4 phases: PhD, MSc, ISRO and BTech.
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-#### Aug 2016 - Jun 2018
 2018-06-22: Quantum algorithms for pattern matching in genomic sequences (M.Sc. thesis defence at TU Delft)  
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-#### Oct 2013 - Jul 2016
-#### Aug 2009 - May 2013
 
 #### Presentations from QCA team
 
