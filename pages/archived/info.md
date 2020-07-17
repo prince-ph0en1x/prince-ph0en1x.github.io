@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-<div id='commits' data-path='/'></div>
+<div id='commits' data-path='master'></div>
 <script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
 <script>
 var path = $('#commits').data('path');
