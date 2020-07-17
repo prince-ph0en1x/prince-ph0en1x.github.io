@@ -17,6 +17,7 @@ permalink: "/research/quantum/"
 {: #toc }
 *  TOC
 {:toc}
+{:toc_levels:"1"}
 </div>
 </div><!-- /.medium-4.columns -->
 
