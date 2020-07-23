@@ -4,6 +4,7 @@ title: "Favourite Quotes"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "quotes.jpg"
 permalink: "/faves/quotes/"
