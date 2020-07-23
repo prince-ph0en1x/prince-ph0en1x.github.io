@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "books.jpg"
+   image_fullwidth: "page_head/books.jpg"
 permalink: "/faves/books/"
 ---
 

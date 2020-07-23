@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "art.jpg"
+   image_fullwidth: "page_head/art.jpg"
 permalink: "/faves/art/"
 ---
 

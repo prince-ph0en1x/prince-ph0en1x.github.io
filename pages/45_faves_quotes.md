@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "quotes.jpg"
+   image_fullwidth: "page_head/quotes.jpg"
 permalink: "/faves/quotes/"
 ---
 

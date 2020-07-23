@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "food.jpg"
+   image_fullwidth: "page_head/food.jpg"
 permalink: "/faves/food/"
 ---
 

@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "music.jpg"
+   image_fullwidth: "page_head/music.jpg"
 permalink: "/faves/music/"
 ---
 

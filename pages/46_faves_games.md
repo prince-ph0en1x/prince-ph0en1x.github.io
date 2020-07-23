@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "chess.jpg"
+   image_fullwidth: "page_head/chess.jpg"
 permalink: "/faves/games/"
 ---
 

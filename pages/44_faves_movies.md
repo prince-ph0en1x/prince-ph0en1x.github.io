@@ -5,7 +5,7 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "movies.jpg"
+   image_fullwidth: "page_head/movies.jpg"
 permalink: "/faves/movies/"
 ---
 
