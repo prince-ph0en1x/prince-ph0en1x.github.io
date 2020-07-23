@@ -252,4 +252,4 @@ There is already a [Quantum Pontiff][1], [Quantum Sheikh][2] and [Quantum Pundit
  [3]: http://quantumpundit.blogspot.com/
  [4]: https://gilkalai.wordpress.com/
 
- {% include comments.html %}
+ {% include _comments.html %}
