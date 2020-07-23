@@ -30,3 +30,6 @@ permalink: "/faves/quotes/"
 * 
 
 (oogway, matrix, waking life, rumi, walter fringe, GoT, BBT, alice in wonderland, PoC, LotR, Lucy, veda, gita OmG, P.K., jacky chan monkey, sorCEres apprentice, HPotter, dan brown science, batman, MCU,  3idiots, ZNMD, )
+
+### What's your favourite quote?
+
