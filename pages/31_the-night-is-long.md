@@ -4,6 +4,7 @@ show_meta: false
 title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "poems.jpg"
 permalink: "/creative-corner/the-night-is-long/"

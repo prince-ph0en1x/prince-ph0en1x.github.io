@@ -4,6 +4,7 @@ title: "Favourite Musicians/Songs"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "page_head/music.jpg"
 permalink: "/faves/music/"

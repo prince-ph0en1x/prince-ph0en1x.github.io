@@ -6,6 +6,7 @@ layout: page
 subheadline: ""
 title: ""
 teaser: ""
+comments: true
 categories:
   -
 tags:

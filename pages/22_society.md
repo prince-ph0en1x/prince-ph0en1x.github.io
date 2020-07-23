@@ -4,6 +4,7 @@ title: "Society"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "bb01.jpg"
 permalink: "/musings/society/"

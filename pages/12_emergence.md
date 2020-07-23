@@ -5,6 +5,7 @@ mathjax: true
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "emergence.jpg"
 permalink: "/research/emergence/"

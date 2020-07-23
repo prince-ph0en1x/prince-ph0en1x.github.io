@@ -4,6 +4,7 @@ title: "Artificial General Intelligence"
 meta_title: ""
 subheadline: ""
 teaser: "can we codify it?"
+comments: true
 header:
    image_fullwidth: "agi.jpg"
 permalink: "/research/agi/"

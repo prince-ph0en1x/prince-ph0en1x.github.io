@@ -4,6 +4,7 @@ title: "Creō"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "creativecorner.jpg"
 permalink: "/creative-corner/"

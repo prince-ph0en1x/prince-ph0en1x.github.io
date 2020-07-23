@@ -4,6 +4,7 @@ title: "Musings"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "random.jpg"
 permalink: "/musings/"

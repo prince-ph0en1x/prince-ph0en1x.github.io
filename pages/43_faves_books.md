@@ -4,6 +4,7 @@ title: "Favourite Books"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "page_head/books.jpg"
 permalink: "/faves/books/"

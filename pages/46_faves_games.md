@@ -4,6 +4,7 @@ title: "Favourite Games"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "page_head/chess.jpg"
 permalink: "/faves/games/"

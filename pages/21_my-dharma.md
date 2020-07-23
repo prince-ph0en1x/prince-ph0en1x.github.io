@@ -4,6 +4,7 @@ title: "My Dharma"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "dharma03.jpg"
 permalink: "/musings/my-dharma/"

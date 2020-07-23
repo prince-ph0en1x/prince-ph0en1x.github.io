@@ -4,6 +4,7 @@ title: "Favourite Movies/Series"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "page_head/movies.jpg"
 permalink: "/faves/movies/"

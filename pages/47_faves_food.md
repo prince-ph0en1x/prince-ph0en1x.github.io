@@ -4,6 +4,7 @@ title: "Favourite Food"
 meta_title: ""
 subheadline: ""
 teaser: ""
+comments: true
 header:
    image_fullwidth: "page_head/food.jpg"
 permalink: "/faves/food/"
