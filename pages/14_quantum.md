@@ -4,6 +4,7 @@ title: "Quantum Quixote"
 meta_title: ""
 subheadline: ""
 teaser: "quivalric qomic"
+comments: true
 header:
    image_fullwidth: "qq.jpg"
 permalink: "/research/quantum/"
@@ -250,3 +251,5 @@ There is already a [Quantum Pontiff][1], [Quantum Sheikh][2] and [Quantum Pundit
  [2]: https://www.quantumsheikh.com/
  [3]: http://quantumpundit.blogspot.com/
  [4]: https://gilkalai.wordpress.com/
+
+ {% include comments.html %}
