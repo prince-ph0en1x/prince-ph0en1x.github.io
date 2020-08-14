@@ -8,6 +8,7 @@ comments: true
 header:
    image_fullwidth: "poems.jpg"
 permalink: "/creative-corner/the-night-is-long/"
+sidebar: left
 ---
 
 <p align="justify">
