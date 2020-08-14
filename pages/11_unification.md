@@ -54,19 +54,30 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 
 ...and among those who are still around
 * Gregory Chaitin - Algorithmic complexity, omega number
-* Hector Zenil - Algorithmic complexity
 * Stephen Wolfram - Cellular automata types
 * David Deutsch - Constructor theory
 * Jürgen Schmidhuber - Low complexity art, Gödel machines
-* Marcus Hutter - AIXItl
+* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - AIXItl
+* Judea Pearl - Causal model
 * Roger Penrose - Quantum mind, Penrose tilings
 * Leonard Susskind - String theory, loop quantum gravity
 * Scott Aaronson - Quantum complexity theory
-* Cristian S. Calude - Algorithmic information theory, quantum computing
+* [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory, quantum computing
 * Ken Thompson - Regular expressions, Unix, B
 * Edward Witten - M-Theory
 
 ... the list keeps growing as the horizon of my knowledge widens.
+
+Some researchers I follow closely.
+* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic complexity
+* ‪[Eray Özkural](https://scholar.google.com/citations?hl=en&user=r_-Vi64AAAAJ&view_op=list_works&sortby=pubdate) - Artificial general intelligence
+* [Alyssa Adams](https://scholar.google.com/citations?hl=en&user=KzspA6sAAAAJ&view_op=list_works&sortby=pubdate) - Evolution, Algorithmic complexity
+* [Paola Zizzi](https://arxiv.org/search/?query=Zizzi%2C+Paola&searchtype=author&abstracts=show&order=-submitted_date&size=50)
+* Chiara Marletto - Constructor theory
+* Vlatko Vedral
+* Gerard 't Hooft - Cellular automata quantum mechanics
+* Karl J. Friston - Free energy principle
+* Paul Vitányi - Algorithmic complexity
 
 [*^ back to top ^*](http://aritrasarkar.com/research/unification/#posts)
 
