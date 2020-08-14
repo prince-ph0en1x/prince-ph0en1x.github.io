@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Food"
 meta_title: ""
 subheadline: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Musings"
 meta_title: ""
 subheadline: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Games"
 meta_title: ""
 subheadline: ""

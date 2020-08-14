@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Faves"
 meta_title: ""
 subheadline: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Unification"
 mathjax: true
 meta_title: ""

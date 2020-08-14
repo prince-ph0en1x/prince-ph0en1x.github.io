@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Movies/Series"
 meta_title: ""
 subheadline: ""

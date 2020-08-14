@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Musicians/Songs"
 meta_title: ""
 subheadline: ""

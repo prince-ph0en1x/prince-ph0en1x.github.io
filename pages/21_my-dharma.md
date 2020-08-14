@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "My Dharma"
 meta_title: ""
 subheadline: ""

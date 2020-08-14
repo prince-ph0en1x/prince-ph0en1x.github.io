@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Artificial General Intelligence"
 meta_title: ""
 subheadline: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Quotes"
 meta_title: ""
 subheadline: ""

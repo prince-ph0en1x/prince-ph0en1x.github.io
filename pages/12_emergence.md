@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Emergence"
 mathjax: true
 meta_title: ""

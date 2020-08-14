@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Quantum Quixote"
 meta_title: ""
 subheadline: ""

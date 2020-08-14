@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Research"
 meta_title: "formalising thoughts"
 subheadline: ""

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Favourite Books"
 meta_title: ""
 subheadline: ""
