@@ -5,8 +5,11 @@ meta_title: "formalising thoughts"
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "research.jpg"
+header: no
+image:
+    title: research.jpg
+    caption: 
+    caption_url:
 permalink: "/research/"
 ---
 
