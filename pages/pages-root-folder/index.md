@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: random.jpg
+  image_fullwidth: ca.gif
 widget1:
   title: "Research"
   url: 'https://prince-ph0en1x.github.io/research/'
