@@ -6,7 +6,10 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "page_head/chess.jpg"
+    image: "page_head/dota.gif"
+    background-color: "#fabb00"
+    caption: Google Images
+    caption_url: https://pholder.com/dota-2
 permalink: "/faves/games/"
 ---
 
