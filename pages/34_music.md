@@ -11,13 +11,11 @@ categories:
   -
 tags:
   -
-header:
-   image_fullwidth: "page_head/music.jpg"
-#
-# Styling
-#
+header: no
 image:
- thumb:
+    title: music/m0.jpg
+    caption: 
+    caption_url:
 #
 # Metainformation & Customization
 #
