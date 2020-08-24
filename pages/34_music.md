@@ -39,14 +39,25 @@ However, my interest in vocals were dwingling. And soon, with the study pressure
 The piano at school attracted my curiosity. Specially the digital synthesizers and keyboards that used to steal the show at the talent contests. I coerced my parents to enroll me for keyboard lessons, at Banichakra, under .. . Learning the staff notation for almost half an early totally crushed my dreams. The slow learning curve of Western Classical was very different from how I imagined myself forming a musical band and performing at school events.
 After an year or so, I left Banichakra and started learning to play Bollywood songs under Shyamal da. We used to listen and play a variety of songs, Kal Ho Naa Ho, Indian Idol, Summer of 69, Backstreet Boys, Fame Gurukul, ... Most importantly, around this time I came across Yanni, who since then has remained my favourite music composer. Santorini and Keys to Imagination used to be on infinite loops whether I was awake or asleep. Metals and rap were quite popular among my friends but I still find myself very away from both this genre.
 
-![Practicing for the Talent Contest at school](~/images/music/m2.jpg)
+Photo: Practicing for the Talent Contest at school
+![m2](/images/music/m2.jpg)
 
 This is about time when I met Subhasish, one of my dearest friend at school. He had always been my hero when it comes to playing the keyboard. We did perform together at a few school events, even winning laurels. But to say the truth, I was just holding up some chords at low volume that he told me to play as a background for his notes.
 While I will always regret not having learnt piano the methodical way and falling for the trap of fame, I do forgive my shortsighted younger self. I did what I thought would maximize my happiness at that time.
 
-![The A.G.C.S. Talent Contest medal for winning the Western Band category. We performed Hole In The World by Eagles](/images/music/m3.jpg)
+Photo: The A.G.C.S. Talent Contest medal for winning the Western Band category. We performed Hole In The World by Eagles
+![m3](/images/music/m3.jpg)
 
 During my college, I performed at various college events and fests. We had a fusion music band with my friends Naveen (violin/flute), Ajit (drums), Arindam (guitar) and me on the keyboard. I also performed a few vocals in English, Hindi and Bengali in the span of 4 years. 
+
+Photo: We playing Corrs at Dhanak 2014
+![m8](/images/music/m8.jpg)
+
+Photo: For IIST Day
+![m9](/images/music/m9.jpg)
+
+Photo: For Fresher's welcome
+![m10](/images/music/m10.jpg)
 
 I briefly learnt [Santoor](https://en.wikipedia.org/wiki/Santoor) from [Chiradip Sarkar](https://www.youtube.com/user/dipsantoor/) during few college vacations. He is a dear student of [Pandit Tarun Bhattacharya](https://en.wikipedia.org/wiki/Tarun_Bhattacharya), who inturn was a student of [Pandit Ravi Shankar](https://en.wikipedia.org/wiki/Ravi_Shankar).
 Wiki: The Indian santoor instrument is a trapezoid-shaped hammered dulcimer, and a variation of the Iranian Santur. The instrument is generally made of walnut and has 25 bridges. Each bridge has 4 strings, making for a total of 100 strings. It is a traditional instrument in Jammu and Kashmir, and dates back to ancient times. It was called Shatha Tantri Veena in ancient Sanskrit texts.
@@ -55,6 +66,13 @@ Wiki: The Indian santoor instrument is a trapezoid-shaped hammered dulcimer, and
 
 During my time at Bangalore, my roommate and friend/collegue from IIST/ISRO, Arpan and I used to jam once in a while at home. He used to have an octopad. I also played and sung twice at ISRO at official events.
 
-![A jam session at Bangalore](../images/music/m5.jpg)
+Photo: A jam session at Bangalore
+![m5](/images/music/m5.jpg)
+
+Photo: For International Woman's Day function at ISAC/ISRO
+![m15](/images/music/m15.jpg)
+
+Photo: Yaadein at Vasudevamuthy Sir's farewell
+![m14](/images/music/m14.jpg)
 
 Yes, my old Rabindrasangeet skills are rusty now but I do enjoy participating in [family events](https://www.youtube.com/watch?v=iTf0PB0M2eM&t=1100s).
