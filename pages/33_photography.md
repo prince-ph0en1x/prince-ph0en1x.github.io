@@ -11,8 +11,7 @@ categories:
   -
 tags:
   -
-header:
-   image_fullwidth: "photos/gallery-005.jpg"
+header: no
 #
 # Gallery
 #

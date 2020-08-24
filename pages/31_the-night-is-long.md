@@ -5,8 +5,11 @@ title: ""
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "poems.jpg"
+header: no
+image:
+    title: page_head/poems.jpg
+    caption: 
+    caption_url:
 permalink: "/creative-corner/the-night-is-long/"
 ---
 
