@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Favourite Quotes"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
