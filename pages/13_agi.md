@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: "can we codify it?"
 comments: true
-header:
-   image_fullwidth: "agi.jpg"
+header: no
+image:
+    title: agi.jpg
+    caption: 
+    caption_url:
 permalink: "/research/agi/"
 ---
 
