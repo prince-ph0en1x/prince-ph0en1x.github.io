@@ -7,7 +7,10 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "emergence.jpg"
+    image:  "ca.gif"
+    pattern:  "page_head/bk03.jpg"
+    caption: 
+    caption_url:
 permalink: "/research/unification/"
 ---
 
