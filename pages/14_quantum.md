@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: "quivalric qomic"
 comments: true
-header:
-   image_fullwidth: "qq.jpg"
+header: no
+image:
+    title: qq.jpg
+    caption: 
+    caption_url:
 permalink: "/research/quantum/"
 ---
 
