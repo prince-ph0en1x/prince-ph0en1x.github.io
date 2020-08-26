@@ -7,7 +7,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-    image:  "ca.gif"
+    image:  "page_head/lil.gif"
     pattern:  "page_head/bk03.jpg"
     caption: 
     caption_url:
