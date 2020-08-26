@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "random.jpg"
+header: no
+image:
+    title: random.jpg
+    caption: 
+    caption_url:
 permalink: "/musings/"
 ---
 

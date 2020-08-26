@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "bb01.jpg"
+header: no
+image:
+    title: bb01.jpg
+    caption: 
+    caption_url:
 permalink: "/musings/society/"
 ---
 

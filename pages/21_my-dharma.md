@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "dharma03.jpg"
+header: no
+image:
+    title: dharma03.jpg
+    caption: 
+    caption_url:
 permalink: "/musings/my-dharma/"
 ---
 
