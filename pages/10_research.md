@@ -53,6 +53,11 @@ My research interests evolve over time. Some of the current core themes are:
 
 ... interested in a research collaboration (or master's thesis) within QCA lab on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
 
+#### Mind Map
+... of all things I live to keep myself updated about, and associated contributor to those ideas,...
+
+![mindmap](/images/research/mindmap01.svg)
+
 #### Past Projects
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
 * Quantum Innovation Environment (QuInE), a PyQT based IDE for quantum programming
