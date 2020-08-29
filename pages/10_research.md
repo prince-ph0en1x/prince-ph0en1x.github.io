@@ -56,7 +56,7 @@ My research interests evolve over time. Some of the current core themes are:
 #### Mind Map
 ... of all things I live to keep myself updated about, and associated contributor to those ideas,...
 
-![mindmap](/images/research/mindmap01.svg)
+[![Mind map](/images/research/mindmap01.svg)](/images/research/mindmap01.svg)
 
 #### Past Projects
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
