@@ -58,7 +58,7 @@ My research interests evolve over time. Some of the current core themes are:
 
 The blue boxes and their 1-hop neighbours are my core interests.
 
-[![Mind map](/images/research/mindmap012.svg)](/images/research/mindmap012.svg)
+[![Mind map](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
 
 #### Past Projects
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
