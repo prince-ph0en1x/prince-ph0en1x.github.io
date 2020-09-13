@@ -7,7 +7,7 @@ teaser: "can we codify it?"
 comments: true
 header: no
 image:
-    title: agi.jpg
+    title: "page_head/agi.jpg"
     caption: 
     caption_url:
 permalink: "/research/agi/"

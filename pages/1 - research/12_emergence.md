@@ -7,7 +7,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "emergence.jpg"
+   image_fullwidth: "page_head/emergence.jpg"
 permalink: "/research/emergence/"
 ---
 

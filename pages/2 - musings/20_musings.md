@@ -7,7 +7,7 @@ teaser: ""
 comments: true
 header: no
 image:
-    title: random.jpg
+    title: "page_head/random.jpg"
     caption: 
     caption_url:
 permalink: "/musings/"

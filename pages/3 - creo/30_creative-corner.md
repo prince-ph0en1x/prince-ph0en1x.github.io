@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "creativecorner.jpg"
+   image_fullwidth: "page_head/creativecorner.jpg"
 permalink: "/creative-corner/"
 
 widget1:

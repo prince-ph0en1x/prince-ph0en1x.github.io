@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-    image:  "dharma03.jpg"
+    image:  "page_head/dharma.jpg"
     pattern:  "page_head/bk02.jpg"
     caption: 
     caption_url:
