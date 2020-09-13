@@ -15,6 +15,18 @@ permalink: "/musings/society/"
 
 Man is a (self-proclaimed) social animal. Some more than others. I feel more comfortable associating myself with the latter group. I do not enjoy social gatherings much, interacting with strangers. I am comfortable discussing random topics with my few close friends and family. However, these random topics often include discussing perspectives on various social issues. Here, I intend to curate some of those views of mine.
 
+### Appreciating evolution of a language
+
+(Sep 14, 2020)
+
+I often face this dichotomy - flowery English or minialististic encodings. [Short Messaging Services (SMS)](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills) used to be really popular in my high-school days. It had a limit of 80 characters per SMS, with a monthly pack limiting the number of such texts. I can imagine it will be extremely difficult to imagine such a World, for kids who have grown up with WhatsApp and Facebook. Pretty much as difficult as it was for us, to imagine that, our parents waited for weeks for handwritten letters or had to rush to nearby telegram offices to send messages.
+
+Some changes that happen in human civilization are so rapid that in the larger scheme of things often whiz past and perish within the neural cavities of an isolated generation. SMS language seems to me as one of them. We invented words to represent ideas, found general rules of redundancy on English spellings (e.g. vowels don't matter), conditioned decompressing the meaning based on context - striving towards the theoretical limit of channel efficiency of information coding in the truest Shannonic sense.
+
+It taught me but one thing. Language, like society, is ever evolving. It is not a hard requirement to follow the Oxford dictionary. What matters is to *express yourself such that the information is conveyed as close to your intention as is permitted by the resources you are willing to commit*. A spelling mistake shouldn't matter much, specially if that captures a [snapshot](https://charuagrawal.com/thoughts/) in time, They are like the mutations in out genes. When enough people make them they survive, the same way that many Indian words are now enlisted in British English lexicons.
+
+On the flipside, I love linguistic artistry - synonyms, idioms, puns, etc. that adds richness and vigour to a language. The resolution indeed is similar to my alignment between science and art. The necessary and the inevitable. The explainable and the creative.
+
 ### Social media
 
 (Sep 13, 2020)
@@ -31,17 +43,61 @@ It is an amazing documentary I highly recommend to one and all - especially to t
 * What struck me most is that - noone seems to be in control. The algorithms are let out in the field, with a primitive understanding on the limited test dataset, and then they learn and evolve, become behemoths in themselves to influence civil wars and national elections! The only control we seems to have is that in a national senete of a capitalist country where the executives testify by presenting only the sugar-coated intention and not the possible dire consequences.
 * The presentation of facts are generally manipulated by our biases. At a philosophical level, that is what we always do - live in our echo chamber, looking at the world via our own lenses. Except, only here we don't get to choose our lenses, someone does it for us based on what's profitable for them. Taxing based on data obtained in not a solution, monitizing premium accounts or open-source alternatives won't have the same adoption, neither will standalone voices be loud enough to tower past the overarching greed. I have not yet reached a consensus in my mind of what's the best action for each tiny individual to emerge to a better future for mankind. Let me know your opinions :)
 
-### Appreciating evolution of a language
+### Calibrating a moral compass
 
-(Sep 14, 2020)
+(May 15, 2020)
 
-I often face this dichotomy - flowery English or minialististic encodings. [Short Messaging Services (SMS)](http://aritrasarkar.com/creative-corner/the-night-is-long/#shortened-my-skills) used to be really popular in my high-school days. It had a limit of 80 characters per SMS, with a monthly pack limiting the number of such texts. I can imagine it will be extremely difficult to imagine such a World, for kids who have grown up with WhatsApp and Facebook. Pretty much as difficult as it was for us, to imagine that, our parents waited for weeks for handwritten letters or had to rush to nearby telegram offices to send messages.
+I came across this verse on Charu's website,
 
-Some changes that happen in human civilization are so rapid that in the larger scheme of things often whiz past and perish within the neural cavities of an isolated generation. SMS language seems to me as one of them. We invented words to represent ideas, found general rules of redundancy on English spellings (e.g. vowels don't matter), conditioned decompressing the meaning based on context - striving towards the theoretical limit of channel efficiency of information coding in the truest Shannonic sense.
+"Jab laga ki humara vyavhar galat tha toh Geeta padhni shuru ki,  
+Jab laga ki usne humare saath galat kiya toh shayari likhna shuru kar di." - [Charu](https://charuagrawal.com/shayari/)
 
-It taught me but one thing. Language, like society, is ever evolving. It is not a hard requirement to follow the Oxford dictionary. What matters is to *express yourself such that the information is conveyed as close to your intention as is permitted by the resources you are willing to commit*. A spelling mistake shouldn't matter much, specially if that captures a [snapshot](https://charuagrawal.com/thoughts/) in time, They are like the mutations in out genes. When enough people make them they survive, the same way that many Indian words are now enlisted in British English lexicons.
+(Translation: When I thought my actions were wrong, I started reading the Bhagavat Gita; when I thought I was wronged, I started writing poems)
 
-On the flipside, I love linguistic artistry - synonyms, idioms, puns, etc. that adds richness and vigour to a language. The resolution indeed is similar to my alignment between science and art. The necessary and the inevitable. The explainable and the creative.
+This makes me ponder the very nature of right and wrong.
+Many philosophers have in the past wrote volumes of text on it, like Beyond Good and Evil (Friedrich Nietzsche), and the core thesis of most is morality is subjective.
+It is always relative to the person assigning the value.
+Oftentimes these values correlate well and come to be accepted as societal norms.
+Oftentimes these social norms gets codified as the law.
+But laws are amended over time, and laws are confined to the land in question.
+
+We see people like Edward Snowden or Taslima Nasrin taking refuge in foreign lands.
+We see homosexuality getting legalized.
+We see different alcohol consumption laws based on age, religion, etc.
+
+So it is not so easy to objectively define if your actions are right or wrong.
+Infact, let us divide it into 2 types: the legal distinction of right/wrong instituted by the governing authority, and that of a more personal question.
+I would categorize the morality from religous belief under the latter.
+
+It is much easier to judge our actions based on the law.
+Yes, rape is a crime - it is wrong, by all standards of the current society.
+It wasn't always like that though.
+It was a common war practice which the conquerors often used to indulge in.
+
+Not everything is governed by the law.
+There might be sugar tax at places, but noone would take you to court if you ordered that extra potato fries after jotting down on your new year's resolution of cutting down on fatty foods.
+But you would feel *guilt*.
+The first principle of breaking your own personal set of law.
+Incest for example is looked down.
+Yet, inter-family marriage is common in many places, called Maman Kalyanam (uncle niece marriage) in some communities in southern India.
+Is cheating on your partner ok?
+Is smoking cigerette secretly because your son doesn't approve of it ok?
+Is downloading from torrent ok?
+There can be many such questions that can be posed.
+
+Sometimes we do have personal double standards.
+We are ok as long as we are not at the other end.
+It is ok to cheat as long we are not cheated upon.
+This is one of the benchmark I use to set my personal law - *do as you would be done by* (the Bible).
+
+The Bhagavat Gita.
+Yes, it is a religious book - extensively discussing many model dilemma of its protagonist Arjun.
+Even though I am an atheist, I like discussions on morality.
+At the same time - it should not be taken as a gold standard.
+The hindu dharma (philosophy) allows self-improvement, redefinition of morality based on time.
+Infact, the morals of Ramayana and Mahabharat often conflict.
+It is not a question of which one is right. There is no right answer pervasive of space and time - morality is not a physical law.
+Just like quotes and poetic verses can be interpreted in many way, so can any moral omnibus.
 
 ### Price of creativity
 
@@ -101,59 +157,3 @@ On the flipside, I love linguistic artistry - synonyms, idioms, puns, etc. that 
 
 * Routine vs no routine
 * Indecisive vs firm decisions
-
-### Right and wrong
-
-I came across this verse on Charu's website,
-
-"Jab laga ki humara vyavhar galat tha toh Geeta padhni shuru ki,  
-Jab laga ki usne humare saath galat kiya toh shayari likhna shuru kar di." - [Charu](https://charuagrawal.com/shayari/)
-
-(Translation: When I thought my actions were wrong, I started reading the Bhagavat Gita; when I thought I was wronged, I started writing poems)
-
-This makes me ponder the very nature of right and wrong.
-Many philosophers have in the past wrote volumes of text on it, like Beyond Good and Evil (Friedrich Nietzsche), and the core thesis of most is morality is subjective.
-It is always relative to the person assigning the value.
-Oftentimes these values correlate well and come to be accepted as societal norms.
-Oftentimes these social norms gets codified as the law.
-But laws are amended over time, and laws are confined to the land in question.
-
-We see people like Edward Snowden or Taslima Nasrin taking refuge in foreign lands.
-We see homosexuality getting legalized.
-We see different alcohol consumption laws based on age, religion, etc.
-
-So it is not so easy to objectively define if your actions are right or wrong.
-Infact, let us divide it into 2 types: the legal distinction of right/wrong instituted by the governing authority, and that of a more personal question.
-I would categorize the morality from religous belief under the latter.
-
-It is much easier to judge our actions based on the law.
-Yes, rape is a crime - it is wrong, by all standards of the current society.
-It wasn't always like that though.
-It was a common war practice which the conquerors often used in indulge in.
-
-Not everything is governed by the law.
-There might be sugar tax at places, but noone would take you to court if you ordered that extra potato fries after jotting down on your new year's resolution of cutting down on fatty foods.
-But you would feel guilt.
-The first principle of breaking your own personal set of law.
-Incest for example is looked down.
-But is that part of the law you believe in?
-I personally would not have a double standard where a sexual relationship is right but not a formal partnership.
-Inter-family marriage is common in many places, called Maman Kalyanam (uncle niece marriage) in some communities in southern India.
-Is cheating on your partner ok?
-Is smoking cigerette secretly because your son doesn't approve of it ok?
-Is downloading from torrent ok?
-There can be many such questions that can be posed.
-
-Sometimes we do have personal double standards.
-We are ok as long as we are not at the other end.
-It is ok to cheat as long we are not cheated upon.
-This is one of the benchmark I use to set my personal law - do as you would be done by (the Bible).
-
-The Bhagavat Gita.
-Yes, it is a religious book - extensively discussing many model dilemma of its protagonist Arjun.
-Even though I am an atheist, I like discussions on morality.
-At the same time - it should not be taken as a gold standard.
-The hindu dharma (philosophy) allows self-improvement, redefinition of morality based on time.
-Infact, the morals of Ramayana and Mahabharat often conflict.
-It is not a question of which one is right, but of that there is no right answer pervasive of space and time - morality is not a physical law.
-Just like quotes and poetic verses can be interpreted in many way, so can any moral omnibus.
