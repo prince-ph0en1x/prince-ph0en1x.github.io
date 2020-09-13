@@ -7,7 +7,7 @@ teaser: ""
 comments: true
 header: no
 image:
-    title: bb01.jpg
+    title: "page_head/bb01.jpg"
     caption: 
     caption_url:
 permalink: "/musings/society/"
