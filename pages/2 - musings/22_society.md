@@ -15,6 +15,22 @@ permalink: "/musings/society/"
 
 Man is a (self-proclaimed) social animal. Some more than others. I feel more comfortable associating myself with the latter group. I do not enjoy social gatherings much, interacting with strangers. I am comfortable discussing random topics with my few close friends and family. However, these random topics often include discussing perspectives on various social issues. Here, I intend to curate some of those views of mine.
 
+### Social media
+
+(Sep 13, 2020)
+
+I watched [The Social Dilemma](https://en.wikipedia.org/wiki/The_Social_Dilemma) on Netflix today. It was captivating. Netflix's recommendation engine indeed knows my tastes.
+
+Oh wait! Ironically, it is about the impact of this very core algorithm that drives these capitalist organizations, like Facebook, Twitter, Google, Pinterest, etc. which ingests user data to serve advertisements as their core business model. In short, what success mean in this formulation? You reverse engineer the psycology of the users, personalizing their feeds to increase their view time, so that you can serve your content more adeptly.
+
+It is an amazing documentary I highly recommend to one and all - especially to the teenagers of today, who doesn't have a clue how the world was before. There are some words which kept resonating - my takeways from the show.
+
+* I have a Facebook, Twitter, Pinterest, Google, Instagram, etc. account. I love spending time on them. So don't take it personally if you find it captivating. That is the core aim of these systems. Even the very persons who ideated them finds it hard to look away. That said, it means, these short-term dopamine release is not a way of justifying that these do need your euphoric attention. You need to outplay the A.I. Can you?
+* We measure A.I. by comparing with human intelligence. We possibly will never evolve any further to beat A.I. is Chess, Go, DotA, who's implementations have crossed the threshold of human intellect. It is simply a battle of algorithms and hardware. We are a general purpose system. We are extramely poor in running a specialized algorithms in our general purpose brain. Which means, we are loosing this game big time. We are a compute node being used to train the A.I. to beat us better next time round.
+* A simple solution ofcourse is to not play the game itself. A vast majority will still play and eventually the effect would be inevitable despite our passive protest. Or, we can revolt - for what morals we still hold dear. A middle path is ofcourse to use more benign alternatives. Like changing your LinkedIn feed from Top to Recent everytime, or [removing](https://www.fbpurity.com/) sponsored posts on Facebook. That leaves me with a rather sadist yet neutral viewpoint - is that right. I know my data is being used and yet I using the so-called free service. Doesn't using these tricks equivalent to using torrents?
+* What struck me most is that - noone seems to be in control. The algorithms are let out in the field, with a primitive understanding on the limited test dataset, and then they learn and evolve, become behemoths in themselves to influence civil wars and national elections! The only control we seems to have is that in a national senete of a capitalist country where the executives testify by presenting only the sugar-coated intention and not the possible dire consequences.
+* The presentation of facts are generally manipulated by our biases. At a philosophical level, that is what we always do - live in our echo chamber, looking at the world via our own lenses. Except, only here we don't get to choose our lenses, someone does it for us based on what's profitable for them. Taxing based on data obtained in not a solution, monitizing premium accounts or open-source alternatives won't have the same adoption, neither will standalone voices be loud enough to tower past the overarching greed. I have not yet reached a consensus in my mind of what's the best action for each tiny individual to emerge to a better future for mankind. Let me know your opinions :)
+
 ### Language and spellings
 
 [Charu](https://charuagrawal.com/thoughts/)
