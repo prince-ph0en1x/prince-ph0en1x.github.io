@@ -15,6 +15,18 @@ permalink: "/musings/society/"
 
 Man is a (self-proclaimed) social animal. Some more than others. I feel more comfortable associating myself with the latter group. I do not enjoy social gatherings much, interacting with strangers. I am comfortable discussing random topics with my few close friends and family. However, these random topics often include discussing perspectives on various social issues. Here, I intend to curate some of those views of mine.
 
+<div class="row">
+<div class="medium-8 medium-push-0 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**posts**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+
 ### Appreciating evolution of a language
 
 (Sep 14, 2020)
