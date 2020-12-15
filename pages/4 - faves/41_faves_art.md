@@ -18,4 +18,6 @@ permalink: "/faves/art/"
  * [Regolo Bizzi](https://www.instagram.com/regolo54/?hl=en)
  * [Pawel Kuczynski](http://pawelkuczynski.com/)
  * [Raku Inoue](https://reikancreations.com/)
- * [Uli Aschenborn]
+ * Uli Aschenborn
+
+ Who's your favourite artist/painter/sculptor? Have any suggestion for me? Let me know in the comments below.
