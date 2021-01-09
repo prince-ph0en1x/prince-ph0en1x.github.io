@@ -84,7 +84,7 @@ The blue boxes and their 1-hop neighbours are my core interests.
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vewCKtPDSBBJs" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-2020-07-14: Quantum-accelerated genomics - prospects and impacts (Quantum for Healthcare MeetUp)
+2020-07-14: Quantum-accelerated genomics - prospects and impacts (MeetUp by Quantum for Healthcare, UK)
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/v3oOANR8TW2r1e" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <br>
