@@ -82,7 +82,7 @@ The blue boxes and their 1-hop neighbours are my core interests.
  
 2021-01-09: Quantum Computing - Towards the second quantum revolution (Webinar by IIST Alumni Association, India)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1Oe5YcBiOnMout" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vewCKtPDSBBJs" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 2020-07-14: Quantum-accelerated genomics - prospects and impacts (Quantum for Healthcare MeetUp)
 <br>
