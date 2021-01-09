@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Research"
   url: 'https://prince-ph0en1x.github.io/research/'
-  image: research.jpg
+  image: "page_head/research.jpg"
   text: 'Formal expression of my day-to-day life'
 widget2:
   title: "About Me"
   url: 'https://prince-ph0en1x.github.io/me/'
-  image: me.jpg
+  image: "me.jpg"
   text: 'Get to know me'
 widget3:
   title: "Creō"
   url: 'https://prince-ph0en1x.github.io/creative-corner/'
-  image: creativecorner.jpg
+  image: "page_head/creativecorner.jpg"
   text: 'My other side'
 #
 # Use the call for action to show a button on the frontpage
