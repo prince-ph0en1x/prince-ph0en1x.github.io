@@ -1288,7 +1288,7 @@ Taking me with you ;)
 
 ### You stole her face
 
-*2020-05-14 in memory of* [Charu](https://charuagrawal.com/thoughts/)
+*2020-05-14*
 
 there was a face  
 the face of no one  
