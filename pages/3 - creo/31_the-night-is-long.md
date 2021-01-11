@@ -1356,6 +1356,26 @@ The jewels would remain
 
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### Wishful thinking
+
+Why do I wish, I were a god  
+
+Why do I wish, I can absorb all your pain, and give you relief  
+Why do I wish, I can drink all your venom, and make you calm  
+Why do I wish, I can listen to all your stories, and do nothing really  
+Why do I wish, I can tuck you in, and hear your heartbeat  
+Why do I wish, I can blunt your thorns, by poking them on my skin  
+And make you smooth for the world  
+
+Why do I wish, I were a god, when a mere mortal I am  
+
+A mere mortal who gets hurt too, with every thorn that pokes,  
+A mere mortal that can't get past, over past deadlocks,  
+A mere mortal with limited time on earth, to paint life in colours,  
+A mere mortal who would swoon with anymore drop of your venom.  
+
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### The descent of Y
 
 *2020-11 patriarchy exists... and needs strength to uproot*  
