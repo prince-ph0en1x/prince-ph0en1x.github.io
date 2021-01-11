@@ -1358,24 +1358,24 @@ The jewels would remain
 
 ### The descent of Y
 
-*2020-11 patriarchy exists... and needs strength to uproot*
+*2020-11 patriarchy exists... and needs strength to uproot*  
 
-How I wish, I could be you...
+How I wish, I could be you...  
 
-Looking at the World,
-Feeling the breeze, the loo,
-Witnessing the pain, the love,
-The beats in your bosom.
+Looking at the World,  
+Feeling the breeze, the loo,  
+Witnessing the pain, the love,  
+The beats in your bosom.  
 
-But alas, each to their own,
-Trapped in form, me and you.
+But alas, each to their own,  
+Trapped in form, me and you.  
 
-From now to eternity,
-We come face to face,
-Meet through our oriel,
-Hide in our room,
+From now to eternity,  
+We come face to face,  
+Meet through our oriel,  
+Hide in our room,  
 
-Alone.
+Alone.  
 
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
