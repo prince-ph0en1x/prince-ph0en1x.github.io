@@ -6,8 +6,6 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Presentations"
-    url: "/research/presentations/"
   - title: "Unification"
     url: "/research/unification/"
   - title: "Emergence"
