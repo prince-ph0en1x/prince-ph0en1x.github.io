@@ -25,6 +25,8 @@ meta_description:
 permalink: "/creative-corner/recipes/"
 ---
 
+## Experiments
+
 ```js
 <div id="errors" style="
   background: #c00;
