@@ -25,6 +25,7 @@ meta_description:
 permalink: "/creative-corner/recipes/"
 ---
 
+```js
 <div id="errors" style="
   background: #c00;
   color: #fff;
@@ -63,3 +64,4 @@ console.error = (function(old) {
   }
 })(console.error);
 </script>
+```
