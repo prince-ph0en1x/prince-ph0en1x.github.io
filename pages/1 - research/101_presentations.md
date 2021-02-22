@@ -7,7 +7,7 @@ teaser: ""
 comments: true
 header: no
 image:
-    title: "page_head/research.jpg"
+    title:
     caption: 
     caption_url:
 permalink: "/research/presentations/"

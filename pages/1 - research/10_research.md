@@ -7,8 +7,8 @@ teaser: ""
 comments: true
 header: no
 image:
-    title: "page_head/research.jpg"
-    caption: 
+    title: "page_head/scientists.jpg"
+    caption: "3 of my favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff"
     caption_url:
 permalink: "/research/"
 ---
@@ -32,8 +32,6 @@ permalink: "/research/"
 {:toc}
 </div>
 </div><!-- /.medium-4.columns -->
-
-
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
@@ -83,26 +81,9 @@ The blue boxes and their 1-hop neighbours are my core interests.
 Find my latest presentations and videos [here](https://aritrasarkar.com/research/presentations/).
  
 ### Curriculum vitae
+
+Find my curriculum vitae [here](https://aritrasarkar.com/research/cv/).
+ 
 * [CV as pdf](../docs/Aritra_CV.pdf)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
-
-#### Associations
-* [Delft University of Technology](https://www.tudelft.nl/en/)
-   - Doctor of Philosophy (2018 - 2022)
-      - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)
-      - [QuTech](https://qutech.nl/)
-      - [Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences/)
-   - Master of Science (2016 - 2018) in Computer Engineering
-      - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/)
-      - [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
-* [Tata Consultancy Services, Research and Innovation](https://www.tcs.com/research-and-innovation)
-   - [Embedded Systems and Robotics Group](https://www.tcs.com/building-next-generation-smart-machines), Kolkata
-      - Research Intern (2017 - 2018)
-* Department of Space, Government of India
-   - [Indian Space Research Organisation](https://www.isro.gov.in/)
-      - ISRO Satellite Centre (now renamed as [U.R. Rao Satellite Centre](https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc)), Bengaluru
-      - Scientist/Engineer (2013 - 2016)
-   - [Indian Institute of Space Science and Technology](http://www.iist.ac.in/), Thiruvananthapuram
-      - Bachelor of Technology (2009 - 2013) in Avionics
-* [Assembly of God Church School](http://agcschools.edu.in/), Kolkata
