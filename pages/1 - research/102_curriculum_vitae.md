@@ -13,7 +13,7 @@ image:
 permalink: "/research/cv/"
 ---
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
  
 #### Associations
 * [Delft University of Technology](https://www.tudelft.nl/en/)
