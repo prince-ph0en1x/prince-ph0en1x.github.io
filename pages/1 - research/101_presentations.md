@@ -13,6 +13,8 @@ image:
 permalink: "/research/presentations/"
 ---
 
+<body style="background-color:#F0FFF0;"></body>
+
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
 2021-01-09: Quantum Computing - Towards the second quantum revolution (Webinar by IIST Alumni Association, India)
