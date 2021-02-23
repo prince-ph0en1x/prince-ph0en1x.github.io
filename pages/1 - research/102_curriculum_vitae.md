@@ -6,6 +6,8 @@ subheadline: ""
 teaser: ""
 comments: false
 header: no
+bkg:
+    color: "#FFF8DC"
 image:
     title:
     caption: 
