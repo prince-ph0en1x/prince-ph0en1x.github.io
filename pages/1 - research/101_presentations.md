@@ -19,37 +19,37 @@ permalink: "/research/presentations/"
  
 2021-01-09: Quantum Computing - Towards the second quantum revolution (Webinar by IIST Alumni Association, India)
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/jreNktpzj8sF2a" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jreNktpzj8sF2a" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <br>
 <iframe width="914" height="514" src="https://www.youtube.com/embed/0fGr19_7gXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2020-11-04: Navigating the landscape of NISQ algorithm development (Lecture for Quantum Entrepreneurship Laboratory by Push Quantum)
 <br>
-<iframe width="560" height="340" src="https://www.youtube.com/embed/VNbElGI7Pv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="914" height="514" src="https://www.youtube.com/embed/VNbElGI7Pv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2020-07-14: Quantum-accelerated genomics - prospects and impacts (MeetUp by Quantum for Healthcare, UK)
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/v3oOANR8TW2r1e" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v3oOANR8TW2r1e" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <br>
-<iframe width="640" height="385" src="https://www.youtube.com/embed/i5d_BVGWLTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="914" height="514" src="https://www.youtube.com/embed/i5d_BVGWLTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2020-04-28: QX Simulator and quantum programming (Electronics for Quantum Computing lecture at TU Delft)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <br>
-<iframe width="853" height="505" src="https://www.youtube.com/embed/AkjXUNCKeRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="914" height="514" src="https://www.youtube.com/embed/AkjXUNCKeRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2019-01-25: Genomics algorithms on digital NISQ accelerators (at Universitat Politècnica de València, Spain)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 2019-01-23: HiPEAC'19 Tutorial on Quantum algorithms using QX (at València, Spain)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 2018-06-22: Quantum algorithms for pattern matching in genomic sequences (M.Sc. thesis defence at TU Delft)  
 <br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 #### Presentations from QCA team
 
