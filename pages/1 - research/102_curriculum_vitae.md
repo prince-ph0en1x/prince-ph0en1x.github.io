@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 meta_title: ""
 subheadline: ""
 teaser: ""
-comments: true
+comments: false
 header: no
 image:
     title:
