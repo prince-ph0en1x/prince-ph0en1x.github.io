@@ -6,14 +6,14 @@ subheadline: ""
 teaser: ""
 comments: false
 header: no
-bkg:
-    color: "#FFF8DC"
 image:
     title:
     caption: 
     caption_url:
 permalink: "/research/cv/"
 ---
+
+<body style="background-color:#FFF8DC;"></body>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
  
