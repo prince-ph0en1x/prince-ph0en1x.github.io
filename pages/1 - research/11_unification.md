@@ -67,7 +67,6 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory, quantum computing
 * Ken Thompson - Regular expressions, Unix, B
 * Edward Witten - M-Theory
-* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic complexity
 * ‪[Eray Özkural](https://scholar.google.com/citations?hl=en&user=r_-Vi64AAAAJ&view_op=list_works&sortby=pubdate) - Artificial general intelligence
 * [Alyssa Adams](https://scholar.google.com/citations?hl=en&user=KzspA6sAAAAJ&view_op=list_works&sortby=pubdate) - Evolution, Algorithmic complexity
 * [Paola Zizzi](https://arxiv.org/search/?query=Zizzi%2C+Paola&searchtype=author&abstracts=show&order=-submitted_date&size=50)
