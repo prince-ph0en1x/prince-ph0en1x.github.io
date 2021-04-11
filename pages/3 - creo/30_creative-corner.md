@@ -42,6 +42,9 @@ Here I intend to curate my creative ventures.
 	{% include _frontpage-widget.html widget=page.widget1 %}
 	{% include _frontpage-widget.html widget=page.widget2 %}
 	{% include _frontpage-widget.html widget=page.widget3 %}
+</div>
+
+<div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget4 %}
 	{% include _frontpage-widget.html widget=page.widget5 %}
 </div>
