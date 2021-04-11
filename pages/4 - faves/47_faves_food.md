@@ -61,3 +61,5 @@ masala papad, Mutton Chaanp,
 [Cook!](https://www.scientificamerican.com/article/food-for-thought-was-cooking-a-pivotal-step-in-human-evolution/)
 
 My favourite food blogger is [Mark Wiens](https://www.youtube.com/c/MarkWiens)
+
+[Drinks](/faves/drinks/)
