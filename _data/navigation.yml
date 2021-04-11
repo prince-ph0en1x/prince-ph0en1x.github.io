@@ -39,25 +39,6 @@
   - title: "Recipes"
     url: "/creative-corner/recipes/"
 
-- title: Faves
-  url: "/faves/"
-  side: left
-  dropdown:
-  - title: "Art"
-    url: "/faves/art/"
-  - title: "Music"
-    url: "/faves/music/"
-  - title: "Books"
-    url: "/faves/books/"
-  - title: "Movies"
-    url: "/faves/movies/"
-  - title: "Quotes"
-    url: "/faves/quotes/"
-  - title: "Games"
-    url: "/faves/games/"
-  - title: "Food"
-    url: "/faves/food/"
-
 - title: "About Me"
   url: "/me/"
   side: right
