@@ -22,13 +22,18 @@ widget2:
 widget3:
   title: "Artfulness"
   url: 'https://prince-ph0en1x.github.io/creative-corner/art-n-craft/'
-  image: photos/art.jpg
+  image: page_head/art.jpg
   text: 'art and craft'
 widget4:
   title: "Clichik"
   url: 'https://prince-ph0en1x.github.io/creative-corner/photography/'
-  image: page_head/poems.jpg
+  image: page_head/photography.jpg
   text: 'photography'
+widget5:
+  title: "Recipies"
+  url: 'https://prince-ph0en1x.github.io/creative-corner/recipes/'
+  image: page_head/recipies.jpg
+  text: '(under construction)'
 ---
 
 Here I intend to curate my creative ventures.
@@ -38,6 +43,5 @@ Here I intend to curate my creative ventures.
 	{% include _frontpage-widget.html widget=page.widget2 %}
 	{% include _frontpage-widget.html widget=page.widget3 %}
 	{% include _frontpage-widget.html widget=page.widget4 %}
+	{% include _frontpage-widget.html widget=page.widget5 %}
 </div>
-
-[cooking recipies](/creative-corner/recipes/) is under construction.
