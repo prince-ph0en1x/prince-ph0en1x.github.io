@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "faves.jpg"
+   image_fullwidth: "page_head/faves.jpg"
 permalink: "/faves/"
 
 widget1:
