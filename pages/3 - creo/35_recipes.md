@@ -25,7 +25,14 @@ meta_description:
 permalink: "/creative-corner/recipes/"
 ---
 
+## Wolfram API
+
+<script type="text/javascript" id="WolframAlphaScript5d3dce72cfeaf05c96e2939b9c7ead33" src="//www.wolframalpha.com/widget/widget.jsp?id=5d3dce72cfeaf05c96e2939b9c7ead33"></script>
+
 ## Experiments
+
+
+
 
 <div id="errors" style="
   background: #c00;
