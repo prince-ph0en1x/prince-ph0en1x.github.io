@@ -27,7 +27,6 @@ permalink: "/creative-corner/recipes/"
 
 ## Experiments
 
-```js
 <div id="errors" style="
   background: #c00;
   color: #fff;
@@ -66,4 +65,4 @@ console.error = (function(old) {
   }
 })(console.error);
 </script>
-```
+
