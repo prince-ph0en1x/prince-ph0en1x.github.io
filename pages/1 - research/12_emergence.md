@@ -1,14 +1,17 @@
 ---
 layout: page-fullwidth
-title: "Emergence"
+title: "Algorithms"
 mathjax: true
 meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
 header:
-   image_fullwidth: "page_head/emergence.jpg"
-permalink: "/research/emergence/"
+    image:  "page_head/lil.gif"
+    pattern:  "page_head/bk03.jpg"
+    caption: 
+    caption_url:
+permalink: "/research/algorithms/"
 ---
 
 ## Posts

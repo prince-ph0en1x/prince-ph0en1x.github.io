@@ -37,7 +37,7 @@ permalink: "/research/"
 
 ### Research Themes
 My research interests evolve over time. Some of the current core themes are:
-* *Experimental Algorithmic Information Theory* - phase changes in computational complexity, universality, description complexity, expressibility, fractals, tensor networks ...[read more](https://aritrasarkar.com/research/emergence/)
+* *Experimental Algorithmic Information Theory* - phase changes in computational complexity, universality, description complexity, expressibility, fractals, tensor networks ...[read more](https://aritrasarkar.com/research/algorithms/)
 * *Universal Artificial General Intelligence* - recursive self-improvement, artificial life, universal constructors, explainable neural networks, neuro-evolution ...[read more](https://aritrasarkar.com/research/agi/)
 * *Quantum Computational Complexity* - quantum Hamiltonian complexity, quantum learning theory, quantum complexity geometry ...[read more](https://aritrasarkar.com/research/quantum/)
 
@@ -144,6 +144,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * Stefan Wolf
 * ‪Wojciech Zurek
 * [Chiara Marletto](https://scholar.google.com/citations?hl=en&user=mQfUdwwAAAAJ&view_op=list_works&sortby=pubdate) - Constructor theory
+* [Juan Felipe Carrasquilla Álvarez](https://scholar.google.com/citations?hl=en&user=slkzvvQAAAAJ&sortby=pubdate) - Neural network based quantum state tomography
 
 
 ... the list keeps growing as the horizon of my knowledge widens.

@@ -6,11 +6,9 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Unification"
-    url: "/research/unification/"
-  - title: "Emergence"
-    url: "/research/emergence/"
-  - title: "Artificial General Intelligence"
+  - title: "Algorithms"
+    url: "/research/algorithms/"
+  - title: "Intelligence"
     url: "/research/agi/"
   - title: "Quantum"
     url: "/research/quantum/"
