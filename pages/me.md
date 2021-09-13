@@ -56,10 +56,11 @@ The quirky line that I like saying about myself is - *"Hello World! I'm a geneti
 
 For the brightest stars and the darkest chasms, a name is more than enough... take Alexander the Great or King Solomon, take Albert Einstein or Issac Newton, take Abraham Lincoln or Karl Marx for example.
 
-But maybe I am biased here. I don't know the greatest of the Chinese philosopher, or the South African athletes. I know these names as I also know what they stood out for - by formal education or social upbringing, is in a way connected to me. People indeed are remembered by the footprints they leave behind...
+But maybe I am biased here. I know very little of the greatest of the Chinese philosopher, or the South African athletes. I know these names as I also know what they stood out for - by formal education or social upbringing, is in a way connected to me. People indeed are remembered by the footprints they leave behind...
 
 * My name - Aritra Sarkar
-* My current occupation - PhD candidate at TU Delft working on Accelerating Genomics using Quantum Algorithms
+* My current occupation - PhD candidate at TU Delft working on application of quantum computing
+
 doesn't quite encapsulate anything of who I am. The name hardly a shell, my current professional career a speck in the vastness of things I like to associate myself with. This is what this page is about...
 
 but before that... a trip down memory lane... of each spin on the potter's wheel that shaped who I am today... an ode to every event, every person, who touched my life and moulded me.

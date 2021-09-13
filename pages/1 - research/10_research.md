@@ -36,12 +36,11 @@ permalink: "/research/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 ### Research Themes
-My research interests evolve over time. Some of the current core themes are:  
+My research interests evolve over time. Some of the current core themes are:
 * *Emergence* - phase changes in computational complexity, gravity from quantum entanglement
-* *Algorithmic Complexity* - universality, expressibility, fractals, tensor networks
-* *Artificial General Intelligence* - recursive self-improvement, artificial life, explainable neural networks
-* *Quantum Computation* - quantum Hamiltonian complexity, quantum optimization, quantum learning theory
-* *Soft-computing* - hardness of approximate, neuro-evolution
+* *Algorithmic Probability* - universality, description complexity, expressibility, fractals, tensor networks
+* *Artificial General Intelligence* - recursive self-improvement, artificial life, universal constructors, explainable neural networks, neuro-evolution
+* *Quantum Computation* - quantum Hamiltonian complexity, quantum learning theory, quantum complexity geometry
 
 #### Current Projects
 * Quantum-accelerated estimation of algorithmic information (Ph.D. dissertation)

@@ -32,6 +32,8 @@ My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine)
 ### Mediterranean
 
 * Spaghetti alfredo
+* Sicilian pasta With anchovies
+* Moussaka
 
 ### Others
 

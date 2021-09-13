@@ -11,16 +11,19 @@ permalink: "/faves/music/"
 ---
 
 * **Musician**
-    * Yanni
-    * Yiruma
+    * Yanni: Keys to imagination; Acroyali
+    * Yiruma: River Flows In You
     * Shiv Kumar Sharma
     * Zakir Hussain
-    * Kenny G
-    * The Corrs
-    * Kourosh Zolani
+    * Kenny G: Silhouette
+    * The Corrs: Toss The Feathers; Joy Of Life
+    * Kourosh Zolani: Memoirs of Sangesar
     * Hans Zimmer
-    * Bikram Ghosh
-    * Vangelis
+    * Bikram Ghosh: Grasshopper
+    * Vangelis: Conquest of paradise
+    * Ottmar Liebert: Snakecharmer
+    * Richard Clayderman - Love Story
+
 
 I hate death metal from the deepest core of my heart. Not a fan of rap as well.
     
