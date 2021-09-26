@@ -31,7 +31,7 @@ permalink: "/research/quantum/"
 
 (abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
-### QC Resources
+### <span style="color:blue"> QC Resources </span>
 
 (Created Jun 21, 2020) (Updated Sep 26, 2021)
 
