@@ -31,6 +31,51 @@ permalink: "/research/quantum/"
 
 (abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
+### QC Resources
+
+(Created Jun 21, 2020) (Updated Sep 26, 2021)
+
+There are some great resources available over the internet.
+The first stop in my opinion should be the [Awesome Quantum Computing][5] GitHub page.
+Other good meta-resources are [Quantum Computing Report][6], [Quantum Computing Stack Exchange][7] and [Quantiki][8].
+
+Some of my recommendations for beginners:
+* [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
+* [Five Quantum Computing Misconceptions](https://www.youtube.com/watch?v=kEry1TaN4-k)
+* [The high-stakes race to make quantum computers work - Chiara Decaroli](https://www.youtube.com/watch?v=r_t96FqWE4M)
+* [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty - WIRED](https://www.youtube.com/watch?v=OWJCfOvochA)
+* [Computing a Universe Simulation](https://www.youtube.com/watch?v=0GLgZvTCbaA&)
+
+Some of my recommendations for recorded talks:
+* [Quantum Machine Learning and PennyLane by Maria Schuld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
+* [The Potential Impact of Quantum Computers on Society by Ronald de Wolf](https://www.youtube.com/watch?v=ych-yB9QP_A)
+* [Quantum Computing: From Qubits to Quantum Accelerators by Koen Bertels](https://www.youtube.com/watch?v=Gz5XZJ5QnlU)
+* [Quantum Algorithms Landscape by Adam Bouland](https://www.youtube.com/watch?v=PJRatgm8sL0)
+* [Variational Quantum Machine Learning by Jacob Biamonte](https://www.youtube.com/watch?v=P52iqU50NHg)
+* [Computational Complexity Theory and Quantum Computers by Scott Aaronson](https://www.youtube.com/watch?v=0jrybODBUpA)
+* [Quantum Quandam Quantum Futurum by Seth Lloyd](slideslive.com/38918779)
+
+Quantum events:
+* [Quantumapalooza](https://quantumapalooza.com/)
+
+Quantum computing platforms:
+* [Quantum Inspire](https://www.quantum-inspire.com/)
+* [Quirk](https://algassert.com/quirk#circuit={%22cols%22:[]})
+* [Quantum Programming Studio](https://quantum-circuit.com/)
+* [Quantum IDE](http://www.quide.eu/)
+* [Quantum-Kit](https://sites.google.com/view/quantum-kit/home?authuser=0)
+* [Phase Space Computing](https://phasespacecomputing.com/)
+* [QC Ware Forge](https://forge.qcware.com/)
+* [Quantum JavaScript](https://quantumjavascript.app/)
+
+
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+
+ [5]:[https://github.com/desireevl/awesome-quantum-computing]
+ [6]:[https://quantumcomputingreport.com/]
+ [7]:[https://quantumcomputing.stackexchange.com/]
+ [8]:[https://quantiki.org/]
+
 ### Q Mythbusters
 
 #### 200 qubits can map to all the atoms in the Universe
@@ -153,37 +198,6 @@ Back to the question:
 *You already can. Buckle-up to train in the ways of its magic. The world awaits the quantum wizard in you.*
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
-
-### QC Resources
-
-(Created Jun 21, 2020) (Updated Jul 7, 2020)
-
-There are some great resources available over the internet.
-The first stop in my opinion should be the [Awesome Quantum Computing][5] GitHub page.
-Other good meta-resources are [Quantum Computing Report][6], [Quantum Computing Stack Exchange][7] and [Quantiki][8].
-
-Some of my recommendations for beginners:
-* [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
-* [Five Quantum Computing Misconceptions](https://www.youtube.com/watch?v=kEry1TaN4-k)
-* [The high-stakes race to make quantum computers work - Chiara Decaroli](https://www.youtube.com/watch?v=r_t96FqWE4M)
-* [Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty - WIRED](https://www.youtube.com/watch?v=OWJCfOvochA)
-* [Computing a Universe Simulation](https://www.youtube.com/watch?v=0GLgZvTCbaA&)
-
-Some of my recommendations for recorded talks:
-* [Quantum Machine Learning and PennyLane by Maria Schuld](https://www.youtube.com/watch?v=pe1d0RyCNxY)
-* [The Potential Impact of Quantum Computers on Society by Ronald de Wolf](https://www.youtube.com/watch?v=ych-yB9QP_A)
-* [Quantum Computing: From Qubits to Quantum Accelerators by Koen Bertels](https://www.youtube.com/watch?v=Gz5XZJ5QnlU)
-* [Quantum Algorithms Landscape by Adam Bouland](https://www.youtube.com/watch?v=PJRatgm8sL0)
-* [Variational Quantum Machine Learning by Jacob Biamonte](https://www.youtube.com/watch?v=P52iqU50NHg)
-* [Computational Complexity Theory and Quantum Computers by Scott Aaronson](https://www.youtube.com/watch?v=0jrybODBUpA)
-* [Quantum Quandam Quantum Futurum by Seth Lloyd](slideslive.com/38918779)
-
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
-
- [5]:[https://github.com/desireevl/awesome-quantum-computing]
- [6]:[https://quantumcomputingreport.com/]
- [7]:[https://quantumcomputing.stackexchange.com/]
- [8]:[https://quantiki.org/]
 
 ### Q Programming Languages
 
