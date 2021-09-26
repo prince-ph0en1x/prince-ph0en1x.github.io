@@ -21,7 +21,7 @@ permalink: "/research/quantum/"
 {: #toc }
 *  TOC
 {:toc}
-{:toc_levels:"0"}
+{:toc_levels:"1"}
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -60,10 +60,10 @@ Quantum events:
 
 Quantum computing platforms:
 * [Quantum Inspire](https://www.quantum-inspire.com/)
-* [Quirk](https://algassert.com/quirk#circuit={%22cols%22:[]})
+* [Quirk](https://algassert.com/quirk#circuit)
 * [Quantum Programming Studio](https://quantum-circuit.com/)
 * [Quantum IDE](http://www.quide.eu/)
-* [Quantum-Kit](https://sites.google.com/view/quantum-kit/home?authuser=0)
+* [Quantum-Kit](https://sites.google.com/view/quantum-kit/)
 * [Phase Space Computing](https://phasespacecomputing.com/)
 * [QC Ware Forge](https://forge.qcware.com/)
 * [Quantum JavaScript](https://quantumjavascript.app/)
