@@ -21,7 +21,7 @@ permalink: "/research/quantum/"
 {: #toc }
 *  TOC
 {:toc}
-{:toc_levels:"0"}
+{:toc_levels:"1"}
 </div>
 </div><!-- /.medium-4.columns -->
 
@@ -31,7 +31,7 @@ permalink: "/research/quantum/"
 
 (abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
-### <span style="color:cyan"> QC Resources </span>
+### <span style="color:magenta"> QC Resources </span>
 
 (Created Jun 21, 2020) (Updated Sep 26, 2021)
 
@@ -76,7 +76,7 @@ Quantum computing platforms:
  [7]:[https://quantumcomputing.stackexchange.com/]
  [8]:[https://quantiki.org/]
 
-### <span style="color:cyan"> Q Mythbusters </span>
+### <span style="color:magenta"> Q Mythbusters </span>
 
 #### 200 qubits can map to all the atoms in the Universe
 
@@ -124,7 +124,7 @@ This has nothing to do with the Quantum Supremacy limit that I will discuss soon
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:cyan"> Career in QC - a guide for highschoolers </span>
+### <span style="color:magenta"> Career in QC - a guide for highschoolers </span>
 
 (Jul 8, 2020)
 
@@ -199,7 +199,7 @@ Back to the question:
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:cyan"> Q Programming Languages </span>
+### <span style="color:magenta"> Q Programming Languages </span>
 
 (Jun 21, 2020)
 
@@ -218,7 +218,7 @@ Beware, developing 'realistic' application is difficult due to limitation in qua
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:cyan"> Universal Gate Set </span>
+### <span style="color:magenta"> Universal Gate Set </span>
 
 (Jun 21, 2020)
 
@@ -256,7 +256,7 @@ If we design special purpose hardware to support a specific data transform, it w
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:cyan"> Quantum Quixote </span>
+### <span style="color:magenta"> Quantum Quixote </span>
 
 (Mar 24, 2019)
 
