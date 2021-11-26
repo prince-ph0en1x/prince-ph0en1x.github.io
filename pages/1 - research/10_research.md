@@ -7,7 +7,7 @@ teaser: ""
 comments: true
 header: no
 image:
-    title: "page_head/scientists.jpg"
+    title: "research/scientists.jpg"
     caption: "3 of my favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff"
     caption_url:
 permalink: "/research/"
@@ -43,6 +43,9 @@ Research themes evolve over time. Some of my current core interests are:
 * *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; explainable neural networks; neuro-evolution; neuro-symbolic AI; cellular automata rule learning; algorithmic perturbation analysis; do-calculus ...[read more](https://aritrasarkar.com/research/agi/)
 * *Quantum Computation* - quantum Hamiltonian complexity; quantum learning theory; quantum complexity geometry; quantum information; quantum swarm intelligence; tensor networks; holographic quantum circuit complexity; Hamiltonian complexity; Feynman checkerboard QFT ...[read more](https://aritrasarkar.com/research/quantum/)
 * *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
+
+Here's a visual that captures the most important topics:
+[![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)
 
 #### Research Questions
 I am primarily devoted in finding clues to:
