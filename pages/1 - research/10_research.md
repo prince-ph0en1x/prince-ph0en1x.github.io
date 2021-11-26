@@ -13,6 +13,8 @@ image:
 permalink: "/research/"
 ---
 
+<body style="background-color:#F0F0FF;"></body>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136827293-1"></script>
 <script>
@@ -36,10 +38,16 @@ permalink: "/research/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 ### Research Themes
-My research interests evolve over time. Some of the current core themes are:
-* *Experimental Algorithmic Information Theory* - phase changes in computational complexity, universality, description complexity, expressibility, fractals, tensor networks ...[read more](https://aritrasarkar.com/research/algorithms/)
-* *Universal Artificial General Intelligence* - recursive self-improvement, artificial life, universal constructors, explainable neural networks, neuro-evolution ...[read more](https://aritrasarkar.com/research/agi/)
-* *Quantum Computational Complexity* - quantum Hamiltonian complexity, quantum learning theory, quantum complexity geometry ...[read more](https://aritrasarkar.com/research/quantum/)
+Research themes evolve over time. Some of my current core interests are:
+* *Algorithmic Information* - experimental algorithmic information theory; computational complexity phase change behavior; relations between expressibility-reachability-learnability-universality; description complexity; fractals; ...[read more](https://aritrasarkar.com/research/algorithms/)
+* *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; explainable neural networks; neuro-evolution; neuro-symbolic AI; cellular automata rule learning; algorithmic perturbation analysis; do-calculus ...[read more](https://aritrasarkar.com/research/agi/)
+* *Quantum Computation* - quantum Hamiltonian complexity; quantum learning theory; quantum complexity geometry; quantum information; quantum swarm intelligence; tensor networks; holographic quantum circuit complexity; Hamiltonian complexity; Feynman checkerboard QFT ...[read more](https://aritrasarkar.com/research/quantum/)
+* *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
+
+#### Research Questions
+I am primarily devoted in finding clues to:
+* *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
+* *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
 
 #### Current Projects
 * Quantum Knowledge Seeking Agent ...[read more](https://github.com/Advanced-Research-Centre/QKSA)
