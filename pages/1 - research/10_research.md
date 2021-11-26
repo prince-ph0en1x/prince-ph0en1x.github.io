@@ -45,6 +45,7 @@ Research themes evolve over time. Some of my current core interests are:
 * *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
 
 Here's a visual that captures the most important topics:
+
 [![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)
 
 #### Research Questions
@@ -98,6 +99,10 @@ Find my curriculum vitae [here](https://aritrasarkar.com/research/cv/).
 The blue boxes and their 1-hop neighbours are my core interests.
 
 [![Mind map](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
+
+I tried finding my core interests in the Domain of Science charts. I eventually figured that most of my core interests lie in the field of [computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA). The interests within physics, mathematics, and biology reflect the topics in computer science. Here's the result:
+
+[![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
 
 ### On the shoulder of giants
 
