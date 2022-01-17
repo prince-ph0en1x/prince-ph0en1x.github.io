@@ -13,7 +13,6 @@ header:
 permalink: "/musings/my-dharma/"
 ---
 
-I really like the Socrates way of a conversation or debate. So let me present what I believe in via these dialogues
 
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
@@ -30,7 +29,45 @@ I really like the Socrates way of a conversation or debate. So let me present wh
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 
+### Nasadiya Sukta
+
+Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
+```
+But, after all, who knows, and who can say
+Whence it all came, and how creation happened?
+the gods themselves are later than creation,
+so who knows truly whence it has arisen?
+
+Whence all creation had its origin,
+the creator, whether he fashioned it or whether he did not,
+the creator, who surveys it all from highest heaven,
+he knows — or maybe even he does not know.
+```
+
+These verses corroborate both a sense of freedom of thought as well as a limit on human thought itself. It is a win-win strategy; allowing hinduism (as most commonly referred to) to ever evolve with the changing morals and scientific understanding of the physical world, at the same time, allowing its followers to participate in this change without a strict bound on what is subjectable to questioning.
+
+While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
+Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a selective subset (or even an extension) of the established canons existing today.
+
+### Philosophical stance
+
+(Jan 17, 2022)
+
+I have been trying to form my personal stance on various philosophical standpoints. Here I try to list them:
+* Nihilism:
+* Existentialism:
+* Absurdism:
+* Samkhya:
+* Gyana yoga:
+* Daitva:
+* Adaitya:
+* Carvaka:
+* Finitism:
+* Pancomputationalism:
+
 ### God and Mayonnaise
+
+I really like the Socrates way of a conversation or debate. So let me present what I believe in via these dialogues
 
 T: What are your views about god?
 
@@ -111,33 +148,7 @@ T: So does god exist?
 
 A: I submit, the problem of god existing is not provable; just like the existence of infinity. No one has seen or experience infinity. It is not necessary, at the same time; knowing its capability and limitation is. Since it is not provable, discussing its real existence is beyond my scope.
 
-### Teleological argument and the Problem of Evil
-
-(... in progress)
-
-### Sanatan dharma and Carvaka epistemology
-
-#### Nasadiya Sukta
-
-Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
-```
-But, after all, who knows, and who can say
-Whence it all came, and how creation happened?
-the gods themselves are later than creation,
-so who knows truly whence it has arisen?
-
-Whence all creation had its origin,
-the creator, whether he fashioned it or whether he did not,
-the creator, who surveys it all from highest heaven,
-he knows — or maybe even he does not know.
-```
-
-These verses corroborate both a sense of freedom of thought as well as a limit on human thought itself. It is a win-win strategy; allowing hinduism to ever evolve with the changing morals and scientific understanding of the physical world, at the same time, allowing its followers to participate in this change without a strict bound on what is subjectable to questioning.
-
-While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
-Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a subset (or even an extension) from the established canon existing today.
-
-#### Why I am a Hindu
+### Why I am a Hindu
 
 *a book that strikes the right chords but skips a few beats*
 
@@ -169,20 +180,8 @@ Things I wish were there
 Things I wish weren't there
 * The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two.
 
-#### Translating 'Dharma'
+### List of posts I wish I had the time to type out
 
-(... in progress)
-
-### Views
-
-#### Omnivore
-
-#### Euthanasia
-
-#### LGBTQQIP2SAA
-
-#### Marriage
-
-#### Governance
-
-#### Space junk
+These are approximately the ideas I want to discuss in this page in the future.
+* Translating 'Dharma'
+* Teleological argument and the Problem of Evil

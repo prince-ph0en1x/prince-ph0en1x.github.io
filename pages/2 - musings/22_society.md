@@ -111,61 +111,30 @@ Infact, the morals of Ramayana and Mahabharat often conflict.
 It is not a question of which one is right. There is no right answer pervasive of space and time - morality is not a physical law.
 Just like quotes and poetic verses can be interpreted in many way, so can any moral omnibus.
 
-### Price of creativity
+### List of posts I wish I had the time to type out
 
-* Should art have a price?
-
-### Exams, marks and IQ
-
-* Value of standardized exams? Marks in exams/degrees vs. gaining knowledge.
-
-### Price of knowledge
-
-* Opensourcing vs. education having a cost
-
-### Clarity vs. Technicality
-
-* being clear (mathematical) vs. being easy to understand (toy examples)
-
-### Gender roles
-
-* Male vs. female ... who should pay, direction vs. maps
-
-### Modern art vs. Realism
-
-### Digital art
-
-### Meaning of life
-
-* To contribute to humanity or be happy oneself
-
-### Social media role
-
-* Can they be a source of knowledge?
-
-### PhD vs. Industry
-
-* Ethics to contribute to the world... different ways
-
-### Love vs. arranged marriages
-
-### Backpack vs Suitcase
-
-### Boundaries between countries
-
-### Vegan vs. Non-vegetarian
-
-### Being choosy with food
-
-### Adventure sport vs. couch potato
-
-* Use human being's main power - brain
-
-### Wheels vs Legs
-
-### Afterlife vs. Death
-
-### Needing inspiration vs doing what you need to
-
-* Routine vs no routine
-* Indecisive vs firm decisions
+These are approximately the ideas I want to discuss in this page in the future.
+* Price of creativity - should art have a price?
+* Exams, marks and IQ - Value of standardized exams? Marks in exams/degrees vs. gaining knowledge.
+* Price of knowledge - opensourcing vs. education having a cost
+* Clarity vs. Technicality - being clear (mathematical) vs. being easy to understand (toy examples)
+* Gender roles - Male vs. female ... who should pay, direction vs. maps
+* Modern art vs. Realism
+* Digital art
+* Meaning of life - To contribute to humanity or be happy oneself
+* Social media role - Can they be a source of knowledge?
+* PhD vs. Industry - Ethics to contribute to the world... different ways
+* Love vs. arranged marriages
+* Backpack vs Suitcase
+* Boundaries between countries
+* Vegan vs. Non-vegetarian
+* Being choosy with food
+* Adventure sport vs. couch potato - Use human being's main power - brain
+* Wheels vs Legs
+* Afterlife vs. Death
+* Needing inspiration vs doing what you need to - Routine vs no routine; Indecisive vs firm decisions
+* Euthanasia
+* LGBTQQIP2SAA
+* Institution of marriage
+* Governance
+* Space junk
