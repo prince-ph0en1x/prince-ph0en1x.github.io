@@ -12,6 +12,7 @@ header:
     caption: 
     caption_url:
 permalink: "/research/algorithms/"
+mathjax: true
 ---
 
 ## Posts
