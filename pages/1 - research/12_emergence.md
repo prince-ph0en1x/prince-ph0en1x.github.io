@@ -77,13 +77,8 @@ Before I describe my proposition, let's list down the ingredients:
 The equation:
 
  {% raw %}
-  $$ f(x) [0,t] $$
- {% endraw %}
-
- {% raw %}
   $$ \biggl\Vert \int_0^{t_u} |f(x)|^2dx - \int_{-\infty}^\infty|f(\xi)|^2d\xi \biggl\Vert \equiv \bigl(len(S) - K_\mathcal{U}(S|X)\bigl)kTln2 $$
  {% endraw %}
-
 
 The interpretation:
 
