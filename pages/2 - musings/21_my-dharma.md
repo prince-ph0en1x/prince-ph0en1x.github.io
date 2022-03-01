@@ -51,19 +51,34 @@ Yet, on the other hand, the oldest and arguably the most sacred text in hinduism
 
 ### Philosophical stance
 
-(Jan 17, 2022)
+(Created Jan 17, 2022) (Updated Mar 1, 2022)
 
 I have been trying to form my personal stance on various philosophical standpoints. Here I try to list them:
-* Nihilism:
-* Existentialism:
-* Absurdism:
-* Samkhya:
-* Gyana yoga:
-* Daitva:
-* Adaitya:
-* Carvaka:
-* Finitism:
-* Pancomputationalism:
+* [Nihilism](https://en.wikipedia.org/wiki/Nihilism)
+* [Existentialism](https://en.wikipedia.org/wiki/Existentialism)
+* [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
+* [Samkhya](https://en.wikipedia.org/wiki/Samkhya)
+* [Gyana yoga](https://en.wikipedia.org/wiki/Jnana_yoga)
+* [Daitva](https://en.wikipedia.org/wiki/Dvaita_Vedanta)
+* [Adaitya](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+* [Carvaka](https://en.wikipedia.org/wiki/Charvaka)
+* [Finitism](https://en.wikipedia.org/wiki/Finitism)
+* [Pancomputationalism](https://en.wikipedia.org/wiki/Digital_physics)
+
+Hope I will get time to fill in the basic definition of the above. For now (01-03-2022), I identify my philosophical stance as "algorithmic absurdism".
+Here's what are it's main tenets:
+* There is no inherent meaning in the Universe. If the Universe sprung from and dissolutes into nothing, then only `nothing' is fundamental.
+* Humans belong to a more general class of sentient agents, which may include artificial intelligence, animals, aliens, etc.
+* It is possible for sentient agents embedded within the Universe to derive meaning by dividing the Universe into two parts: the agent and the environment.
+* These two parts have a boundary, called the Markov boundary (or blanket if not minimal), that is defined over the dimansions of space and time.
+* Any ontology of the Universe is unaccessible except via epistemic observables on this boundary.
+* The observables can be compressed for storage within the agent's memory by identifying patterns.
+* These patterns are best described as programs/algorithms that can be executed on the agent's computing faculties (reasoning, brain, computer) to decompress and replicate (remember) the observed phenomena.
+* These programs can also be used to predict future observable patterns that the agent can identify. This is Solomonoff induction and always carries a level of uncertainty (black swam event) that eventually leads to refinement of the program.
+* Note, there may be patterns that the agent cannot idenify using its level of computing capability. Neither are these unidentified patterns used for forming the program, nor can the agent predict how these patterns will affect future observations. These are termed as algorithmic randomness.
+* This method of defining a boundary (cell wall), storing a compressed history (DNA) and predicting (neurons) has been evolutionary favored in Earth's environment and thus its usefulness is the anthropic sense for the survival of life.
+* In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
+
 
 ### God and Mayonnaise
 

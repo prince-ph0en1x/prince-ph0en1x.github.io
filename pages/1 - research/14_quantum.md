@@ -76,6 +76,29 @@ Quantum computing platforms:
  [7]:[https://quantumcomputing.stackexchange.com/]
  [8]:[https://quantiki.org/]
 
+### <span style="color:magenta"> In Quantum </span>
+
+(Created Mar 1, 2022)
+
+A list of links regarding quantum (especially, computing) activities in India.
+Will eventually help in contributing to efforts of QIndia.
+
+Organizations:
+* QTpi - [link](https://sites.google.com/view/qtpi/home?authuser=0)
+* QIndia
+* QETCI = [link](https://qetci.org/)
+
+Academic programs:
+* tbd
+
+Academic research groups:
+* tbd
+
+Industrial groups:
+* IBM
+* TCS Research and Innovation
+
+
 ### <span style="color:magenta"> Q Mythbusters </span>
 
 #### 200 qubits can map to all the atoms in the Universe
