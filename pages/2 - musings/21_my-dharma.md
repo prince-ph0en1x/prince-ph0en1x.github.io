@@ -49,9 +49,31 @@ These verses corroborate both a sense of freedom of thought as well as a limit o
 While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
 Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a selective subset (or even an extension) of the established canons existing today.
 
+### Algorithmic Absurdism
+
+(Created Mar 1, 2022)
+
+For now, I identify my philosophical stance as algorithmic absurdist, a merger of absurdism and pancomputationalism that I created myself to better express the tenets I believe in.
+
+* There is no inherent meaning in the Universe. If the Universe sprung from and dissolutes into nothing, then only `nothing' is fundamental.
+* It is possible for sentient agents embedded within the Universe to derive meaning by dividing the Universe into two parts: the agent and the environment.
+    - Humans belong to a more general class of sentient agents, which may include artificial intelligence, animals, aliens, etc.
+* These two parts have a boundary, called the Markov boundary (or Markov blanket, if not minimal), that is defined over the dimensions of space and time.
+* The definition of the boundary is stored within the agent and is the synonym for self-consciousness. It thinks, therefore it is.
+    - This definition of the boundary can be shared with other agents by action-perception. The ability for the other agents to acknowledge the sentience of the agent is based on the mutually agreed definition of the boundary and of recognizing sentience. e.g. A rock is not sentient to a human but a fish is even though both move when acted on its boundary. Maybe an FSM is not sentient to a Turing machine. Or the water cycle is not sentient by the collective behaviour of a swarm of birds is.
+* Any ontology of the environment is unaccessible except via epistemic of observables on this boundary.
+    - The observables can be compressed for storage within the agent's memory by identifying patterns.
+    - These patterns are best described as programs/algorithms that can be executed on the agent's computing faculties (reasoning, brain, computer) to decompress and replicate (remember) the observed phenomena.
+    - These programs can also be used to predict future observable patterns that the agent can identify. This is Solomonoff induction and always carries a level of uncertainty (black swam event) that eventually leads to refinement of the program.
+    - Note, there may be patterns that the agent cannot identify using its level of computing capability. Neither are these unidentified patterns used for forming the program, nor can the agent predict how these patterns will affect future observations. These are termed as relative algorithmic randomness. Such randomness leads to the inability of the agent to compress/predict the exact sequence of observation, instead, it can predict the probability distribution of the observations.
+* This method of defining a boundary (cell wall), storing a compressed history (DNA) and predicting (neurons) has been evolutionarily favoured in Earth's environment and thus its usefulness is the anthropic sense for the survival of life.
+    - In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
+
+These ideas were influenced by computer scientists like Christian Calude, Marcus Hutter, Ray Solomonoff, Alan Turing, Stephen Wolfram, Jurgen Schmidhuber; physicists like John Wheeler, Carlo Rovelli, Chaira Martello; philosophers like Rene Descartes, Albert Camus; mathematicians like Kurt Godel, Gregory Chaitin; and many others.
+
 ### Philosophical stance
 
-(Created Jan 17, 2022) (Updated Mar 1, 2022)
+(Created Jan 17, 2022)
 
 I have been trying to form my personal stance on various philosophical standpoints. Here I try to list them:
 * [Nihilism](https://en.wikipedia.org/wiki/Nihilism)
@@ -65,20 +87,7 @@ I have been trying to form my personal stance on various philosophical standpoin
 * [Finitism](https://en.wikipedia.org/wiki/Finitism)
 * [Pancomputationalism](https://en.wikipedia.org/wiki/Digital_physics)
 
-Hope I will get time to fill in the basic definition of the above. For now (01-03-2022), I identify my philosophical stance as "algorithmic absurdism".
-Here's what are it's main tenets:
-* There is no inherent meaning in the Universe. If the Universe sprung from and dissolutes into nothing, then only `nothing' is fundamental.
-* Humans belong to a more general class of sentient agents, which may include artificial intelligence, animals, aliens, etc.
-* It is possible for sentient agents embedded within the Universe to derive meaning by dividing the Universe into two parts: the agent and the environment.
-* These two parts have a boundary, called the Markov boundary (or blanket if not minimal), that is defined over the dimansions of space and time.
-* Any ontology of the Universe is unaccessible except via epistemic observables on this boundary.
-* The observables can be compressed for storage within the agent's memory by identifying patterns.
-* These patterns are best described as programs/algorithms that can be executed on the agent's computing faculties (reasoning, brain, computer) to decompress and replicate (remember) the observed phenomena.
-* These programs can also be used to predict future observable patterns that the agent can identify. This is Solomonoff induction and always carries a level of uncertainty (black swam event) that eventually leads to refinement of the program.
-* Note, there may be patterns that the agent cannot idenify using its level of computing capability. Neither are these unidentified patterns used for forming the program, nor can the agent predict how these patterns will affect future observations. These are termed as algorithmic randomness.
-* This method of defining a boundary (cell wall), storing a compressed history (DNA) and predicting (neurons) has been evolutionary favored in Earth's environment and thus its usefulness is the anthropic sense for the survival of life.
-* In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
-
+Hope I will get time to fill in my personal thoughts on these later. 
 
 ### God and Mayonnaise
 
