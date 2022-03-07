@@ -92,6 +92,23 @@ I have been trying to form my personal stance on various philosophical standpoin
 
 Hope I will get time to fill in my personal thoughts on these later. 
 
+### The Zeroth Law
+
+(Created Mar 22, 2016 from notes) (Updated Mar 07, 2022)
+
+'Belief' is a dangerous word. A single word that washes down the drain everything science apparently tends to establish. Thus, it is the 'Only rule' that needs to be specified, the only assumption, the only imposition. Free-thinkers don't believe without reason. In fact, where there is reason, there is no need for the word belief itself. There is a saying in Bengali, 'bishaash ey milai bostu, torke bohudur' (belief dissolves the most far-fetched of arguments). This is the only phrase I am afraid of. The only phrase I have lost numerous arguments to, with my pious granny.
+
+But what is belief? 1+1 equals 2. Alice believes in it. She knows all of known mathematics and physics will collapse if any day this proves to be wrong. She was excited to interact with her new digital assistant, Bob. To start testing Bob's computational prowess, she asked the same. Pop came the reply! 10. What! How can it possibly be! This is the device every fragment of humanity now relies on?! The argument ran for hours. Every single mathematical equation returned a seemingly junk answer. 11+1 returned 100, 11x11 returned 1000. She panicked. 
+
+She dialled her friend, Carole, who advised Alice to beta-test Bob. Carole is a computer scientist, the bridge between humanity and those freak silicon bricks. She came to the rescue and passed her judgement. Apparently, no one was wrong! There happens to be other number systems than decimal, the one we were taught in nursery by counting our fingers. Bob was spot correct in its own binary number system. Makes me wonder. What if we had only one finger in each hand? Would we be more proficient in binary? My conscience comments, definitely; and that would be the middle-finger of million of years of biological evolution.
+
+Ramakrishna Paramhansa, a Hindu sage wanted to explore what other religions has to offer. He converted to Islam; and then to Christianity. Finally, he concluded, all religions are but different paths leading to the same goal of enlightenment, like rivers flowing down to the same ocean. Is atheism, also such a tributary? In essence, is it a belief-system that has no place for divinity, but is that the only difference from the others? The answer is both yes, and no. Just as different wavelength of light forms different colour of rays, different religions shine only in their narrow band. Just as a red apple cannot be viewed in blue light, most religions are intolerant towards elements of others. Atheist see is white light. Atheism indeed is a belief system. But one that is tolerant towards all. A neutral observer who silently mocks everything without a reason. At the same time, atheist do not emit any light. Others see them as dark bodies of pure evil. But they are potentially harmless creatures. They don't declare wars or shout slogans. They consider themselves as enlightened beings, who can see over the veil of selected frequencies.
+
+There is one more idea that is worth discussion. Intuition. Belief is not intuition. Quantum mechanics, one of the pillars of modern physics is counter-intuitive. That does not in any way imply you must believe in quantum mechanics to grasp it. You can totally remain foe to the counter-intuitive aspects yet appreciate the mathematical elegance of its postulates and how it conforms to the reality of our universe. In fact, Albert Einstein himself wasted a good deal of neural activity in trying to prove wrong the theory he himself helped invent.
+
+The zeroth law touches upon the ideas that will develop in depth as you move along other topics I discuss. Sit back! The bumpy ride is just about to begin.
+
+
 ### God and Mayonnaise
 
 I really like the Socrates way of a conversation or debate. So let me present what I believe in via these dialogues
