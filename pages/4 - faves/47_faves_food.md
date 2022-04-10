@@ -64,4 +64,6 @@ masala papad, Mutton Chaanp,
 
 My favourite food blogger is [Mark Wiens](https://www.youtube.com/c/MarkWiens)
 
+And the favourite channel to learn cooking (esp. Bengali cuisine) is [BongEats](https://www.bongeats.com/)
+
 [Drinks](/faves/drinks/)
