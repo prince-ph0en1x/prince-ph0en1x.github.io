@@ -37,7 +37,29 @@ permalink: "/research/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-### Research Themes
+### Current Affiliations
+
+* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands
+* Vice-coordinator; QResearch; QWorld Association; Talinn; Estonia
+* Steering committee; QIndia
+* (soon joining) Post-doctoral researcher; Quantum Machine Learning team; Quantum Circuits Architecture and Technology; QuTech; Delft; The Netherlands
+
+### Research
+
+#### Current Projects
+* Applications of Quantum Computation and Algorithmic Information - for causal modeling in genomics and reinforcement learning (Ph.D. dissertation)
+* Evolutionary quines of gene expressions for recursive self-improving systems
+* Embedded participatory observers in causal sets within conformal fields
+* Causality driven machine learning for bioinformatics
+
+... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
+
+#### Research Questions
+I am primarily devoted in finding clues to:
+* *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
+* *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
+
+#### Research Themes
 Research themes evolve over time. Some of my current core interests are:
 * *Algorithmic Information* - experimental algorithmic information theory; computational complexity phase change behavior; relations between expressibility-reachability-learnability-universality; description complexity; fractals; ...[read more](https://aritrasarkar.com/research/algorithms/)
 * *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; explainable neural networks; neuro-evolution; neuro-symbolic AI; cellular automata rule learning; algorithmic perturbation analysis; do-calculus ...[read more](https://aritrasarkar.com/research/agi/)
@@ -48,20 +70,9 @@ Here's a visual that captures the most important topics:
 
 [![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)
 
-#### Research Questions
-I am primarily devoted in finding clues to:
-* *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
-* *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
-
-#### Current Projects
-* Quantum Knowledge Seeking Agent ...[read more](https://github.com/Advanced-Research-Centre/QKSA)
-* Correspondence between quantum computation and algorithmic information for applications in genomics and artificial intelligence (Ph.D. dissertation)
-* Evolutionary quines of gene expressions for recursive self-improving systems
-
-... interested in a research collaboration (or master's thesis) within QCA lab on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
-
 #### Past Projects
 (in reverse chronological order)
+* Quantum Knowledge Seeking Agent [... read more](https://github.com/Advanced-Research-Centre/QKSA)
 * Near-term quantum optimization and learning algorithms
 * Spiking neural network based associative memory neuro-evolution
 * Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
