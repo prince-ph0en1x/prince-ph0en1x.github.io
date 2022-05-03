@@ -1399,6 +1399,26 @@ Alone.
 
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### Library of Babel
+
+*The first line is a translation of the Hindu verse, `Asato ma sadgamaya' (From ignorance, lead me to truth). Complete knowledge is equivalent to complete ignorance - like Borges' Library*
+
+From opinion, lead me to un-opinion,  
+From infinity, to nothingness...  
+From the multiplicity of speciality,  
+Arise o' all-encompassing generality...  
+Absorb creation's blinding light,  
+Eventually into your eternal darkness.  
+  
+The seed of all that is and will be,  
+Stems and is buried in indistinguishability.  
+Formless chaos unfurls into the formless void,  
+Via furls of individual perceptions  
+While sailing on the river of time,  
+We appreciate the World's limited diversity.   
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### *To be added*
 #### Legion 
 #### Zephyr Castle
