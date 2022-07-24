@@ -39,14 +39,14 @@ permalink: "/research/"
 
 ### Current Affiliations
 
-* Post-doctoral researcher; [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
+* *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
 <!--* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands-->
 
 #### Pro-bono Activities
 
-* Vice-coordinator; [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
-* Research lead; [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
-* Steering committee; QIndia; India
+* *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
+* *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
+* *Steering committee* - QIndia; India
 
 ### Research
 
@@ -118,6 +118,12 @@ The blue boxes and their 1-hop neighbours are my core interests.
 I tried finding my core interests in the Domain of Science charts. I eventually figured that most of my core interests lie in the field of [computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA). The interests within physics, mathematics, and biology reflect the topics in computer science. Here's the result:
 
 [![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
+
+### Blogs to follow
+
+* [QuTech](https://blog.qutech.nl/)
+* [Scott Aaronson](https://scottaaronson.blog/)
+* [Chris Adami](https://adami.natsci.msu.edu/blog)
 
 ### On the shoulder of giants
 
@@ -198,6 +204,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * Bernhard Schölkopf
 * [Vedran Dunjko](https://scholar.google.com/citations?hl=en&user=syyWEfIAAAAJ&view_op=list_works&sortby=pubdate) - Quantum reinforcement learning
 * [Hans Briegel](https://scholar.google.com/citations?hl=en&user=CtRLfr4AAAAJ&view_op=list_works&sortby=pubdate) - Projective simulation; Quantum reinforcement learning
+* [Bob Coecke](https://scholar.google.com/citations?hl=en&user=fO17CXgAAAAJ&view_op=list_works&sortby=pubdate) - Applied category theory; Categorical quantum mechanics
 
 ... the list keeps growing as the horizon of my knowledge widens.
 
