@@ -39,10 +39,14 @@ permalink: "/research/"
 
 ### Current Affiliations
 
-* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands
-* Vice-coordinator; QResearch; QWorld Association; Talinn; Estonia
-* Steering committee; QIndia
-* (soon joining) Post-doctoral researcher; Quantum Machine Learning team; Quantum Circuits Architecture and Technology; QuTech; Delft; The Netherlands
+* Post-doctoral researcher; [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
+<!--* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands-->
+
+#### Pro-bono Activities
+
+* Vice-coordinator; [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
+* Research lead; [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
+* Steering committee; QIndia; India
 
 ### Research
 
