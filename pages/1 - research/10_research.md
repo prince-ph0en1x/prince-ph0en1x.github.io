@@ -35,33 +35,33 @@ permalink: "/research/"
 </div>
 </div><!-- /.medium-4.columns -->
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
 ### Current Affiliations
-
 * *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
 <!--* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands-->
 
 #### Pro-bono Activities
-
 * *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
-* *Steering committee* - QIndia; India
+* *Steering committee* - [QIndia](https://qindia.org/); India
+
+#### Past Affiliations
+* *Scientist* - Controls and Digital Area; ISRO Satellite Center (now, URSC); ISRO; Bengaluru, India
 
 ### Research
 
-#### Current Projects
-* Applications of Quantum Computation and Algorithmic Information - for causal modeling in genomics and reinforcement learning (Ph.D. dissertation)
-* Evolutionary quines of gene expressions for recursive self-improving systems
-* Embedded participatory observers in causal sets within conformal fields
-* Causality driven machine learning for bioinformatics
-
-... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
-
 #### Research Questions
+<pr></pr>
 I am primarily devoted in finding clues to:
 * *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
 * *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
+
+#### Current Projects
+* Quantum program synthesis using theorem provers and categorical logic
+* Embedded participatory observers in causal sets within conformal fields
+* Quantum accelerated causal inference for applications in explainable AI and bioinformatics
+... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
 
 #### Research Themes
 Research themes evolve over time. Some of my current core interests are:
@@ -76,6 +76,7 @@ Here's a visual that captures the most important topics:
 
 #### Past Projects
 (in reverse chronological order)
+* Applications of Quantum Computation and Algorithmic Information - for causal modeling in genomics and reinforcement learning (Ph.D. dissertation)
 * Quantum Knowledge Seeking Agent [... read more](https://github.com/Advanced-Research-Centre/QKSA)
 * Near-term quantum optimization and learning algorithms
 * Spiking neural network based associative memory neuro-evolution
@@ -96,15 +97,30 @@ Here's a visual that captures the most important topics:
 * Self-configuring classical logic gate circuits using genetic programming in Java
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
 
-### Presentations
+### Teaching and Outreach
 
 Find my latest presentations and videos [here](https://aritrasarkar.com/research/presentations/).
+
+#### Courses
+<pr></pr>
+I aided in the development and delivery of the following courses:
+* *Modelling, Algorithms and Data Structures at TU Delft*
+* *Supercomputing for Big Data at TU Delft*
+* *Electronics for Quantum Computation at TU Delft*
+• *Quantum Machine Learning at edX from University of Toronto*
+• *Advanced Computer Architecture at University of Porto*
+• *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
+
+#### Project supervision
+* Anna Maria Krol
+* Neil Eelman
+
  
 ### Curriculum vitae
 
 Find my curriculum vitae [here](https://aritrasarkar.com/research/cv/).
  
-* [CV as pdf](../docs/Aritra_CV.pdf) (version 2018)
+* [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
 
