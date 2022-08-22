@@ -107,9 +107,9 @@ I aided in the development and delivery of the following courses:
 * *Modelling, Algorithms and Data Structures at TU Delft*
 * *Supercomputing for Big Data at TU Delft*
 * *Electronics for Quantum Computation at TU Delft*
-• *Quantum Machine Learning at edX from University of Toronto*
-• *Advanced Computer Architecture at University of Porto*
-• *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
+* *Quantum Machine Learning at edX from University of Toronto*
+* *Advanced Computer Architecture at University of Porto*
+* *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
 
 #### Project supervision
 * Anna Maria Krol
