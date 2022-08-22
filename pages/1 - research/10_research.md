@@ -25,10 +25,10 @@ permalink: "/research/"
   gtag('config', 'UA-136827293-1');
 </script>
 
+## -->
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Topics**
 {: #toc }
 *  TOC
 {:toc}
@@ -135,11 +135,6 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 [![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
 
-### Blogs to follow
-
-* [QuTech](https://blog.qutech.nl/)
-* [Scott Aaronson](https://scottaaronson.blog/)
-* [Chris Adami](https://adami.natsci.msu.edu/blog)
 
 ### On the shoulder of giants
 
@@ -234,4 +229,12 @@ Some researchers I follow very closely for my research.
 * [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
 * [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
 
-[*^ back to top ^*](http://aritrasarkar.com/research/unification/#posts)
+[*^ back to top ^*](http://aritrasarkar.com/research/#-->)
+
+### Blogs to follow
+
+* [QuTech](https://blog.qutech.nl/)
+* [Scott Aaronson](https://scottaaronson.blog/)
+* [Chris Adami](https://adami.natsci.msu.edu/blog)
+
+[*^ back to top ^*](http://aritrasarkar.com/research/#-->)
