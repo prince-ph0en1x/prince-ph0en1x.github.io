@@ -61,6 +61,7 @@ I am primarily devoted in finding clues to:
 * Quantum program synthesis using theorem provers and categorical logic
 * Embedded participatory observers in causal sets within conformal fields
 * Quantum accelerated causal inference for applications in explainable AI and bioinformatics 
+
 ... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
 
 #### Research Themes
