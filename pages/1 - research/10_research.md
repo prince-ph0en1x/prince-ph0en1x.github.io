@@ -6,10 +6,10 @@ subheadline: ""
 teaser: ""
 comments: true
 header: no
-image:
-    title: "research/scientists.jpg"
-    caption: "3 of my favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff"
-    caption_url:
+image: no
+#    title: "research/scientists.jpg"
+#    caption: "3 of my favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff"
+#    caption_url:
 permalink: "/research/"
 ---
 
@@ -129,7 +129,11 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 (Created Jul 23, 2019) (Updated Apr 10, 2022)
 
-I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard for either their thoughts well resonate with mine or their propositions fuel my neural engines. While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
+I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard for either their thoughts well resonate with mine or their propositions fuel my neural engines. The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
+
+[![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
+
+While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
 * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)(1831-1879) - Maxwell's demon
 * [Max Plank](https://en.wikipedia.org/wiki/Max_Planck)(1858-1947) - Plank units
 * [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)(1879-1955) - General relativity
