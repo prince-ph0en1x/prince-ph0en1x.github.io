@@ -13,11 +13,23 @@ image:
 permalink: "/research/cv/"
 ---
 
-<body style="background-color:#FFF8DC;"></body>
+<body style="background-color:#F4F0F7;"></body>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
- 
-#### Associations
+
+* [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018)
+* [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
+* [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
+
+#### Current Affiliation
+* *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
+
+#### Pro-bono Activities
+* *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
+* *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
+* *Steering committee* - [QIndia](https://qindia.org/); India
+
+#### Past Associations
 * [Delft University of Technology](https://www.tudelft.nl/en/)
    - Doctor of Philosophy (2018 - 2022)
       - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)

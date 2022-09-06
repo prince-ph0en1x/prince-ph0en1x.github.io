@@ -26,6 +26,8 @@ permalink: "/research/"
 </script>
 
 ## >
+
+<!--
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
@@ -35,84 +37,13 @@ permalink: "/research/"
 </div>
 </div><!-- /.medium-4.columns -->
 
+
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
-### Affiliations
-My current affiliation is:
-* *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
-<!--* PhD candidate; Quantum Computer Architecture team; Department of Quantum & Computer Engineering; Faculty of Electrical Engineering, Mathematics and Computer Sciences; Delft University of Technology; Delft; The Netherlands-->
-
-#### Pro-bono Activities
-* *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
-* *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
-* *Steering committee* - [QIndia](https://qindia.org/); India
-
-#### Past Affiliations
-* *Scientist* - Controls and Digital Area; ISRO Satellite Center (now, URSC); ISRO; Bengaluru, India
-
-### Research
-
-[Research Interests](https://aritrasarkar.com/research/interests/).
-
-
-
-#### Current Projects
-* Quantum program synthesis using theorem provers and categorical logic
-* Embedded participatory observers in causal sets within conformal fields
-* Quantum accelerated causal inference for applications in explainable AI and bioinformatics 
-
-... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
-
-
-#### Past Projects
-(in reverse chronological order)
-* Applications of Quantum Computation and Algorithmic Information - for causal modeling in genomics and reinforcement learning (Ph.D. dissertation)
-* Quantum Knowledge Seeking Agent [... read more](https://github.com/Advanced-Research-Centre/QKSA)
-* Near-term quantum optimization and learning algorithms
-* Spiking neural network based associative memory neuro-evolution
-* Quantum algorithms for pattern-matching in genomic sequences (M.Sc. thesis)
-* Quantum Innovation Environment (QuInE), a PyQT based IDE for quantum programming
-* Brain-inspired robotic mapping and navigation using time-series of hexagonal grid and place cells
-* System design of warehouse automation using multi-agent collaborative box-pushing strategies
-* Human brain simulation in GPU with Inferior Olive model in OpenCL and CUDA
-* GATK based human genome sequencing for distributed Spark platform in Scala
-* Fuzzing and concolic execution on RERS-2016 problems using AFL and KLEE
-* Optimizing a SoC using ρ-VEX VLIW processors
-* Enhancing the Plasma processor IP core
-* Accelerating object tracking in OMAP3530 application processor
-* Solar energy forecasting using ORCA system
-* Earthquake occurrence analysis and aftershock prediction using MATLAB and Tableau
-* Elevation mapping using stereo vision enabled heterogeneous multi-agent network (B.Tech. thesis)
-* Computer vision based centralized multi-agent system on MATLAB and Arduino
-* Self-configuring classical logic gate circuits using genetic programming in Java
-* Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP
-
-### Teaching and Outreach
-
-Find my latest presentations and videos [here](https://aritrasarkar.com/research/presentations/).
-
-#### Courses
-<pr></pr>
-I aided in the development and delivery of the following courses:
-* *Modelling, Algorithms and Data Structures at TU Delft*
-* *Supercomputing for Big Data at TU Delft*
-* *Electronics for Quantum Computation at TU Delft*
-* *Quantum Machine Learning at edX from University of Toronto*
-* *Advanced Computer Architecture at University of Porto*
-* *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
-
-#### Project supervision
-* Anna Maria Krol
-* Neil Eelman
-
- 
-### Curriculum vitae
-
-Find my curriculum vitae [here](https://aritrasarkar.com/research/cv/).
- 
-* [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018)
-* [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
-* [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
+* [Curriculum Vitae](https://aritrasarkar.com/research/cv/)
+* [Research Interests](https://aritrasarkar.com/research/interests/)
+* [Projects](https://aritrasarkar.com/research/projects/)
+* [Teaching and Outreach](https://aritrasarkar.com/research/presentations/)
 
 ### On the shoulder of giants
 

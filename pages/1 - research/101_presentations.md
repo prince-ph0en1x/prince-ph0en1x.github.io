@@ -17,6 +17,21 @@ permalink: "/research/presentations/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
+#### Courses
+I aided in the development and delivery of the following courses:
+* *Modelling, Algorithms and Data Structures at TU Delft*
+* *Supercomputing for Big Data at TU Delft*
+* *Electronics for Quantum Computation at TU Delft*
+* *Quantum Machine Learning at edX from University of Toronto*
+* *Advanced Computer Architecture at University of Porto*
+* *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
+
+#### Project supervision
+* Anna Maria Krol
+* Neil Eelman
+
+#### Presentations and Videos
+
 2021-01-09: Quantum Computing - Towards the second quantum revolution (Webinar by IIST Alumni Association, India)
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/jreNktpzj8sF2a" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
