@@ -25,7 +25,9 @@ permalink: "/research/"
   gtag('config', 'UA-136827293-1');
 </script>
 
+<!--
 ## >
+-->
 
 <!--
 <div class="row">
@@ -36,6 +38,7 @@ permalink: "/research/"
 {:toc}
 </div>
 </div><!-- /.medium-4.columns -->
+
 
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
