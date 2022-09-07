@@ -105,3 +105,16 @@ I aided in the development and delivery of the following courses:
 2017-09-13: An Experimental Micro-Architecture for a Superconducting Quantum Processor - Koen Bertels, Carmen Garcia Almudever (Arm Research Summit)
 <br>
 <iframe width="340" height="290" src="https://www.youtube.com/embed/Szm-X4KWm8c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Courses I highly recommend
+
+* [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
+* [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
+* [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
+
+#### Blogs to follow
+
+* [QuTech](https://blog.qutech.nl/)
+* [Scott Aaronson](https://scottaaronson.blog/)
+* [Chris Adami](https://adami.natsci.msu.edu/blog)
+* [Evan Patterson](https://www.epatters.org/)

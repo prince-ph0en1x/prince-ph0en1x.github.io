@@ -17,12 +17,12 @@ permalink: "/research/interests/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
-#### Research Questions
+## Research Questions
 I am primarily devoted in finding clues to: 
 * *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
 * *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
 
-#### Research Themes
+## Research Themes
 Research themes evolve over time. Some of my current core interests are:
 * *Algorithmic Information* - experimental algorithmic information theory; computational complexity phase change behavior; relations between expressibility-reachability-learnability-universality; description complexity; fractals; ...[read more](https://aritrasarkar.com/research/algorithms/)
 * *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; explainable neural networks; neuro-evolution; neuro-symbolic AI; cellular automata rule learning; algorithmic perturbation analysis; do-calculus ...[read more](https://aritrasarkar.com/research/agi/)
@@ -33,7 +33,7 @@ Here's a visual that captures the most important topics:
 
 [![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)
 
-#### Mind Map
+## Mind Map
 ... of all things I live to keep myself updated about, and associated contributor to those ideas,...
 
 The blue boxes and their 1-hop neighbours are my core interests.
@@ -44,19 +44,45 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 [![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
 
-#### On the shoulder of giants
+## Links to articles I love
+
+* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340)
+* [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf)
+* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf)
+* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
+* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434)
+* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/)
+* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371)
+* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta)
+
+## Scientists with overlaping research interest with me
+
+Some researchers I currently follow very closely for my research.
+* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
+* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Experimental algorithmic information theory; Block decomposition method
+* [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
+* [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
+* Stephen Wolfram - Cellular automata types, Metamathematics
+* [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory; quantum computing
+* [John Baez ](https://scholar.google.com/citations?hl=en&user=wmwJlb0AAAAJ&view_op=list_works&sortby=pubdate) - Applied category theory
+* [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
+* Yoshihiro Maruyama - Applied category Theory
+
+## On the shoulder of giants
 
 (Created Jul 23, 2019) (Updated Apr 10, 2022)
 
 I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard for either their thoughts well resonate with mine or their propositions fuel my neural engines. 
 
-##### Favourite scientists of all time
+### Favourite scientists of all time
 
 The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
 
 [![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
 
-##### Scientists I highly regard
+### Scientists I highly regard
 
 While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
 * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)(1831-1879) - Maxwell's demon
@@ -117,7 +143,7 @@ While unification has been the holy grail for too long, I find clues lurking in 
 * Tor Lattimore
 * Laurent Orseau
 * Shane Legg 
-* Jens Eisert
+* Jens Eisert - Resource theory of uncomplexity
 * Seth Lloyd 
 * Ronald de Wolf
 * Scott Aaronson 
@@ -127,8 +153,8 @@ While unification has been the holy grail for too long, I find clues lurking in 
 * Roger Melko 		
 * [Christopher A. Fuchs](https://scholar.google.com/citations?hl=en&user=fe9uXzkAAAAJ&sortby=pubdate) - QBism
 * [Lucas Lamata](https://scholar.google.nl/citations?hl=en&user=FP5BXgUAAAAJ&view_op=list_works&sortby=pubdate) - Quantum reinforcement learning
-* [Renato Renner](https://scholar.google.ch/citations?hl=de&user=OEBtlWgAAAAJ&view_op=list_works&sortby=pubdate) - Quantum thought experiments
-* Ilya Nemenman
+* [Renato Renner](https://scholar.google.ch/citations?hl=en&user=OEBtlWgAAAAJ&view_op=list_works&sortby=pubdate) - Quantum thought experiments
+* [Ilya Nemenman](https://scholar.google.com/citations?hl=en&user=enjXdH4AAAAJ&view_op=list_works&sortby=pubdate)
 * Bernhard Schölkopf
 * [Vedran Dunjko](https://scholar.google.com/citations?hl=en&user=syyWEfIAAAAJ&view_op=list_works&sortby=pubdate) - Quantum reinforcement learning
 * [Hans Briegel](https://scholar.google.com/citations?hl=en&user=CtRLfr4AAAAJ&view_op=list_works&sortby=pubdate) - Projective simulation; Quantum reinforcement learning
@@ -138,35 +164,10 @@ While unification has been the holy grail for too long, I find clues lurking in 
 * [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
 * [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
 * [Camilo Miguel Signorelli](https://scholar.google.com/citations?hl=en&user=FFqbV2YAAAAJ&view_op=list_works&sortby=pubdate)
-* [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
+* [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Applied category theory
+* Yoshihiro Maruyama - Applied category Theory
+* [Oron Shagrir](https://scholar.google.com/citations?hl=en&user=ljdlT1oAAAAJ&view_op=list_works&sortby=pubdate)
+* [Mark Sprevak](https://scholar.google.com/citations?hl=en&user=dLRKGTMAAAAJ&view_op=list_works&sortby=pubdate)
+* Jack Copeland
 
 ... the list keeps growing as the horizon of my knowledge widens.
-
-##### Scientists with overlaping research interest with me
-
-Some researchers I follow very closely for my research.
-* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
-* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Experimental algorithmic information theory; Block decomposition method
-* [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
-* [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
-* Stephen Wolfram - Cellular automata types, Metamathematics
-* [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory; quantum computing
-* [John Baez ](https://scholar.google.com/citations?hl=en&user=wmwJlb0AAAAJ&view_op=list_works&sortby=pubdate) - Category theory
-* [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
-
-#### Blogs to follow
-
-* [QuTech](https://blog.qutech.nl/)
-* [Scott Aaronson](https://scottaaronson.blog/)
-* [Chris Adami](https://adami.natsci.msu.edu/blog)
-* [Evan Patterson](https://www.epatters.org/)
-
-#### Links to articles I love
-
-* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340)
-* [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf)
-* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf)
-* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
-* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
-* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434)
-* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)

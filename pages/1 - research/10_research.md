@@ -16,22 +16,22 @@ permalink: "/research/"
 widget1:
   title: "Research Interests"
   url: 'https://aritrasarkar.com/research/interests/'
-  image: research/scientists.jpg
+  image: research/r01.jpg
   text: ''
 widget2:
   title: "Projects"
   url: 'https://aritrasarkar.com/research/projects/'
-  image: research/phdppt.jpg
+  image: research/r02.jpg
   text: ''
 widget3:
   title: "Teaching and Outreach"
   url: 'https://aritrasarkar.com/research/presentations/'
-  image: research/qmppt.jpg
+  image: research/r03.jpg
   text: ''
 widget4:
   title: "Curriculum Vitae"
   url: 'https://aritrasarkar.com/research/cv/'
-  image: research/qmlgrp.jpg
+  image: research/r04.jpg
   text: ''
 ---
 

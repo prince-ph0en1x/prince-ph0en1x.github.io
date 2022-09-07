@@ -55,6 +55,7 @@ Some links that I am yet to explore, or found useful in the making of this websi
 * [HTML5 games on GitHub Pages](https://end3r.com/blog/2014/02/host-your-html5-games-on-github-pages/)
 * [Mathjax parsed with Jekyll](https://stackoverflow.com/questions/34227995/mathjax-being-parsed-with-jekyll/34231579#34231579)
 * Plotly
+* [The Executable Books Project](https://executablebooks.org/en/latest/)
 
 ## Sandbox
 
