@@ -49,6 +49,8 @@ widget4:
 	{% include _frontpage-widget.html widget=page.widget4 %}
 </div>
 
+<pr></pr>
+
 <!--
 * [Research Interests](https://aritrasarkar.com/research/interests/)
 * [Projects](https://aritrasarkar.com/research/projects/)
