@@ -19,12 +19,12 @@ widget1:
   image: research/r01.jpg
   text: ''
 widget2:
-  title: "Projects"
+  title: "Projects & Publications"
   url: 'https://aritrasarkar.com/research/projects/'
   image: research/r02.jpg
   text: ''
 widget3:
-  title: "Teaching and Outreach"
+  title: "Teaching & Outreach"
   url: 'https://aritrasarkar.com/research/presentations/'
   image: research/r03.jpg
   text: ''

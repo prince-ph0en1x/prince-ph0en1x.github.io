@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Research Interests"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
