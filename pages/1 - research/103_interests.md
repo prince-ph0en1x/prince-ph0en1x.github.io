@@ -23,11 +23,14 @@ I am primarily devoted in finding clues to:
 * *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
 
 ## Research Themes
-Research themes evolve over time. Some of my current core interests are:
-* *Algorithmic Information* - experimental algorithmic information theory; computational complexity phase change behavior; relations between expressibility-reachability-learnability-universality; description complexity; fractals; ...[read more](https://aritrasarkar.com/research/algorithms/)
-* *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; explainable neural networks; neuro-evolution; neuro-symbolic AI; cellular automata rule learning; algorithmic perturbation analysis; do-calculus ...[read more](https://aritrasarkar.com/research/agi/)
-* *Quantum Computation* - quantum Hamiltonian complexity; quantum learning theory; quantum complexity geometry; quantum information; quantum swarm intelligence; tensor networks; holographic quantum circuit complexity; Hamiltonian complexity; Feynman checkerboard QFT ...[read more](https://aritrasarkar.com/research/quantum/)
+Research themes evolve over time. My older interests are listed with ~~strikethrough~~. Some of my core interests are:
+* *Applied Category Theory* - computational category theory; universal algebras; categorical intelligence
+* *Algorithmic Information* - experimental algorithmic information theory; ~~computational complexity phase change behavior;~~ relations between expressibility-reachability-learnability-universality; description complexity ...[read more](https://aritrasarkar.com/research/algorithms/)
+* *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; ~~explainable neural networks;~~ neuro-evolution; neuro-symbolic AI; ~~cellular automata rule learning; algorithmic perturbation analysis; do-calculus~~ ...[read more](https://aritrasarkar.com/research/agi/)
+* *Quantum Computation* - ~~quantum Hamiltonian complexity; quantum learning theory;~~ quantum complexity geometry; quantum information; ~~quantum swarm intelligence;~~ tensor networks; holographic quantum circuit complexity; ~~Feynman checkerboard QFT~~ ...[read more](https://aritrasarkar.com/research/quantum/)
 * *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
+* *Swarm intelligence* - ~~multi-agent collaboration; swarm robotics;~~ emergence; coarse-graining
+* Others - ~~fractals; game theory; RtOS; computer vision; digital steganography~~
 
 Here's a visual that captures the most important topics:
 
@@ -57,7 +60,7 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 * [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371)
 * [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta)
 
-## Scientists with overlaping research interest with me
+## Scientists with overlapping research interest with me
 
 Some researchers I currently follow very closely for my research.
 * [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
