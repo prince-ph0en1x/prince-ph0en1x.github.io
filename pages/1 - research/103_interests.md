@@ -73,6 +73,21 @@ Some researchers I currently follow very closely for my research.
 * [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
 * Yoshihiro Maruyama - Applied category Theory
 
+## Favourite formulae/hypotheses
+
+List of formulae or hypotheses that I find most impactful
+* Deutsch-Church-Turing thesis
+* Curry-Howard-Lambek correspondence
+* Mass-Energy-Information equivalence
+* Area law of entanglement
+* Thermodynamic Kolmogorov complexity
+* QKSA
+* AIXI
+* Solomonoff induction
+* Mandelbrot set
+* Barsley fern fractal
+* Glynn Julia set
+
 ## On the shoulder of giants
 
 (Created Jul 23, 2019) (Updated Apr 10, 2022)
