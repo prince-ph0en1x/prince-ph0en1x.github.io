@@ -1419,6 +1419,55 @@ We appreciate the World's limited diversity.
   
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### Two tasks
+
+Today I shall announce the assignment,  
+said the Professor to the class.  
+The day the scholars were waiting for!  
+To score those additional marks.  
+  
+Today I shall announce the assignment,  
+said the Professor to the class.  
+But this year it will be a bit different,  
+I shall let you choose between two tasks.  
+  
+The first is an easy one,  
+a couple of hours work at max.  
+I know most of you will rally for this,  
+so I shall throw in a bonus one.  
+  
+The bonus problem is twice as hard,  
+even took me a while to form.  
+Since it is twice the effort,  
+it's worth twice as much.  
+  
+The question here is rather not the problems,  
+but how you face a given choice.  
+All those who want to test free-will,  
+will those be put to rest?  
+  
+If none chooses the hard assignment,  
+it's as if there were no choice!  
+Although I clearly give you,  
+the freedom to seal your fate.  
+  
+The first choice as I promised,  
+is a trivial one.  
+All you need to hand in is,  
+the exercises of chapter one.  
+  
+The hard one though, demands,  
+an essay by your own.  
+Of how you think the story of hell,  
+causes pious free-will's doom.  
+  
+Today I shall announce the assignment,  
+said the Professor to the class.  
+But this year it will be a bit different,  
+I shall let you choose between two tasks.  
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
 ### *To be added*
 #### Legion 
 #### Zephyr Castle
