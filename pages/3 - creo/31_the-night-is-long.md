@@ -1468,6 +1468,91 @@ I shall let you choose between two tasks.
   
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### Random
+
+Random - you say.  
+But is it True?  
+And not some tricks,  
+From the blue  
+  
+The green haze of Kryptonite.  
+The hurricanes and landslides.  
+Not some equations too tangled,  
+For our mindful needles to separate.  
+  
+The fabric of reality -  
+A game of dice.  
+But yet programmed,  
+By some beyond our time.  
+  
+What is a chance,  
+For our fate.  
+Might be a precisely  
+Generated state.  
+  
+Is it naive to call it random?  
+Or,  
+Is it naive to call it programmed?  
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
+### Safe
+
+Safe...  
+a place we keep our valuables  
+  
+Was she safe then?  
+No, she wasn't!  
+She was the safe,  
+a safe, men came and looted...  
+Crushing oysters in search of pearl,  
+or more truly...  
+just as crushing is for fun...  
+  
+The pearl washed away,  
+the currents taking it...  
+Hardly in the direction it wished,  
+to be the necklace of the queen,  
+and how she is,  
+buried beneath the depth of earth,  
+mourned by an ocean full of shame...  
+  
+No pearls will grow,  
+a day will come...  
+and then it will be known  
+Oysters are not the safe,  
+but it was the filth we coloured our hands in   
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
+### Certainty
+
+there is a subtle difference  
+between .9 and 1  
+that is more than a mere .1  
+  
+it's the feeling of being a whole  
+instead of being Almost one  
+  
+it's the same if you think it over  
+the contrast between 0 and .1  
+  
+no, again, not the .1 I point you to  
+just the question of being truly none  
+  
+what is whole is a matter of scale  
+'cause all you can do is to multiply by 10  
+and all shall be whole again  
+  
+yet what is full, remains complete  
+not a scratch, not a strain  
+  
+and that is where the quantum world  
+collapses classically indeed  
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
+
+
 ### *To be added*
 #### Legion 
 #### Zephyr Castle
