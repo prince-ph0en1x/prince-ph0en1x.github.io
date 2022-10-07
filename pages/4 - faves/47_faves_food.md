@@ -66,4 +66,11 @@ My favourite food blogger is [Mark Wiens](https://www.youtube.com/c/MarkWiens)
 
 And the favourite channel to learn cooking (esp. Bengali cuisine) is [BongEats](https://www.bongeats.com/)
 
+## Links
+
+* [Thuisbezorgd](https://www.thuisbezorgd.nl/en)
+* [Zomato](https://www.zomato.com/kolkata)
+* [Swiggy](https://www.swiggy.com/)
+* [Hot Sauce](https://www.heatsupply.nl/en/product-categorie/merchandise-en/)
+
 [Drinks](/faves/drinks/)
