@@ -32,8 +32,21 @@ Can you stop thinking? Can you stop thinking about thinking? ... there you go...
 
 ### Propositions
 
-A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends.
+A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends or Arshia.
+
+####
 Some of these you can find in my PhD [propositions](https://academia.stackexchange.com/questions/104643/what-is-purpose-and-meaning-of-propositions-in-phd-thesis), which is a very fascinating Dutch academic custom.
+* Philosophical aspects of interdisciplinary research lead to many valuable scientific insights.
+* Variational quantum heuristics share the `correlation versus causation' problem with current machine learning models. 
+* We need to understand the thermodynamic properties of mutating universal constructors to transcend to an intergalactic civilization.
+* The interference patterns we observe as shadows on Plato's classical cave help us to tell mathematical stories about Hilbert space.
+* Shadow libraries that provide open access to knowledge over intellectual property rights are best morally personified as Robin Hood rather than pirates.
+* All models require some axioms/assumptions/faith that define their limits.
+* Knowing everything is equivalent to knowing nothing.
+* Sisyphus (in the Absurd metaphor from Albert Camus) derives his happiness from discovering paths that are easier to remember and climb.
+* A proposition on self-referential proofs will always be opposed during the doctoral defense if a committee member thinks it is wrong.
+
+#### Others
 * Be it described by, Low-complexity art or Occam's razor; Nature favors designs with high informational entropy with low Kolmogorov complexity... in short, God is a lazy programmer!
 * "Sarcasm is a word in the lexicon"... is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel's Incompleteness Theorem?
 * All of learning theory is mostly "Classification + Correlation"... dividing data into sets and understanding the relations between them.
