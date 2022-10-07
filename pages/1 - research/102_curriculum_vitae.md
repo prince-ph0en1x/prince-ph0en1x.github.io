@@ -19,7 +19,9 @@ permalink: "/research/cv/"
 
 * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
-* [Publications](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
+* [ORCiD](https://orcid.org/0000-0002-3026-6892)
+* [Researcher Gate](https://www.researchgate.net/profile/Aritra-Sarkar-2)
 
 #### Current Affiliation
 * *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
