@@ -34,7 +34,7 @@ Can you stop thinking? Can you stop thinking about thinking? ... there you go...
 
 A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends or Arshia.
 
-####
+#### Ph.D. Dissertation
 Some of these you can find in my PhD [propositions](https://academia.stackexchange.com/questions/104643/what-is-purpose-and-meaning-of-propositions-in-phd-thesis), which is a very fascinating Dutch academic custom.
 * Philosophical aspects of interdisciplinary research lead to many valuable scientific insights.
 * Variational quantum heuristics share the `correlation versus causation' problem with current machine learning models. 
