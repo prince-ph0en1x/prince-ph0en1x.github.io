@@ -189,3 +189,28 @@ While unification has been the holy grail for too long, I find clues lurking in 
 * Jack Copeland
 
 ... the list keeps growing as the horizon of my knowledge widens.
+
+### Blogs to follow
+
+#### Researchers
+
+* [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) - artificial general intelligence
+* [Marcus Hutter](http://www.hutter1.net/) - artificial general intelligence
+* [Eliezer Yudkowsky](https://www.yudkowsky.net/) - artificial general intelligence
+* [Hector Zenil](https://hectorzenil.net/) - algorithmic information theory
+* [Evan Patterson](https://www.epatters.org/) - category theory
+* [Bartosz Milewski](https://bartoszmilewski.com/) - category theory
+* [Scott Aaronson](https://scottaaronson.blog/) - quantum complexity
+* [Chris Adami](https://adami.natsci.msu.edu/blog)
+
+#### Organizations
+
+* [DeepMind](https://www.deepmind.com/) - artificial general intelligence
+* [OpenAI](https://openai.com/) - artificial general intelligence
+* [LessWrong ](https://www.lesswrong.com/) - artificial general intelligence
+* [Machine Intelligence Research Institute](https://intelligence.org/) - artificial general intelligence
+* [OpenNARS](https://www.opennars.org/) - artificial general intelligence
+* [OpenCog](https://opencog.org/) - artificial general intelligence
+* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
+* [Santa Fe Institute](https://www.santafe.edu/) - multidisciplinary research
+* [QuTech](https://blog.qutech.nl/) - quantum technologies
