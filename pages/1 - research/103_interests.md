@@ -213,4 +213,5 @@ While unification has been the holy grail for too long, I find clues lurking in 
 * [OpenCog](https://opencog.org/) - artificial general intelligence
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
 * [Santa Fe Institute](https://www.santafe.edu/) - multidisciplinary research
+* [nLab](https://ncatlab.org/nlab/show/HomePage) - category theory
 * [QuTech](https://blog.qutech.nl/) - quantum technologies

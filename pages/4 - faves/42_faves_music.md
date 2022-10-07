@@ -33,3 +33,12 @@ I hate death metal from the deepest core of my heart. Not a fan of rap as well.
     * *Bengali*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-5qPhZhBqZSLUlaF2xTwMl6)
     * *Hindi*: [YouTube Playlist](https://www.youtube.com/playlist?list=PLnhoxwUZN7-7pbdqfUlGYpMzRYm1rjdKA)
 
+* **Links**
+    * [Spotify](https://open.spotify.com/)
+    * [Amazon Music](https://music.amazon.in/)
+    * [My Noise](https://mynoise.net/)
+    * [Mod Archive](https://modarchive.org/index.php?request=view_genres)
+    * [Music for Programming](https://musicforprogramming.net/latest/)
+    * [Radio Garden](http://radio.garden/visit/the-hague/cMA39oB6)
+    * [Lalon Geeti](https://www.lalongeeti.com/music/)
+    * [Chrismas Carol lyrics](http://www.mikeleal.com/christmas/songs.html)
