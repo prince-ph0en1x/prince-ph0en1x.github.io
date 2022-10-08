@@ -49,16 +49,58 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ## Links to articles I love
 
+The following articles had major influence on my research scoping
+
+### Postdoc research
+
+#### read in 2022
+* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
 * [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340)
 * [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf)
-* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf)
-* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
-* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
-* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434)
-* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
-* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/)
 * [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371)
+
+### Ph.D. research
+
+#### read in 2021
+* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434)
+
+#### read in 2020
+* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/)
+* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf)
 * [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta)
+
+#### read in 2019
+* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+
+#### read in 2018
+* [Quantum Computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862)
+* [BCG: The Next Decade in Quantum Computing and How to Play](https://www.bcg.com/publications/2018/next-decade-quantum-computing-how-play)
+* [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028)
+* [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/abs/1810.11922)
+* [From the Quantum Approximate Optimization Algorithm to a Quantum Alternating Operator Ansatz](https://arxiv.org/abs/1709.03489)
+* [Quantum-assisted quantum compiling](https://arxiv.org/abs/1807.00800)
+* [The unconstrained binary quadratic programming problem: a survey](https://link.springer.com/article/10.1007/s10878-014-9734-0)
+* [A Tutorial on Formulating and Using QUBO Models](https://arxiv.org/abs/1811.11538)
+
+### M.Sc. research
+
+#### read in 2017
+* [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043)
+* [Tight bounds on quantum searching](https://arxiv.org/abs/quant-ph/9605034)
+* [Quantum Amplitude Amplification and Estimation](https://arxiv.org/abs/quant-ph/0005055)
+* [Generalized Grover Search Algorithm for Arbitrary Initial Amplitude Distribution](https://arxiv.org/abs/quant-ph/9801066)
+* [Is Quantum Search Practical?](https://arxiv.org/abs/quant-ph/0405001)
+* [Quantum Pattern Matching](https://arxiv.org/abs/quant-ph/0508237)
+* [Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum Biocomputing](https://arxiv.org/abs/quant-ph/0002076)
+* [Quantum Associative Memory](https://arxiv.org/abs/quant-ph/9807053)
+* [Quantum associative memory with improved distributed queries](https://arxiv.org/abs/1204.6657)
+
+#### read in 2016
+* [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001)
+* [A heterogeneous quantum computer architecture](https://dl.acm.org/doi/abs/10.1145/2903150.2906827)
+* [A blueprint for building a quantum computer](https://dl.acm.org/doi/10.1145/2494568)
+* [A New BSQDD Approach for Synthesis of Quantum Circuit](https://ieeexplore.ieee.org/document/6117353)
 
 ## Scientists with overlapping research interest with me
 
