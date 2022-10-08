@@ -49,38 +49,42 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ## Links to articles I love
 
-The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>ARA</small>. The bold ones are the major background works for each project.
+The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
 #### Postdoc research
 
-##### read in 2022
-* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/) <small>**ARA**</small>
-* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) <small>ARA</small>
+read in 2022
+* [Maximal Algorithmic Caliber and Algorithmic Causal Network Inference: General Principles of Real-World General Intelligence?](https://arxiv.org/abs/2005.04589) <small>ARA</small>
+* [Compositional Scientific Computing with Catlab and SemanticModels](https://arxiv.org/abs/2005.04831) <small>ARA</small>
+* [Kolmogorov Complexity of Categories](https://arxiv.org/abs/1306.2675) <small>ARA</small>
 * [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf) <small>ARA</small>
-* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>ARA</small>
-* [Space-Time Embedded Intelligence](https://link.springer.com/chapter/10.1007/978-3-642-35506-6_22) <small>ARA</small>
+* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) <small>ARA</small>
+* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/) <small>**ARA**</small>
+* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>QKSA+</small>
 
 #### Ph.D. research
 
-##### read in 2021
+read in 2021
+* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434) <small>ARA</small>
+* [Space-Time Embedded Intelligence](https://link.springer.com/chapter/10.1007/978-3-642-35506-6_22) <small>QKSA+</small>
+* [Quantum speedup in the identification of cause-effect relations](https://arxiv.org/abs/1806.06459) <small>QKSA+</small>
+* [Testing quantum theory with thought experiments](https://arxiv.org/abs/2106.05314) <small>QKSA+</small>
 * [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/) <small>QKSA, **ARA**</small>
 * [Algorithmic Thermodynamics](https://arxiv.org/abs/1010.2067) <small>QKSA, ARA</small>
 * [The Second Law of Quantum Complexity](https://arxiv.org/abs/1701.01107) <small>QKSA, ARA</small>
 * [Thermodynamic costs of Turing machines](https://arxiv.org/abs/1912.04685) <small>QKSA, ARA</small>
-* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434) <small>ARA</small>
 
-##### read in 2020
-* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta) <small>QCA</small>
-* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/) <small>QKSA</small>
+read in 2020
+* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta) <small>**QCA**</small>
 * [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf) <small>ARA</small>
-* []() <small>QEAIT</small>
-
-##### read in 2019
 * [Eigenforms, Interfaces and Holographic Encoding - Toward an Evolutionary Account of Objects and Spacetime](https://www.researchgate.net/publication/318786308_Eigenforms_interfaces_and_holographic_encoding_Toward_an_evolutionary_account_of_objects_and_spacetime) <small>ARA</small>
-* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122) <small>ARA</small>
-* [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050) <small>ARA</small>
+* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/) <small>**QKSA**</small>
+* [Universal Algorithmic Intelligence: A mathematical top->down approach](https://arxiv.org/abs/cs/0701125) <small>**QKSA**</small>
+* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122) <small>QKSA, ARA</small>
+* [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050) <small>QKSA, ARA</small>
+
+read in 2019
 * [Ultimate Cognition à la Gödel](https://link.springer.com/article/10.1007/s12559-009-9014-y) <small>QKSA, ARA</small>
-* [Universal Algorithmic Intelligence: A mathematical top->down approach](https://arxiv.org/abs/cs/0701125) <small>QKSA</small>
 * [A Gentle Introduction to Quantum Computing Algorithms with Applications to Universal Prediction](https://arxiv.org/abs/2005.03137) <small>QEAIT, QKSA</small>
 * [Revisiting the simulation of quantum Turing machines by quantum circuits](https://arxiv.org/abs/1808.01701) <small>**QEAIT**</small>
 * [Calculating Kolmogorov Complexity from the Output Frequency Distributions of Small Turing Machines](https://arxiv.org/abs/1211.1302) <small>**QEAIT**</small>
@@ -88,7 +92,7 @@ The following articles had major influence on my research scoping. The research 
 * [Evolving Turing Machines for Biosequence Recognition and Analysis](https://dl.acm.org/doi/abs/10.5555/646809.704103) <small>QEAIT</small>
 * [Life's code script](https://www.nature.com/articles/482461a) <small>QEAIT</small>
 
-##### read in 2018
+read in 2018
 * [Quantum-assisted quantum compiling](https://arxiv.org/abs/1807.00800) <small>QuASeR, QEAIT</small>
 * [A Tutorial on Formulating and Using QUBO Models](https://arxiv.org/abs/1811.11538) <small>**QuASeR**</small>
 * [The unconstrained binary quadratic programming problem: a survey](https://link.springer.com/article/10.1007/s10878-014-9734-0) <small>QuASeR</small>
@@ -100,7 +104,7 @@ The following articles had major influence on my research scoping. The research 
 
 #### M.Sc. research
 
-##### read in 2017
+read in 2017
 * [Quantum associative memory with improved distributed queries](https://arxiv.org/abs/1204.6657) <small>**QiBAM**</small>
 * [Quantum Associative Memory](https://arxiv.org/abs/quant-ph/9807053) <small>QiBAM</small>
 * [Quantum Pattern Matching](https://arxiv.org/abs/quant-ph/0508237) <small>QiBAM</small>
@@ -111,7 +115,7 @@ The following articles had major influence on my research scoping. The research 
 * [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) <small>QiBAM</small>
 * [Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum Biocomputing](https://arxiv.org/abs/quant-ph/0002076) <small>**QiBAM**</small>
 
-##### read in 2016
+read in 2016
 * [A heterogeneous quantum computer architecture](https://dl.acm.org/doi/abs/10.1145/2903150.2906827) <small>**QCA**</small>
 * [A blueprint for building a quantum computer](https://dl.acm.org/doi/10.1145/2494568) <small>QCA</small>
 * [A New BSQDD Approach for Synthesis of Quantum Circuit](https://ieeexplore.ieee.org/document/6117353) <small>QCA</small>
