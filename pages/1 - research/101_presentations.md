@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Presentations"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
-comments: false
+comments: true
 header: no
 image:
     title:
@@ -15,7 +15,7 @@ permalink: "/research/presentations/"
 
 <body style="background-color:#F0FFF0;"></body>
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  
 ### Courses
 I aided in the development and delivery of the following courses:
@@ -38,7 +38,7 @@ I was involved in proposed the topics, guiding the research methodology and quan
 * **Duarte Frazão** - Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto, Portugal involved implementing QAOA for financial portfolio optimisation on Qiskit.
 * **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
 
-#### Project guidance and evaluation
+##### Project guidance and evaluation
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
 * **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
 * **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
