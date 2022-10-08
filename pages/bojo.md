@@ -1,8 +1,7 @@
 ---
-layout: secret_post
+layout: page-fullwidth
 header: no
 permalink: "/bojo/"
-key: "my_secret_key"
 ---
 
 <body style="background-color:#505050;"></body>
