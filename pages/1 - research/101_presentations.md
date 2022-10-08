@@ -41,7 +41,7 @@ I was involved in proposed the topics, guiding the research methodology and quan
 #### Project guidance and evaluation
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
 * **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
-* **Koen Mesman** - Master's thesis on [`QPack:~QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
+* **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
 ### Presentations and Videos
