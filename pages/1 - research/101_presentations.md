@@ -82,46 +82,24 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 
 #### Presentations from QCA team
 
-2020-07-03: From qubits to Quantum Accelerator - The Full Stack Vision - Koen Bertels (Quantum Software Engineering workshop)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/-Or8f8VUr88" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2020-06-18: Quantum Computing and Sequencing the Genome - Koen Bertels (QUECWA)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/KeUgrc3I1Yw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2020-05-26: Quantum Accelerators-The next step in computer architecture - Koen Bertels (Harrisburg Quantum Quantumapalooza)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/GeScRan0QSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2019-01-23: Quantum Computing: From Qubits to Quantum Accelerators - Koen Bertels (HiPEAC conference Keynote)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/Gz5XZJ5QnlU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2018-06-22: Quantum genome sequencing: current investigation - Koen Bertels (Future of Computing conference)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/wqZCbuxYbCM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2018-06-22: From qubit to company: is that possible? - Koen Bertels (Future of Computing conference)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/TIRojyEO4sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2018-06-22: What is quantum computing all about? - Carmen Garcia Almudever (Future of Computing conference)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/Zo-2ERwERoE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/Fvx2o7LW24g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2017-09-30: Introduction to Quantum Computing - Koen Bertels (TEDxAntwerp)
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/dPplkPKDZHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2017-09-13: An Experimental Micro-Architecture for a Superconducting Quantum Processor - Koen Bertels, Carmen Garcia Almudever (Arm Research Summit)
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
-<!--
-<br>
-<iframe width="340" height="290" src="https://www.youtube.com/embed/Szm-X4KWm8c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
--->
+* From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=-Or8f8VUr88)
+    - 2020-07-03: Koen Bertels (Quantum Software Engineering workshop)
+* Quantum Computing and Sequencing the Genome [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=KeUgrc3I1Yw) 
+    - 2020-06-18: Koen Bertels (QUECWA)
+* Quantum Accelerators-The next step in computer architecture [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=GeScRan0QSA) 
+    - 2020-05-26: Koen Bertels (Harrisburg Quantum Quantumapalooza)
+* Quantum Computing: From Qubits to Quantum Accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Gz5XZJ5QnlU) 
+    - 2019-01-23: Koen Bertels (HiPEAC conference Keynote)
+* Quantum genome sequencing: current investigation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=wqZCbuxYbCM) 
+    - 2018-06-22: Koen Bertels (Future of Computing conference)
+* From qubit to company: is that possible? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=TIRojyEO4sQ) 
+    - 2018-06-22: Koen Bertels (Future of Computing conference)
+* What is quantum computing all about? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Zo-2ERwERoE) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Fvx2o7LW24g)
+    - 2018-06-22: Carmen Garcia Almudever (Future of Computing conference)
+* Introduction to Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=dPplkPKDZHI)
+    - 2017-09-30: Koen Bertels (TEDxAntwerp)
+* An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
+    - 2017-09-13: Koen Bertels, Carmen Garcia Almudever (Arm Research Summit)
 
 #### Courses I highly recommend
 
