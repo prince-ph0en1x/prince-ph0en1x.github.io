@@ -1,5 +1,5 @@
 ---
-layout: encrypted
+layout: secret_post
 header: no
 permalink: "/bojo/"
 key: "my_secret_key"
