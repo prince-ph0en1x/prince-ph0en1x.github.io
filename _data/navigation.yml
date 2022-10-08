@@ -6,12 +6,12 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Algorithms"
-    url: "/research/algorithms/"
   - title: "Intelligence"
     url: "/research/agi/"
   - title: "Quantum"
     url: "/research/quantum/"
+  - title: "Bullet Journal"
+    url: "/research/bojo/"
 
 - title: Musings
   url: "/musings/"
