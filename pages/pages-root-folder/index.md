@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: ca.gif
+header: no
+
 widget1:
   title: "Research"
   url: 'https://prince-ph0en1x.github.io/research/'
