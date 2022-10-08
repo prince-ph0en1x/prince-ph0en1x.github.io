@@ -10,8 +10,6 @@
     url: "/research/agi/"
   - title: "Quantum"
     url: "/research/quantum/"
-  - title: "Bullet Journal"
-    url: "/research/bojo/"
 
 - title: Musings
   url: "/musings/"
@@ -39,4 +37,8 @@
 
 - title: "About Me"
   url: "/me/"
+  side: right
+
+- title: &#9998;
+  url: "/bojo/"
   side: right

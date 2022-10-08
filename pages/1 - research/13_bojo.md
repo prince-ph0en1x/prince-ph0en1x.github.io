@@ -6,8 +6,10 @@ subheadline: ""
 teaser: ""
 comments:
 header: no
-permalink: "/research/bojo/"
+permalink: "/bojo/"
 ---
+
+<body style="background-color:#000000;"></body>
 
 <!-- didn't work well: https://github.com/bastianallgeier/bulletjournal -->
 
