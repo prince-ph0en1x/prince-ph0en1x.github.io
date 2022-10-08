@@ -12,7 +12,6 @@ header:
     caption: 
     caption_url:
 permalink: "/research/agi/"
-mathjax: true
 ---
 
 <!-- https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents -->

@@ -1,12 +1,212 @@
 ---
 layout: page-fullwidth
 title: ""
-mathjax: true
 meta_title: ""
 subheadline: ""
 teaser: ""
-comments: true
+comments:
 header: no
 permalink: "/research/bojo/"
-mathjax: true
 ---
+
+<!-- https://github.com/bastianallgeier/bulletjournal -->
+
+<title>Bullet Journal</title>
+
+<link rel="icon" href="./favicon.svg">
+
+<style>
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  color-scheme: light dark;
+  --color-background: #fff;
+  --color-day-background: rgba(0,0,0, .075);
+  --color-day-border: var(--color-background);
+  --color-day-text: #000;
+  --color-focus: rgba(34, 144, 255, .5);
+  --color-today-background: rgba(253, 226, 144, 1);
+  --color-today-border: rgba(255,255,255, .5);
+  --color-today-text: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #222;
+    --color-day-background: rgba(255,255,255, .075);
+    --color-day-border: var(--color-background);
+    --color-day-text: #ddd;
+    --color-focus: rgba(34, 144, 255, .5);
+    --color-today-background: rgba(253, 226, 144, .5);
+    --color-today-border: rgba(255,255,255, .5);
+    --color-today-text: #fff;
+  }
+}
+body {
+  font-family: system-ui, sans-serif;
+  display: flex;
+  height: 100%;
+  line-height: 1;
+  font-size: .875rem;
+  background: var(--color-background);
+}
+
+.plan {
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 66% auto;
+  grid-gap: .5rem;
+  flex-basis: 100%;
+}
+
+.heading {
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--color-day-border);
+  font-weight: 400;
+  padding: .5rem;
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: .05em;
+}
+
+.notes {
+  background: var(--color-day-background);
+  display: flex;
+  flex-direction: column;
+  color: var(--color-day-text);
+}
+
+.notes:focus-within {
+  box-shadow: var(--color-focus) 0 0 2px 2px;
+}
+
+.notes[aria-current] .heading {
+  background: var(--color-today-background);
+  border-color: var(--color-today-border);
+  color: var(--color-today-text);
+}
+
+.notes[aria-current] textarea {
+  background: var(--color-today-background);
+  color: var(--color-today-text);
+}
+
+.month {
+  grid-column: span 3;
+}
+
+textarea {
+  flex-grow: 1;
+  border: 0;
+  resize: none;
+  background: none;
+  font: inherit;
+  padding: .5rem;
+  line-height: 1.5em;
+  color: var(--color-day-text);
+}
+
+textarea:focus {
+  outline: 0;
+}
+</style>
+
+<form class="plan">
+  <label for="monday" class="notes day">
+    <span class="heading">Monday</span>
+    <textarea id="monday" spellcheck="false"></textarea>
+  </label>
+  <label for="tuesday" class="notes day">
+    <span class="heading">Tuesday</span>
+    <textarea id="tuesday" spellcheck="false"></textarea>
+  </label>
+  <label for="wednesday" class="notes day">
+    <span class="heading">Wednesday</span>
+    <textarea id="wednesday" spellcheck="false"></textarea>
+  </label>
+  <label for="thursday" class="notes day">
+    <span class="heading">Thursday</span>
+    <textarea id="thursday" spellcheck="false"></textarea>
+  </label>
+  <label for="friday" class="notes day">
+    <span class="heading">Friday</span>
+    <textarea id="friday" spellcheck="false"></textarea>
+  </label>
+  <label for="weekend" class="notes weekend">
+    <span class="heading">Weekend</span>
+    <textarea id="weekend" spellcheck="false"></textarea>
+  </label>
+  <label for="this-month" class="notes month">
+    <span class="heading">This month</span>
+    <textarea id="this-month" spellcheck="false"></textarea>
+  </label>
+  <label for="next-month" class="notes month">
+    <span class="heading">Next month</span>
+    <textarea id="next-month" spellcheck="false"></textarea>
+  </label>
+</form>
+
+<script>
+const days  = Array.from(document.querySelectorAll(".day"));
+const notes = Array.from(document.querySelectorAll("textarea"));
+
+document.addEventListener("keydown", e => {
+  if (e.metaKey === true && e.key === "s") {
+    e.preventDefault();
+  }
+});
+
+function hightlightCurrentDay() {
+  if (document.visibilityState != 'visible') { return; }
+
+  var today = new Date();
+
+  days.forEach((day, index) => {
+    unhighlightDay(day);
+    if (index === today.getDay() - 1) {
+      highlightDay(day, today.getDate() + "." + (today.getMonth() + 1) + ".");
+    }
+  });
+}
+
+function highlightDay(day, dateString) {
+  day.setAttribute("aria-current", "date");
+
+  let span = document.createElement("span");
+  span.innerHTML = dateString;
+
+  day.querySelector("textarea").setAttribute("autofocus", true);
+  day.querySelector("textarea").focus();
+  day.querySelector(".heading").append(span);
+}
+
+function unhighlightDay(day) {
+  day.removeAttribute("aria-current");
+  day.querySelector("textarea").removeAttribute("autofocus");
+  let existingSpan = day.querySelector(".heading > span");
+  if (existingSpan != null) { existingSpan.remove() }
+}
+
+hightlightCurrentDay();
+document.addEventListener('visibilitychange', hightlightCurrentDay);
+
+// handle note-taking
+notes.forEach(note => {
+  const id = note.id;
+
+  // get initial html
+  note.value = localStorage.getItem(id);
+
+  // save changes
+  note.addEventListener("input", e => {
+    localStorage.setItem(id, note.value);
+  });
+});
+</script>
