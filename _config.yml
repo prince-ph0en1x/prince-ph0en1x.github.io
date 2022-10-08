@@ -17,7 +17,7 @@ slogan: 'in search of truth, consciousness and bliss'
 description: 'Personal webpage of Aritra Sarkar'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p><small>based on Jekyll theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>'
+credits: '<small>based on Jekyll theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a></small>'
 
 # Main author of the website
 # See > authors.yml

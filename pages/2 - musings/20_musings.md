@@ -1,36 +1,30 @@
 ---
 layout: page-fullwidth
-title: "Musings"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
 header: no
 image:
-    title: "page_head/random.jpg"
+    title: 
     caption: 
     caption_url:
 permalink: "/musings/"
 ---
 
+<body style="background-color:#BDE4FF;"></body>
+
 Can you stop thinking? Can you stop thinking about thinking? ... there you go... down the rabbit-hole again... exploring the unknown unknowns...
 
-<div class="row">
-<div class="medium-8 medium-push-0 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Topics**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-
+## Musings <a name="toc"></a>
+1. [Propositions](#prop)
+2. [Fascinating Fiction](#ideas)
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 
-### Propositions
+### Propositions <a name="prop"></a>
 
 A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends or Arshia.
 
@@ -74,7 +68,7 @@ Some of these you can find in my PhD [propositions](https://academia.stackexchan
 * Observers cannot emerge in homogeneous early universe, thus, from our perspective, there were never a homogeneous state, thus, the question, why something rather than nothing doesn't make sense. It is anthopic.
 * As object's ontology is its epistemological encoding with a compiler length of zero.
 
-### Fascinating Fiction
+### Fascinating Fiction <a name="ideas"></a>
 
 A collection of sci-fi/fantasy ideas.
 * Swastika - The Gateway To Time Travel

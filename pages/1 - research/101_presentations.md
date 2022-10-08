@@ -13,7 +13,7 @@ image:
 permalink: "/research/presentations/"
 ---
 
-<body style="background-color:#F0FFF0;"></body>
+<body style="background-color:#F4F0F7;"></body>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  

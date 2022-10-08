@@ -16,7 +16,9 @@ permalink: "/research/agi/"
 
 <!-- https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents -->
 
-# Intelligence <a name="toc"></a>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
+
+### Index <a name="toc"></a>
 1. [Pattern and Randomness](#patterns)
 2. [Fascination with Fractals](#fractals)
 3. [GUT from It](#gut)
@@ -24,7 +26,7 @@ permalink: "/research/agi/"
 5. [The Grand (Un-)unified Theory](#gut2)
 6. [AGI Chatbots](#chat)
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0); text-align: justify;'>
 
 ### Pattern and Randomness <a name="patterns"></a>
 
