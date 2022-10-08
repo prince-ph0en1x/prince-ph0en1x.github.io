@@ -19,16 +19,30 @@ permalink: "/research/presentations/"
  
 #### Courses
 I aided in the development and delivery of the following courses:
-* *Modelling, Algorithms and Data Structures at TU Delft*
-* *Supercomputing for Big Data at TU Delft*
-* *Electronics for Quantum Computation at TU Delft*
-* *Quantum Machine Learning at edX from University of Toronto*
-* *Advanced Computer Architecture at University of Porto*
-* *Quantum Entrepreneurship Laboratory at the University of Munich from PushQuantum*
+* [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
+* [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) at edX from University of Toronto <small>2020-21</small>
+* [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
+* [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
+* [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
+* [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23</small>
 
 #### Project supervision
-* Anna Maria Krol
-* Neil Eelman
+
+I was involved in proposed the topics, guiding the research methodology and quantum computing technicalities for following theses:
+
+* **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
+* **Neil Eelman** - Bachelor co-op from Drexel University, USA involved programming some useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
+* **Karthik Krishnakumar** - Master's thesis at Birla Institute of Technology and Science, India on `Distributed Quantum Circuit Simulation' was an initial exploration towards various techniques to enable the QX Simulator to handle a larger number of qubits.
+* **Ravish Budhrani** - Master's thesis on [`QuantumSim - A memory efficient quantum computing simulator'](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91) at TU Delft was proposed by me. It implements a different strategy to parallelism quantum computing simulation by using a ping-pong buffer of state vectors and symbolic manipulation of the gate set instead of matrix multiplication. It forms the initial implementation of the QBeeSim - the QC simulator of QBee.
+* **João Lourenço Teixeira Vieira** - Master's thesis on [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto, Portugal involved integrating QuantumSim with cQASM instructions via OpenQL.
+* **Duarte Frazão** - Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto, Portugal involved implementing QAOA for financial portfolio optimisation on Qiskit.
+* **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
+
+#### Project guidance and evaluation
+I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
+* **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
+* **Koen Mesman** - Master's thesis on [`QPack:~QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
+* **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
 #### Presentations and Videos
 
@@ -111,3 +125,4 @@ I aided in the development and delivery of the following courses:
 * [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
 * [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
 * [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
+* [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
