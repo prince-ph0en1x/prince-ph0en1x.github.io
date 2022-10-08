@@ -17,7 +17,7 @@ permalink: "/research/presentations/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
-#### Courses
+### Courses
 I aided in the development and delivery of the following courses:
 * [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
 * [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) at edX from University of Toronto <small>2020-21</small>
@@ -26,7 +26,7 @@ I aided in the development and delivery of the following courses:
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23</small>
 
-#### Project supervision
+### Project supervision
 
 I was involved in proposed the topics, guiding the research methodology and quantum computing technicalities for following theses:
 
@@ -44,8 +44,10 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 * **Koen Mesman** - Master's thesis on [`QPack:~QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
-#### Presentations and Videos
+### Presentations and Videos
 
+* An interdisciplinary introduction to Quantum Computation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KSEJjrU_pvU)
+    - 2021-06-19: Qoffee o'Clock by QIndia
 * Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
     - 2021-01-09: Webinar by IIST Alumni Association, India
 * Navigating the landscape of NISQ algorithm development [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=VNbElGI7Pv4)
@@ -61,25 +63,25 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 * Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
     - 2018-06-22: M.Sc. thesis defence at TU Delft
 
-#### Presentations from QCA team
+### Presentations from QCA team
 
-* From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=-Or8f8VUr88)
+* From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=-Or8f8VUr88)
     - 2020-07-03: Quantum Software Engineering workshop (Koen Bertels)
-* Quantum Computing and Sequencing the Genome [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=KeUgrc3I1Yw) 
+* Quantum Computing and Sequencing the Genome [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KeUgrc3I1Yw) 
     - 2020-06-18: QUECWA (Koen Bertels)
-* Quantum Accelerators-The next step in computer architecture [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=GeScRan0QSA) 
+* Quantum Accelerators-The next step in computer architecture [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=GeScRan0QSA) 
     - 2020-05-26: Harrisburg Quantum Quantumapalooza (Koen Bertels)
-* Quantum Computing: From Qubits to Quantum Accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Gz5XZJ5QnlU) 
+* Quantum Computing: From Qubits to Quantum Accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=Gz5XZJ5QnlU) 
     - 2019-01-23: (HiPEAC conference Keynote (Koen Bertels)
-* Quantum genome sequencing: current investigation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=wqZCbuxYbCM) 
+* Quantum genome sequencing: current investigation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=wqZCbuxYbCM) 
     - 2018-06-22: Future of Computing conference (Koen Bertels)
-* From qubit to company: is that possible? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=TIRojyEO4sQ) 
+* From qubit to company: is that possible? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=TIRojyEO4sQ) 
     - 2018-06-22: Future of Computing conference (Koen Bertels)
-* What is quantum computing all about? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Zo-2ERwERoE) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Fvx2o7LW24g)
+* What is quantum computing all about? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=Zo-2ERwERoE) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=Fvx2o7LW24g)
     - 2018-06-22: Future of Computing conference (Koen Bertels, Carmen Garcia Almudever)
-* Introduction to Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=dPplkPKDZHI)
+* Introduction to Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=dPplkPKDZHI)
     - 2017-09-30: TEDxAntwerp (Koen Bertels)
-* An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
+* An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
     - 2017-09-13: Arm Research Summit (Koen Bertels, Carmen Garcia Almudever)
 
 <!--
@@ -91,7 +93,7 @@ Old format:
 <iframe width="914" height="514" src="https://www.youtube.com/embed/i5d_BVGWLTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
 
-#### Courses I highly recommend
+### Courses I highly recommend
 
 * [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
 * [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
