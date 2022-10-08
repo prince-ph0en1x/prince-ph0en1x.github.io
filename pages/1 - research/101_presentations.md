@@ -46,60 +46,50 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 
 #### Presentations and Videos
 
-2021-01-09: Quantum Computing - Towards the second quantum revolution (Webinar by IIST Alumni Association, India)
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/jreNktpzj8sF2a" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-<br>
-<iframe width="914" height="514" src="https://www.youtube.com/embed/0fGr19_7gXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
+    - 2021-01-09: Webinar by IIST Alumni Association, India
+* Navigating the landscape of NISQ algorithm development [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=VNbElGI7Pv4)
+    - 2020-11-04: Lecture for Quantum Entrepreneurship Laboratory by Push Quantum
+* Quantum-accelerated genomics - prospects and impacts [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=i5d_BVGWLTI) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-for-healthcare-20200714)
+    - 2020-07-14: MeetUp by Quantum for Healthcare, UK
+* QX Simulator and quantum programming [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=AkjXUNCKeRA) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/qx-simulator-and-quantum-programming-20200428)
+    - 2020-04-28: Electronics for Quantum Computing lecture at TU Delft
+* Genomics algorithms on digital NISQ accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/genomics-algorithms-on-digital-nisq-accelerators-20190125)
+    - 2019-01-25: at Universitat Politècnica de València, Spain
+* HiPEAC'19 Tutorial on Quantum algorithms using QX [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/hipeac19-tutorial-on-quantum-algorithms-using-qx-20190123)
+    - 2019-01-23: at València, Spain
+* Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
+    - 2018-06-22: M.Sc. thesis defence at TU Delft
 
-2020-11-04: Navigating the landscape of NISQ algorithm development (Lecture for Quantum Entrepreneurship Laboratory by Push Quantum)
-<br>
-<iframe width="914" height="514" src="https://www.youtube.com/embed/VNbElGI7Pv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### Presentations from QCA team
 
+* From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=-Or8f8VUr88)
+    - 2020-07-03: Quantum Software Engineering workshop (Koen Bertels)
+* Quantum Computing and Sequencing the Genome [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=KeUgrc3I1Yw) 
+    - 2020-06-18: QUECWA (Koen Bertels)
+* Quantum Accelerators-The next step in computer architecture [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=GeScRan0QSA) 
+    - 2020-05-26: Harrisburg Quantum Quantumapalooza (Koen Bertels)
+* Quantum Computing: From Qubits to Quantum Accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Gz5XZJ5QnlU) 
+    - 2019-01-23: (HiPEAC conference Keynote (Koen Bertels)
+* Quantum genome sequencing: current investigation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=wqZCbuxYbCM) 
+    - 2018-06-22: Future of Computing conference (Koen Bertels)
+* From qubit to company: is that possible? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=TIRojyEO4sQ) 
+    - 2018-06-22: Future of Computing conference (Koen Bertels)
+* What is quantum computing all about? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Zo-2ERwERoE) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Fvx2o7LW24g)
+    - 2018-06-22: Future of Computing conference (Koen Bertels, Carmen Garcia Almudever)
+* Introduction to Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=dPplkPKDZHI)
+    - 2017-09-30: TEDxAntwerp (Koen Bertels)
+* An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
+    - 2017-09-13: Arm Research Summit (Koen Bertels, Carmen Garcia Almudever)
+
+<!--
+Old format:
 2020-07-14: Quantum-accelerated genomics - prospects and impacts (MeetUp by Quantum for Healthcare, UK)
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/v3oOANR8TW2r1e" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 <br>
 <iframe width="914" height="514" src="https://www.youtube.com/embed/i5d_BVGWLTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2020-04-28: QX Simulator and quantum programming (Electronics for Quantum Computing lecture at TU Delft)  
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/o4XaMHpSy79fRm" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-<br>
-<iframe width="914" height="514" src="https://www.youtube.com/embed/AkjXUNCKeRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-2019-01-25: Genomics algorithms on digital NISQ accelerators (at Universitat Politècnica de València, Spain)  
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MVHkgv7LNgzTF" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-2019-01-23: HiPEAC'19 Tutorial on Quantum algorithms using QX (at València, Spain)  
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JQ7WXfTwJmDEC1" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-2018-06-22: Quantum algorithms for pattern matching in genomic sequences (M.Sc. thesis defence at TU Delft)  
-<br>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/lehX3ih8FFm22k" width="914" height="514" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-#### Presentations from QCA team
-
-* From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=-Or8f8VUr88)
-    - 2020-07-03: Koen Bertels (Quantum Software Engineering workshop)
-* Quantum Computing and Sequencing the Genome [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=KeUgrc3I1Yw) 
-    - 2020-06-18: Koen Bertels (QUECWA)
-* Quantum Accelerators-The next step in computer architecture [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=GeScRan0QSA) 
-    - 2020-05-26: Koen Bertels (Harrisburg Quantum Quantumapalooza)
-* Quantum Computing: From Qubits to Quantum Accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Gz5XZJ5QnlU) 
-    - 2019-01-23: Koen Bertels (HiPEAC conference Keynote)
-* Quantum genome sequencing: current investigation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=wqZCbuxYbCM) 
-    - 2018-06-22: Koen Bertels (Future of Computing conference)
-* From qubit to company: is that possible? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=TIRojyEO4sQ) 
-    - 2018-06-22: Koen Bertels (Future of Computing conference)
-* What is quantum computing all about? [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Zo-2ERwERoE) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Fvx2o7LW24g)
-    - 2018-06-22: Carmen Garcia Almudever (Future of Computing conference)
-* Introduction to Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=dPplkPKDZHI)
-    - 2017-09-30: Koen Bertels (TEDxAntwerp)
-* An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="30" height="30">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
-    - 2017-09-13: Koen Bertels, Carmen Garcia Almudever (Arm Research Summit)
+-->
 
 #### Courses I highly recommend
 
