@@ -117,8 +117,11 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 <iframe width="340" height="290" src="https://www.youtube.com/embed/dPplkPKDZHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 2017-09-13: An Experimental Micro-Architecture for a Superconducting Quantum Processor - Koen Bertels, Carmen Garcia Almudever (Arm Research Summit)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
+<!--
 <br>
 <iframe width="340" height="290" src="https://www.youtube.com/embed/Szm-X4KWm8c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+-->
 
 #### Courses I highly recommend
 
