@@ -69,41 +69,41 @@ The following articles had major influence on my research scoping. The research 
 * [Universal Algorithmic Intelligence: A mathematical top->down approach](https://arxiv.org/abs/cs/0701125) <small>ARA</small>
 * [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/) <small>ARA</small>
 * [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf) <small>ARA</small>
-* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta)
+* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta) <small>QCA</small>
 
 #### read in 2019
 * [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122) <small>ARA</small>
 * [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050) <small>ARA</small>
-* [Life's code script](https://www.nature.com/articles/482461a)
+* [Life's code script](https://www.nature.com/articles/482461a) <small>QEAIT</small>
 
 #### read in 2018
-* [Quantum Computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862)
-* [BCG: The Next Decade in Quantum Computing and How to Play](https://www.bcg.com/publications/2018/next-decade-quantum-computing-how-play)
-* [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028)
-* [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/abs/1810.11922)
-* [From the Quantum Approximate Optimization Algorithm to a Quantum Alternating Operator Ansatz](https://arxiv.org/abs/1709.03489)
-* [Quantum-assisted quantum compiling](https://arxiv.org/abs/1807.00800)
-* [The unconstrained binary quadratic programming problem: a survey](https://link.springer.com/article/10.1007/s10878-014-9734-0)
-* [A Tutorial on Formulating and Using QUBO Models](https://arxiv.org/abs/1811.11538)
+* [Quantum Computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862) <small>QCA</small>
+* [BCG: The Next Decade in Quantum Computing and How to Play](https://www.bcg.com/publications/2018/next-decade-quantum-computing-how-play) <small>QCA</small>
+* [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) <small>QuASeR</small>
+* [The Expressive Power of Parameterized Quantum Circuits](https://arxiv.org/abs/1810.11922) <small>QuASeR</small>
+* [From the Quantum Approximate Optimization Algorithm to a Quantum Alternating Operator Ansatz](https://arxiv.org/abs/1709.03489) <small>QuASeR</small>
+* [The unconstrained binary quadratic programming problem: a survey](https://link.springer.com/article/10.1007/s10878-014-9734-0) <small>QuASeR</small>
+* [A Tutorial on Formulating and Using QUBO Models](https://arxiv.org/abs/1811.11538) <small>QuASeR</small>
+* [Quantum-assisted quantum compiling](https://arxiv.org/abs/1807.00800) <small>QEAIT</small>
 
 ### M.Sc. research
 
 #### read in 2017
 * [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) <small>QiBAM</small>
-* [Tight bounds on quantum searching](https://arxiv.org/abs/quant-ph/9605034)
-* [Quantum Amplitude Amplification and Estimation](https://arxiv.org/abs/quant-ph/0005055)
-* [Generalized Grover Search Algorithm for Arbitrary Initial Amplitude Distribution](https://arxiv.org/abs/quant-ph/9801066)
-* [Is Quantum Search Practical?](https://arxiv.org/abs/quant-ph/0405001)
-* [Quantum Pattern Matching](https://arxiv.org/abs/quant-ph/0508237)
-* [Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum Biocomputing](https://arxiv.org/abs/quant-ph/0002076)
-* [Quantum Associative Memory](https://arxiv.org/abs/quant-ph/9807053)
-* [Quantum associative memory with improved distributed queries](https://arxiv.org/abs/1204.6657)
+* [Tight bounds on quantum searching](https://arxiv.org/abs/quant-ph/9605034) <small>QiBAM</small>
+* [Quantum Amplitude Amplification and Estimation](https://arxiv.org/abs/quant-ph/0005055) <small>QiBAM</small>
+* [Generalized Grover Search Algorithm for Arbitrary Initial Amplitude Distribution](https://arxiv.org/abs/quant-ph/9801066) <small>QiBAM</small>
+* [Is Quantum Search Practical?](https://arxiv.org/abs/quant-ph/0405001) <small>QiBAM</small>
+* [Quantum Pattern Matching](https://arxiv.org/abs/quant-ph/0508237) <small>QiBAM</small>
+* [Fast Quantum Search Algorithms in Protein Sequence Comparison - Quantum Biocomputing](https://arxiv.org/abs/quant-ph/0002076) <small>QiBAM</small>
+* [Quantum Associative Memory](https://arxiv.org/abs/quant-ph/9807053) <small>QiBAM</small>
+* [Quantum associative memory with improved distributed queries](https://arxiv.org/abs/1204.6657) <small>QiBAM</small>
 
 #### read in 2016
-* [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001)
-* [A heterogeneous quantum computer architecture](https://dl.acm.org/doi/abs/10.1145/2903150.2906827)
-* [A blueprint for building a quantum computer](https://dl.acm.org/doi/10.1145/2494568)
-* [A New BSQDD Approach for Synthesis of Quantum Circuit](https://ieeexplore.ieee.org/document/6117353)
+* [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001) <small>QCA</small>
+* [A heterogeneous quantum computer architecture](https://dl.acm.org/doi/abs/10.1145/2903150.2906827) <small>QCA</small>
+* [A blueprint for building a quantum computer](https://dl.acm.org/doi/10.1145/2494568) <small>QCA</small>
+* [A New BSQDD Approach for Synthesis of Quantum Circuit](https://ieeexplore.ieee.org/document/6117353) <small>QCA</small>
 
 ## Scientists with overlapping research interest with me
 
