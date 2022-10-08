@@ -4,7 +4,7 @@ title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
-comments: false
+comments: true
 header: no
 image:
     title:
@@ -25,12 +25,12 @@ I am primarily devoted in finding clues to:
 ## Research Themes
 Research themes evolve over time. My older interests are listed with ~~strikethrough~~. Some of my core interests are:
 * *Applied Category Theory* - computational category theory; universal algebras; categorical intelligence
-* *Algorithmic Information* - experimental algorithmic information theory; ~~computational complexity phase change behavior;~~ relations between expressibility-reachability-learnability-universality; description complexity ...[read more](https://aritrasarkar.com/research/algorithms/)
-* *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; ~~explainable neural networks;~~ neuro-evolution; neuro-symbolic AI; ~~cellular automata rule learning; algorithmic perturbation analysis; do-calculus~~ ...[read more](https://aritrasarkar.com/research/agi/)
-* *Quantum Computation* - ~~quantum Hamiltonian complexity; quantum learning theory;~~ quantum complexity geometry; quantum information; ~~quantum swarm intelligence;~~ tensor networks; holographic quantum circuit complexity; ~~Feynman checkerboard QFT~~ ...[read more](https://aritrasarkar.com/research/quantum/)
+* *Algorithmic Information* - experimental algorithmic information theory; ~~computational complexity phase change behavior~~; relations between expressibility-reachability-learnability-universality; description complexity ...[read more](https://aritrasarkar.com/research/algorithms/)
+* *Artificial Intelligence* - universal artificial general intelligence; recursive self-improvement; universal constructors; ~~explainable neural networks~~; neuro-evolution; neuro-symbolic AI; ~~cellular automata rule learning~~; ~~algorithmic perturbation analysis~~; ~~do-calculus~~ ...[read more](https://aritrasarkar.com/research/agi/)
+* *Quantum Computation* - ~~quantum Hamiltonian complexity~~; ~~quantum learning theory~~; quantum complexity geometry; quantum information; ~~quantum swarm intelligence~~; tensor networks; holographic quantum circuit complexity; ~~Feynman checkerboard QFT~~ ...[read more](https://aritrasarkar.com/research/quantum/)
 * *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
-* *Swarm intelligence* - ~~multi-agent collaboration; swarm robotics;~~ emergence; coarse-graining
-* Others - ~~fractals; game theory; RtOS; computer vision; digital steganography~~
+* *Swarm intelligence* - ~~multi-agent collaboration~~; ~~swarm robotics~~; emergence; coarse-graining
+* Others - ~~fractals~~; ~~game theory~~; ~~RtOS~~; ~~computer vision~~; ~~digital steganography~~
 
 Here's a visual that captures the most important topics:
 
@@ -49,29 +49,32 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ## Links to articles I love
 
-The following articles had major influence on my research scoping
+The following articles had major influence on my research scoping. The research each influenced is denoted with the tags <small>QCA, QiBAM, QuASeR, QEAIT, QKSA, ARA</small>
 
 ### Postdoc research
 
 #### read in 2022
-* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/)
-* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340)
-* [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf)
-* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371)
+* [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/) <small>ARA</small>
+* [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) <small>ARA</small>
+* [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf) <small>ARA</small>
+* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>ARA</small>
 
 ### Ph.D. research
 
 #### read in 2021
-* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
-* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434)
+* [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/) <small>ARA</small>
+* [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434) <small>ARA</small>
 
 #### read in 2020
-* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/)
-* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf)
+* [Universal Algorithmic Intelligence: A mathematical top->down approach](https://arxiv.org/abs/cs/0701125) <small>ARA</small>
+* [Law without law: from observer states to physics via algorithmic information theory](https://quantum-journal.org/papers/q-2020-07-20-301/) <small>ARA</small>
+* [The Universe is Lawless or "Pantôn chrêmatôn metron anthrôpon einai"](https://www.cs.auckland.ac.nz/~cristian/crispapers/lawless.pdf) <small>ARA</small>
 * [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/meta)
 
 #### read in 2019
-* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122)
+* [Algorithmic Theories of Everything](https://arxiv.org/abs/quant-ph/0011122) <small>ARA</small>
+* [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050) <small>ARA</small>
+* [Life's code script](https://www.nature.com/articles/482461a)
 
 #### read in 2018
 * [Quantum Computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862)
@@ -86,7 +89,7 @@ The following articles had major influence on my research scoping
 ### M.Sc. research
 
 #### read in 2017
-* [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043)
+* [A fast quantum mechanical algorithm for database search](https://arxiv.org/abs/quant-ph/9605043) <small>QiBAM</small>
 * [Tight bounds on quantum searching](https://arxiv.org/abs/quant-ph/9605034)
 * [Quantum Amplitude Amplification and Estimation](https://arxiv.org/abs/quant-ph/0005055)
 * [Generalized Grover Search Algorithm for Arbitrary Initial Amplitude Distribution](https://arxiv.org/abs/quant-ph/9801066)
