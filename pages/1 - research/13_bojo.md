@@ -17,4 +17,4 @@ permalink: "/bojo/"
 
 <!-- works but can't edit: <iframe src="https://docs.google.com/document/d/e/2PACX-1vSri_MqCbFAi5WB_-RZkATH_RNaObtdGCAv7_vNF14JSriPHetYcxVTT_VPSmjweJxTLwbGtj6zWEa2/pub?embedded=true"></iframe> -->
 
-<iframe height="620" align="middle" width="100%" border="0" src="https://docs.google.com/document/d/18K5jq5BItlXucB3CjoUI7b5TDRVfO4jX8YRFhysV8iY/edit?usp=sharing"></iframe>
+<iframe height="1000" align="middle" width="100%" border="0" src="https://docs.google.com/document/d/18K5jq5BItlXucB3CjoUI7b5TDRVfO4jX8YRFhysV8iY/edit?usp=sharing"></iframe>
