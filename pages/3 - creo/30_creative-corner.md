@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Creō"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""

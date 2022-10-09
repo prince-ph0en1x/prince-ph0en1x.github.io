@@ -45,8 +45,7 @@ widget7:
 
 #### Index <a name="toc"></a>
 1. [Faves](#faves)
-2. [Why this website?](#siteintro)
-3. [Who am I?](#whoami)
+2. [Who am I?](#whoami)
 </div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
