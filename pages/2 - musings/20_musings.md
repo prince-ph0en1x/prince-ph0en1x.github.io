@@ -13,15 +13,17 @@ image:
 permalink: "/musings/"
 ---
 
-<body style="background-color:#F0F0F7;"></body>
-
-
+<body style="background-color:#F0F4F7;"></body>
 
 Can you stop thinking? Can you stop thinking about thinking? ... there you go... down the rabbit-hole again... exploring the unknown unknowns...
 
-## Musings <a name="toc"></a>
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
+
+### Index <a name="toc"></a>
 1. [Propositions](#prop)
 2. [Fascinating Fiction](#ideas)
+
+</div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 

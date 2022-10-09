@@ -1,9 +1,14 @@
 ---
 layout: page-fullwidth
-title: "About Me"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
+header: no
+image:
+    title: 
+    caption: 
+    caption_url:
 permalink: "/me/"
 
 widget1:
@@ -46,11 +51,17 @@ widget7:
 </div>
 </div><!-- /.medium-4.columns -->
 
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
+### Index <a name="toc"></a>
+1. [Who am I?](#who)
+2. [Why this website?](#web)
+3. [Faves](#faves)
+</div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-## Who am I?
+### Who am I? <a name="who"></a>
 
 The quirky line that I like saying about myself is - *"Hello World! I'm a genetic program unplugged from the matrix, living my clock ticks by random if-else."*. It says I am a nerd - but what more? It says about my enchantment about the simulation hypothesis and evolutionary algorithms. It says about my fascination in bridging the digital and biological world, atleast in intelligent decision making. Yet, it says so little about me - about who I really am, about what defines me as 'me'...
 
@@ -75,7 +86,7 @@ From primary to secondary, and then to higher secondary. Years flew till I found
 
 INTJ
 
-## Why this website?
+### Why this website? <a name="web"></a>
 
 Long back, in my childhood days, my parents tried to instil in me the habit of maintaining a diary. I used to receive a new diary as a New Year gift but my enthusiasm to flip through the pages lasted only as far as my interest in the occasional glossy pages of thematic illustrations in it. A week at the most - the span of my interest to pen down the eventful moments at the end of each day. The rest of the 51 weeks were usually spent in stacking other books from school on top of the diary, till it was right at the bottom of the pile by year end.
 
@@ -89,7 +100,7 @@ When was the last time you stopped in your busy lives, thinking of how the World
 
 Do we really see the World the way it is? Or is the World the way we see it?
 
-## Faves
+### Faves <a name="faves"></a>
 
 Every object is influenced by its environment. If you know me and not know how I interact with my surrounding - it is just half my story. Knowing my environment is as simple as knowing my biases. And why do biases exist? That is the compressed embedding of multitudes of experiences in the past. It is really like those neural network weights, which can no longer explain the contribution of each training data in tuning a particular weight to the value it is. This section is perhaps the easiest for me to pen down (or rather type out), yet, quite probably, just going through these list can give the readers quite a clear sketch of my character.
 

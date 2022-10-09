@@ -4,7 +4,7 @@ header: no
 permalink: "/bojo/"
 ---
 
-<body style="background-color:#505050;"></body>
+<body style="background-color:#404040;"></body>
 
 <!-- https://github.com/xct/jekyll-encrypt -->
 
