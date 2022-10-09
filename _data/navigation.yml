@@ -8,11 +8,10 @@
   dropdown:
   - title: "Research Interests"
     url: "/research/interests/"
-    dropdown:
-    - title: "Intelligence"
-      url: "/research/agi/"
-    - title: "Quantum"
-      url: "/research/quantum/"
+  - title: "AGI"
+    url: "/research/agi/"
+  - title: "QC"
+    url: "/research/quantum/"
   - title: "Projects"
     url: "/research/interests/"
   - title: "Teaching & Outreach"
@@ -48,6 +47,6 @@
   url: "/me/"
   side: right
 
-- title: ✎
+- title: "|ॐ⟩"
   url: "/bojo/"
   side: right
