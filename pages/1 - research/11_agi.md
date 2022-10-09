@@ -26,7 +26,9 @@ permalink: "/research/agi/"
 5. [The Grand (Un-)unified Theory](#gut2)
 6. [AGI Chatbots](#chat)
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0); text-align: justify;'>
+</div>
+
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 ### Pattern and Randomness <a name="patterns"></a>
 

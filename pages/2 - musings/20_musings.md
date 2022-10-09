@@ -13,7 +13,9 @@ image:
 permalink: "/musings/"
 ---
 
-<body style="background-color:#BDE4FF;"></body>
+<body style="background-color:#F0F0F7;"></body>
+
+
 
 Can you stop thinking? Can you stop thinking about thinking? ... there you go... down the rabbit-hole again... exploring the unknown unknowns...
 
