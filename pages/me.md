@@ -44,14 +44,48 @@ widget7:
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Who am I?](#who)
-2. [Why this website?](#web)
-3. [Faves](#faves)
+1. [Faves](#faves)
+2. [Why this website?](#siteintro)
+3. [Who am I?](#whoami)
 </div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-### Who am I? <a name="who"></a>
+### Faves <a name="faves"></a>
+
+Every object is influenced by its environment. If you know me and not know how I interact with my surrounding - it is just half my story. Knowing my environment is as simple as knowing my biases. And why do biases exist? That is the compressed embedding of multitudes of experiences in the past. It is really like those neural network weights, which can no longer explain the contribution of each training data in tuning a particular weight to the value it is. This section is perhaps the easiest for me to pen down (or rather type out), yet, quite probably, just going through these list can give the readers quite a clear sketch of my character.
+
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget1 %}
+	{% include _frontpage-widget.html widget=page.widget2 %}
+	{% include _frontpage-widget.html widget=page.widget3 %}
+</div>
+
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget4 %}
+	{% include _frontpage-widget.html widget=page.widget5 %}
+	{% include _frontpage-widget.html widget=page.widget6 %}
+</div>
+
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget7 %}
+</div>
+
+### Why this website? <a name="siteintro"></a>
+
+Long back, in my childhood days, my parents tried to instil in me the habit of maintaining a diary. I used to receive a new diary as a New Year gift but my enthusiasm to flip through the pages lasted only as far as my interest in the occasional glossy pages of thematic illustrations in it. A week at the most - the span of my interest to pen down the eventful moments at the end of each day. The rest of the 51 weeks were usually spent in stacking other books from school on top of the diary, till it was right at the bottom of the pile by year end.
+
+This changed with two gradual changes in my life. The first is when Subhasis sir started to tutor me in physics (sometime in Class 8). He had an exceptionally different methodology in teaching. For me, the entire journey was like down the rabbit-hole for Alice in Wonderland. He used to tell stories which morphed physical theories from philosophical or religious principles. Though I have always been an atheist, the stories were fascinating. These were different from the stories of Hindu epics that I used to love as a lullaby from my grandma where I was a kid. These were bold conjectures - mostly unprovable. Let me give you an example. Some even lunatic. Why is gravity always attracting? Well, no one knows! We can call it a property of the Higgs boson, or pi meson exchange, or ... well, we can keep guessing. But, we can also say, all mass for the Newtonian equation are complex numbers. Lo and behold! That would always result in the negative sign for attraction. Yes, it might sound completely nuts, but, this was the first time I felt, I needed to note this down somewhere safe, that would outlive my class notes past the academic year. This was the first time I actually started writing a diary. A diary of random thoughts. Mostly based on the stories that sir used to tell me.
+
+The second change came much more recently with social media feeds. Facebook (and to some extent LinkedIn, Pinterest, etc.) that built a network of people with a diversity of ideas. And some of these ideas were as crazy as sir's. Of course, I didn’t need a diary for these. I can always share them in my feed and search for them later. Yet again, some of these ideas really stood out. They were too important for me – my personal aspiration to understand the secrets to the treasure trove of the Universe. I needed a more organised personal space – a mind palace like Sherlock's if you will. So though this venture has long lingered at the bottom of my to-do list, it is time to piece together these thoughts into a coherent mess!
+
+I write with the hope that it would stimulate the occasional visitors to see the World with a different eye.
+
+When was the last time you stopped in your busy lives, thinking of how the World we live in looks like, sounds like, and most of all, feels like. Shackled in the clutches of our busy routine, we forget to smile at the babies wailing to get our attention. The babies inside us all. We ignore them until we are old enough to understand that we are now too old. Take a few minutes off from the tomorrow's schedule and enjoy the present.
+
+Do we really see the World the way it is? Or is the World the way we see it?
+
+### Who am I? <a name="whoami"></a>
 
 The quirky line that I like saying about myself is - *"Hello World! I'm a genetic program unplugged from the matrix, living my clock ticks by random if-else."*. It says I am a nerd - but what more? It says about my enchantment about the simulation hypothesis and evolutionary algorithms. It says about my fascination in bridging the digital and biological world, atleast in intelligent decision making. Yet, it says so little about me - about who I really am, about what defines me as 'me'...
 
@@ -75,37 +109,3 @@ From primary to secondary, and then to higher secondary. Years flew till I found
 ... (add IIST, ISRO, TUD)
 
 INTJ
-
-### Why this website? <a name="web"></a>
-
-Long back, in my childhood days, my parents tried to instil in me the habit of maintaining a diary. I used to receive a new diary as a New Year gift but my enthusiasm to flip through the pages lasted only as far as my interest in the occasional glossy pages of thematic illustrations in it. A week at the most - the span of my interest to pen down the eventful moments at the end of each day. The rest of the 51 weeks were usually spent in stacking other books from school on top of the diary, till it was right at the bottom of the pile by year end.
-
-This changed with two gradual changes in my life. The first is when Subhasis sir started to tutor me in physics (sometime in Class 8). He had an exceptionally different methodology in teaching. For me, the entire journey was like down the rabbit-hole for Alice in Wonderland. He used to tell stories which morphed physical theories from philosophical or religious principles. Though I have always been an atheist, the stories were fascinating. These were different from the stories of Hindu epics that I used to love as a lullaby from my grandma where I was a kid. These were bold conjectures - mostly unprovable. Let me give you an example. Some even lunatic. Why is gravity always attracting? Well, no one knows! We can call it a property of the Higgs boson, or pi meson exchange, or ... well, we can keep guessing. But, we can also say, all mass for the Newtonian equation are complex numbers. Lo and behold! That would always result in the negative sign for attraction. Yes, it might sound completely nuts, but, this was the first time I felt, I needed to note this down somewhere safe, that would outlive my class notes past the academic year. This was the first time I actually started writing a diary. A diary of random thoughts. Mostly based on the stories that sir used to tell me.
-
-The second change came much more recently with social media feeds. Facebook (and to some extent LinkedIn, Pinterest, etc.) that built a network of people with a diversity of ideas. And some of these ideas were as crazy as sir's. Of course, I didn’t need a diary for these. I can always share them in my feed and search for them later. Yet again, some of these ideas really stood out. They were too important for me – my personal aspiration to understand the secrets to the treasure trove of the Universe. I needed a more organised personal space – a mind palace like Sherlock's if you will. So though this venture has long lingered at the bottom of my to-do list, it is time to piece together these thoughts into a coherent mess!
-
-I write with the hope that it would stimulate the occasional visitors to see the World with a different eye.
-
-When was the last time you stopped in your busy lives, thinking of how the World we live in looks like, sounds like, and most of all, feels like. Shackled in the clutches of our busy routine, we forget to smile at the babies wailing to get our attention. The babies inside us all. We ignore them until we are old enough to understand that we are now too old. Take a few minutes off from the tomorrow's schedule and enjoy the present.
-
-Do we really see the World the way it is? Or is the World the way we see it?
-
-### Faves <a name="faves"></a>
-
-Every object is influenced by its environment. If you know me and not know how I interact with my surrounding - it is just half my story. Knowing my environment is as simple as knowing my biases. And why do biases exist? That is the compressed embedding of multitudes of experiences in the past. It is really like those neural network weights, which can no longer explain the contribution of each training data in tuning a particular weight to the value it is. This section is perhaps the easiest for me to pen down (or rather type out), yet, quite probably, just going through these list can give the readers quite a clear sketch of my character.
-
-<div class="row t60">
-	{% include _frontpage-widget.html widget=page.widget1 %}
-	{% include _frontpage-widget.html widget=page.widget2 %}
-	{% include _frontpage-widget.html widget=page.widget3 %}
-</div>
-
-<div class="row t60">
-	{% include _frontpage-widget.html widget=page.widget4 %}
-	{% include _frontpage-widget.html widget=page.widget5 %}
-	{% include _frontpage-widget.html widget=page.widget6 %}
-</div>
-
-<div class="row t60">
-	{% include _frontpage-widget.html widget=page.widget7 %}
-</div>
