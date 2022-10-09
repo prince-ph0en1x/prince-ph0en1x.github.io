@@ -93,10 +93,4 @@ Old format:
 <iframe width="914" height="514" src="https://www.youtube.com/embed/i5d_BVGWLTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
 
-### Courses I highly recommend
 
-* [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
-* [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
-* [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
-* [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
-* [General Theory of General Intelligence](https://www.youtube.com/playlist?list=PLAJnaovHtaFTK9E1xHnBWZeKtAOhonqH5)

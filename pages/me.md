@@ -41,19 +41,9 @@ widget7:
   image: page_head/recipies.jpg
 ---
 
-<div class="row">
-<div class="medium-8 medium-push-0 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**me meeing**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
-### Index <a name="toc"></a>
+#### Index <a name="toc"></a>
 1. [Who am I?](#who)
 2. [Why this website?](#web)
 3. [Faves](#faves)

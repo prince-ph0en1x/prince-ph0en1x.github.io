@@ -8,9 +8,9 @@
   dropdown:
   - title: "Research Interests"
     url: "/research/interests/"
-  - title: "› AGI"
+  - title: "   ››› AGI"
     url: "/research/agi/"
-  - title: "› QC"
+  - title: "   ››› QC"
     url: "/research/quantum/"
   - title: "Projects & Publications"
     url: "/research/interests/"

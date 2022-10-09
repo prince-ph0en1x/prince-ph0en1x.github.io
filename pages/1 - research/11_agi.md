@@ -18,7 +18,7 @@ permalink: "/research/agi/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
-### Index <a name="toc"></a>
+#### Index <a name="toc"></a>
 1. [Pattern and Randomness](#patterns)
 2. [Fascination with Fractals](#fractals)
 3. [GUT from It](#gut)
