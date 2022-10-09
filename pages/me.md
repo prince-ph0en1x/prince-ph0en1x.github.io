@@ -14,31 +14,31 @@ permalink: "/me/"
 widget1:
   title: "Artists/Artwork"
   url: 'https://prince-ph0en1x.github.io/faves/art/'
-  image: page_head/art.jpg
+  image: page_head/faves/faves_arts.jpg
 widget2:
   title: "Musicians/Songs"
   url: 'https://prince-ph0en1x.github.io/faves/music/'
-  image: page_head/music.jpg
+  image: page_head/faves/faves_songs.jpg
 widget3:
   title: "Books"
   url: 'https://prince-ph0en1x.github.io/faves/books/'
-  image: page_head/books.jpg
+  image: page_head/faves/faves_books.jpg
 widget4:
   title: "Movies/Series/Actors"
   url: 'https://prince-ph0en1x.github.io/faves/movies/'
-  image: page_head/movies.jpg
+  image: page_head/faves/faves_movies.jpg
 widget5:
   title: "Quotes"
   url: 'https://prince-ph0en1x.github.io/faves/quotes/'
-  image: page_head/quotes.jpg
+  image: page_head/faves/faves_quotes.jpg
 widget6:
   title: "Games"
   url: 'https://prince-ph0en1x.github.io/faves/games/'
-  image: page_head/chess.jpg
+  image: page_head/faves/faves_games.jpg
 widget7:
   title: "Food"
   url: 'https://prince-ph0en1x.github.io/faves/food/'
-  image: page_head/recipies.jpg
+  image: page_head/faves/faves_foods.jpg
 ---
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
