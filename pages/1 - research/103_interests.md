@@ -277,7 +277,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 
 [*^ back to top ^*](#toc)
 
-### Blogs to follow <a name="blogs"></a>
+### Blogs/Sites to follow <a name="blogs"></a>
 
 #### Researchers
 
@@ -294,14 +294,19 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 
 * [DeepMind](https://www.deepmind.com/) - artificial general intelligence
 * [OpenAI](https://openai.com/) - artificial general intelligence
-* [LessWrong ](https://www.lesswrong.com/) - artificial general intelligence
+* [LessWrong](https://www.lesswrong.com/) - artificial general intelligence
 * [Machine Intelligence Research Institute](https://intelligence.org/) - artificial general intelligence
+* [Wolfram Institute](https://www.wolframinstitute.org/) - multi-computation
 * [OpenNARS](https://www.opennars.org/) - artificial general intelligence
 * [OpenCog](https://opencog.org/) - artificial general intelligence
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
-* [Santa Fe Institute](https://www.santafe.edu/) - multidisciplinary research
+* [Santa Fe Institute](https://www.santafe.edu/) - complexity sciences
 * [nLab](https://ncatlab.org/nlab/show/HomePage) - category theory
 * [QuTech](https://blog.qutech.nl/) - quantum technologies
+* [FQXi](https://fqxi.org/community/articles) - physics
+* [Topos Institute](https://topos.institute/) - category theory
+* [Centre for Applied Compositionality](https://www.appliedcompositionality.com/) - category theory
+
 
 [*^ back to top ^*](#toc)
 
