@@ -12,7 +12,9 @@ image:
     caption_url:
 gallery:
     - image_url: research/interests_2021.png
-      caption: 
+      caption: Interest 2021
+    - image_url: research/interests_2018.png
+      caption: Interest 2018
 permalink: "/research/interests/"
 ---
 
