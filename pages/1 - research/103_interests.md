@@ -74,6 +74,9 @@ The following articles had major influence on my research scoping. The research 
 
 #### Postdoc research
 
+###### read in 2023
+* [What can we know about that which we cannot even imagine?](https://arxiv.org/abs/2208.03886) <small>ARA</small>
+
 ###### read in 2022
 * [Maximal Algorithmic Caliber and Algorithmic Causal Network Inference: General Principles of Real-World General Intelligence?](https://arxiv.org/abs/2005.04589) <small>ARA</small>
 * [Compositional Scientific Computing with Catlab and SemanticModels](https://arxiv.org/abs/2005.04831) <small>ARA</small>
@@ -317,5 +320,6 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
 * [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 * [General Theory of General Intelligence](https://www.youtube.com/playlist?list=PLAJnaovHtaFTK9E1xHnBWZeKtAOhonqH5)
+* [Boltzmann Law: Physics to Computing](https://www.edx.org/course/boltzmann-law-physics-to-computing)
 
 [*^ back to top ^*](#toc)
