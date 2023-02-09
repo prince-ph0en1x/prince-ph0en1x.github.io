@@ -10,6 +10,9 @@ image:
     title:
     caption: 
     caption_url:
+gallery:
+    - image_url: research/interests_2021.png
+      caption: 
 permalink: "/research/interests/"
 ---
 
@@ -51,7 +54,9 @@ Research themes evolve over time. My older interests are listed with ~~strikethr
 
 Here's a visual that captures the most important topics:
 
-[![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)
+{% include gallery %}
+
+<!--[![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)-->
 
 [*^ back to top ^*](#toc)
 
