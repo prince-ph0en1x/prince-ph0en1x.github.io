@@ -157,11 +157,12 @@ The following articles had major influence on my research scoping. The research 
 ### Scientists with similar research interest <a name="researchers"></a>
 
 Some researchers I currently follow very closely for my research, as they have overlapping interests with me.
-* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
 * [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Experimental algorithmic information theory; Block decomposition method
+* [Stephen Wolfram](https://dblp.org/pid/09/4291.html) - Cellular automata types, Metamathematics
+* [Ben Goertzel](https://scholar.google.com/citations?hl=en&user=kTfdhRcAAAAJ&view_op=list_works&sortby=pubdate) - Artificial general intelligence; probabilistic logic networks
+* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
 * [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
 * [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
-* Stephen Wolfram - Cellular automata types, Metamathematics
 * [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory; quantum computing
 * [John Baez ](https://scholar.google.com/citations?hl=en&user=wmwJlb0AAAAJ&view_op=list_works&sortby=pubdate) - Applied category theory
 * [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
@@ -172,10 +173,11 @@ Some researchers I currently follow very closely for my research, as they have o
 ### Favourite formulae/hypotheses <a name="formulae"></a>
 
 List of formulae or hypotheses that I find most impactful
-* Deutsch-Church-Turing thesis
+* Deutsch-Church-Turing principle
 * Curry-Howard-Lambek correspondence
 * Mass-Energy-Information equivalence
 * Area law of entanglement
+* Choi-Jamiołkowski isomorphism
 * Thermodynamic Kolmogorov complexity
 * QKSA
 * AIXI
@@ -283,6 +285,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [Oron Shagrir](https://scholar.google.com/citations?hl=en&user=ljdlT1oAAAAJ&view_op=list_works&sortby=pubdate)
 * [Mark Sprevak](https://scholar.google.com/citations?hl=en&user=dLRKGTMAAAAJ&view_op=list_works&sortby=pubdate)
 * Jack Copeland
+* [Ben Goertzel](https://scholar.google.com/citations?hl=en&user=kTfdhRcAAAAJ&view_op=list_works&sortby=pubdate) - Artificial general intelligence; probabilistic logic networks
 
 ... the list keeps growing as the horizon of my knowledge widens.
 
