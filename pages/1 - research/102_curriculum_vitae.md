@@ -17,7 +17,7 @@ permalink: "/research/cv/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
 
-* [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018)
+<!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Google Scholar](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
 * [ORCiD](https://orcid.org/0000-0002-3026-6892)
@@ -27,7 +27,9 @@ permalink: "/research/cv/"
 * *Post-doctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
 
 #### Pro-bono Activities
-* *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
+* *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
+* *Coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
+* *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia (past)
 * *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
 * *Steering committee* - [QIndia](https://qindia.org/); India
 
@@ -45,8 +47,9 @@ permalink: "/research/cv/"
       - Research Intern (2017 - 2018)
 * Department of Space, Government of India
    - [Indian Space Research Organisation](https://www.isro.gov.in/)
-      - ISRO Satellite Centre (now renamed as [U.R. Rao Satellite Centre](https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc)), Bengaluru
+      - ISRO Satellite Centre (now renamed to [U.R. Rao Satellite Centre](https://www.isro.gov.in/about-isro/u-r-rao-satellite-centre-ursc)), Bengaluru
       - Scientist/Engineer (2013 - 2016)
    - [Indian Institute of Space Science and Technology](http://www.iist.ac.in/), Thiruvananthapuram
       - Bachelor of Technology (2009 - 2013) in Avionics
 * [Assembly of God Church School](http://agcschools.edu.in/), Kolkata
+* [Assembly of God Church School](http://agcschools.edu.in/), Purulia
