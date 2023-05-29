@@ -28,7 +28,7 @@ I aided in the development and delivery of the following courses:
 
 ### Project supervision
 
-I was involved in proposed the topics, guiding the research methodology and quantum computing technicalities for following theses:
+I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
 * **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA involved programming some useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
@@ -46,6 +46,18 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 
 ### Presentations and Videos
 
+* Quantum Circuit Probability
+    - 2023-05-29: Quantum Science Days
+* Automated Quantum Software Engineering: Why? What? How?
+    - 2022-12-01: Quantum Flanders Meet
+* Machine Learning for Quantum Computation
+    - 2022-09-22: IEEE Quantum Week Tutorial
+* QKSA: Quantum Knowledge Seeking Agent [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=IFs7nVoTGRg&t=26668s)
+    - 2022-08-21: AGI-22 Day 2 | Technical Paper Presentations
+* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
+    - 2022-06-30: Expert Talk at Bennett university
+* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
+    - 2022-06-30: Expert Talk at Bennett university
 * An interdisciplinary introduction to Quantum Computation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KSEJjrU_pvU)
     - 2021-06-19: Qoffee o'Clock by QIndia
 * Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
