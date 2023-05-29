@@ -25,6 +25,7 @@ I aided in the development and delivery of the following courses:
 * [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23</small>
+* Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
 
 ### Supervision
 
