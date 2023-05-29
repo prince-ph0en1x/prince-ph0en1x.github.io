@@ -26,8 +26,9 @@ I aided in the development and delivery of the following courses:
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23</small>
 
-### Doctoral Project co-supervision
+### Supervision
 
+#### Doctoral research co-supervision
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Matthew Steinberg** - Efficient quantum error correction codes
 * **Medina Bandic** - Quantum circuit mapping
@@ -40,7 +41,7 @@ I aided in the development and delivery of the following courses:
 * **Arne Wulff** - Quantum algorithms for aerospace material design
 * **Koen Mesman** - Quantum algorithms for aerospace material design
 
-### Masters Project supervision
+#### Masters thesis supervision
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 * **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
 * **Karthik Krishnakumar** - Master's thesis at Birla Institute of Technology and Science, India on `Distributed Quantum Circuit Simulation' was an initial exploration towards various techniques to enable the QX Simulator to handle a larger number of qubits.
@@ -59,12 +60,11 @@ I was involved in the weekly brainstorming sessions and part of the graduation d
 * **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
-### Bachelors Project supervision
+#### Bachelors project supervision
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA involved programming some useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
 ### Presentations and Videos
-
 * Quantum Circuit Probability
     - 2023-05-29: Quantum Science Days
 * Automated Quantum Software Engineering: Why? What? How?
