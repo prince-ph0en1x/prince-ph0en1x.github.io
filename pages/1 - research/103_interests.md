@@ -78,11 +78,13 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ### Links to articles I love <a name="articles"></a>
 
-The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>ARA</small>. The bold ones are the major background works for each project.
+The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
 #### Postdoc research
 
 ###### read in 2023
+* [Discovering Quantum Circuit Components with Program Synthesis](https://arxiv.org/abs/2305.01707) <small>YAQQ</small>
+* [Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518) <small>QCA</small>
 * [What can we know about that which we cannot even imagine?](https://arxiv.org/abs/2208.03886) <small>ARA</small>
 
 ###### read in 2022
@@ -92,7 +94,7 @@ The following articles had major influence on my research scoping. The research 
 * [Finding Structure in Science and Mathematics](http://www.sci.brooklyn.cuny.edu/~noson/FindingStructure.pdf) <small>ARA</small>
 * [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) <small>ARA</small>
 * [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/) <small>**ARA**</small>
-* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>QKSA+</small>
+* [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>YAQQ</small>
 
 #### Ph.D. research
 
@@ -103,7 +105,7 @@ The following articles had major influence on my research scoping. The research 
 * [Testing quantum theory with thought experiments](https://arxiv.org/abs/2106.05314) <small>QKSA+</small>
 * [The Concept of the Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/) <small>QKSA, **ARA**</small>
 * [Algorithmic Thermodynamics](https://arxiv.org/abs/1010.2067) <small>QKSA, ARA</small>
-* [The Second Law of Quantum Complexity](https://arxiv.org/abs/1701.01107) <small>QKSA, ARA</small>
+* [The Second Law of Quantum Complexity](https://arxiv.org/abs/1701.01107) <small>QKSA, YAQQ</small>
 * [Thermodynamic costs of Turing machines](https://arxiv.org/abs/1912.04685) <small>QKSA, ARA</small>
 
 ###### read in 2020
