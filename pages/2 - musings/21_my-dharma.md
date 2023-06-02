@@ -224,6 +224,15 @@ Things I wish were there
 Things I wish weren't there
 * The entire second part should have been a different book. The first part has a much noble purpose (being a concise description of sanatan dharma in English) than just being the background story of part two.
 
+### Interesting Links
+* [How Reality May Be a Sum of All Possible Realities](https://www.wired.com/story/how-reality-may-be-a-sum-of-all-possible-realities/)
+* [Japanese Philosophy Based On Myers-Briggs Personality Type](https://www.psychologyjunkie.com/the-japanese-philosophy-youll-love-based-on-your-myers-briggs-personality-type/)
+* [7 thought experiments that will make you question everything](https://bigthink.com/personal-growth/seven-thought-experiments-thatll-make-you-question-everything/)
+* [The blind spot of science is the neglect of lived experience](https://aeon.co/essays/the-blind-spot-of-science-is-the-neglect-of-lived-experience)
+* [Albert Camus on Absurdity and Making Sense of an Indifferent Universe](https://theexaminedlife.org/library/the-myth-of-sisyphus)
+* [Is It Possible To Think Without Language?](https://www.mentalfloss.com/article/50684/it-possible-think-without-language)
+* [Form Is Emptiness, Emptiness Is Form](https://studybuddhism.com/en/advanced-studies/lam-rim/vipashyana/commentary-on-the-heart-sutra-dr-berzin/form-is-emptiness-emptiness-is-form)    
+    
 ### List of posts I wish I had the time to type out
 
 These are approximately the ideas I want to discuss in this page in the future.
