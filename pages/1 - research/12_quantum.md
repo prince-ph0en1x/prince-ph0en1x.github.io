@@ -31,7 +31,7 @@ permalink: "/research/quantum/"
 
 (abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
-### <span style="color:magenta"> QC Resources </span>
+### QC Resources
 
 (Created Jun 21, 2020) (Updated Sep 26, 2021)
 
@@ -76,30 +76,19 @@ Quantum computing platforms:
  [7]:[https://quantumcomputing.stackexchange.com/]
  [8]:[https://quantiki.org/]
 
-### <span style="color:magenta"> In Quantum </span>
+### Q Mythbusters
 
-(Created Mar 1, 2022)
+#### DeHyping Quantum
 
-A list of links regarding quantum (especially, computing) activities in India.
-Will eventually help in contributing to efforts of QIndia.
-
-Organizations:
-* QTpi - [link](https://sites.google.com/view/qtpi/home?authuser=0)
-* QIndia
-* QETCI = [link](https://qetci.org/)
-
-Academic programs:
-* tbd
-
-Academic research groups:
-* tbd
-
-Industrial groups:
-* IBM
-* TCS Research and Innovation
-
-
-### <span style="color:magenta"> Q Mythbusters </span>
+List of resources presenting a realist view of the current challenges of quantum computing:
+    * [2008 - The Limits of Quantum Computers](https://www.scientificamerican.com/article/the-limits-of-quantum-computers/)
+    * [2015 - Read the Fine Print](https://www.nature.com/articles/nphys3272)
+    * [2020 - The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d)
+    * [2021 - Quantum Computing: From NISQ to PISQ](https://www.computer.org/csdl/magazine/mi/2021/05/09537173/1wTizdRwupa)
+    * [2021 - Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103)
+    * [2023 - Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518)
+    * [2023 - What will a quantum computer be good for, exactly?](https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html)
+    * [2023 - Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage](https://dl.acm.org/doi/10.1145/3571725)
 
 #### 200 qubits can map to all the atoms in the Universe
 
@@ -147,7 +136,31 @@ This has nothing to do with the Quantum Supremacy limit that I will discuss soon
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:magenta"> Career in QC - a guide for highschoolers </span>
+### IN Quantum
+
+(Created Mar 1, 2022)
+
+A list of links regarding quantum (especially, computing) activities in India.
+Will eventually help in contributing to efforts of QIndia.
+
+Organizations:
+* QTpi - [link](https://sites.google.com/view/qtpi/home?authuser=0)
+* QIndia
+* QETCI = [link](https://qetci.org/)
+
+Academic programs:
+* tbd
+
+Academic research groups:
+* tbd
+
+Industrial groups:
+* IBM
+* TCS Research and Innovation
+    
+[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+    
+### Career in QC - a guide for highschoolers
 
 (Jul 8, 2020)
 
@@ -222,7 +235,7 @@ Back to the question:
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:magenta"> Q Programming Languages </span>
+### Q Programming Languages
 
 (Jun 21, 2020)
 
@@ -241,7 +254,7 @@ Beware, developing 'realistic' application is difficult due to limitation in qua
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:magenta"> Universal Gate Set </span>
+### Universal Gate Set
 
 (Jun 21, 2020)
 
@@ -279,7 +292,7 @@ If we design special purpose hardware to support a specific data transform, it w
 
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
-### <span style="color:magenta"> Quantum Quixote </span>
+### Quantum Quixote
 
 (Mar 24, 2019)
 
