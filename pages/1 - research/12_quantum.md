@@ -15,17 +15,17 @@ permalink: "/research/quantum/"
 
 ## Posts
 
+
 <div class="row">
 <div class="medium-8 medium-push-0 columns" markdown="1">
 <div class="panel radius" markdown="1">
+**Topics**
 {: #toc }
 *  TOC
 {:toc}
-{:toc_levels:"1"}
+<!-- {:toc_levels:"1"} -->
 </div>
 </div><!-- /.medium-4.columns -->
-
-
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
@@ -81,14 +81,14 @@ Quantum computing platforms:
 #### DeHyping Quantum
 
 List of resources presenting a realist view of the current challenges of quantum computing:
-    * [2008 - The Limits of Quantum Computers](https://www.scientificamerican.com/article/the-limits-of-quantum-computers/)
-    * [2015 - Read the Fine Print](https://www.nature.com/articles/nphys3272)
-    * [2020 - The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d)
-    * [2021 - Quantum Computing: From NISQ to PISQ](https://www.computer.org/csdl/magazine/mi/2021/05/09537173/1wTizdRwupa)
-    * [2021 - Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103)
-    * [2023 - Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518)
-    * [2023 - What will a quantum computer be good for, exactly?](https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html)
-    * [2023 - Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage](https://dl.acm.org/doi/10.1145/3571725)
+* [2008 - The Limits of Quantum Computers](https://www.scientificamerican.com/article/the-limits-of-quantum-computers/)
+* [2015 - Read the Fine Print](https://www.nature.com/articles/nphys3272)
+* [2020 - The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d)
+* [2021 - Quantum Computing: From NISQ to PISQ](https://www.computer.org/csdl/magazine/mi/2021/05/09537173/1wTizdRwupa)
+* [2021 - Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103)
+* [2023 - Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518)
+* [2023 - What will a quantum computer be good for, exactly?](https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html)
+* [2023 - Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage](https://dl.acm.org/doi/10.1145/3571725)
 
 #### 200 qubits can map to all the atoms in the Universe
 
