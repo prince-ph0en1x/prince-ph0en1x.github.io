@@ -237,7 +237,7 @@ Things I wish weren't there
 * [The Monster in the Library of Turing](https://thorehusfeldt.com/2015/04/10/the-monster-in-the-library-of-turing/)
 * [The Babel Algorithm](https://sfiscience.medium.com/the-babel-algorithm-f2416fabbe2d)
 * [Yat Pinde Tat Brahmande](https://www.yogapedia.com/definition/9326/yat-pinde-tat-brahmande)
-
+* [All is One](https://aeon.co/essays/monist-philosophy-and-quantum-physics-agree-that-all-is-one)
     
 ### List of posts I wish I had the time to type out
 
