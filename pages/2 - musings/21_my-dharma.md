@@ -235,6 +235,9 @@ Things I wish weren't there
 * [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
 * [The Concept of "Quantum-Like"](https://encyclopedia.pub/entry/20445)
 * [The Monster in the Library of Turing](https://thorehusfeldt.com/2015/04/10/the-monster-in-the-library-of-turing/)
+* [The Babel Algorithm](https://sfiscience.medium.com/the-babel-algorithm-f2416fabbe2d)
+* [Yat Pinde Tat Brahmande](https://www.yogapedia.com/definition/9326/yat-pinde-tat-brahmande)
+
     
 ### List of posts I wish I had the time to type out
 
