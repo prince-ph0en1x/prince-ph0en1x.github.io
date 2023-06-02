@@ -232,6 +232,9 @@ Things I wish weren't there
 * [Albert Camus on Absurdity and Making Sense of an Indifferent Universe](https://theexaminedlife.org/library/the-myth-of-sisyphus)
 * [Is It Possible To Think Without Language?](https://www.mentalfloss.com/article/50684/it-possible-think-without-language)
 * [Form Is Emptiness, Emptiness Is Form](https://studybuddhism.com/en/advanced-studies/lam-rim/vipashyana/commentary-on-the-heart-sutra-dr-berzin/form-is-emptiness-emptiness-is-form)    
+* [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
+* [The Concept of "Quantum-Like"](https://encyclopedia.pub/entry/20445)
+* [The Monster in the Library of Turing](https://thorehusfeldt.com/2015/04/10/the-monster-in-the-library-of-turing/)
     
 ### List of posts I wish I had the time to type out
 
