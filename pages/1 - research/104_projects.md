@@ -24,9 +24,9 @@ permalink: "/research/projects/"
 * Machine learning control of quantum programmable matter
 * Algorithmic thermodynamics of quantum circuits and programs
 * Estimation of energy cost of quantum computation via complexity
-* Algorithmic probability guided quantum geometric machine learning <small>(looking for collaborator)</small>
-* Linear logic proof net based quantum circuit verification <small>(looking for collaborator)</small>
-* Embedded knowledge seeking agent for quantum second-order cybernetics <small>(looking for collaborator)</small>
+* Algorithmic probability guided quantum geometric machine learning <span style="color:magenta"><small>(looking for collaborators)</small></span>
+* Linear logic proof net based quantum circuit verification <span style="color:magenta"><small>(looking for collaborators)</small></span>
+* Embedded knowledge seeking agent for quantum second-order cybernetics <span style="color:magenta"><small>(looking for collaborators)</small></span>
 * Quantum algorithms for mRNA codon optimization and sequence design
 * Quantum neural networks for satellite image processing
 
