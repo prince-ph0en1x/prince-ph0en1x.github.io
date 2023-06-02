@@ -85,6 +85,7 @@ The following articles had major influence on my research scoping. The research 
 ###### read in 2023
 * [Discovering Quantum Circuit Components with Program Synthesis](https://arxiv.org/abs/2305.01707) <small>YAQQ</small>
 * [Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518) <small>QCA</small>
+* [Quantum computation with machine-learning-controlled quantum stuff](https://iopscience.iop.org/article/10.1088/2632-2153/abb215) <small>YAQQ</small>
 * [What can we know about that which we cannot even imagine?](https://arxiv.org/abs/2208.03886) <small>ARA</small>
 
 ###### read in 2022
