@@ -31,7 +31,7 @@ permalink: "/creative-corner/recipes/"
 ### Spice Rack
 
 Here's a list of spices that I had/have in my kitchen at Bengaluru/Delft (in languages I have to buy them in, i.e. English/Hindi/Bengali/Dutch).
-Kinda gives you an idea what my fascination is about.
+Kinda gives you an idea what my fascination is about. 
 * Cinnamon/Dalchini/Kaneel whole + powder
 * Cardamom/Elaichi whole + powder
 * Clove/Lobongo whole
@@ -58,6 +58,10 @@ Kinda gives you an idea what my fascination is about.
 * Betel leaf
 * Mustard
 * Oregano
+* Basil
+* Thyme/Tijm
+* Parsley/Peterselie
+* Rosemary
 
 ### Cooklang Recipes
 
