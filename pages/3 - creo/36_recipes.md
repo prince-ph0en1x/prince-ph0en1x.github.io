@@ -30,19 +30,15 @@ permalink: "/creative-corner/recipes/"
 
 ### Spice Rack
 
-Here's a list of spices that I had/have in my kitchen at Bengaluru/Delft (in languages I have to buy them in, i.e. English, Hindi/Bengali, Dutch).
+Here's a list of spices that I had/have in my kitchen at Bengaluru/Delft (in languages I have to buy them in, i.e. English/Hindi/Bengali/Dutch).
 Kinda gives you an idea what my fascination is about.
-* Cinnamon/Dalchini/Kaneel whole
-* Cinnamon/Dalchini/Kaneel powder
-* Cardamom/Elaichi whole
-* Cardamom/Elaichi powder
+* Cinnamon/Dalchini/Kaneel whole + powder
+* Cardamom/Elaichi whole + powder
 * Clove/Lobongo whole
-* Pepper/GolMorich whole
-* Pepper/GolMorich coarse ground
-* Pepper/GolMorich powder
-* Jeera
-* Dhone
-* Tez patta
+* Pepper/GolMorich whole + coarse + powder
+* Jeera whole + powder
+* Dhone whole + powder
+* BayLeaves/TezPata
 * Coffee
 * Holy basil
 * Nutmeg
