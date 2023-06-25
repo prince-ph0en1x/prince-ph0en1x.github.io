@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "formalising thoughts"
+meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
@@ -11,7 +11,6 @@ image: no
 #    caption: "3 of my favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff"
 #    caption_url:
 permalink: "/research/"
-
 
 widget1:
   title: "Research Interests"

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: ""
+title: "Algorithmic Information"
 mathjax: true
 meta_title: ""
 subheadline: ""
@@ -11,7 +11,7 @@ header:
     pattern:  "page_head/bk03.jpg"
     caption: 
     caption_url:
-permalink: "/research/agi/"
+permalink: "/musings/agi/"
 ---
 
 <!-- https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents -->

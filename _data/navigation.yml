@@ -8,10 +8,6 @@
   dropdown:
   - title: "Research Interests"
     url: "/research/interests/"
-  - title: "   ››› AGI"
-    url: "/research/agi/"
-  - title: "   ››› QC"
-    url: "/research/quantum/"
   - title: "Projects & Publications"
     url: "/research/projects/"
   - title: "Teaching & Outreach"
@@ -23,8 +19,12 @@
   url: "/musings/"
   side: left
   dropdown:
-  - title: "My Dharma"
+  - title: "Sanatana Dharma"
     url: "/musings/my-dharma/"
+  - title: "Algorithmic Information"
+    url: "/musings/agi/"
+  - title: "Quantum Quixote"
+    url: "/musings/quantum/"
   - title: "Society"
     url: "/musings/society/"
 

@@ -10,7 +10,7 @@ image:
     title: "page_head/qq.jpg"
     caption: 
     caption_url:
-permalink: "/research/quantum/"
+permalink: "/musings/quantum/"
 ---
 
 ## Posts

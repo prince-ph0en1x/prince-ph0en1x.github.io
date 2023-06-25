@@ -6,106 +6,49 @@ subheadline: ""
 teaser: ""
 comments: true
 header: no
-image:
-    title: 
-    caption: 
-    caption_url:
+image: no
+#    title: 
+#    caption: 
+#    caption_url:
 permalink: "/musings/"
+
+widget1:
+  title: "Sanatana Dharma"
+  url: 'https://aritrasarkar.com/musings/my-dharma/'
+  image: research/r01.jpg
+  text: ''
+widget2:
+  title: "Algorithmic Information"
+  url: 'https://aritrasarkar.com/musings/agi/'
+  image: research/r02.jpg
+  text: ''
+widget3:
+  title: "Quantum Quixote"
+  url: 'https://aritrasarkar.com/musings/quantum/'
+  image: research/r03.jpg
+  text: ''
+widget4:
+  title: "Society"
+  url: 'https://aritrasarkar.com/musings/society/'
+  image: research/r04.jpg
+  text: ''
 ---
 
 <body style="background-color:#F0F4F7;"></body>
 
-Can you stop thinking? Can you stop thinking about thinking? ... there you go... down the rabbit-hole again... exploring the unknown unknowns...
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
-
-#### Index <a name="toc"></a>
-1. [Propositions](#prop)
-2. [Fascinating Fiction](#ideas)
-
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget1 %}
+	{% include _frontpage-widget.html widget=page.widget2 %}
 </div>
 
-<div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget3 %}
+	{% include _frontpage-widget.html widget=page.widget4 %}
+</div>
 
-
-### Propositions <a name="prop"></a>
-
-A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends or Arshia.
-
-#### Ph.D. Dissertation
-Some of these you can find in my PhD [propositions](https://academia.stackexchange.com/questions/104643/what-is-purpose-and-meaning-of-propositions-in-phd-thesis), which is a very fascinating Dutch academic custom.
-* Philosophical aspects of interdisciplinary research lead to many valuable scientific insights.
-* Variational quantum heuristics share the `correlation versus causation' problem with current machine learning models. 
-* We need to understand the thermodynamic properties of mutating universal constructors to transcend to an intergalactic civilization.
-* The interference patterns we observe as shadows on Plato's classical cave help us to tell mathematical stories about Hilbert space.
-* Shadow libraries that provide open access to knowledge over intellectual property rights are best morally personified as Robin Hood rather than pirates.
-* All models require some axioms/assumptions/faith that define their limits.
-* Knowing everything is equivalent to knowing nothing.
-* Sisyphus (in the Absurd metaphor from Albert Camus) derives his happiness from discovering paths that are easier to remember and climb.
-* A proposition on self-referential proofs will always be opposed during the doctoral defense if a committee member thinks it is wrong.
-
-#### Others
-* Be it described by, Low-complexity art or Occam's razor; Nature favors designs with high informational entropy with low Kolmogorov complexity... in short, God is a lazy programmer!
-* "Sarcasm is a word in the lexicon"... is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel's Incompleteness Theorem?
-* All of learning theory is mostly "Classification + Correlation"... dividing data into sets and understanding the relations between them.
-* Pressing UnDo does not take you into the past, it takes you to an alternate future. Pressing ReDo does not correct your mistake, it accounts for a misjudgment requiring two actions.
-* When you are rolling some dice you can either accept that the results are truly random or you can believe that they are decided by God. But, if you choose the latter, you must understand that this God of yours must roll some virtual dice of his own in order to decide your dice rolling results.
-* Probabilities do not exist. It is only useful for faking the future as present. Statistics is what is real. 
-* If a string is compressed, it must include the decompressor compiler length as part of it. It must also consider the time to decompress it.
-* Randomness is not predictable, not patterned, not biased. Randomness is whatever is left over when we have listed all the known patterns in the universe. [ref](https://www.3quarksdaily.com/3quarksdaily/2014/10/randomness-the-ghost-in-the-machine.html)
-* Repetition is a form of change.
-* Every learning approach begins by imitating previously available resource and improving it. That's why it is called (re)search. Same with DNA heredity, same with PhD theses.
-* A proposition related to the thesis topic is more likely to be opposed.
-* Philisophers are the scouts in the army of science. They don't win you your battles, they explore the terrain so that you can fight the war.
-* All physical Hamiltonins are local. Nature never uses NP hard approaches.
-* Quantum parallelism is weaker than classical parallelism (NP).
-* Nothing is fundamental... neither causality, nor entanglement, nor entropy... the universe started from nothing... thus nothing can be fundamental... only "nothing" is fundamental.
-* You create what you wish to ignore. Axioms.
-* Creating knowledge is as difficult as creating ignorance: the thermodynamic cost of mutual information is same as that of equal bits of algorithmic randomness.
-* Facts don't care about your feelings or do they. Is every truth relative?
-* Tohu wa-bohu
-* Universe is a useless box. Has no purpose as a whole. But each part has a generating mechanism and causal prior and posterior connections that gives a myopic purpose.
-* Semantics is relational... at least the sender (programmer) and receiver (automata) should understand the language... else it is a superstition.
-* Ontic models can only be inductively assumed from epistemic models.
-* If the total information is zero, the new information of a subsystem interaction is balanced by the incompleteness/uncomputability/uncertainty of the self (the other half of the subsystem).
-* The universe as a whole is maximally mixed... just that there's no one to measure it from outside.
-* Observers cannot emerge in homogeneous early universe, thus, from our perspective, there were never a homogeneous state, thus, the question, why something rather than nothing doesn't make sense. It is anthopic.
-* As object's ontology is its epistemological encoding with a compiler length of zero.
-
-### Fascinating Fiction <a name="ideas"></a>
-
-A collection of sci-fi/fantasy ideas.
-* Swastika - The Gateway To Time Travel
-* Om - The Principal Syllable
-* Area 51 - The Mystery Military Base
-* Mathemagical Blackholes and Phi - The Elegance
-* Biorhythm - How It Works
-* God's Arrival - Kingdom of Heaven
-* Aliens and Gods - Story of Niburu
-* Magnetic Anti-gravity - Levitation
-* Yang-Yin - Balance In Nature
-* Ankh, Djed, Was - Egyptian Symbolism
-* Panchbhutas - The Five Elements
-* 11:11 Phenomenon - Guardian Angels
-* Carbon - The Compounds of Life
-* Predicting the future - Nostradamus to Paul The Octopus
-* Mind waves - An unexplored force
-* Deja Vu - Souls and Time revisited
-* Puspakh Ratha and UFOs - A flying timeline 
-* Fractals - From Here To Infinity
-* Bionics and Hormones - Immortality In Our Grasp
-* Augmented Reality - Alice In Wonderland
-* The Tsangpo Gorge - The Hidden Cavern
-* Göbekli Tepe - The History Of Man
-* Mount Meru and Senai - Knocking On Heaven's Door
-* Ark of Covenant - King Solomon's Mines
-* Rama Setu - Mythology And History Mingles
-* The Knights Templar - Preserving Bloodline
-* Nicholas Roerich -  The Chintamani Stone's Power
-* Dwarka - The Lost City
-* Lucid Dreaming - Controlling The Demon
-* DNA Memory - The Next Big Leap
-* Space Elevators - Rail-guns For Low-cost Satellite Launch
-* Aerogel and Carbon Nanotubes - Replacing Steel And Plastic
-
-
+<br />
+<br />
+<br />
+<br />

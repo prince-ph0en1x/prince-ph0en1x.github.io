@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "My Dharma"
+title: "Sanatana Dharma"
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -73,6 +73,52 @@ For now, I identify my philosophical stance as algorithmic absurdist, a merger o
     - In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
 
 These ideas were influenced by computer scientists like Christian Calude, Marcus Hutter, Ray Solomonoff, John von Neumann, Alan Turing, Stephen Wolfram, Jurgen Schmidhuber, David Wolpert; physicists like John Wheeler, Carlo Rovelli, Chaira Martello; philosophers like Rene Descartes, Albert Camus; mathematicians like Kurt Godel, Gregory Chaitin; and many others.
+
+### Propositions
+
+Can you stop thinking? Can you stop thinking about thinking? ... there you go... down the rabbit-hole again... exploring the unknown unknowns...
+
+A collection of those eureka moments when you find an allegory worth remembering – while reading a book, brooding in the shower, or deep philosophical conversations with friends or Arshia.
+
+#### Ph.D. Dissertation
+Some of these you can find in my PhD [propositions](https://academia.stackexchange.com/questions/104643/what-is-purpose-and-meaning-of-propositions-in-phd-thesis), which is a very fascinating Dutch academic custom.
+* Philosophical aspects of interdisciplinary research lead to many valuable scientific insights.
+* Variational quantum heuristics share the `correlation versus causation' problem with current machine learning models. 
+* We need to understand the thermodynamic properties of mutating universal constructors to transcend to an intergalactic civilization.
+* The interference patterns we observe as shadows on Plato's classical cave help us to tell mathematical stories about Hilbert space.
+* Shadow libraries that provide open access to knowledge over intellectual property rights are best morally personified as Robin Hood rather than pirates.
+* All models require some axioms/assumptions/faith that define their limits.
+* Knowing everything is equivalent to knowing nothing.
+* Sisyphus (in the Absurd metaphor from Albert Camus) derives his happiness from discovering paths that are easier to remember and climb.
+* A proposition on self-referential proofs will always be opposed during the doctoral defense if a committee member thinks it is wrong.
+
+#### Others
+* Be it described by, Low-complexity art or Occam's razor; Nature favors designs with high informational entropy with low Kolmogorov complexity... in short, God is a lazy programmer!
+* "Sarcasm is a word in the lexicon"... is a self-referential statement. It is either false, or true but cannot be proven in the premise while preserving it sarcastic truth at the same instant! Godel's Incompleteness Theorem?
+* All of learning theory is mostly "Classification + Correlation"... dividing data into sets and understanding the relations between them.
+* Pressing UnDo does not take you into the past, it takes you to an alternate future. Pressing ReDo does not correct your mistake, it accounts for a misjudgment requiring two actions.
+* When you are rolling some dice you can either accept that the results are truly random or you can believe that they are decided by God. But, if you choose the latter, you must understand that this God of yours must roll some virtual dice of his own in order to decide your dice rolling results.
+* Probabilities do not exist. It is only useful for faking the future as present. Statistics is what is real. 
+* If a string is compressed, it must include the decompressor compiler length as part of it. It must also consider the time to decompress it.
+* Randomness is not predictable, not patterned, not biased. Randomness is whatever is left over when we have listed all the known patterns in the universe. [ref](https://www.3quarksdaily.com/3quarksdaily/2014/10/randomness-the-ghost-in-the-machine.html)
+* Repetition is a form of change.
+* Every learning approach begins by imitating previously available resource and improving it. That's why it is called (re)search. Same with DNA heredity, same with PhD theses.
+* A proposition related to the thesis topic is more likely to be opposed.
+* Philisophers are the scouts in the army of science. They don't win you your battles, they explore the terrain so that you can fight the war.
+* All physical Hamiltonins are local. Nature never uses NP hard approaches.
+* Quantum parallelism is weaker than classical parallelism (NP).
+* Nothing is fundamental... neither causality, nor entanglement, nor entropy... the universe started from nothing... thus nothing can be fundamental... only "nothing" is fundamental.
+* You create what you wish to ignore. Axioms.
+* Creating knowledge is as difficult as creating ignorance: the thermodynamic cost of mutual information is same as that of equal bits of algorithmic randomness.
+* Facts don't care about your feelings or do they. Is every truth relative?
+* Tohu wa-bohu
+* Universe is a useless box. Has no purpose as a whole. But each part has a generating mechanism and causal prior and posterior connections that gives a myopic purpose.
+* Semantics is relational... at least the sender (programmer) and receiver (automata) should understand the language... else it is a superstition.
+* Ontic models can only be inductively assumed from epistemic models.
+* If the total information is zero, the new information of a subsystem interaction is balanced by the incompleteness/uncomputability/uncertainty of the self (the other half of the subsystem).
+* The universe as a whole is maximally mixed... just that there's no one to measure it from outside.
+* Observers cannot emerge in homogeneous early universe, thus, from our perspective, there were never a homogeneous state, thus, the question, why something rather than nothing doesn't make sense. It is anthopic.
+* As object's ontology is its epistemological encoding with a compiler length of zero.
 
 ### Philosophical stance
 
