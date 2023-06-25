@@ -15,22 +15,22 @@ permalink: "/musings/"
 widget1:
   title: "Sanatana Dharma"
   url: 'https://aritrasarkar.com/musings/my-dharma/'
-  image: research/r01.jpg
+  image: musings/m01.jpg
   text: ''
 widget2:
   title: "Algorithmic Information"
   url: 'https://aritrasarkar.com/musings/agi/'
-  image: research/r02.jpg
+  image: musings/m02.jpg
   text: ''
 widget3:
   title: "Quantum Quixote"
   url: 'https://aritrasarkar.com/musings/quantum/'
-  image: research/r03.jpg
+  image: musings/m03.jpg
   text: ''
 widget4:
   title: "Society"
   url: 'https://aritrasarkar.com/musings/society/'
-  image: research/r04.jpg
+  image: musings/m04.jpg
   text: ''
 ---
 
@@ -44,8 +44,8 @@ widget4:
 </div>
 
 <div class="row t60">
-	{% include _frontpage-widget.html widget=page.widget3 %}
 	{% include _frontpage-widget.html widget=page.widget4 %}
+	{% include _frontpage-widget.html widget=page.widget3 %}
 </div>
 
 <br />
