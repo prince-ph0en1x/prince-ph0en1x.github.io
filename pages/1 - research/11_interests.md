@@ -83,6 +83,7 @@ The following articles had major influence on my research scoping. The research 
 #### Postdoc research
 
 ###### read in 2023
+* [Automated Gadget Discovery in Science](https://arxiv.org/abs/2212.12743) <small>YAQQ</small>
 * [Discovering Quantum Circuit Components with Program Synthesis](https://arxiv.org/abs/2305.01707) <small>YAQQ</small>
 * [Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518) <small>QCA</small>
 * [Quantum computation with machine-learning-controlled quantum stuff](https://iopscience.iop.org/article/10.1088/2632-2153/abb215) <small>YAQQ</small>
@@ -313,16 +314,17 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [OpenAI](https://openai.com/) - artificial general intelligence
 * [LessWrong](https://www.lesswrong.com/) - artificial general intelligence
 * [Machine Intelligence Research Institute](https://intelligence.org/) - artificial general intelligence
-* [Wolfram Institute](https://www.wolframinstitute.org/) - multi-computation
+* [xAI](https://x.ai/) - artificial general intelligence
 * [OpenNARS](https://www.opennars.org/) - artificial general intelligence
 * [OpenCog](https://opencog.org/) - artificial general intelligence
-* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
+* [Wolfram Institute](https://www.wolframinstitute.org/) - complexity sciences
 * [Santa Fe Institute](https://www.santafe.edu/) - complexity sciences
+* [Topos Institute](https://topos.institute/) - category theory
 * [nLab](https://ncatlab.org/nlab/show/HomePage) - category theory
+* [Centre for Applied Compositionality](https://www.appliedcompositionality.com/) - category theory
 * [QuTech](https://blog.qutech.nl/) - quantum technologies
 * [FQXi](https://fqxi.org/community/articles) - physics
-* [Topos Institute](https://topos.institute/) - category theory
-* [Centre for Applied Compositionality](https://www.appliedcompositionality.com/) - category theory
+* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
 
 
 [*^ back to top ^*](#toc)
