@@ -25,6 +25,7 @@ permalink: "/musings/agi/"
 4. [(A)daitva](#adaitva)
 5. [The Grand (Un-)unified Theory](#gut2)
 6. [AGI Chatbots](#chat)
+7. [Mind reading](#mind)
 
 </div>
 
