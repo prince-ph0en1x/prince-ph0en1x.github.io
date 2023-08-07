@@ -221,6 +221,16 @@ Links:
 
 [*^ back to top ^*](#toc)
 
+### Mind reading <a name="mind"></a>
+
+(Aug 7, 2023)
+
+Can we read the mind? Most possibly soon.
+Here are a few articles (which I hope to review if/when I find time).
+* [Semantic reconstruction of continuous language from non-invasive brain recordings](https://www.nature.com/articles/s41593-023-01304-9)
+
+[*^ back to top ^*](#toc)
+
 ### (coming soon)
 
 * AIXI and Godel Machines
