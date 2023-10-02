@@ -1552,6 +1552,25 @@ collapses classically indeed
   
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
+### I am I
+
+Am I that?  
+  
+That... which has no name no form,  
+	Nor description that would encompass it all.  
+That... I try to describe, I try to experience, I try to be,  
+	And thus fail in understanding its capability.  
+That... I can symbolize in uncountable ways,  
+	Yet come no closer in measurable clauses.  
+That... which I appreciate only on reflection,  
+	And trot a path absurd enough.  
+  
+"That", an epistemic place holder,  
+	For the question, "Am I?"  
+A question designed to distill the answer.  
+	The only ontic truth, of "I Am."  
+  
+[*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### *To be added*
 #### Legion 

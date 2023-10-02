@@ -24,17 +24,18 @@ I aided in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 * [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
-* [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23</small>
+* [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
 * Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
+* [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
 
 ### Supervision
 
 #### Doctoral research co-supervision
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Matthew Steinberg** - Efficient quantum error correction codes
-* **Medina Bandic** - Quantum circuit mapping
 * **Alan Yu** - Machine learning based gate set tomography
 * **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
+* **Medina Bandic** - Quantum circuit mapping
 * **Hongfeng Zhang** - Quantum algorithms for bioinformatics
 * **Delphine De Smedt** - Quantum algorithms for satellite image processing
 * **Yassine Ferjani** - Quantum security protocols for industrial usecases
@@ -53,7 +54,10 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * **Sacha Szkudlarek** - (ongoing) quantum information theory based lower bounds on quantum circuit mapping
 * **Boran Apak** - (ongoing) quantum circuits dataset augmentation using generative models for quantum compiler testing
 * **David Hamel** - (ongoing) automated design space exploration of spin qubit processors
+* **Joris Henstra** - (ongoing) reinforcement learning based quantum circuit mapping on NISQ processors
+* **Deepika Rajan** - (ongoing) automated discovery of quantum error-correction codes
 * **Sibasish Mishra** - (ongoing) estimation of energy cost of quantum computation via complexity
+* **Sebastiaan Fauquenot** - (ongoing) energy-efficient quantum optimal control
 
 ##### Project guidance and evaluation
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
@@ -66,6 +70,8 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA involved programming some useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
 ### Presentations and Videos
+* Quantum Algorithm Design Automation: Introduction and Overview
+    - 2023-09-22: IEEE Quantum Week Workshop
 * Quantum Circuit Probability
     - 2023-05-29: Quantum Science Days
 * Automated Quantum Software Engineering: Why? What? How?

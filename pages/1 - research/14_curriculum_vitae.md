@@ -27,11 +27,13 @@ permalink: "/research/cv/"
 * *Postdoctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
 
 #### Pro-bono Activities
+* *External expert 2023* - [QuantERA](https://quantera.eu/call-2023-announcement/)
+* *Poster program committee 2023* - [IEEE International Conference on Quantum Computing and Engineering](https://qce.quantum.ieee.org/2023/home/committees/posters-program-committee/)
 * *Publicity chair 2023* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2023/)
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia (past)
-* *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
+* *Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium (past)
 * *Steering committee* - [QIndia](https://qindia.org/); India
 
 #### Past Associations

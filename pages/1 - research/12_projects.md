@@ -20,9 +20,9 @@ permalink: "/research/projects/"
 ## Current Projects
 
 * YAQQ: Novelty search on quantum gate sets
+* MLQC: Machine learning control of quantum programmable matter
+* QART: Algorithmic thermodynamics of quantum circuits and programs
 * Logic programming and circuit interpretability for quantum computing
-* Machine learning control of quantum programmable matter
-* Algorithmic thermodynamics of quantum circuits and programs
 * Estimation of energy cost of quantum computation via complexity
 * Algorithmic probability guided quantum geometric machine learning <span style="color:red"><small>(looking for collaborators)</small></span>
 * Linear logic proof net based quantum circuit verification <span style="color:red"><small>(looking for collaborators)</small></span>
