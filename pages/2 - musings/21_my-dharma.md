@@ -29,7 +29,9 @@ permalink: "/musings/my-dharma/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 
-### Nasadiya Sukta
+### Ved-Vakyas
+
+#### Nasadiya Sukta
 
 Nasadiya Sukta is the 129th hymn of the 10th mandala of the Rigveda (10:129). It is concerned with cosmology and the origin of the universe. Verse 6-7 reads as follow....
 ```
@@ -48,6 +50,14 @@ These verses corroborate both a sense of freedom of thought as well as a limit o
 
 While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
 Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a selective subset (or even an extension) of the established canons existing today.
+
+#### Mahavakyas
+
+#### Brahma Jnanavali Mala
+
+#### Nirvanashatkam
+
+#### Mandukya Upanishad
 
 ### Algorithmic Absurdism
 
@@ -119,6 +129,8 @@ Some of these you can find in my PhD [propositions](https://academia.stackexchan
 * The universe as a whole is maximally mixed... just that there's no one to measure it from outside.
 * Observers cannot emerge in homogeneous early universe, thus, from our perspective, there were never a homogeneous state, thus, the question, why something rather than nothing doesn't make sense. It is anthopic.
 * As object's ontology is its epistemological encoding with a compiler length of zero.
+* `Pragyan` is sentience (conscious of the agent, self); `Vigyan` is intellect (conscious of the environment).
+* Vedanta is about viewing the universe without a specific prior, nirguna. The prior is maya, saguna.
 
 ### Philosophical stance
 
