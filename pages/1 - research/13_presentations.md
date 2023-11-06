@@ -18,43 +18,59 @@ permalink: "/research/presentations/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  
 ### Courses
-I aided in the development and delivery of the following courses:
-* [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
-* [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) at edX from University of Toronto <small>2020-21</small>
-* [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
-* [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
-* [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
-* [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
-* Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
+I aid(ed) in the development and delivery of the following courses:
+
+##### Ongoing
+
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
+* Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
+* [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
+* [Quantum Computing: Architecture and Algorithms](https://studiekiezer.ugent.be/2023/studiefiche/en/E061390) at Ghent University <small>2023-24</small>
+
+##### Past
+
+* [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
+* [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
+* [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) at edX from University of Toronto <small>2020-21</small>
+* [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
+* [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
 
 #### Doctoral research co-supervision
+
 ##### Ongoing
+
 * **Matthew Steinberg** - Efficient quantum error correction codes
 * **Alan Yu** - Machine learning based gate set tomography
 * **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
 * **Medina Bandic** - Quantum circuit mapping
 * **Arne Wulff** - Quantum algorithms for aerospace material design
 * **Koen Mesman** - Quantum algorithms for aerospace material design
+
 ##### Past
+
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Hongfeng Zhang** - Quantum algorithms for bioinformatics
 * **Delphine De Smedt** - Quantum algorithms for satellite image processing
-* **Kourosh Sayar Dogahe** - High impact applications of quantum computational chemistry
-* **Yassine Ferjani** - Quantum security protocols for industrial usecases
+* **Kourosh Sayar Dogahe** - High-impact applications of quantum computational chemistry
+* **Yassine Ferjani** - Quantum security protocols for industrial use-cases
 
-#### Masters thesis supervision
+#### Master thesis supervision
+
 I am/was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
+
 ##### Ongoing
+
 * **Sebastiaan Fauquenot** - (ongoing) energy-efficient quantum optimal control
 * **Sibasish Mishra** - (ongoing) estimation of energy cost of quantum computation via complexity
 * **Deepika Rajan** - (ongoing) automated discovery of quantum error-correction codes
 * **Joris Henstra** - (ongoing) reinforcement learning based quantum circuit mapping on NISQ processors
 * **David Hamel** - (ongoing) automated design space exploration of spin qubit processors
 * **Boran Apak** - (ongoing) quantum circuits dataset augmentation using generative models for quantum compiler testing
+  
 ##### Past
+
 * **Sacha Szkudlarek** - Master's thesis on [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory]() 
 * **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
 * **Duarte Frazão** - Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto, Portugal involved implementing QAOA for financial portfolio optimisation on Qiskit.
@@ -64,20 +80,23 @@ I am/was involved in proposing the topics, quantum computing technicalities, and
 * **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
 
 ##### Project guidance and evaluation
+
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
 * **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
 * **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
-#### Bachelors project supervision
+#### Bachelor project supervision
+
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
-* **Neil Eelman** - Bachelor co-op from Drexel University, USA involved programming some useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
+* **Neil Eelman** - Bachelor co-op from Drexel University, USA, involved programming useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
 ### Presentations and Videos
-* Quantum Algorithm Design Automation: Introduction and Overview
-    - 2023-09-22: IEEE Quantum Week Workshop
-* Quantum Circuit Probability
-    - 2023-05-29: Quantum Science Days
+
+* Quantum Algorithm Design Automation: Introduction and Overview [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=qZvcFplFaTE)
+    - 2023-09-22: IEEE Quantum Week Workshop 
+* Quantum Circuit Probability [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=d8-HzdDfINc)
+    - 2023-05-29: Quantum Science Days 
 * Automated Quantum Software Engineering: Why? What? How?
     - 2022-12-01: Quantum Flanders Meet
 * Machine Learning for Quantum Computation
