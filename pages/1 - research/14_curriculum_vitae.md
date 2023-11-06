@@ -28,6 +28,7 @@ permalink: "/research/cv/"
 
 #### Pro-bono Activities
 * *External expert 2023* - [QuantERA](https://quantera.eu/call-2023-announcement/)
+* *Programme committee 2023* - [Workshop on Services and Quantum Software](https://sqs2023.spilab.es/)
 * *Poster program committee 2023* - [IEEE International Conference on Quantum Computing and Engineering](https://qce.quantum.ieee.org/2023/home/committees/posters-program-committee/)
 * *Publicity chair 2023* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2023/)
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
