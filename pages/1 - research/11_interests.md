@@ -178,6 +178,7 @@ Some researchers I currently follow very closely for my research, as they have o
 
 List of formulae or hypotheses that I find most impactful
 * Deutsch-Church-Turing principle
+* Cantor's Continuum hypothesis
 * Curry-Howard-Lambek correspondence
 * Mass-Energy-Information equivalence
 * Area law of entanglement
@@ -194,7 +195,7 @@ List of formulae or hypotheses that I find most impactful
 
 ### Favourite scientists of all time <a name="faves"></a>
 
-The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
+The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, and Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
 
 [![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
 
@@ -205,6 +206,29 @@ The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler,
 (Created Jul 23, 2019) (Updated Apr 10, 2022)
 
 I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard, for either their thoughts resonate well with mine or their propositions fuel my neural engines. While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
+
+<center>
+[James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) <small>(1831-1879) - Maxwell's demon</small>
+| [Max Plank](https://en.wikipedia.org/wiki/Max_Planck) <small>(1858-1947) - Plank units</small>
+| [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) <small>(1879-1955) - General relativity</small>
+| [Neils Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) <small>(1885-1962) - Atomic model; classical observers</small>
+| [Louis de Bröglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) <small>(1892-1987) - Wave-particle duality</small>
+| [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) <small>(1887-1961) - Wavefunction; life; observer; Schrödinger equation; Schrödinger cat; quantum biology</small>
+| [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) <small>(1901-1976) - Uncertainty principle; matrix mechanics</small>
+| [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) <small>(1903-1957) - Self-replicating machines; automata theory; stored program</small>
+| [Andrey Nikolaevich Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) <small>(1903-1987) - Algorithmic complexity</small>
+| [Alonso Church](https://en.wikipedia.org/wiki/Alonzo_Church) <small>(1903-1995) - Lambda calculus; Church-Turing thesis</small>
+| [Kurt Friedrich Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) <small>(1906-1978) - Incompleteness theorem</small>
+| [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) <small>(1911-2008) - It from bit</small>
+| [Alan Mathison Turing](https://en.wikipedia.org/wiki/Alan_Turing) <small>(1912-1954) - Turing machine; Turing test</small>
+| [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) <small>(1916-2001) - Information theory</small>
+| [Richard Phillips Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) <small>(1918-1988) - Quantum computation; Feynman diagrams</small>
+| [Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot) <small>(1924-2010) - Fractals</small>
+| [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) <small>(1926-2009) - Algorithmic probability; universal prior</small>
+| [Marvin Lee Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) <small>(1927-2016) - Artificial intelligence; perceptron; useless box</small>
+| [Stephen William Hawkins](https://en.wikipedia.org/wiki/Stephen_Hawking) <small>(1942-2018) - Hawkings radiation</small>
+</center>
+
 * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) <small>(1831-1879) - Maxwell's demon</small>
 * [Max Plank](https://en.wikipedia.org/wiki/Max_Planck) <small>(1858-1947) - Plank units</small>
 * [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) <small>(1879-1955) - General relativity</small>
