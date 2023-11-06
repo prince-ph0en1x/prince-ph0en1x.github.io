@@ -58,7 +58,7 @@ I aid(ed) in the development and delivery of the following courses:
 
 #### Master thesis supervision
 
-I am/was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
+I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
 ##### Ongoing
 
