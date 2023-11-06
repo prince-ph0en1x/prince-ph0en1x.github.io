@@ -23,12 +23,12 @@ I aid(ed) in the development and delivery of the following courses:
 ##### Ongoing
 
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
-* Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
 * [Quantum Computing: Architecture and Algorithms](https://studiekiezer.ugent.be/2023/studiefiche/en/E061390) at Ghent University <small>2023-24</small>
 
 ##### Past
 
+* Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
 * [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
 * [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) at edX from University of Toronto <small>2020-21</small>
