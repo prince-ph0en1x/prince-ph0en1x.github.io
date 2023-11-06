@@ -207,9 +207,9 @@ The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler,
 
 I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard, for either their thoughts resonate well with mine or their propositions fuel my neural engines. While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
 
-<center>
-[James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) <small>(1831-1879) - Maxwell's demon</small>
-| [Max Plank](https://en.wikipedia.org/wiki/Max_Planck) <small>(1858-1947) - Plank units</small>
+<center>[James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) <small>(1831-1879) - Maxwell's demon</small>
+. [Max Plank](https://en.wikipedia.org/wiki/Max_Planck) <small>(1858-1947) - Plank units</small></center>
+
 | [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) <small>(1879-1955) - General relativity</small>
 | [Neils Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) <small>(1885-1962) - Atomic model; classical observers</small>
 | [Louis de Bröglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) <small>(1892-1987) - Wave-particle duality</small>
@@ -227,7 +227,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 | [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) <small>(1926-2009) - Algorithmic probability; universal prior</small>
 | [Marvin Lee Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) <small>(1927-2016) - Artificial intelligence; perceptron; useless box</small>
 | [Stephen William Hawkins](https://en.wikipedia.org/wiki/Stephen_Hawking) <small>(1942-2018) - Hawkings radiation</small>
-</center>
+
 
 * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) <small>(1831-1879) - Maxwell's demon</small>
 * [Max Plank](https://en.wikipedia.org/wiki/Max_Planck) <small>(1858-1947) - Plank units</small>
