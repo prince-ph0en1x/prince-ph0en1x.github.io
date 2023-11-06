@@ -17,7 +17,7 @@ permalink: "/research/cv/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
