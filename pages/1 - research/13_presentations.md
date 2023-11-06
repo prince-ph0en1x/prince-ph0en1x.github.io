@@ -62,12 +62,12 @@ I am/was involved in proposing the topics, quantum computing technicalities, and
 
 ##### Ongoing
 
-* **Sebastiaan Fauquenot** - (ongoing) energy-efficient quantum optimal control
-* **Sibasish Mishra** - (ongoing) estimation of energy cost of quantum computation via complexity
-* **Deepika Rajan** - (ongoing) automated discovery of quantum error-correction codes
-* **Joris Henstra** - (ongoing) reinforcement learning based quantum circuit mapping on NISQ processors
-* **David Hamel** - (ongoing) automated design space exploration of spin qubit processors
-* **Boran Apak** - (ongoing) quantum circuits dataset augmentation using generative models for quantum compiler testing
+* **Sebastiaan Fauquenot** - energy-efficient quantum optimal control
+* **Sibasish Mishra** - a resource theory of quantum algorithmic information
+* **Deepika Rajan** - automated discovery of quantum error-correction codes
+* **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
+* **David Hamel** - automated design space exploration of spin qubit processors
+* **Boran Apak** - quantum circuits dataset augmentation using generative models for quantum compiler testing
   
 ##### Past
 
