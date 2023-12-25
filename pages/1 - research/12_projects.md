@@ -21,15 +21,12 @@ permalink: "/research/projects/"
 
 * YAQQ: Novelty search on quantum gate sets
 * MLQC: Machine learning control of quantum programmable matter
-* QART: Algorithmic thermodynamics of quantum circuits and programs
-* Logic programming and circuit interpretability for quantum computing
-* Estimation of energy cost of quantum computation via complexity
+* QART: Algorithmic thermodynamics of quantum programs, circuits and pulses
+* Logic programming and circuit interpretability for quantum computing <span style="color:red"><small>(looking for collaborators)</small></span>
 * Algorithmic probability guided quantum geometric machine learning <span style="color:red"><small>(looking for collaborators)</small></span>
-* Linear logic proof net based quantum circuit verification <span style="color:red"><small>(looking for collaborators)</small></span>
-* Embedded knowledge seeking agent for quantum second-order cybernetics <span style="color:red"><small>(looking for collaborators)</small></span>
-* Quantum algorithms for mRNA codon optimization and sequence design
-* Quantum neural networks for satellite image processing
 
+<!-- * Linear logic proof net based quantum circuit verification <span style="color:red"><small>(looking for collaborators)</small></span> -->
+<!-- * Embedded knowledge seeking agent for quantum second-order cybernetics <span style="color:red"><small>(looking for collaborators)</small></span> -->
 <!-- * Quantum program synthesis using theorem provers and categorical logic -->
 <!-- * Embedded participatory observers in causal sets within conformal fields -->
 <!-- * Quantum accelerated causal inference for applications in explainable AI and bioinformatics  -->
@@ -38,6 +35,9 @@ permalink: "/research/projects/"
 
 ## Past Projects
 (in reverse chronological order)
+* Quantum algorithms for mRNA codon optimization
+* Quantum algorithms for RNA sequence design
+* Quantum neural networks for satellite image processing
 * An application framework for quantum accelerated causal tomography <small>(QWorld, '22)</small>
 * Evolutionary resource-bounded universal reinforcement learning in quantum environments <small>(Ph.D. research '22)</small>
 * Gate based quantum automata for estimation of algorithmic information <small>(Ph.D. research '21)</small>
