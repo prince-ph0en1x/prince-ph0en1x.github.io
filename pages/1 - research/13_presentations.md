@@ -17,16 +17,16 @@ permalink: "/research/presentations/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  
-### Courses
+## Courses
 I aid(ed) in the development and delivery of the following courses:
 
-##### Ongoing
+#### Ongoing
 
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
 * [Quantum Computing: Architecture and Algorithms](https://studiekiezer.ugent.be/2023/studiefiche/en/E061390) at Ghent University <small>2023-24</small>
 
-##### Past
+#### Past
 
 * Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
@@ -35,11 +35,11 @@ I aid(ed) in the development and delivery of the following courses:
 * [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
-### Supervision
+## Supervision
 
-#### Doctoral research co-supervision
+### Doctoral research co-supervision
 
-##### Ongoing
+#### Ongoing
 
 * **Matthew Steinberg** - Efficient quantum error correction codes
 * **Alan Yu** - Machine learning based gate set tomography
@@ -48,7 +48,7 @@ I aid(ed) in the development and delivery of the following courses:
 * **Arne Wulff** - Quantum algorithms for aerospace material design
 * **Koen Mesman** - Quantum algorithms for aerospace material design
 
-##### Past
+#### Past
 
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Hongfeng Zhang** - Quantum algorithms for bioinformatics
@@ -56,11 +56,11 @@ I aid(ed) in the development and delivery of the following courses:
 * **Kourosh Sayar Dogahe** - High-impact applications of quantum computational chemistry
 * **Yassine Ferjani** - Quantum security protocols for industrial use-cases
 
-#### Master thesis supervision
+### Master thesis supervision
 
 I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
-##### Ongoing
+#### Ongoing
 
 * **Mark Cilissen** - an expressive pulse-programming language for quantum control
 * **Sebastiaan Fauquenot** - energy-efficient quantum optimal control
@@ -69,7 +69,7 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 * **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
 * **David Hamel** - automated design space exploration of spin qubit processors
   
-##### Past
+#### Past
 
 * **Boran Apak** - Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://repository.tudelft.nl/islandora/search/) for quantum circuits dataset augmentation for quantum compiler testing.
 * **Sacha Szkudlarek** - Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12).
@@ -80,19 +80,19 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 * **Karthik Krishnakumar** - Master's thesis at Birla Institute of Technology and Science, India on `Distributed Quantum Circuit Simulation' was an initial exploration towards various techniques to enable the QX Simulator to handle a larger number of qubits.
 * **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
 
-##### Project guidance and evaluation
+#### Project guidance and evaluation
 
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
 * **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
 * **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
-#### Bachelor project supervision
+### Bachelor project supervision
 
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA, involved programming useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
-### Presentations and Videos
+## Presentations and Videos
 
 * Quantum Computing and Artificial Intelligence
     - 2023-12-01: Invited Talk at URSC, ISRO
