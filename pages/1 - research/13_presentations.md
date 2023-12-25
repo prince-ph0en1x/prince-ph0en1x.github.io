@@ -62,16 +62,17 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 
 ##### Ongoing
 
+* **Mark Cilissen** - an expressive pulse-programming language for quantum control
 * **Sebastiaan Fauquenot** - energy-efficient quantum optimal control
 * **Sibasish Mishra** - a resource theory of quantum algorithmic information
 * **Deepika Rajan** - automated discovery of quantum error-correction codes
 * **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
 * **David Hamel** - automated design space exploration of spin qubit processors
-* **Boran Apak** - quantum circuits dataset augmentation using generative models for quantum compiler testing
   
 ##### Past
 
-* **Sacha Szkudlarek** - Master's thesis on [Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory]() 
+* **Boran Apak** - Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://repository.tudelft.nl/islandora/search/) for quantum circuits dataset augmentation for quantum compiler testing.
+* **Sacha Szkudlarek** - Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12).
 * **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
 * **Duarte Frazão** - Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto, Portugal involved implementing QAOA for financial portfolio optimisation on Qiskit.
 * **João Lourenço Teixeira Vieira** - Master's thesis on [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto, Portugal involved integrating QuantumSim with cQASM instructions via OpenQL.
@@ -93,6 +94,8 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 
 ### Presentations and Videos
 
+* Quantum Computing and Artificial Intelligence
+    - 2023-12-01: Invited Talk at URSC, ISRO
 * Quantum Algorithm Design Automation: Introduction and Overview [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=qZvcFplFaTE)
     - 2023-09-22: IEEE Quantum Week Workshop 
 * Quantum Circuit Probability [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=d8-HzdDfINc)
@@ -124,6 +127,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
     - 2018-06-22: M.Sc. thesis defence at TU Delft
 
+<!--
 ### Presentations from QCA team
 
 * From qubits to Quantum Accelerator - The Full Stack Vision [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=-Or8f8VUr88)
@@ -144,6 +148,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
     - 2017-09-30: TEDxAntwerp (Koen Bertels)
 * An Experimental Micro-Architecture for a Superconducting Quantum Processor [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=Szm-X4KWm8c)
     - 2017-09-13: Arm Research Summit (Koen Bertels, Carmen Garcia Almudever)
+-->
 
 <!--
 Old format:
