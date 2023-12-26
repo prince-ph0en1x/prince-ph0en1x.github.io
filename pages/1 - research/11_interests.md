@@ -21,7 +21,7 @@ widget1:
   title: "Articles"
   url: 'https://aritrasarkar.com/research/interests/articles'
   image: research/r011.jpg
-  text: ''
+  text: 'Scientific articles I love'
 ---
 
 <body style="background-color:#F4F0F7;"></body>
@@ -32,7 +32,7 @@ widget1:
 1. [Research Questions](#questions)
 2. [Research Themes](#themes)
 3. [Mind Map](#mindmap)
-4. [Links to articles I love](#articles)
+4. [Scientific articles I love](#articles)
 5. [Scientists with similar research interest](#researchers)
 6. [Favourite formulae/hypotheses](#formulae)
 7. [Favourite scientists of all time](#faves)
@@ -81,16 +81,15 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 [*^ back to top ^*](#toc)
 
-### Links to articles I love <a name="articles"></a>
+### Scientific articles I love <a name="articles"></a>
 
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
 </div>
 
-<br />
-<br />
-<br />
-<br />
+p {
+    margin-bottom: 3cm;
+}
 
 ### Scientists with similar research interest <a name="researchers"></a>
 
