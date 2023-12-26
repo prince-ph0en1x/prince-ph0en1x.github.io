@@ -112,20 +112,21 @@ Some researchers I currently follow very closely for my research, as they have o
 ### Favourite formulae/hypotheses <a name="formulae"></a>
 
 List of formulae or hypotheses that I find most impactful
-* Deutsch-Church-Turing principle
-* Cantor's Continuum hypothesis
-* Curry-Howard-Lambek correspondence
-* Mass-Energy-Information equivalence
+* [Cantor's Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis)
+* [Church-Turing-Deutsch principle](https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle)
+* [Curry-Howard-Lambek correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#Curry%E2%80%93Howard%E2%80%93Lambek_correspondence)
+* [Mass-Energy-Information equivalence](https://pubs.aip.org/aip/adv/article/9/9/095206/1076232/The-mass-energy-information-equivalence-principle)
+* [Choi-Jamiołkowski isomorphism](https://en.wikipedia.org/wiki/Choi%E2%80%93Jamio%C5%82kowski_isomorphism)
+* [Solovay-Kitaev theorem](https://en.wikipedia.org/wiki/Solovay%E2%80%93Kitaev_theorem)
+* [Holevo's bound](https://en.wikipedia.org/wiki/Holevo%27s_theorem)
+* [Thermodynamic Kolmogorov complexity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033312)
+* [Quantum Knowledge Seeking Agent](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_37)
+* [AIXI](https://en.wikipedia.org/wiki/AIXI)
+* [Solomonoff induction](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
 * Area law of entanglement
-* Choi-Jamiołkowski isomorphism
-* Thermodynamic Kolmogorov complexity
-* QKSA
-* AIXI
-* Solomonoff induction
 * Mandelbrot set
 * Barsley fern fractal
 * Glynn Julia set
-* Generalized continuum hypothesis
 
 [*^ back to top ^*](#toc)
 
