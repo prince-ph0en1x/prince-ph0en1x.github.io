@@ -17,6 +17,11 @@ gallery:
     - image_url: research/gallery-001.jpg
       caption: Interest 2021
 permalink: "/research/interests/"
+widget1:
+  title: "Articles"
+  url: 'https://aritrasarkar.com/research/interests/articles'
+  image: research/r011.jpg
+  text: ''
 ---
 
 <body style="background-color:#F4F0F7;"></body>
@@ -79,6 +84,10 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 ### Links to articles I love <a name="articles"></a>
 
 Moved [here](https://aritrasarkar.com/research/interests/articles/)
+
+{% include _frontpage-widget.html widget=page.widget1 %}
+
+<!--
 
 The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
@@ -159,6 +168,7 @@ The following articles had major influence on my research scoping. The research 
 * [A New BSQDD Approach for Synthesis of Quantum Circuit](https://ieeexplore.ieee.org/document/6117353) <small>QCA</small>
 * [The Limits of Quantum Computers](https://www.scientificamerican.com/article/the-limits-of-quantum-computers/) <small>QCA</small>
 * [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/abs/quant-ph/9701001) <small>QCA</small>
+-->
 
 ### Scientists with similar research interest <a name="researchers"></a>
 
