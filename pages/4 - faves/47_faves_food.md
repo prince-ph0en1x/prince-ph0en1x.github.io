@@ -5,8 +5,11 @@ meta_title: ""
 subheadline: ""
 teaser: ""
 comments: true
-header:
-   image_fullwidth: "page_head/food.jpg"
+header: no
+image:
+    title:
+    caption: 
+    caption_url:
 permalink: "/faves/food/"
 ---
 
@@ -17,46 +20,109 @@ My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine)
 ### Mughlai
 
 * Hyderabadi mutton biriyani
-* Lucknowi Galawati Kebab
-* Kesar pista icecream
+* Mutton chaap
+* [Lucknowi galouti kebab](https://en.wikipedia.org/wiki/Tunde_ke_kabab)
+* [Reshmi kabab](https://en.wikipedia.org/wiki/Reshmi_kabab)
+* [Mutton haleem](https://www.youtube.com/watch?v=tT_N5n5mLrs)
+* Kesar pista ice cream
 
 ### Bengali
 
-* Ilish bhapa
-* Misti doi
-* Katla peti kalia
-* Aloo posto
-
-### Arabic
-
-### Mediterranean
-
-* Spaghetti alfredo
-* Sicilian pasta With anchovies
-* Moussaka
+* [Pathar mangsher jhol](https://www.youtube.com/watch?v=fHAyfU3VFiU)
+* [Kasha mangsho](https://www.youtube.com/watch?v=CUCtn02Juk0)
+* [Basanti pulao](https://www.youtube.com/watch?v=67SE2Zg2AJI)
+* [Aloo posto](https://www.youtube.com/watch?v=BI1v4Y8Td_M)
+* [Aloo makha](https://www.youtube.com/watch?v=r6VFKDdjohg)
+* [Ilish bhapa](https://www.youtube.com/watch?v=ABcJVlglEXo)
+* [Egg torka](https://www.youtube.com/watch?v=B_B0Is-OAFg)
+* [Egg-chicken roll](https://www.youtube.com/watch?v=NfDXmzS7CsI)
+* [Phuchka](https://en.wikipedia.org/wiki/Panipuri)
+* [Fish kobiraji](https://www.youtube.com/watch?v=NzH3EzqOCVE)
+* [Katla peti kalia](https://www.youtube.com/watch?v=kzVcz8X_waw)
+* [Mochar dal](https://www.youtube.com/watch?v=ENdn9JgEsZA)
+* [Potol misti](https://www.youtube.com/watch?v=JqwnKDfpYl8)
+* [Misti doi](https://en.wikipedia.org/wiki/Mishti_doi)
+* [Ledikeni](https://en.wikipedia.org/wiki/Ledikeni) / [Pantua](https://en.wikipedia.org/wiki/Pantua) / [Lyangcha](https://en.wikipedia.org/wiki/Lyangcha) / [Gulab jamun](https://en.wikipedia.org/wiki/Gulab_jamun)
 
 ### Others
 
-* Medovik - Russian Honey Cake
-* [Kapsalon](https://dutchreview.com/culture/food/the-kapsalon-a-simple-dish-with-a-multicultural-twist/) - Dutch-Tukish calorie bomb
-* Rava kesari bath
-
-cuisine: mughal, bengali, north indian, south indian, italian, greek, dutch,
-
-kapsalon, hajmola (vs drops)
-, kanika pulao, khasir jhol
-potol misti, mysore pak, Gulab Jamun, Pantua and Ledikeni, Panipuri/Phuchka
-https://en.wikipedia.org/wiki/Malabar_plum
-Java apple, Sapodilla, Carambola, lichi, tal sash, coconut, mango,
-shawarma pommes roll, mother of all moos, reshmi kebab,
-masala papad, Mutton Chaanp,
+* [Spaghetti alla carbonara](https://en.wikipedia.org/wiki/Carbonara) / [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) - Alfredo is not so common in Europe as in India. A (often better) replacement is carbonara.
+* [Pasta con le sarde](https://en.wikipedia.org/wiki/Pasta_con_le_sarde) - Sicilian pasta with anchovies, that I picked up on my Italy tour.
+* [Moussaka](https://en.wikipedia.org/wiki/Moussaka)
+* [Medovik](https://en.wikipedia.org/wiki/Medovik) - Russian honey cake
+* [Kapsalon](https://dutchreview.com/culture/food/the-kapsalon-a-simple-dish-with-a-multicultural-twist/) - Dutch-Turkish calorie bomb
+* [Shawarma roll](https://en.wikipedia.org/wiki/Shawarma)
+* [Rava kesari baat](https://en.wikipedia.org/wiki/Kesari_bat)
+* [Mysore pak](https://en.wikipedia.org/wiki/Mysore_pak)
+* [Lijjat masala papad](https://en.wikipedia.org/wiki/Papadam) 
 
 ## Spices
 
+I am a spice curator/connoisseur! The list of spices I have/had in my kitchen in Bengaluru/Delft include:
+
+* Bay leaves (tejpata)
+* Poppy (posto) seeds
+* Turmeric (holud) powder
+* Fennel (mouri) seeds
+* Nigella (kalojeera) seeds 
+* (methi)
+* Cumin (jeera) whole/powder 
+* (shahi jeera)
+* Coriander (dhone) whole/powder
+* Cinnamon (dalchini) whole/powder
+* Cardamom (elachi) whole/powder
+* (shahi elachi)
+* Clove (lobongo)
+* Nutmeg (joiphal) whole/powder
+* Mace (javitri)
+* Saffron
+* Biriyani attar
+* Garlic (rosun) whole/powder
+* Ginger (ada) whole/flakes/powder
+* Chillies whole/flakes/powder
+* Pepper (golmorich) whole/crushed/powder
+* (currypata)
+* (pudina powder)
+* Oregano
+* Thyme
+* Rosemary
+* Parsley
+* Basil
+* Lemongrass
+* Vanilla essence
+* Chat masala
+* Aamchur
+
+## Fruits
+
+I am not a fruit lover in general. However, a few fruits (esp. the sour ones) bring back some childhood memories.
+
+* [Golap jaam](https://en.wikipedia.org/wiki/Syzygium_jambos)
+* [Kamranga](https://en.wikipedia.org/wiki/Carambola)
+* [Tal sash](https://en.wikipedia.org/wiki/Borassus_flabellifer#Fruit)
+* [Kalo jaam](https://en.wikipedia.org/wiki/Syzygium_cumini)
+* [Kod bael](https://en.wikipedia.org/wiki/Limonia_acidissima)
+* [Jamrul](https://en.wikipedia.org/wiki/Syzygium_samarangense)
+* [Gobeda/Sopeda](https://en.wikipedia.org/wiki/Manilkara_zapota)
+* [Paniphol](https://en.wikipedia.org/wiki/Water_caltrop)
+* [Lychee](https://en.wikipedia.org/wiki/Lychee)
+* Mango - [Dasheri](https://en.wikipedia.org/wiki/Dasheri), [Chausa](https://en.wikipedia.org/wiki/Chaunsa)
 
 ## Memories of childhood
 
 90s kid nostalgia: kismi, parle-g, hajmola, coin chocolate, ring pops, cigerette logenze, eclairs,
+
+## Eateries
+
+* [The Saffron Tree](https://www.zomato.com/kolkata/the-saffron-tree-southern-avenue) @ Kolkata - innovative mughlai dishes, menu with a bibliography!
+* [Riyasat](https://www.zomato.com/kolkata/riyasat-prince-anwar-shah-road) @ Kolkata - innovative cocktails
+* [Cafe Thulp](https://www.instagram.com/cafethulp/) @ Bengaluru - mother of all moos
+* [Nizam's](https://www.zomato.com/kolkata/nizams-since-1932-new-market-area) @ Kolkata - Kolkata biriyani and mutton chaap
+* [Onesta](https://www.zomato.com/bangalore/onesta-indiranagar-bangalore) @ Bengaluru - all-you-can-eat thin crust pizzas
+* [Byg Brewski](https://www.zomato.com/bangalore/byg-brewski-brewing-company-hennur-bangalore) @ Bengaluru - amazing ambience, [mead](https://en.wikipedia.org/wiki/Mead)
+* [Hatari](https://www.zomato.com/kolkata/hatari-gariahat/info) @ Kolkata - indo-chinese
+* [Cheese And More] @ Delft - pesto spaghetti pasta
+* [Kobi's Grill] @ Delft - kapsalon loco loco
 
 ## Inspirations
 
@@ -72,5 +138,6 @@ And the favourite channel to learn cooking (esp. Bengali cuisine) is [BongEats](
 * [Zomato](https://www.zomato.com/kolkata)
 * [Swiggy](https://www.swiggy.com/)
 * [Hot Sauce](https://www.heatsupply.nl/en/product-categorie/merchandise-en/)
+* [Indians try Dutch Drops](https://www.youtube.com/watch?v=xOzturza0qo) vs [Dutch try Indian Hajmola](https://www.youtube.com/watch?v=AMvEck0UZt4)
 
 [Drinks](/faves/drinks/)
