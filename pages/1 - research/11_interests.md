@@ -83,11 +83,11 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ### Fav. Articles <a name="articles"></a>
 
-<p style="margin-bottom:3cm;">
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
 </div>
-</p>
+<br>
+<p style="margin-bottom:3cm;"></p>
 
 ### Scientists with similar research interest <a name="researchers"></a>
 
@@ -121,6 +121,7 @@ List of formulae or hypotheses that I find most impactful
 * Mandelbrot set
 * Barsley fern fractal
 * Glynn Julia set
+* Generalized continuum hypothesis
 
 [*^ back to top ^*](#toc)
 
