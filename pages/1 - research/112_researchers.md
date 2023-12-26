@@ -19,13 +19,22 @@ permalink: "/research/interests/researchers/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [On the shoulder of giants](#scientists)
-2. [AIT researchers](#ait)
+1. [Favourite scientists of all time](#faves)
+2. [On the shoulder of giants](#scientists)
+3. [AIT researchers](#ait)
 
 </div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
- 
+
+### Favourite scientists of all time <a name="faves"></a>
+
+The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, and Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
+
+[![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
+
+[*^ back to top ^*](#toc)
+
 ### On the shoulder of giants <a name="scientists"></a>
 
 I have been deeply inspired by many *giants* in the scientific community. I hold them in the highest regard, for either their thoughts resonate well with mine or their propositions fuel my neural engines. While unification has been the holy grail for too long, I find clues lurking in the works of these great men.
