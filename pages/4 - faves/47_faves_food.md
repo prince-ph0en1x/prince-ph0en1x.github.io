@@ -15,7 +15,7 @@ permalink: "/faves/food/"
 
 ## Cuisines
 
-My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine), the blend of Persian and North Indian cuisine during the Mughal rule. My native [Bengali cuisine](https://en.wikipedia.org/wiki/Bengali_cuisine) comes a close second. I spent quite some years in South India and North Europe. There are very few dishes I enjoy from these places.
+My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine), the blend of Persian and North Indian cuisine during the Mughal rule. My native [Bengali cuisine](https://en.wikipedia.org/wiki/Bengali_cuisine) comes a close second. I spent quite some years in South India and North Europe. There are very few dishes I enjoy from these places. One of my most hated dish/cuisine is [sushi](https://en.wikipedia.org/wiki/Sushi), which goes against all 3 of my principles of food: spiced, well cooked, big portions (compare: [murgh musallam](https://en.wikipedia.org/wiki/Murgh_musallam)). 
 
 ### Mughlai
 
@@ -110,7 +110,7 @@ I am not a fruit lover in general. However, a few fruits (esp. the sour ones) br
 
 ## Memories of childhood
 
-90s kid nostalgia: kismi, parle-g, hajmola, coin chocolate, ring pops, cigerette logenze, eclairs,
+90s kid nostalgia: kismi, parle-g, hajmola, coin chocolate, ring pops, cigerette logenze, eclairs, ..
 
 ## Eateries
 
