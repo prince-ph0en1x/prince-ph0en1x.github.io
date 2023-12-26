@@ -41,9 +41,8 @@ widget2:
 5. [Scientists with similar research interest](#researchers)
 6. [Favourite formulae/hypotheses](#formulae)
 7. [Favourite scientists of all time](#faves)
-8. [Fav. Researchers](#scientists)
-9. [Blogs to follow](#blogs)
-10. [Courses I recommend](#courses)
+8. [Blogs to follow](#blogs)
+9. [Courses I recommend](#courses)
 
 </div>
 
@@ -90,9 +89,6 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
-</div>
-
-<div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget2 %}
 </div>
 
