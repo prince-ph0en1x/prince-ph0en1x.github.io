@@ -20,6 +20,7 @@ permalink: "/research/interests/researchers/"
 
 #### Index <a name="toc"></a>
 1. [On the shoulder of giants](#scientists)
+2. [AIT researchers](#ait)
 
 </div>
 
@@ -74,7 +75,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [Harry Buhrman](https://en.wikipedia.org/wiki/Harry_Buhrman) <small>(1966-) algorithmic information theory; quantum computing; computational biology</small>
 * [Marcus Hutter](https://en.wikipedia.org/wiki/Marcus_Hutter) <small>(1967-) universal artificial general intelligence; AIXI-tl</small>
 * [Scott Aaronson](https://scholar.google.nl/citations?hl=en&user=EYv2BNQAAAAJ&view_op=list_works&sortby=pubdate) <small> quantum complexity theory</small>
-* Ken Thompson <small> - Regular expressions; Unix; B</small>
+* Ken Thompson <small> - regular expressions; Unix; B</small>
 * [Eray Özkural](https://scholar.google.com/citations?hl=en&user=r_-Vi64AAAAJ&view_op=list_works&sortby=pubdate) <small> artificial general intelligence</small>
 * [Alyssa Adams](https://scholar.google.com/citations?hl=en&user=KzspA6sAAAAJ&view_op=list_works&sortby=pubdate) <small> evolution; algorithmic complexity</small>
 * [Paola Zizzi](https://arxiv.org/search/?query=Zizzi%2C+Paola&searchtype=author&abstracts=show&order=-submitted_date&size=50)
@@ -109,7 +110,8 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * Bernhard Schölkopf
 * [Vedran Dunjko](https://scholar.google.com/citations?hl=en&user=syyWEfIAAAAJ&view_op=list_works&sortby=pubdate) <small> quantum reinforcement learning</small>
 * [Bob Coecke](https://scholar.google.com/citations?hl=en&user=fO17CXgAAAAJ&view_op=list_works&sortby=pubdate) <small> applied category theory; categorical quantum mechanics</small>
-* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) <small> experimental algorithmic information theory; Block decomposition method</small>
+* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) <small> experimental algorithmic information theory; block decomposition method</small>
+* [Stephen Wolfram](https://dblp.org/pid/09/4291.html) <small> cellular automata types, metamathematics</small>
 * [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) <small> quantum foundations using Solomonoff induction</small>
 * [Camilo Miguel Signorelli](https://scholar.google.com/citations?hl=en&user=FFqbV2YAAAAJ&view_op=list_works&sortby=pubdate)
 * [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) <small> applied category theory</small>
@@ -123,7 +125,123 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * Klaas Landsman
 * [Karim Thebault](https://scholar.google.com/citations?hl=en&user=-30WaMcAAAAJ&view_op=list_works&sortby=pubdate)
 * Dustin Lazarovici
+* [Kamaludin Dingle](https://scholar.google.com/citations?hl=en&user=SZ5uGPMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ... the list keeps growing as the horizon of my knowledge widens.
 
+[*^ back to top ^*](#toc)
+
+### AIT researchers <a name="ait"></a>
+
+In his [blog](http://www.hutter1.net/), Marcus Hutter curates a list of famous AIT (Algorithmic Information Theory) researchers. In this list, I intend to curate the famous as well as the young researchers of this rather niche field. 
+
+* [Andrey Nikolaevich Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)
+* [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff)
+* [Charles Bennett](https://en.wikipedia.org/wiki/Charles_H._Bennett_(physicist))
+* [Paul Vitányi](https://en.wikipedia.org/wiki/Paul_Vit%C3%A1nyi)
+* [Gregory Chaitin](https://en.wikipedia.org/wiki/Gregory_Chaitin)
+* [Peter Gacs](https://en.wikipedia.org/wiki/Peter_Gacs)
+* [Leonid A. Levin](https://en.wikipedia.org/wiki/Leonid_Levin)
+* [Jürgen Schmidhuber](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
+* [Harry Buhrman](https://en.wikipedia.org/wiki/Harry_Buhrman)
+* [Marcus Hutter](https://en.wikipedia.org/wiki/Marcus_Hutter)
+* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate)
+* [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
+* [Laurent Orseau](https://scholar.google.com/citations?hl=en&user=HVJjWlEAAAAJ&view_op=list_works&sortby=pubdate)
+* [Tor Lattimore](https://scholar.google.com/citations?hl=en&user=fkDxJxcAAAAJ&view_op=list_works&sortby=pubdate)
+* [Kamaludin Dingle](https://scholar.google.com/citations?hl=en&user=SZ5uGPMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Aritra Sarkar](https://scholar.google.com/citations?hl=en&user=Qo84iBgAAAAJ&view_op=list_works&sortby=pubdate)
+* [Elliot Catt](https://scholar.google.com/citations?hl=en&user=d1JYeMIAAAAJ&view_op=list_works&sortby=pubdate)
+
+<!--
+
+Research field abbreviations:
+
+Algorithmic Information Theory (AIT),
+Kolmogorov Complexity (KC),
+Algorithmic Probability (AP),
+Algorithmic Randomness (AR),
+Universal Levin Search (US),
+Artificial Intelligence (AI),
+Machine Learning (ML),
+Minimum Description Length (MDL),
+Minimum Message Length (MML),
+Computational Complexity (CC).
+
+Eric Allender	Rutgers University, New Jersey, USA (AR)
+Klaus Ambos-Spies	Universität Heidelberg, Germany (AR)
+Eugene Asarin	Université Joseph Fourier, Grenoble, France
+Luis Antunes	University of Porto, Portugal (AIT)
+Maxim Babenko	Moscow State University, Russia (KC)
+Janis Barzdins	University of Latvia (AIT)
+Verónica Becher	University of Buenos Aires, Argentina (AR,KC)
+Harry Buhrman	CWI and University of Amsterdam, The Netherlands (AR,KC)
+Cristian S. Calude	University of Auckland, New Zealand (AR)
+Gregory J. Chaitin	IBM Research, Yorktown Heights, NY, USA (AR,AI)
+Alexey Chernov	Istituto Dalle Molle di Studi Sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland (KC,CC)
+Thomas Cover	Stanford University, CA, USA (AIT,other)
+David Dowe	Monash University, Melbourne, Australia (MML)
+Rodney G. Downey	Victoria University, New Zealand (AR)
+Bruno Durand	Université de Provence, Marseille, France
+Allan Erskine	University College London, UK (ML,KC)
+Santiago Figueira	University of Buenos Aires, Argentina (AR,KC)
+Lance Fortnow	University of Chicago, USA (CC)
+Péter Gács	Boston University, USA (AIT)
+Alex Gammerman	Royal Holloway University, London, UK (AIT,ML)
+Murray Gell-Mann	Santa Fe Institute, USA (AIT,other)
+Peter Grünwald	CWI and Eindhoven University of Technology, The Netherlands (MDL)
+Denis R. Hirschfeldt	University of Chicago, USA (AR)
+John Hitchcock	University of Wyoming, Laramie, WY, USA (AIT,CC)
+Achim Hoffmann	University of New South Wales, Australia (KC,Occam)
+Günther Hotz	Universität Saarbrücken, Germany (AIT,CC)
+Marcus Hutter	Australian National University, Australia (AIT,AP,AI,ML)
+Yuri Kalnishkan	Royal Holloway University of London, UK (AIT,ML)
+Bjorn Kjos-Hanssen	University of Connecticut, Storrs, CT, USA (AR)
+Andrei Kolmogorov	Moscow, Russia (AIT)
+Kevin Korb	Monash University, Melbourne, Australia (MDL)
+Sophie Laplante	Université Paris-Sud, France (CC,KC,AR)
+Tor Lattimore	Australian National University, Australia (AIT,AP,ML)
+Troy Lee	CWI Amsterdam, The Netherlands (CC,KC)
+Leonid A. Levin	Boston University, USA (AIT)
+Ming Li	University of Waterloo, Canada (AIT)
+Luc Longpré	University of Texas at El Paso, USA (KC,CC)
+Jack Lutz	Iowa State University, USA (AR)
+Jean-Yves Marion	LORIA Université Nancy, France (CC,KC)
+Per Martin-Löf	University of Stockholm, Sweden (AR)
+Elvira Mayordomo	University of Zaragossa, Spain (AR)
+Wolfgang Merkle	Universität Heidelberg, Germany (AR)
+Nenad Mihailovic	Universität Heidelberg, Germany (AR)
+Joseph Miller	University of Wisconsin—Madison, USA (CC,KC,AR)
+Philippe Moser	Iowa State University, USA (AR)
+Andrej Muchnik	Institute of New Technologies, Moscow, Russia (AIT)
+Andre Nies	University of Auckland, New Zealand (AR)
+Jan Poland	Istituto Dalle Molle di Studi Sull'Intelligenza Artificiale (IDSIA), Lugano (AIT,ML)
+Jan Reimann	Universität Heidelberg, Germany (KC,AR)
+Jorma Rissanen	Almaden Research Center, San Jose, CA, USA (MDL)
+Andrei Romashchenko	Institute of Problems of Information Transmission, Moscow, Russia (KC)
+Boris Ryabko	Siberian State University of Telecommunication and Computer Science, Siberia (AR,KC)
+Jürgen Schmidhuber	Istituto Dalle Molle di Studi Sull'Intelligenza Artificiale (IDSIA), Lugano, Switzerland (US,AIT,ML)
+Claus-Peter Schnorr	Goethe-Universität Frankfurt, Germany (AR)
+Robert Solovay	University of California, Berkeley, USA (AIT)
+Alexander Kh. Shen	Institute of Problems of Information Transmission, Moscow, Russia (CC,AIT)
+Theodor A. Slaman	University of California, Berkeley, USA (AR,CC)
+Ray J. Solomonoff	Oxbridge Research, Cambridge, MA, USA (AP,ML,AI)
+Ludwig Staiger	Universität Halle, Germany (AR)
+Frank Stephan	Universität Heidelberg, Germany (AR)
+Sebastiaan A. Terwijn	Technical University of Vienna, Austria (AR)
+Leen Torenvliet	University of Amsterdam, The Netherlands
+Boris A. Trakhtenbrot	Tel Aviv University, Israel
+John Tromp	Formerly at the Dutch Centre for Math&CS and CWI, The Netherlands (CC,KC)
+Maxim Ushakov	Moscow State University, Russia
+Vladimir Uspensky	Moscow State University, Russia
+Vladimir V'yugin	Institute of Problems of Information Transmission, Moscow, Russia (KC)
+Michael Vyugin	Royal Holloway University, London, UK (KC,ML)
+Nikolai Vereshchagin	Moscow State University, Russia (KC,CC)
+Paul M. B. Vitanyi	CWI, Amsterdam, The Netherlands (KC,ML)
+Volodya Vovk	Royal Holloway University, London, UK (KC,ML)
+Chris Wallace	Monash University, Australia (MML)
+Yongge Wang	University Heidelberg, Germany (CC,AR)
+Osamu Watanabe	Tokyo Institute of Technology, Tokyo, Japan (CC,KC)
+-->
+  
 [*^ back to top ^*](#toc)
