@@ -21,7 +21,7 @@ For my curated recipes page, check [here](https://aritrasarkar.com/creative-corn
 
 My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine), the blend of Persian and North Indian cuisine during the Mughal rule. My native [Bengali cuisine](https://en.wikipedia.org/wiki/Bengali_cuisine) comes a close second. I spent quite some years in South India and North Europe. There are very few dishes I enjoy from these places. One of my most hated dish/cuisine is [sushi](https://en.wikipedia.org/wiki/Sushi), which goes against all 3 of my principles of food: spiced, well cooked, big portions (compare: [murgh musallam](https://en.wikipedia.org/wiki/Murgh_musallam)). 
 
-### Mughlai
+#### Mughlai
 
 * Hyderabadi mutton biriyani
 * Mutton chaap
@@ -30,7 +30,7 @@ My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine)
 * [Mutton haleem](https://www.youtube.com/watch?v=tT_N5n5mLrs)
 * Kesar pista ice cream
 
-### Bengali
+#### Bengali
 
 * [Pathar mangsher jhol](https://www.youtube.com/watch?v=fHAyfU3VFiU)
 * [Kasha mangsho](https://www.youtube.com/watch?v=CUCtn02Juk0)
@@ -48,7 +48,7 @@ My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine)
 * [Misti doi](https://en.wikipedia.org/wiki/Mishti_doi)
 * [Ledikeni](https://en.wikipedia.org/wiki/Ledikeni) / [Pantua](https://en.wikipedia.org/wiki/Pantua) / [Lyangcha](https://en.wikipedia.org/wiki/Lyangcha) / [Gulab jamun](https://en.wikipedia.org/wiki/Gulab_jamun)
 
-### Others
+#### Others
 
 * [Spaghetti alla carbonara](https://en.wikipedia.org/wiki/Carbonara) / [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) - Alfredo is not so common in Europe as in India. A (often better) replacement is carbonara.
 * [Pasta con le sarde](https://en.wikipedia.org/wiki/Pasta_con_le_sarde) - Sicilian pasta with anchovies, that I picked up on my Italy tour.
