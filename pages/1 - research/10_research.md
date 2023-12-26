@@ -48,10 +48,9 @@ widget4:
 	{% include _frontpage-widget.html widget=page.widget4 %}
 </div>
 
-<br />
-<br />
-<br />
-<br />
+p {
+    margin-bottom: 3cm;
+}
 
 <!--
 * [Research Interests](https://aritrasarkar.com/research/interests/)
