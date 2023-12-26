@@ -78,6 +78,8 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ### Links to articles I love <a name="articles"></a>
 
+Moved [here](https://aritrasarkar.com/research/interests/articles/)
+
 The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
 #### Postdoc research
