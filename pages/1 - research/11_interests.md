@@ -32,11 +32,11 @@ widget1:
 1. [Research Questions](#questions)
 2. [Research Themes](#themes)
 3. [Mind Map](#mindmap)
-4. [Scientific articles I love](#articles)
+4. [Fav. Articles](#articles)
 5. [Scientists with similar research interest](#researchers)
 6. [Favourite formulae/hypotheses](#formulae)
 7. [Favourite scientists of all time](#faves)
-8. [On the shoulder of giants](#scientists)
+8. [Fav. Researchers](#scientists)
 9. [Blogs to follow](#blogs)
 10. [Courses I recommend](#courses)
 
@@ -81,15 +81,13 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 [*^ back to top ^*](#toc)
 
-### Scientific articles I love <a name="articles"></a>
+### Fav. Articles <a name="articles"></a>
 
+<p style="margin-bottom:3cm;">
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
 </div>
-
-p {
-    margin-bottom: 3cm;
-}
+</p>
 
 ### Scientists with similar research interest <a name="researchers"></a>
 
