@@ -83,8 +83,13 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 
 ### Links to articles I love <a name="articles"></a>
 
-{% include _frontpage-widget.html widget=page.widget1 %}
+<div class="row t60">
+	{% include _frontpage-widget.html widget=page.widget1 %}
+</div>
 
+<br />
+<br />
+<br />
 <br />
 
 ### Scientists with similar research interest <a name="researchers"></a>
