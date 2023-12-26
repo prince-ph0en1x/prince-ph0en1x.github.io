@@ -19,9 +19,9 @@ gallery:
 permalink: "/research/interests/"
 widget1:
   title: ""
-  url: 'https://aritrasarkar.com/research/interests/articles'
+  url: 'https://aritrasarkar.com/research/interests/sources'
   image: research/r011.jpg
-  text: 'Favourite Articles'
+  text: 'Favourite Sources'
 widget2:
   title: ""
   url: 'https://aritrasarkar.com/research/interests/researchers'
@@ -41,8 +41,6 @@ widget2:
 5. [Scientists with similar research interest](#researchers)
 6. [Favourite formulae/hypotheses](#formulae)
 7. [Favourite scientists of all time](#faves)
-8. [Blogs to follow](#blogs)
-9. [Courses I recommend](#courses)
 
 </div>
 
@@ -135,50 +133,5 @@ List of formulae or hypotheses that I find most impactful
 The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, and Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
 
 [![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
-
-[*^ back to top ^*](#toc)
-
-### Blogs/Sites to follow <a name="blogs"></a>
-
-#### Researchers
-
-* [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) - artificial general intelligence
-* [Marcus Hutter](http://www.hutter1.net/) - artificial general intelligence
-* [Eliezer Yudkowsky](https://www.yudkowsky.net/) - artificial general intelligence
-* [Hector Zenil](https://hectorzenil.net/) - algorithmic information theory
-* [Evan Patterson](https://www.epatters.org/) - category theory
-* [Bartosz Milewski](https://bartoszmilewski.com/) - category theory
-* [Scott Aaronson](https://scottaaronson.blog/) - quantum complexity
-* [Chris Adami](https://adami.natsci.msu.edu/blog)
-
-#### Organizations
-
-* [DeepMind](https://www.deepmind.com/) - artificial general intelligence
-* [OpenAI](https://openai.com/) - artificial general intelligence
-* [LessWrong](https://www.lesswrong.com/) - artificial general intelligence
-* [Machine Intelligence Research Institute](https://intelligence.org/) - artificial general intelligence
-* [xAI](https://x.ai/) - artificial general intelligence
-* [OpenNARS](https://www.opennars.org/) - artificial general intelligence
-* [OpenCog](https://opencog.org/) - artificial general intelligence
-* [Wolfram Institute](https://www.wolframinstitute.org/) - complexity sciences
-* [Santa Fe Institute](https://www.santafe.edu/) - complexity sciences
-* [Topos Institute](https://topos.institute/) - category theory
-* [nLab](https://ncatlab.org/nlab/show/HomePage) - category theory
-* [Centre for Applied Compositionality](https://www.appliedcompositionality.com/) - category theory
-* [QuTech](https://blog.qutech.nl/) - quantum technologies
-* [FQXi](https://fqxi.org/community/articles) - physics
-* [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
-* [Institute of Semantic Information Sciences and Technology](https://insist.ac.in/) - philosophy of information
-
-[*^ back to top ^*](#toc)
-
-### Courses I recommend <a name="courses"></a>
-
-* [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
-* [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
-* [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
-* [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
-* [General Theory of General Intelligence](https://www.youtube.com/playlist?list=PLAJnaovHtaFTK9E1xHnBWZeKtAOhonqH5)
-* [Boltzmann Law: Physics to Computing](https://www.edx.org/course/boltzmann-law-physics-to-computing)
 
 [*^ back to top ^*](#toc)
