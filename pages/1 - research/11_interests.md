@@ -58,7 +58,7 @@ I am primarily devoted in finding clues to:
 ### Research Themes <a name="themes"></a>
 Research themes evolve over time. My older interests are listed with ~~strikethrough~~. Some of my core interests are:
 * *Artificial General Intelligence* - universal artificial intelligence; recursive self-improvement; universal constructors; ~~explainable neural networks~~; neuro-evolution; neuro-symbolic AI; ~~cellular automata rule learning~~; ~~algorithmic perturbation analysis~~; ~~do-calculus~~; experimental algorithmic information theory; ~~computational complexity phase change behavior~~; relations between expressibility-reachability-learnability-universality; description complexity ...[read more](https://aritrasarkar.com/research/agi/)
-* *Quantum Computation* - ~~quantum Hamiltonian complexity~~; ~~quantum learning theory~~; quantum complexity geometry; quantum information; ~~quantum swarm intelligence~~; tensor networks; holographic quantum circuit complexity; ~~Feynman checkerboard QFT~~ ...[read more](https://aritrasarkar.com/research/quantum/)
+* *Quantum Computation* - quantum computer architecture; high-level programming and design automation; ~~quantum Hamiltonian complexity~~; ~~quantum learning theory~~; quantum complexity geometry; quantum information; ~~quantum swarm intelligence~~; ~~tensor networks~~; holographic quantum circuit complexity; ~~Feynman checkerboard QFT~~ ...[read more](https://aritrasarkar.com/research/quantum/)
 * *Computational Applied Category Theory* - computational category theory; universal algebras; categorical intelligence
 * *Bioinformatics* - in silico design space exploration for xenobiology; artificial life; synthetic biology; causal models of gene regulatory network; self-replicating RNA medicines
 * *Swarm intelligence* - ~~multi-agent collaboration~~; ~~swarm robotics~~; emergence; coarse-graining
@@ -97,16 +97,15 @@ I tried finding my core interests in the Domain of Science charts. I eventually 
 ### Scientists with similar research interest <a name="researchers"></a>
 
 Some researchers I currently follow very closely for my research, as they have overlapping interests with me.
-* [Hector Zenil](https://scholar.google.com/citations?hl=en&user=P6z3U-wAAAAJ&view_op=list_works&sortby=pubdate) - Experimental algorithmic information theory; Block decomposition method
-* [Stephen Wolfram](https://dblp.org/pid/09/4291.html) - Cellular automata types, Metamathematics
-* [Ben Goertzel](https://scholar.google.com/citations?hl=en&user=kTfdhRcAAAAJ&view_op=list_works&sortby=pubdate) - Artificial general intelligence; probabilistic logic networks
-* [Marcus Hutter](https://scholar.google.com/citations?hl=en&user=7hmCntEAAAAJ&view_op=list_works&sortby=pubdate) - Universal artificial general intelligence; AIXI-tl
-* [Markus Müller](https://scholar.google.com/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate) - Quantum foundations using Solomonoff induction
-* [David Wolpert](https://scholar.google.nl/citations?hl=en&user=PRjgI8kAAAAJ&view_op=list_works&sortby=pubdate) - Thermodynamics of Turing machines; No free lunch theorems
-* [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate) - Algorithmic information theory; quantum computing
-* [John Baez ](https://scholar.google.com/citations?hl=en&user=wmwJlb0AAAAJ&view_op=list_works&sortby=pubdate) - Applied category theory
-* [Noson Yanofsky](https://scholar.google.com/citations?hl=en&user=UOzjMYkAAAAJ&view_op=list_works&sortby=pubdate) - Category theory
-* Yoshihiro Maruyama - Applied category Theory
+* Hector Zenil
+* Stephen Wolfram
+* Ben Goertzel
+* Marcus Hutter
+* Markus Müller
+* David Wolpert
+* Cristian S. Calude
+* John Baez
+* Noson Yanofsky
 
 [*^ back to top ^*](#toc)
 
