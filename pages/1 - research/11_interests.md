@@ -40,7 +40,6 @@ widget2:
 4. [Curated Lists](#lists)
 5. [Scientists with similar research interest](#researchers)
 6. [Favourite formulae/hypotheses](#formulae)
-7. [Favourite scientists of all time](#faves)
 
 </div>
 
@@ -125,13 +124,5 @@ List of formulae or hypotheses that I find most impactful
 * Mandelbrot set
 * Barsley fern fractal
 * Glynn Julia set
-
-[*^ back to top ^*](#toc)
-
-### Favourite scientists of all time <a name="faves"></a>
-
-The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler, and Ray Solomonoff, in Salvador Dali art style (using the Android app Moment Cam). 
-
-[![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
 
 [*^ back to top ^*](#toc)
