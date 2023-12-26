@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Favourite Food"
+title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -12,6 +12,10 @@ image:
     caption_url:
 permalink: "/faves/food/"
 ---
+
+## Recipies
+
+For my curated recipes page, check [here](https://aritrasarkar.com/creative-corner/recipes/)
 
 ## Cuisines
 
@@ -56,9 +60,9 @@ My favourite cuisine is [Mughlai](https://en.wikipedia.org/wiki/Mughlai_cuisine)
 * [Mysore pak](https://en.wikipedia.org/wiki/Mysore_pak)
 * [Lijjat masala papad](https://en.wikipedia.org/wiki/Papadam) 
 
-## Spices
+## Spice rack
 
-I am a spice curator/connoisseur! The list of spices I have/had in my kitchen in Bengaluru/Delft include:
+I am a spice curator/connoisseur! Here's a list of spices that I had/have in my kitchen at Bengaluru/Delft (in languages I have to buy them in, i.e. English/Hindi/Bengali/Dutch).
 
 * Bay leaves (tejpata)
 * Poppy (posto) seeds
@@ -92,6 +96,15 @@ I am a spice curator/connoisseur! The list of spices I have/had in my kitchen in
 * Vanilla essence
 * Chat masala
 * Aamchur
+* Kaffir lime dry leaves
+* Cocoa
+* Pistachio
+* Asafoetida (hing)
+* MSG
+* Hazelnut
+* Honey
+* Betel leaf
+* Mustard
 
 ## Fruits
 
@@ -140,4 +153,4 @@ And the favourite channel to learn cooking (esp. Bengali cuisine) is [BongEats](
 * [Hot Sauce](https://www.heatsupply.nl/en/product-categorie/merchandise-en/)
 * [Indians try Dutch Drops](https://www.youtube.com/watch?v=xOzturza0qo) vs [Dutch try Indian Hajmola](https://www.youtube.com/watch?v=AMvEck0UZt4)
 
-[Drinks](/faves/drinks/)
+<!-- [Drinks](/faves/drinks/) -->
