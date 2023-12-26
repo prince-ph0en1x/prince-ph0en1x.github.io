@@ -14,7 +14,7 @@ image:
 permalink: "/research/interests/articles/"
 ---
 
-<body style="background-color:#F4F0F7;"></body>
+<body style="background-color:#F0F7F4;"></body>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
