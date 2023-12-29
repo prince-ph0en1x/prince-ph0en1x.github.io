@@ -20,7 +20,8 @@ permalink: "/research/cv/"
 <center><iframe width="640" height="385" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 <!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
-* Video CV 
+* Video CV
+* [Full CV as pdf](../../docs/Aritra_Sarkar_CV_full.pdf) (last updated: 2023-12-29)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Google Scholar](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
 * [ORCiD](https://orcid.org/0000-0002-3026-6892)
