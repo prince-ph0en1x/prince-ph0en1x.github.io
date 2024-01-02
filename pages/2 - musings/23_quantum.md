@@ -152,7 +152,8 @@ Academic programs:
 * tbd
 
 Academic research groups:
-* tbd
+* [IISc Bengaluru](https://ceqt.iisc.ac.in/)
+* [IIIT Hyderabad](https://cqst.iiit.ac.in/)
 
 Industrial groups:
 * IBM
