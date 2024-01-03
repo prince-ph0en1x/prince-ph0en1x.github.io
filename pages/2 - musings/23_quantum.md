@@ -154,6 +154,10 @@ Academic programs:
 Academic research groups:
 * [IISc Bengaluru](https://ceqt.iisc.ac.in/)
 * [IIIT Hyderabad](https://cqst.iiit.ac.in/)
+* [TIFR Mumbai](https://www.tifr.res.in/~quantro/)
+* [HRI Prayagraj](https://www.hri.res.in/~qic/)
+* [IISER Mohali]()
+* [QuEST](http://210.212.36.85/quest/institutes.html)
 
 Industrial groups:
 * IBM
