@@ -141,28 +141,39 @@ This has nothing to do with the Quantum Supremacy limit that I will discuss soon
 (Created Mar 1, 2022)
 
 A list of links regarding quantum (especially, computing) activities in India.
-Will eventually help in contributing to efforts of QIndia.
+This will eventually help contribute to QIndia's efforts.
 
-Organizations:
-* QTpi - [link](https://sites.google.com/view/qtpi/home?authuser=0)
-* QIndia
-* QETCI = [link](https://qetci.org/)
+Academic research groups:
+* [PRL Ahmedabad](https://www.prl.res.in/~rpsingh/QSTProgram/)
+* [IISc Bengaluru](https://ceqt.iisc.ac.in/)
+* [RRI Bengaluru](https://wwws.rri.res.in/quic/)
+* [IIIT Delhi](https://cqt.iiitd.ac.in/home)
+* [IIIT Hyderabad](https://cqst.iiit.ac.in/)
+* [IISER Kolkata](https://physics.iiserkol.ac.in/qitt.php)
+* [IIT Madras](https://quantum.iitm.ac.in/)
+* [IISER Mohali]()
+* [TIFR Mumbai](https://www.tifr.res.in/~quantro/)
+* [JIIT Noida]()
+* [HRI Prayagraj](https://www.hri.res.in/~qic/)
+* [QuEST](http://210.212.36.85/quest/institutes.html)
+
+Organizations / Associations:
+* [QIndia](http://qindia.org/)
+* [QTpi](https://sites.google.com/view/qtpi/)
+* [QETCI](https://qetci.org/)
+* [Quantum Computing India](https://quantumcomputingindia.com/)
+
+Industrial groups:
+* [QPi](https://qpiai.tech/)
+* [QNu](https://www.qnulabs.com/)
+* IBM
+* TCS Research and Innovation
+* [LTIMindtree](https://www.ltimindtree.com/solving-with-quantum/)
+* [TCG Crest](https://www.tcgcrest.org/institutes/cquere/)
 
 Academic programs:
 * tbd
-
-Academic research groups:
-* [IISc Bengaluru](https://ceqt.iisc.ac.in/)
-* [IIIT Hyderabad](https://cqst.iiit.ac.in/)
-* [TIFR Mumbai](https://www.tifr.res.in/~quantro/)
-* [HRI Prayagraj](https://www.hri.res.in/~qic/)
-* [IISER Mohali]()
-* [QuEST](http://210.212.36.85/quest/institutes.html)
-
-Industrial groups:
-* IBM
-* TCS Research and Innovation
-    
+      
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
     
 ### Career in QC - a guide for highschoolers
