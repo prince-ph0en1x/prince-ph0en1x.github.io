@@ -31,6 +31,12 @@ permalink: "/musings/quantum/"
 
 (abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
 
+### Artificial Intelligence and Quantum Computation
+
+Crossref to QuTech blog post:
+
+
+
 ### QC Resources
 
 (Created Jun 21, 2020; Updated Sep 26, 2021)
