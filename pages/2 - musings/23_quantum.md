@@ -35,7 +35,7 @@ permalink: "/musings/quantum/"
 
 Crossref to QuTech blog post:
 
-
+[![QuTech Blog](/images/musings/qutech_blog.jpg)](https://blog.qutech.nl/2023/03/02/artificial-intelligence-and-quantum-computation/)
 
 ### QC Resources
 
