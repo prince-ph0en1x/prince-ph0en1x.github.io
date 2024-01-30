@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'SatChitAnanda'
+title: "Aritra Sarkar's website" #SatChitAnanda
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'in search of truth, consciousness and bliss'
+slogan: '' #in search of truth, consciousness and bliss
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Personal webpage of Aritra Sarkar'
+description: 'Personal website of Aritra Sarkar'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<small>based on Jekyll theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a></small>'
