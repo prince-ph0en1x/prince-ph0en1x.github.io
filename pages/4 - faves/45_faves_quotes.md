@@ -115,8 +115,32 @@ permalink: "/faves/quotes/"
 <cite>Tom Morello</cite>
 <hr>
 
-> I am a part reflecting on the whole
+> I am a part, reflecting on the whole
 <cite></cite>
+<hr>
+
+> A set is a Many that allows itself to be thought of as a One.
+<cite>Georg Cantor</cite>
+<hr>
+
+> Memory is what you invent to explain the things that you find in your head.
+<cite>Ray Solomonoff</cite>
+<hr>
+
+> In the game of life and evolution there are three players at the table: human beings, nature, and machines. I am firmly on the side of nature. But nature, I suspect, is on the side of the machines.
+<cite>George Dyson</cite>
+<hr>
+
+> What happens in Hilbert space stays in Hilbert space.
+<cite></cite>
+<hr>
+
+> Colourless green ideas sleep furiously.
+<cite>Noam Chomsky</cite>
+<hr>
+
+> There is no wrong answers. Even so, it is easy to receive wrong results, simply by asking the wrong question.
+<cite>Brunonia Barry</cite>
 <hr>
 
 To be formatted:
