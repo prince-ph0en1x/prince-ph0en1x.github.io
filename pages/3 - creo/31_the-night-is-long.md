@@ -1553,6 +1553,7 @@ collapses classically indeed
 [*^ back to top ^*](http://aritrasarkar.com/creative-corner/the-night-is-long/#the-night-is-long)
 
 ### I am I
+*अहमेवहम् (ahamevAham) ... as said in Brahma Jnanavali Mala ... seems a better phrase to describe the non-dualistic nature than the Mahavakyas (tat tvam asi, aham brahmasmi, prajnanam brahma, ayam atma brahma, so'ham, etc.). Even Descartes preferred "ego sum, ego existo" later in his works. Also, the Hebrew phrase אֶהְיֶה אֲשֶׁר אֶהְיֶה‎‎ (I am that I am) eventually developed into the Tetragrammaton YHWH (Jehovah) of the Abrahamic faiths.*
 
 Am I that?  
   
