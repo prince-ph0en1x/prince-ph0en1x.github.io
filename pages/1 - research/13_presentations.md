@@ -20,14 +20,9 @@ permalink: "/research/presentations/"
 ## Courses
 I aid(ed) in the development and delivery of the following courses:
 
-#### Ongoing
-
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
 * [Modelling, Algorithms and Data Structures](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63821) at TU Delft <small>2022-23, 2023-24</small>
 * [Quantum Computing: Architecture and Algorithms](https://studiekiezer.ugent.be/2023/studiefiche/en/E061390) at Ghent University <small>2023-24</small>
-
-#### Past
-
 * Quantum Computation, Algorithms and Programming at QBee <small>2022-23</small>
 * [Supercomputing for Big Data](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=63229) at TU Delft <small>2022-23</small>
 * [Quantum Entrepreneurship Laboratory](https://campus.tum.de/tumonline/wbLv.wbShowLVDetail?pStpSpNr=950574466&pSpracheNr=2&pMUISuche=FALSE) at the University of Munich from PushQuantum <small>2020-21</small>
@@ -45,12 +40,12 @@ I aid(ed) in the development and delivery of the following courses:
 * **Alan Yu** - Machine learning based gate set tomography
 * **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
 * **Medina Bandic** - Quantum circuit mapping
-* **Arne Wulff** - Quantum algorithms for aerospace material design
-* **Koen Mesman** - Quantum algorithms for aerospace material design
 
 #### Past
 
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
+* **Arne Wulff** - Quantum algorithms for aerospace material design
+* **Koen Mesman** - Quantum algorithms for aerospace material design
 * **Hongfeng Zhang** - Quantum algorithms for bioinformatics
 * **Delphine De Smedt** - Quantum algorithms for satellite image processing
 * **Kourosh Sayar Dogahe** - High-impact applications of quantum computational chemistry
@@ -62,15 +57,16 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 
 #### Ongoing
 
+* **Shubing Xie** - Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Evolutionary Algorithm
 * **Mark Cilissen** - an expressive pulse-programming language for quantum control
-* **Sebastiaan Fauquenot** - energy-efficient quantum optimal control
-* **Sibasish Mishra** - a resource theory of quantum algorithmic information
-* **Deepika Rajan** - automated discovery of quantum error-correction codes
 * **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
-* **David Hamel** - automated design space exploration of spin qubit processors
   
 #### Past
 
+* **Sibasish Mishra** - Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information']().
+* **Sebastiaan Fauquenot** - Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']().
+* **Deepika Rajan** - Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']().
+* **David Hamel** - Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']().
 * **Boran Apak** - Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://repository.tudelft.nl/islandora/search/) for quantum circuits dataset augmentation for quantum compiler testing.
 * **Sacha Szkudlarek** - Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12).
 * **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
