@@ -38,7 +38,7 @@ permalink: "/research/projects/"
 * Quantum algorithms for mRNA codon optimization
 * Quantum algorithms for RNA sequence design
 * Quantum neural networks for satellite image processing
-* An application framework for quantum accelerated causal tomography <small>(QWorld, '22)</small> [<small>#GitRepo</small>](https://github.com/Advanced-Research-Centre/QaCHT) [<small>#Article</small>](https://doi.org/10.1002/qute.202300326)
+* An application framework for quantum accelerated causal tomography <small>(QWorld, '22)</small> [<i class="fa-brands fa-square-github"></i>](https://github.com/Advanced-Research-Centre/QaCHT) [<small>#Article</small>](https://doi.org/10.1002/qute.202300326)
 * Evolutionary resource-bounded universal reinforcement learning in quantum environments <small>(Ph.D. research '22)</small>
 * Gate based quantum automata for estimation of algorithmic information <small>(Ph.D. research '21)</small>
 * De novo DNA read assembly using QAOA and quantum annealing <small>(Ph.D. research '20)</small>
