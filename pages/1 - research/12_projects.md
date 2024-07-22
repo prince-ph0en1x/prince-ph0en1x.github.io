@@ -42,7 +42,7 @@ permalink: "/research/projects/"
 * Evolutionary resource-bounded universal reinforcement learning in quantum environments <small>(Ph.D. research '22)</small>
 * Gate based quantum automata for estimation of algorithmic information <small>(Ph.D. research '21)</small>
 * De novo DNA read assembly using QAOA and quantum annealing <small>(Ph.D. research '20)</small>
-* Quantum algorithms for pattern-matching in genomic sequences <small>(M.Sc. thesis '19)</small>
+* Quantum algorithms for pattern-matching in genomic sequences <small>(M.Sc. thesis '19)</small> [<small>#Thesis</small>](http://resolver.tudelft.nl/uuid:4257310d-6d8b-4f5a-9fda-00cf8e081f0e) [<small>#GitRepo</small>](https://github.com/prince-ph0en1x/QAGS) [<small>#Article</small>](https://doi.org/10.3390/electronics10192433)
 * Quantum Innovation Environment (QuInE), a PyQT based IDE for quantum programming <small>(TU Delft '18)</small>
 * Spiking neural network based associative memory neuro-evolution <small>(TCSRI '18)</small>
 * Brain-inspired robotic mapping and navigation using time-series of hexagonal grid and place cells <small>(TCSRI '18)</small>
