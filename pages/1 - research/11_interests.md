@@ -45,10 +45,10 @@ widget2:
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
-### Research Questions <a name="questions"></a>
-I am primarily devoted in finding clues to: 
-* *Why is the Universe computable?* - the extraordinary effectiveness of AIT techniques like Solomonoff induction is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Why do the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
-* *Is there a computational action?* - the action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
+### Really Big Questions <a name="questions"></a>
+As John Archibald Wheeler would have it, these are the RBQs that fuel my scientific quest. 
+* *Why is the Universe computable?* - The extraordinary effectiveness of AIT techniques like Solomonoff induction and UAGI like AIXI is based on just one assumption: the Universe is computable by a universal Turing machine. Why so? Is this a self-evident and necessary axiom/assumption as formalizing such a question within language is related to computation. Why does the Church-Turing thesis hold? What does that tell us of the nature of our physical laws, or of the scientific method, or their limits thereof? Why do simple programs give rise to complex behavior? Is comprehension by compression and uncomputability of universal automata two sides of the same coin? Is everything relative to a partial trace or course-graining? Is truth relational? The ubiquity of universality and the computational reducibility self-referential? Does a Markov blanket automatically give rise to a probability distribution of Bayesian beliefs and information geometry? Is a non-anthropocentrism viewpoint possible?
+* *Is there a computational action?* - The action in Lagrangian in physics is fundamental to many core theories and look very similar to computational and algorithmic complexity - Are they? What roles do the computational resources play? What is the relation between computational, algorithmic complexity and thermodynamics? Can locality and causality be violated? 
 
 [*^ back to top ^*](#toc)
 
