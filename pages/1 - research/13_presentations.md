@@ -17,7 +17,7 @@ permalink: "/research/presentations/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  
-## Courses
+### Courses
 I aid(ed) in the development and delivery of the following courses:
 
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
@@ -30,18 +30,18 @@ I aid(ed) in the development and delivery of the following courses:
 * [Quantum Computing Architecture and Electronics](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=51083) at TU Delft <small>2018-19, 2019-20</small>
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
-## Supervision
+### Supervision
 
-### Doctoral research co-supervision
+#### Doctoral research co-supervision
 
-#### Ongoing
+##### Ongoing
 
 * **Matthew Steinberg** - Efficient quantum error correction codes
 * **Alan Yu** - Machine learning based gate set tomography
 * **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
 * **Medina Bandic** - Quantum circuit mapping
 
-#### Past
+##### Past
 
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Arne Wulff** - Quantum algorithms for aerospace material design
@@ -51,17 +51,17 @@ I aid(ed) in the development and delivery of the following courses:
 * **Kourosh Sayar Dogahe** - High-impact applications of quantum computational chemistry
 * **Yassine Ferjani** - Quantum security protocols for industrial use-cases
 
-### Master thesis supervision
+#### Master thesis supervision
 
 I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
-#### Ongoing
+##### Ongoing
 
 * **Shubing Xie** - Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Evolutionary Algorithm
 * **Mark Cilissen** - an expressive pulse-programming language for quantum control
 * **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
   
-#### Past
+##### Past
 
 * **Sibasish Mishra** - Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information']().
 * **Sebastiaan Fauquenot** - Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']().
@@ -76,20 +76,22 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 * **Karthik Krishnakumar** - Master's thesis at Birla Institute of Technology and Science, India on `Distributed Quantum Circuit Simulation' was an initial exploration towards various techniques to enable the QX Simulator to handle a larger number of qubits.
 * **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
 
-#### Project guidance and evaluation
+##### Project guidance and evaluation
 
 I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
 * **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
 * **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
 * **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
-### Bachelor project supervision
+#### Bachelor project supervision
 
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA, involved programming useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
-## Presentations and Videos
+### Presentations and Videos
 
+* Optimal Quantum Firmware Design [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=li-6PvNIz3w)
+    - 2024-02-28: QuTech360 Talk
 * Quantum Computing and Artificial Intelligence
     - 2023-12-01: Invited Talk at URSC, ISRO
 * Quantum Algorithm Design Automation: Introduction and Overview [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=qZvcFplFaTE)
