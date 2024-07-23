@@ -31,9 +31,6 @@ permalink: "/research/cv/"
 
 #### Current Affiliation
 (to be updated soon...)
-<!--
-* *Postdoctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
--->
 
 #### Pro-bono Activities
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
@@ -53,14 +50,13 @@ permalink: "/research/cv/"
 #### Past Associations
 * [Delft University of Technology](https://www.tudelft.nl/en/)
    - Postdoctoral Researcher (2022 - 2024)
-      - [QuTech, Quantum Computing Division, Feld Group](https://qutech.nl/lab/feld-group/)
-      - [Quantum Machine Learning Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning)
+      - [Feld Group](https://qutech.nl/lab/feld-group/); [Quantum Computing Division](https://qutech.nl/research-engineering/quantum-computing/); [QuTech](https://qutech.nl/)
+      - [Quantum Machine Learning Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning); [Quantum Circuits Architecture and Technology Section](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology); [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
    - Doctor of Philosophy (2018 - 2022)
-      - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)
-      - [QuTech](https://qutech.nl/)
+      - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/); [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
+      - Bertels Lab; [Quantum Computing Division](https://qutech.nl/research-engineering/quantum-computing/); [QuTech](https://qutech.nl/)
    - Master of Science (2016 - 2018) in Computer Engineering
-      - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/)
-      - [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
+      - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
 * [Tata Consultancy Services, Research and Innovation](https://www.tcs.com/research-and-innovation)
    - [Embedded Systems and Robotics Group](https://www.tcs.com/building-next-generation-smart-machines), Kolkata
       - Research Intern (2017 - 2018)
