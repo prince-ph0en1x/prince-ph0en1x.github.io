@@ -20,7 +20,7 @@ permalink: "/research/cv/"
 <center><iframe width="640" height="385" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 <!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
-* Video CV
+* [Video CV](https://www.youtube.com/watch?v=PbTjToKICwU)
 * [Full CV as pdf](../../docs/Aritra_Sarkar_CV_full.pdf) (last updated: 2023-12-29)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Google Scholar](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
@@ -53,7 +53,7 @@ permalink: "/research/cv/"
       - [Feld Group](https://qutech.nl/lab/feld-group/); [Quantum Computing Division](https://qutech.nl/research-engineering/quantum-computing/); [QuTech](https://qutech.nl/)
       - [Quantum Machine Learning Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning); [Quantum Circuits Architecture and Technology Section](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology); [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
    - Doctor of Philosophy (2018 - 2022)
-      - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/); [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
+      - Quantum Computer Architecture Lab; [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
       - Bertels Lab; [Quantum Computing Division](https://qutech.nl/research-engineering/quantum-computing/); [QuTech](https://qutech.nl/)
    - Master of Science (2016 - 2018) in Computer Engineering
       - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering); [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
