@@ -30,14 +30,19 @@ permalink: "/research/cv/"
 * [Research Gate](https://www.researchgate.net/profile/Aritra-Sarkar-2)
 
 #### Current Affiliation
+(to be updated soon...)
+<!--
 * *Postdoctoral researcher* - [Feld group](https://qutech.nl/lab/feld-group/) QuTech; [Quantum Machine Learning](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning) research group; [Quantum Circuits Architecture and Technology](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology) section; [Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) department; Delft; The Netherlands
+-->
 
 #### Pro-bono Activities
-* *Symposium organizing committee 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/)
-* *Publicity chair 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/)
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Steering committee* - [QIndia](https://qindia.org/); India
+* *Workshop organizer 2024* - [Quantum Algorithm Design Automation Workshop at IEEE Quantum Week](https://qce.quantum.ieee.org/2024/program/workshops-abstracts/#wks04)
+* *Symposium organizing committee 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/) (past)
+* *Publicity chair 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/) (past)
+* *Workshop organizer 2023* - [Quantum Algorithm Design Automation Workshop at IEEE Quantum Week](https://qce.quantum.ieee.org/2023/workshops-program/#wks31) (past)
 * *External expert 2023* - [QuantERA](https://quantera.eu/call-2023-announcement/) (past)
 * *Programme committee 2023* - [Workshop on Services and Quantum Software](https://sqs2023.spilab.es/) (past)
 * *Poster program committee 2023* - [IEEE International Conference on Quantum Computing and Engineering](https://qce.quantum.ieee.org/2023/home/committees/posters-program-committee/) (past)
@@ -47,10 +52,12 @@ permalink: "/research/cv/"
 
 #### Past Associations
 * [Delft University of Technology](https://www.tudelft.nl/en/)
+   - Postdoctoral Researcher (2022 - 2024)
+      - [QuTech, Quantum Computing Division, Feld Group](https://qutech.nl/lab/feld-group/)
+      - [Quantum Machine Learning Group](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-machine-learning)
    - Doctor of Philosophy (2018 - 2022)
       - [Quantum Computer Architecture Lab](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/quantum-computer-architecture-lab/)
       - [QuTech](https://qutech.nl/)
-      - [Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences/)
    - Master of Science (2016 - 2018) in Computer Engineering
       - [Department of Quantum & Computer Engineering](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/)
       - [Faculty of Electrical Engineering, Mathematics and Computer Sciences](https://www.tudelft.nl/en/eemcs/)
