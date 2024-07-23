@@ -19,26 +19,42 @@ permalink: "/research/projects/"
  
 ## Current Projects
 
-* YAQQ: Novelty search on quantum gate sets
-* MLQC: Machine learning control of quantum programmable matter
-* QART: Algorithmic thermodynamics of quantum programs, circuits and pulses
-* Logic programming and circuit interpretability for quantum computing <span style="color:red"><small>(looking for collaborators)</small></span>
+* Quantum circuit decompiler for scalable quantum architecture search <small>(QML)</small>
+* MLC4QC: Machine learning control of quantum computation on programmable matter <small>(QML)</small>
+* AME-state based spin qubit processor benchmarking <small>(QML)</small>
+* Resource modelling of distributed quantum computing using Petri nets <small>(QIRG)</small>
+* Agent-based concept discovery of quantum error correction codes <small>(QIRG, QML)</small>
+* Enriching the expressive capabilities of quantum pulse languages <small>(QML)</small>
+* Quantum accelerated probabilisitic logic programs <span style="color:red"><small>(looking for collaborators)</small></span>
 * Algorithmic probability guided quantum geometric machine learning <span style="color:red"><small>(looking for collaborators)</small></span>
+* Identification and generative synthesis of provable quantum accelerated kernels <span style="color:red"><small>(looking for collaborators)</small></span>
 
+<!-- * QART: Algorithmic thermodynamics of quantum programs, circuits and pulses -->
 <!-- * Linear logic proof net based quantum circuit verification <span style="color:red"><small>(looking for collaborators)</small></span> -->
 <!-- * Embedded knowledge seeking agent for quantum second-order cybernetics <span style="color:red"><small>(looking for collaborators)</small></span> -->
 <!-- * Quantum program synthesis using theorem provers and categorical logic -->
 <!-- * Embedded participatory observers in causal sets within conformal fields -->
 <!-- * Quantum accelerated causal inference for applications in explainable AI and bioinformatics  -->
 
-... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/).
+... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact [me](https://www.linkedin.com/in/sarkararitra/) or [Sebastian Feld](https://www.linkedin.com/in/sebastian-feld/) over LinkedIn or email.
 
 ## Past Projects
 (in reverse chronological order)
-* Quantum algorithms for mRNA codon optimization
-* Quantum algorithms for RNA sequence design
+* YAQQ: Yet Another Quantum Quantizer - Design Space Exploration of Quantum Gate Sets using Novelty Search <small>(QIRG, QML '24)</small>
+* Quantum instruction set optimization using description complexity coding <small>(QML, '24)</small>
+* Noise-aware energy-optimized quantum optimal pulse control <small>(QML, '24)</small>
+* KANQAS: Kolmogorov Arnold Network for Quantum Architecture Search <small>(QML, '24)</small>
+* Transformer Models for Quantum Gate Set Tomography <small>(QML, '24)</small>
+* A quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search <small>(QIRG, '24)</small>
+* A resource-efficient variational quantum algorithm for mRNA codon optimization <small>(QBee, '24)</small>
+* ArtA : Artificial Architect - Automating design space exploration of spin qubit architectures <small>(QML, '24)</small>
+* Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity <small>(QML, '24)</small>
+* KetGPT - Dataset Augmentation of Quantum Circuits using Transformers <small>(QML, '23)</small>
+* Qiskit Gymnasium environment for quantum circuit optimization <small>(QWorld, '23)</small>
+* Quantum algorithms for RNA sequence design <small>(QML, '23)</small>
 * Quantum neural networks for satellite image processing
-* An application framework for quantum accelerated causal tomography <small>(QWorld, '22)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-github.svg" width="20" height="20">](https://github.com/Advanced-Research-Centre/QaCHT) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.1002/qute.202300326)
+* An application framework for quantum accelerated causal tomography <small>(QWorld, QIRG, '22)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-github.svg" width="20" height="20">](https://github.com/Advanced-Research-Centre/QaCHT) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.1002/qute.202300326)
+* Applications of Quantum Computation and Algorithmic Information: for Causal Modeling in Genomics and Reinforcement Learning <small>(PhD thesis '22)</small>
 * Evolutionary resource-bounded universal reinforcement learning in quantum environments <small>(Ph.D. research '22)</small>
 * Gate based quantum automata for estimation of algorithmic information <small>(Ph.D. research '21)</small>
 * De novo DNA read assembly using QAOA and quantum annealing <small>(Ph.D. research '20)</small>
@@ -55,6 +71,13 @@ permalink: "/research/projects/"
 * Accelerating object tracking in OMAP3530 application processor <small>(TU Delft '17)</small>
 * Solar energy forecasting using ORCA system <small>(TU Delft '17)</small>
 * Earthquake occurrence analysis and aftershock prediction using MATLAB and Tableau <small>(TU Delft '17)</small>
+* Technology demonstrator of satellite firmware update via telecommands <small>(ISRO '16)</small>
+* Software design of onboard memory management subsystem for Chandrayaan-2 orbiter <small>(ISRO '16)</small>
+* Project management of onboard memory management subsystem for HySIS satellite <small>(ISRO '16)</small>
+* Software design of onboard memory management subsystem for Resourcesat satellites <small>(ISRO '15)</small>
+* Hardware design of onboard memory management subsystem for ScatSat-1 <small>(ISRO '15)</small>
+* Software design and implementation of onboard memory management subsystem for Cartosat-2C <small>(ISRO '15)</small>
+* Software design and implementation of onboard memory management subsystem for Astrosat <small>(ISRO '14)</small>
 * Elevation mapping using stereo vision enabled heterogeneous multi-agent network <small>(IIST '13)</small>
 * Self-configuring classical logic gate circuits using genetic programming in Java <small>(IIST '12)</small>
 * Multi-vehicle path planning in dynamically changing environments using genetic optimised TSP <small>(IIST '12)</small>
