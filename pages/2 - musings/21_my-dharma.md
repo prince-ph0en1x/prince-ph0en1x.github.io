@@ -59,6 +59,21 @@ Yet, on the other hand, the oldest and arguably the most sacred text in hinduism
 
 #### Mandukya Upanishad
 
+### Baul Philosophy
+
+Bauls, the wandering mystic minstrels of Bengal has a rich philosophy that I find as deep as that of Adi Shankaracharya's Advaitva, yet so simple that it can be understood through folk music. Etymologically, 'Baul' means mad, derived from the word 'Vatul' (mad) or 'Vyakula' (impatiently eagered). Their free spirited nature is centered on rejection of rules pertaining to orthodox religions. In Baul 'deho-tottyo' philosophy the human body is given the highest value as a microcosm of the universe. Human body, composed of 'pancha-bhuta' and the dwelling place of God, deserved the ultimate reality where one can unite with the Supreme Being to achieve 'moksha'.
+
+##### List of Baul songs reflecting this philosophy
+* [বাড়ির কাছে আরশী নগর](https://www.youtube.com/watch?v=d-IwBrLt2aI)
+* [পরের জাগা পরের জমিন](https://www.youtube.com/watch?v=jqf8BDOYles)
+* [কেমনে চিনিব তোমারে](https://www.youtube.com/watch?v=01lAVTvfDEY)
+* [কে বলে মানুষ মরে](https://www.youtube.com/watch?v=WzcoLCuHMV0)
+* [তোমার ঘরে বসত করে কয় জনা](https://www.youtube.com/watch?v=kFw_jamBejk)
+* [মন আমার দেহ ঘড়ি](https://www.youtube.com/watch?v=_SnijWIpY8M)
+* [ইঁদুর মারা কল রয়েছে জগৎ মাঝারে](https://www.youtube.com/watch?v=3plamnIo3-U)
+* [কানার হাট বাজার](https://www.youtube.com/watch?v=o35AsEVtqVU)
+* [নদী ভরা ঢেউ](https://www.youtube.com/watch?v=rq11aJtkFDs)
+
 ### Algorithmic Absurdism
 
 (Created Mar 1, 2022)
