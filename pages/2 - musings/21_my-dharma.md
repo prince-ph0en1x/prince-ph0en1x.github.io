@@ -72,6 +72,7 @@ Bauls, the wandering mystic minstrels of Bengal has a rich philosophy that I fin
 * [মন আমার দেহ ঘড়ি](https://www.youtube.com/watch?v=_SnijWIpY8M)
 * [ইঁদুর মারা কল রয়েছে জগৎ মাঝারে](https://www.youtube.com/watch?v=3plamnIo3-U)
 * [কানার হাট বাজার](https://www.youtube.com/watch?v=o35AsEVtqVU)
+* [আমার ভেতর আমি কে](https://www.youtube.com/watch?v=seHUU3hLA1k)
 * [নদী ভরা ঢেউ](https://www.youtube.com/watch?v=rq11aJtkFDs)
 
 ### Algorithmic Absurdism
