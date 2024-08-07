@@ -34,6 +34,9 @@ The following articles had major influence on my research scoping. The research 
 
 #### Postdoc research
 
+###### read in 2024
+* [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
+
 ###### read in 2023
 * [Automated Gadget Discovery in Science](https://arxiv.org/abs/2212.12743) <small>YAQQ</small>
 * [Discovering Quantum Circuit Components with Program Synthesis](https://arxiv.org/abs/2305.01707) <small>YAQQ</small>
@@ -151,6 +154,7 @@ The following articles had major influence on my research scoping. The research 
 * [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
 * [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
 * [Algorithmic Information Dynamics: A Computational Approach to Causality and Living Systems From Networks to Cells](https://www.complexityexplorer.org/courses/63-algorithmic-information-dynamics-from-networks-to-cells)
+* [Physics from Symmetry](https://www.youtube.com/playlist?list=PLWEiAJhCw-zSQhEt_hWahYfcrwcw0TQk1)
 * [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 * [General Theory of General Intelligence](https://www.youtube.com/playlist?list=PLAJnaovHtaFTK9E1xHnBWZeKtAOhonqH5)
 * [Boltzmann Law: Physics to Computing](https://www.edx.org/course/boltzmann-law-physics-to-computing)
