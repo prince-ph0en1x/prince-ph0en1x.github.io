@@ -57,14 +57,18 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 
 ##### Ongoing
 
-* **Shubing Xie** - Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Evolutionary Algorithm
 * **Mark Cilissen** - an expressive pulse-programming language for quantum control
 * **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
   
 ##### Past
 
-* **Sibasish Mishra** - Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information']().
-* **Sebastiaan Fauquenot** - Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']().
+* **Shubing Xie** - Master's thesis on [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640).
+* **Sibasish Mishra**
+    * Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information']()
+    * Now at [Orange Quantum Systems](https://orangeqs.com/), the Netherlands
+* **Sebastiaan Fauquenot**
+    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']()
+    * Now at Google, Ireland
 * **Deepika Rajan** - Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']().
 * **David Hamel** - Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']().
 * **Boran Apak** - Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://repository.tudelft.nl/islandora/search/) for quantum circuits dataset augmentation for quantum compiler testing.
