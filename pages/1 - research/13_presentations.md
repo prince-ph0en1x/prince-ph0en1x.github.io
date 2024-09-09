@@ -31,18 +31,14 @@ I aid(ed) in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
+I (co)-supervised the following bachelor, masters and doctoral projects while I was at TU Delft.
 
 #### Doctoral research co-supervision
-
-##### Ongoing
 
 * **Matthew Steinberg** - Efficient quantum error correction codes
 * **Alan Yu** - Machine learning based gate set tomography
 * **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
 * **Medina Bandic** - Quantum circuit mapping
-
-##### Past
-
 * **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
 * **Arne Wulff** - Quantum algorithms for aerospace material design
 * **Koen Mesman** - Quantum algorithms for aerospace material design
@@ -55,30 +51,44 @@ I aid(ed) in the development and delivery of the following courses:
 
 I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
-##### Ongoing
-
-* **Mark Cilissen** - an expressive pulse-programming language for quantum control
-* **Joris Henstra** - reinforcement learning for quantum circuit mapping on NISQ processors
-  
-##### Past
-
-* **Shubing Xie** - Master's thesis on [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640).
-* **Sibasish Mishra**
-    * Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information']()
+* **Mark Cilissen**
+    * Master's thesis on `An expressive pulse-programming language for quantum control' at QBlox
+* **Joris Henstra** 
+    * Master's thesis on `Reinforcement learning for quantum circuit mapping on NISQ processors' at TU Delft
+* **[Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/)**
+    * Master's thesis on [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640) at Leiden University
+    * Now at [Aramco](https://www.aramco.com/en), the Netherlands
+* **[Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176/)**
+    * Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information'](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f) at TU Delft
     * Now at [Orange Quantum Systems](https://orangeqs.com/), the Netherlands
-* **Sebastiaan Fauquenot**
-    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']()
+* **[Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaanfauquenot/)**
+    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']() at TU Delft
     * Now at Google, Ireland
-* **Deepika Rajan** - Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']().
-* **David Hamel** - Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']().
-* **Boran Apak** - Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://repository.tudelft.nl/islandora/search/) for quantum circuits dataset augmentation for quantum compiler testing.
-* **Sacha Szkudlarek** - Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12).
-* **Luís Ricardo Matos Mendes** - Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto, Portugal involved implementing MPI based parallization of QC simulator on multi-core HPC.
-* **Duarte Frazão** - Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto, Portugal involved implementing QAOA for financial portfolio optimisation on Qiskit.
-* **João Lourenço Teixeira Vieira** - Master's thesis on [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto, Portugal involved integrating QuantumSim with cQASM instructions via OpenQL.
-* **Ravish Budhrani** - Master's thesis on [`QuantumSim - A memory efficient quantum computing simulator'](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91) at TU Delft was proposed by me. It implements a different strategy to parallelism quantum computing simulation by using a ping-pong buffer of state vectors and symbolic manipulation of the gate set instead of matrix multiplication. It forms the initial implementation of the QBeeSim - the QC simulator of QBee.
-* **Karthik Krishnakumar** - Master's thesis at Birla Institute of Technology and Science, India on `Distributed Quantum Circuit Simulation' was an initial exploration towards various techniques to enable the QX Simulator to handle a larger number of qubits.
-* **Anna Maria Krol** - Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft was proposed by me as an OpenQL compiler feature upgrade based on the unitary decomposition program that I developed in MATLAB during my master's thesis as a subroutine for the QiBAM algorithm on OpenQL.
+* **Deepika Rajan**
+    * Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']() at Indian Institute of Space Science and Technology
+* **[David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197/)**
+    * Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']() at TU Delft
+    * Now at [QuantWare](https://www.quantware.com/), the Netherlands
+* **[Boran Apak](https://www.linkedin.com/in/boran-apak-004849279/)**
+    * Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783) at TU Delft
+* **[Sacha Szkudlarek](https://www.linkedin.com/in/sacha-szkudlarek-375046129/)** 
+    * Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12) at TU Delft
+    * Now at TU Delft
+* **[Luís Ricardo Matos Mendes](https://www.linkedin.com/in/luis-rmendes/)** 
+    * Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto
+* **[Duarte Frazão](https://www.linkedin.com/in/duartefrazao/)** 
+    * Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto
+* **[João Lourenço Teixeira Vieira](https://www.linkedin.com/in/joaoltvieira/)** 
+    * Master's thesis on [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto
+* **[Ravish Budhrani](https://www.linkedin.com/in/ravi-budhrani-31767b128/)** 
+    * Master's thesis on [`QuantumSim - A memory efficient quantum computing simulator'](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91)  at TU Delft
+    * Now at QuTech
+* **[Karthik Krishnakumar](https://www.linkedin.com/in/karthik-krishnakumar/)** 
+    * Master's thesis on `Distributed Quantum Circuit Simulation' at Birla Institute of Technology and Science 
+    * Now at [Qulabs](https://www.qulabs.ai/)
+* **[Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b/)** 
+    * Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft 
+    * Now at TU Delft
 
 ##### Project guidance and evaluation
 
