@@ -62,10 +62,11 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
     * Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information'](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f) at TU Delft
     * Now at [Orange Quantum Systems](https://orangeqs.com/), the Netherlands
 * **[Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaanfauquenot/)**
-    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control']() at TU Delft
+    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control'](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359) at TU Delft
     * Now at Google, Ireland
-* **Deepika Rajan**
+* **[Deepika Rajan](https://in.linkedin.com/in/deepika-rajan-991624249)**
     * Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']() at Indian Institute of Space Science and Technology
+    * Now at [Creed&Bear](https://creedandbear.com/), UAE
 * **[David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197/)**
     * Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']() at TU Delft
     * Now at [QuantWare](https://www.quantware.com/), the Netherlands
