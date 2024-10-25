@@ -140,7 +140,7 @@ This has nothing to do with the Quantum Supremacy limit that I will discuss soon
 
 (Created Mar 1, 2022)
 
-A list of links regarding quantum (especially, computing) activities in India.
+A list of links regarding quantum technology (especially computing) activities in India.
 This will eventually help contribute to QIndia's efforts.
 
 Academic research groups:
@@ -172,9 +172,12 @@ Industrial groups:
 * [LTIMindtree](https://www.ltimindtree.com/solving-with-quantum/)
 * [TCG Crest](https://www.tcgcrest.org/institutes/cquere/)
 * [QRD Labs](https://www.qrdlab.in/)
+* [Accelequant]
+
+List of projects in incubation by I-HUB [-->](https://www.quantech.org.in/programs)
 
 Academic programs:
-* tbd
+* [M.Tech. in Quantum Technology at IISc](https://iqti.iisc.ac.in/academics/)
       
 [*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
     
