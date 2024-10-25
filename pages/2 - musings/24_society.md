@@ -143,21 +143,20 @@ Just like quotes and poetic verses can be interpreted in many way, so can any mo
 
 ### List of posts I wish I had the time to type out
 
-These are approximately the ideas I want to discuss in this page in the future.
-* Price of creativity - should art have a price?
+These are approximately the ideas I want to discuss on this page in the future.
+* Price of knowledge - open-sourcing vs. education/IP having a cost
+* Price of creativity - should art have a price? Is generative AI creative?
+* Clarity vs. Technicality - being clear (mathematical) vs. being easy to understand (toy examples and popular science)
 * Exams, marks and IQ - Value of standardized exams? Marks in exams/degrees vs. gaining knowledge.
-* Price of knowledge - opensourcing vs. education having a cost
-* Clarity vs. Technicality - being clear (mathematical) vs. being easy to understand (toy examples)
 * Gender roles - Male vs. female ... who should pay, direction vs. maps
-* Modern art vs. Realism
-* Digital art
-* Meaning of life - To contribute to humanity or be happy oneself
+* Modern art vs. Realism vs. Digital art
+* Meaning of life - To contribute to humanity or be happy for oneself
 * Social media role - Can they be a source of knowledge?
 * PhD vs. Industry - Ethics to contribute to the world... different ways
-* Love vs. arranged marriages
+* Love vs. arranged marriages , and the Institution of marriage
 * Backpack vs Suitcase
 * Boundaries between countries
-* Vegan vs. Non-vegetarian
+* Vegan vs. Non-vegetarian vs. Cannibalism
 * Being choosy with food
 * Adventure sport vs. couch potato - Use human being's main power - brain
 * Wheels vs Legs
@@ -165,7 +164,6 @@ These are approximately the ideas I want to discuss in this page in the future.
 * Needing inspiration vs doing what you need to - Routine vs no routine; Indecisive vs firm decisions
 * Euthanasia
 * LGBTQQIP2SAA
-* Institution of marriage
 * Governance
 * Space junk
 
