@@ -172,6 +172,7 @@ Industrial groups:
 * [LTIMindtree](https://www.ltimindtree.com/solving-with-quantum/)
 * [TCG Crest](https://www.tcgcrest.org/institutes/cquere/)
 * [QRD Labs](https://www.qrdlab.in/)
+* [Silicofeller](https://silicofeller.com/)
 * [Accelequant]
 
 List of projects in incubation by I-HUB [-->](https://www.quantech.org.in/programs)
