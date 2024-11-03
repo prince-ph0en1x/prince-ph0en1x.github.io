@@ -29,6 +29,21 @@ permalink: "/musings/my-dharma/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
 
+### Mahavakyas
+
+Translating to 'great sayings.' These things encapsulate the core philosophical zenith of most religions.
+
+* ```तत् त्वम् असि``` (Tat Tvam Asi) That Thou Art - 'Chandogya Upanishad' 6.8.7 of the 'Sama Veda'
+* ```अहं ब्रह्मास्मि``` (Ahaṁ Brahmāsmi) I am Brahman - 'Brihadaranyaka Upanishad' 1.4.10 of the 'Yajur Veda'
+* ```प्रज्ञानं ब्रह्म``` (Prajñānaṁ Brahma) Consciousness is Brahman - 'Aitareya Upanishad' 3.3 of the 'Rig Veda'
+* ```अयम् आत्मा ब्रह्म``` (Ayam Ātmā Brahma) This Self is Brahman - 'Mandukya Upanishad' 1.2 of the 'Atharva Veda'
+* ```Ego sum, Ego existo``` - 'Meditationes de Prima Philosophia, in qua Dei existentia et animæ immortalitas demonstratur', René Descartes
+* ```אֶהְיֶה אֲשֶׁר אֶהְיֶה``` ‎(’ehye ’ăšer ’ehye) I Am that I Am - 'Exodus' 3:14 of the Hebrew Bible
+* ```أنا الحَقيقة``` (Anā al-Ḥaqq) I am the Truth - Sufi Mansur Al-Hallaj
+
+Taking the subjective self as the center stage of ontology.
+
+
 ### Ved-Vakyas
 
 #### Nasadiya Sukta
@@ -50,8 +65,6 @@ These verses corroborate both a sense of freedom of thought as well as a limit o
 
 While I am allowed to be an agnostic atheist staying within the boundaries of sanatan dharma (a.k.a. hinduism), it says, we are too insignificant in the scale of the universe (or multi-verse, who knows) to be bold enough to infer physical truths beyond our immediate space-time. Conjectures of fringe science are sometimes beyond testability. There are theorems that cannot be proven from basic axioms. There are limits to reasoning itself.
 Yet, on the other hand, the oldest and arguably the most sacred text in hinduism exploring this boundary of reason itself allows me to do my own exploration into the truths in my 'own' way - 'my' dharma... a selective subset (or even an extension) of the established canons existing today.
-
-#### Mahavakyas
 
 #### Brahma Jnanavali Mala
 
