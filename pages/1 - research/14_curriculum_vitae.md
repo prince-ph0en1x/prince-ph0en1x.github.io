@@ -36,10 +36,11 @@ permalink: "/research/cv/"
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch Department](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Steering committee* - [QIndia](https://qindia.org/); India
-* *Workshop organizer 2024* - [Quantum Algorithm Design Automation Workshop at IEEE Quantum Week](https://qce.quantum.ieee.org/2024/program/workshops-abstracts/#wks04)
 * *Technical program committee 2024* - [Workshop on Quantum Technologies at International Conference on COMmunication Systems & NETworkS](https://www.comsnets.org/WQT.html)
+* *Programme committee 2025* - [International Workshop on Quantum Computing and Artificial Intelligence](https://sites.google.com/view/qcai2025/)
 
 ##### Past Activities
+* *Workshop organizer 2024* - [Quantum Algorithm Design Automation Workshop at IEEE Quantum Week](https://qce.quantum.ieee.org/2024/program/workshops-abstracts/#wks04)
 * *Symposium organizing committee 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/)
 * *Publicity chair 2024* - [IEEE International Conference on Quantum Software](https://conferences.computer.org/qsw/2024/)
 * *Workshop organizer 2023* - [Quantum Algorithm Design Automation Workshop at IEEE Quantum Week](https://qce.quantum.ieee.org/2023/workshops-program/#wks31)
