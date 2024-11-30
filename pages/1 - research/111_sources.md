@@ -32,10 +32,10 @@ permalink: "/research/interests/sources/"
 
 The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
-#### Postdoc research
-
 ###### read in 2024
 * [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
+* [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108) <small>ARA</small>
+* [From Easy to Hard: Tackling Quantum Problems with Learned Gadgets For Real Hardware](https://arxiv.org/abs/2411.00230) <small>QKSA+</small>
 
 ###### read in 2023
 * [Automated Gadget Discovery in Science](https://arxiv.org/abs/2212.12743) <small>YAQQ</small>
@@ -52,8 +52,6 @@ The following articles had major influence on my research scoping. The research 
 * [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) <small>ARA</small>
 * [The Physicalization of Metamathematics and Its Implications for the Foundations of Mathematics](https://writings.stephenwolfram.com/2022/03/the-physicalization-of-metamathematics-and-its-implications-for-the-foundations-of-mathematics/) <small>**ARA**</small>
 * [Resource theory of quantum uncomplexity](https://arxiv.org/abs/2110.11371) <small>YAQQ</small>
-
-#### Ph.D. research
 
 ###### read in 2021
 * [A Complete Theory of Everything (will be subjective)](https://arxiv.org/abs/0912.5434) <small>ARA</small>
@@ -92,8 +90,6 @@ The following articles had major influence on my research scoping. The research 
 * [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028) <small>**QuASeR**</small>
 * [BCG: The Next Decade in Quantum Computing and How to Play](https://www.bcg.com/publications/2018/next-decade-quantum-computing-how-play) <small>QCA, QuASeR</small>
 * [Quantum Computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862) <small>QCA</small>
-
-#### M.Sc. research
 
 ###### read in 2017
 * [Quantum associative memory with improved distributed queries](https://arxiv.org/abs/1204.6657) <small>**QiBAM**</small>
