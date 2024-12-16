@@ -111,11 +111,12 @@ I tried finding my core interests in the 'Domain of Science' charts. I eventuall
 ### Scientists with similar research interest <a name="researchers"></a>
 
 Some researchers whom I currently follow closely for my research as they have overlapping interests with me.
-* Automation in quantum computing: Florian Marquardt, Kevin Ellis, Mario Krenn, Max Tegmark, Robert Wille
+* Automation in quantum computing: Florian Marquardt, Leopoldo Sarra, Mario Krenn, Robert Wille
+* Program synthesis / symbolic regression / genetic programming: Kevin Ellis, Armando Solar-Lezama, Max Tegmark, Lee Spector
 * Algorithmic information theory: Hector Zenil, Cristian S. Calude, Markus Müller, Noson Yanofsky
 * Digital physics: Stephen Wolfram
-* Artificial general intelligence: Ben Goertzel, Marcus Hutter
-* Quantum information theory: David Wolpert, John Baez
+* Artificial general intelligence: Jürgen Schmidhuber, Ben Goertzel, Marcus Hutter
+* Quantum information theory: David Wolpert, John Baez, Charles Bennett
 
 [*^ back to top ^*](#toc)
 
