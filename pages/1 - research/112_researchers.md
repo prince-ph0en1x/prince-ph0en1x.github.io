@@ -33,6 +33,8 @@ The 3 of my most favourite scientists: John von Neumann, John Archibald Wheeler,
 
 [![Fav Scientists](/images/research/scientists.jpg)](/images/research/scientists.jpg)
 
+And among those who are still among up, it's Charles Bennett and Leonard Susskind.
+
 [*^ back to top ^*](#toc)
 
 ### On the shoulder of giants <a name="scientists"></a>
