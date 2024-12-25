@@ -92,24 +92,39 @@ Bauls, the wandering mystic minstrels of Bengal has a rich philosophy that I fin
 
 (Created Mar 1, 2022)
 
-For now, I identify my philosophical stance as algorithmic absurdist, a merger of absurdism and pancomputationalism that I created myself to better express the tenets I believe in.
+For now, I identify my philosophical stance as algorithmic absurdist, a merger of absurdism and pancomputationalism that I created myself to better express the tenets I believe in. It is presented in Wittgenstein's style in Tractacus Logico Philosophicus.
 
-* There is no inherent meaning in the Universe. If the Universe sprung from and dissolutes into nothing, then only `nothing' is fundamental.
-* It is possible for sentient agents embedded within the Universe to derive meaning by dividing the Universe into two parts: the agent and the environment.
-    - Humans belong to a more general class of sentient agents, which may include artificial intelligence, animals, aliens, etc.
-* These two parts have a boundary, called the Markov boundary (or Markov blanket, if not minimal), that is defined over the dimensions of space and time.
-* The definition of the boundary is stored within the agent and is the synonym for self-consciousness. It thinks, therefore it is.
-    - This definition of the boundary can be shared with other agents by action-perception. The ability for the other agents to acknowledge the sentience of the agent is based on the mutually agreed definition of the boundary and of recognizing sentience. e.g. A rock is not sentient to a human but a fish is even though both move when acted on its boundary. Maybe an FSM is not sentient to a Turing machine. Or the water cycle is not sentient but the collective behaviour of a swarm of birds is.
-* Any ontology of the environment is unaccessible except via epistemic observables on this boundary.
-    - The observables can be compressed for storage within the agent's memory by identifying patterns.
-    - This pattern identification procedure is thermodynamically irreversible, takes free energy from the environment and generates heat. Efficiency is determined by an ensemble of parameters like the size of the set of observables, the size of the compressed pattern, the time it takes of compress and decompress, the free energy used, the heat generated, etc.
-    - These patterns are best described as programs/algorithms that can be executed on the agent's computing faculties (reasoning, brain, computer) to decompress and replicate (remember) the observed phenomena.
-    - These programs are the most general method to predict future observable patterns that the agent can identify. This is Solomonoff induction and always carries a level of uncertainty (black swam event) that eventually leads to refinement of the program.
-    - The basis of Solomonoff induction, the Church-Turing thesis (i.e. the universe is efficiently computable by a Turing machine, or it's quantum variant from Deutsch), is the law-without-law that Wheeler was searching for. The fundamental laws of  physics tells more about the computability capabilities of our biologically evolved reasoning power than of the Universe.
-    - Being most general does not mean that it is the best method for any subset of observables and predictions. For limited use, memorizing a multiplication table may be more efficient that understanding how multiplication works in general. It has the least error considering all possible observables and predicions for the agent.
-    - Note, there may be patterns that the agent cannot identify using its level of computing capability. Neither are these unidentified patterns used for forming the program, nor can the agent predict how these patterns will affect future observations. These are termed as relative algorithmic randomness. Such randomness leads to the inability of the agent to compress/predict the exact sequence of observation, instead, it can predict the probability distribution of the observations.
-* This method of defining a boundary (cell wall), storing a compressed history (DNA) and predicting (genetic pathways and neural learning) has been evolutionarily favoured in Earth's environment and thus its usefulness is the anthropic sense for the survival of life.
-    - In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
+[1] There is no inherent meaning in the Universe. If the Universe sprung from and dissolutes into nothing, then only `nothing' is fundamental.
+
+[2] It is possible for sentient agents embedded within the Universe to derive meaning by dividing the Universe into two parts: the agent and the environment.
+
+[2.1] Humans belong to a more general class of sentient agents, which may include artificial intelligence, animals, aliens, etc.
+
+[3] These two parts have a boundary, called the Markov boundary (or Markov blanket, if not minimal), that is defined over the dimensions of space and time.
+
+[3.1] The definition of the boundary is stored within the agent and is the synonym for self-consciousness. It thinks, therefore it is.
+
+[3.1.1] This definition of the boundary can be shared with other agents by action-perception. The ability for the other agents to acknowledge the sentience of the agent is based on the mutually agreed definition of the boundary and of recognizing sentience. e.g. A rock is not sentient to a human but a fish is even though both move when acted on its boundary. Maybe an FSM is not sentient to a Turing machine. Or the water cycle is not sentient but the collective behaviour of a swarm of birds is.
+
+[4] Any ontology of the environment is unaccessible except via epistemic observables on this boundary.
+
+[4.1] The observables can be compressed for storage within the agent's memory by identifying patterns.
+
+[4.2] This pattern identification procedure is thermodynamically irreversible, takes free energy from the environment and generates heat. Efficiency is determined by an ensemble of parameters like the size of the set of observables, the size of the compressed pattern, the time it takes of compress and decompress, the free energy used, the heat generated, etc.
+
+[4.2.1] These patterns are best described as programs/algorithms that can be executed on the agent's computing faculties (reasoning, brain, computer) to decompress and replicate (remember) the observed phenomena.
+
+[4.2.2] These programs are the most general method to predict future observable patterns that the agent can identify. This is Solomonoff induction and always carries a level of uncertainty (black swam event) that eventually leads to refinement of the program.
+
+[4.2.3] The basis of Solomonoff induction, the Church-Turing thesis (i.e. the universe is efficiently computable by a Turing machine, or it's quantum variant from Deutsch), is the law-without-law that Wheeler was searching for. The fundamental laws of  physics tells more about the computability capabilities of our biologically evolved reasoning power than of the Universe.
+
+[4.2.4] Being most general does not mean that it is the best method for any subset of observables and predictions. For limited use, memorizing a multiplication table may be more efficient that understanding how multiplication works in general. It has the least error considering all possible observables and predicions for the agent.
+
+[4.2.5] Note, there may be patterns that the agent cannot identify using its level of computing capability. Neither are these unidentified patterns used for forming the program, nor can the agent predict how these patterns will affect future observations. These are termed as relative algorithmic randomness. Such randomness leads to the inability of the agent to compress/predict the exact sequence of observation, instead, it can predict the probability distribution of the observations.
+
+[5] This method of defining a boundary (cell wall), storing a compressed history (DNA) and predicting (genetic pathways and neural learning) has been evolutionarily favoured in Earth's environment and thus its usefulness is the anthropic sense for the survival of life.
+
+In summary, Q: "Why should I not commit [suicide](https://en.wikipedia.org/wiki/Suicide)?" should be answered with A: "Because [Code Golfing](https://en.wikipedia.org/wiki/Code_golf) is fun."
 
 These ideas were influenced by computer scientists like Christian Calude, Marcus Hutter, Ray Solomonoff, John von Neumann, Alan Turing, Stephen Wolfram, Jurgen Schmidhuber, David Wolpert; physicists like John Wheeler, Carlo Rovelli, Chaira Martello; philosophers like Rene Descartes, Albert Camus; mathematicians like Kurt Godel, Gregory Chaitin; and many others.
 
