@@ -105,6 +105,10 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 
 ### Presentations and Videos
 
+* Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
+    - 2024-10-18: Qiskit Fall Fest at Indian Institute of Technology, Kharagpur
+* AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
+    - 2024-06-10: Seminar at Indian Institute of Science
 * Optimal Quantum Firmware Design [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=li-6PvNIz3w)
     - 2024-02-28: QuTech360 Talk
 * Quantum Computing and Artificial Intelligence
