@@ -36,10 +36,11 @@ widget2:
 #### Index <a name="toc"></a>
 1. [Research Questions](#questions)
 2. [Research Themes](#themes)
-3. [Mind Map](#mindmap)
-4. [Curated Lists](#lists)
-5. [Scientists with similar research interest](#researchers)
-6. [Favourite formulae/hypotheses](#formulae)
+3. [Research Journey](#perspective)
+4. [Mind Map](#mindmap)
+5. [Curated Lists](#lists)
+6. [Scientists with similar research interest](#researchers)
+7. [Favourite formulae/hypotheses](#formulae)
 
 </div>
 
@@ -83,6 +84,24 @@ Here's a visual that captures the most important topics:
 {% include gallery %}
 
 <!--[![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)-->
+
+[*^ back to top ^*](#toc)
+
+### My research journey and perspective <a name="perspective"></a>
+
+My favorite perspective in high school was primary computer science (say, about 3/4 of my motivation), followed by physics and mathematics subjects. Computer science primarily included Boolean algebra, computer organization, and object-oriented programming, while some of my most interesting physics topics included wave-particle duality, transistors, and thermodynamics. The few topics I liked in mathematics were permutation combinations and probability.
+
+During my bachelor's, I was officially enrolled in avionics (aviation electronics), which aligns more with electronics engineering (among popular B.Tech streams in India). My curriculum and projects allowed me to develop additional insights into microcontrollers, robotics, computer vision, and swarm intelligence, besides honing my interest in programming and computer architecture. Some introductory courses also introduced me to modern physics, relativity, quantum mechanics, and statistical mechanics. Various online/guest courses introduced me to the fascinating topics of genetic programming, machine learning, artificial intelligence, and quantum computation. What's also essential here are the topics I did not appreciate or that were not part of my curriculum. The former included signal processing, control systems, and functional analysis, while the latter (i.e., topics I wished I got an opportunity to learn) included automata theory and learning theory.
+
+While in ISRO, I honed my low-level assembly programming and VHDL-based FPGA programming skills. It also allowed me to appreciate system-level design and fault-analysis. This gave me a complete hands-on from high-level logic to timed electrical signals that execute the logic - a perspective that became indispensable later in my quantum computing efforts.
+
+My master's was embedded within the computer engineering department of TU Delft, which included topics from electrical engineering, embedded systems, and computer science. At the same time, my specialization in quantum computation introduced topics like quantum information, quantum communication, and quantum computer architecture. This allowed me to transport my classical full-stack perspective to quantum computation while my interest in programming induced my thesis work on quantum algorithms. It was specifically also motivated by the genetic programming perspective of code describing a physical system encoded as genes, which roughly translated to the application for which I developed the quantum algorithms.
+
+With this perspective, I started my doctoral research. In the second year, I found out about algorithmic information theory. The synergy of AIT and QC has become my most loved perspective since then. Looking back, with a full circle of destiny, it merged all of my perspectives from school. QC allows states much richer for exotic computation, while AIT is the gatekeeper of algorithms, resources, and explainability. Both have implications for AI, a perspective that was increasingly hard to decouple. With QC, I could explore QML and automation in quantum computation (algorithm design, compilation, control, etc.), while with AIT, I could explore universal reinforcement learning, AGI, and the thermodynamics of computation. 
+
+I would be best described as a 'quantum computer architect.'
+
+I am the CS and QM guy in a CE dept.
 
 [*^ back to top ^*](#toc)
 
