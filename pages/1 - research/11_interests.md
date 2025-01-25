@@ -87,7 +87,7 @@ Here's a visual that captures the most important topics:
 
 [*^ back to top ^*](#toc)
 
-### My research journey and perspective <a name="perspective"></a>
+### Research journey and perspectives <a name="perspective"></a>
 
 During high school, my fascination was primarily centered around computer science, which accounted for about three-quarters of my motivation. This field introduced me to topics like Boolean algebra, computer organization, and object-oriented programming. Physics and mathematics also captivated my interest. In physics, wave-particle duality, transistors, and thermodynamics stood out as particularly intriguing, while in mathematics, I enjoyed exploring permutations, combinations, and probability.
 
