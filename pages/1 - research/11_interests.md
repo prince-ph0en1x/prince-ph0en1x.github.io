@@ -87,7 +87,7 @@ Here's a visual that captures the most important topics:
 
 [*^ back to top ^*](#toc)
 
-### Research journey and perspectives <a name="perspective"></a>
+### Research Journey <a name="perspective"></a>
 
 During high school, my fascination was primarily centered around computer science, which accounted for about three-quarters of my motivation. This field introduced me to topics like Boolean algebra, computer organization, and object-oriented programming. Physics and mathematics also captivated my interest. In physics, wave-particle duality, transistors, and thermodynamics stood out as particularly intriguing, while in mathematics, I enjoyed exploring permutations, combinations, and probability.
 
@@ -143,19 +143,16 @@ Some researchers whom I currently follow closely for my research as they have ov
 
 List of formulae or hypotheses that I find most impactful
 * [Cantor's Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis)
-* [Church-Turing-Deutsch principle](https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle)
+* [Church-Turing-Deutsch principle](https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle) and [Solovay-Kitaev theorem](https://en.wikipedia.org/wiki/Solovay%E2%80%93Kitaev_theorem)
 * [Curry-Howard-Lambek correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#Curry%E2%80%93Howard%E2%80%93Lambek_correspondence)
 * [Mass-Energy-Information equivalence](https://pubs.aip.org/aip/adv/article/9/9/095206/1076232/The-mass-energy-information-equivalence-principle)
 * [Choi-Jamiołkowski isomorphism](https://en.wikipedia.org/wiki/Choi%E2%80%93Jamio%C5%82kowski_isomorphism)
-* [Solovay-Kitaev theorem](https://en.wikipedia.org/wiki/Solovay%E2%80%93Kitaev_theorem)
-* [Holevo's bound](https://en.wikipedia.org/wiki/Holevo%27s_theorem)
-* [Thermodynamic Kolmogorov complexity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033312)
-* [Quantum Knowledge Seeking Agent](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_37)
-* [AIXI](https://en.wikipedia.org/wiki/AIXI)
+* [Holevo's bound](https://en.wikipedia.org/wiki/Holevo%27s_theorem), [Quantum Speed Limits](https://en.wikipedia.org/wiki/Quantum_speed_limit), and [Limits to Computation](https://arxiv.org/abs/1408.3821)
+* [Thermodynamic Kolmogorov complexity](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033312) and [Uncomplexity](https://arxiv.org/abs/1701.01107)
+* [AIXI](https://en.wikipedia.org/wiki/AIXI) and [Quantum Knowledge Seeking Agent](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_37)
 * [Solomonoff induction](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
+* [Lorentz invariance](https://en.wikipedia.org/wiki/Lorentz_covariance), [CPT symmetry](https://en.wikipedia.org/wiki/CPT_symmetry), [Quantum Reference Frames](https://en.wikipedia.org/wiki/Quantum_reference_frame#:~:text=A%20quantum%20reference%20frame%20is,%2C%20spin%2C%20and%20so%20on.), and [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)
 * Area law of entanglement
-* Mandelbrot set
-* Barsley fern fractal
-* Glynn Julia set
+* Fractals: Mandelbrot set, Barsley fern fractal, Glynn Julia set
 
 [*^ back to top ^*](#toc)
