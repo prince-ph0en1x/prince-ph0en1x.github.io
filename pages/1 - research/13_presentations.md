@@ -105,6 +105,8 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 
 ### Presentations and Videos
 
+* Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
+    - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
 * Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
     - 2024-10-18: Qiskit Fall Fest at Indian Institute of Technology, Kharagpur
 * AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
