@@ -93,10 +93,10 @@ I am(was) involved in proposing the topics, quantum computing technicalities, an
 
 ##### Project guidance and evaluation
 
-I was involved in the weekly brainstorming sessions and part of the graduation defense committee for:
-* **Smaran Adarsh** - Master's thesis on [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
-* **Koen Mesman** - Master's thesis on [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
-* **Huub Donkers** - Master's thesis on [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
+I was involved in the weekly brainstorming sessions and part of the M.Sc. graduation defense committee for:
+* **Smaran Adarsh** - [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
+* **Koen Mesman** - [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
+* **Huub Donkers** - [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
 
 #### Bachelor project supervision
 
@@ -109,7 +109,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
     - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
 * Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
     - 2024-10-18: Qiskit Fall Fest at Indian Institute of Technology, Kharagpur
-* AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
+* AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
     - 2024-06-10: Seminar at Indian Institute of Science
 * Optimal Quantum Firmware Design [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=li-6PvNIz3w)
     - 2024-02-28: QuTech360 Talk
