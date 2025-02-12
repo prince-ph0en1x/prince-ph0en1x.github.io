@@ -121,6 +121,22 @@ I am not a fruit lover in general. However, a few fruits (esp. the sour ones) br
 * [Lychee](https://en.wikipedia.org/wiki/Lychee)
 * Mango - [Dasheri](https://en.wikipedia.org/wiki/Dasheri), [Chausa](https://en.wikipedia.org/wiki/Chaunsa)
 
+## Drinks
+
+* Beer: Oud Geuze Boon, Kwak Amber, Duvel 666, Hoegaarden Witbier, Carlsberg Elephant, Indus Pride Citrusy Coriander, Indus Pride Citrusy Cardamom, Indus Pride Fiery Cinnamon
+* Mead: Moonshine Traditional
+* Liquer: Mastika, Kahlua, Bols Gold Strike, Baileys Irish Cream, Limoncello
+* Wine: Retsina Malamatina
+* Gin: Samsara Vale of Paradise, Gibson Pink
+* Rum: Old Monk Gold Reserve, Bacardí Mango Chile
+* Whiskey: Jim Beam Orange, Jack Daniel's Tennessee Honey
+
+Not specific: tequila, amaretto, advocaat, vodka, curacao, cointreau, malibu.
+
+Not a fan: jagermeister, metaxa, ouzo, sake, fenny. 
+
+Wanna try: mahua, hariya, toddy.
+
 ## Memories of childhood
 
 90s kid nostalgia: kismi, parle-g, hajmola, coin chocolate, ring pops, cigerette logenze, eclairs, ..
