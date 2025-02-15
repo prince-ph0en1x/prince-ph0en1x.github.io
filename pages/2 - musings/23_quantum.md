@@ -94,6 +94,9 @@ List of resources presenting a realist view of the current challenges of quantum
 * [2023 - Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518)
 * [2023 - What will a quantum computer be good for, exactly?](https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html)
 * [2023 - Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage](https://dl.acm.org/doi/10.1145/3571725)
+* [2023 - Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
+* [2024 - A typology of quantum algorithms](https://arxiv.org/abs/2407.05178v1)
+* [2024 - How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406v1)
 
 #### 200 qubits can map to all the atoms in the Universe
 
