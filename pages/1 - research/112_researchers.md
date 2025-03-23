@@ -137,6 +137,7 @@ I have been deeply inspired by many *giants* in the scientific community. I hold
 * [Karim Thebault](https://scholar.google.com/citations?hl=en&user=-30WaMcAAAAJ&view_op=list_works&sortby=pubdate)
 * Dustin Lazarovici
 * [Kamaludin Dingle](https://scholar.google.com/citations?hl=en&user=SZ5uGPMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Florian Marquardt](https://scholar.google.com/citations?hl=en&user=jx_c7SgAAAAJ&view_op=list_works&sortby=pubdate)
 
 ... the list keeps growing as the horizon of my knowledge widens.
 
@@ -161,8 +162,13 @@ In his [blog](http://www.hutter1.net/), Marcus Hutter curates a list of famous A
 * [Laurent Orseau](https://scholar.google.com/citations?hl=en&user=HVJjWlEAAAAJ&view_op=list_works&sortby=pubdate)
 * [Tor Lattimore](https://scholar.google.com/citations?hl=en&user=fkDxJxcAAAAJ&view_op=list_works&sortby=pubdate)
 * [Kamaludin Dingle](https://scholar.google.com/citations?hl=en&user=SZ5uGPMAAAAJ&view_op=list_works&sortby=pubdate)
-* [Aritra Sarkar](https://scholar.google.com/citations?hl=en&user=Qo84iBgAAAAJ&view_op=list_works&sortby=pubdate)
 * [Elliot Catt](https://scholar.google.com/citations?hl=en&user=d1JYeMIAAAAJ&view_op=list_works&sortby=pubdate)
+* [Samuel Epstein](https://dblp.org/pid/07/7181.html)
+* [Markus P. Müller](https://scholar.google.nl/citations?hl=en&user=rSxd4xMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Karl Svozil](https://scholar.google.com/citations?hl=en&user=SdcyPfQAAAAJ&view_op=list_works&sortby=pubdate)
+* [Cole Wyeth](https://colewyeth.com/publications.html)
+* [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate)
+* [Mike Stay](https://scholar.google.com/citations?hl=en&user=E3wyDhUAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
 
@@ -255,4 +261,30 @@ Yongge Wang	University Heidelberg, Germany (CC,AR)
 Osamu Watanabe	Tokyo Institute of Technology, Tokyo, Japan (CC,KC)
 -->
   
+[*^ back to top ^*](#toc)
+
+### QCE/QSE researchers <a name="qce"></a>
+
+Quantum computing, while being an interdisciplinary venture, is currently dominated by researchers with a background in quantum physics. My firm conviction is that it requires more researchers to wear computer engineering as their primary perspective. Here's a list of some researchers working on engineering challenges in quantum computer architecture and software.
+
+* [Margaret Martonosi](https://scholar.google.nl/citations?hl=en&user=tgYsFS0AAAAJ&view_op=list_works&sortby=pubdate)
+* [Fredrick Chong](https://scholar.google.nl/citations?hl=en&user=U6OVPVMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Kenneth R. Brown](https://scholar.google.nl/citations?hl=en&user=EFVX84sAAAAJ&view_op=list_works&sortby=pubdate)
+* [Koen Bertels](https://scholar.google.nl/citations?hl=en&user=a3c2b_wAAAAJ&view_op=list_works&sortby=pubdate)
+* [Prakash Murali](https://scholar.google.nl/citations?hl=en&user=2J0X_aIAAAAJ&view_op=list_works&sortby=pubdate)
+* [Igor L. Markov](https://scholar.google.nl/citations?hl=en&user=CHIZtZAAAAAJ&view_op=list_works&sortby=pubdate)
+* [Craig Gidney](https://scholar.google.nl/citations?hl=en&user=qKTv84IAAAAJ&view_op=list_works&sortby=pubdate)
+* [Ryan Babbush](https://scholar.google.nl/citations?hl=en&user=6I7jyygAAAAJ&view_op=list_works&sortby=pubdate)
+* [Nathan Wiebe](https://scholar.google.nl/citations?hl=en&user=DSgKHOQAAAAJ&view_op=list_works&sortby=pubdate)
+* [Krysta M. Svore](https://scholar.google.nl/citations?hl=en&user=FlY-U3kAAAAJ&view_op=list_works&sortby=pubdate)
+* [Robert Wille](https://scholar.google.nl/citations?hl=en&user=dWkUqVsAAAAJ&view_op=list_works&sortby=pubdate)
+* [Mathias Soeken](https://scholar.google.nl/citations?hl=en&user=_J9JPrAAAAAJ&view_op=list_works&sortby=pubdate)
+* [Matthew Amy](https://scholar.google.nl/citations?hl=en&user=1XgGNJQAAAAJ&view_op=list_works&sortby=pubdate)
+* [Carmen G. Almudever](https://scholar.google.nl/citations?hl=en&user=mII9unQAAAAJ&view_op=list_works&sortby=pubdate)
+* [Jonathan Baker](https://scholar.google.nl/citations?hl=en&user=87cLl3gAAAAJ&view_op=list_works&sortby=pubdate)
+* [Nader Khammassi](https://scholar.google.nl/citations?hl=en&user=oQKbQ88AAAAJ&view_op=list_works&sortby=pubdate)
+* [Mohammad Reza Jokar](https://scholar.google.nl/citations?hl=en&user=yCdH2MAAAAAJ&view_op=list_works&sortby=pubdate)
+* [Medina Bandić](https://scholar.google.nl/citations?hl=en&user=Iw_L1t8AAAAJ&view_op=list_works&sortby=pubdate)
+
+
 [*^ back to top ^*](#toc)
