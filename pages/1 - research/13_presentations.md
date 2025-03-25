@@ -31,72 +31,90 @@ I aid(ed) in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
-I (co)-supervised the following bachelor, masters and doctoral projects while I was at TU Delft.
+I (co)-supervised the following bachelor, master's, and doctoral projects while I was at TU Delft and QBee.
 
 #### Doctoral research co-supervision
 
-* **Matthew Steinberg** - Efficient quantum error correction codes
-* **Alan Yu** - Machine learning based gate set tomography
-* **Nikiforos Paraskevopoulos** - Compiler and design space exploration of spin qubit processors
-* **Medina Bandic** - Quantum circuit mapping
-* **Anna Maria Krol** - High-performance quantum compiler for parametric circuits
-* **Arne Wulff** - Quantum algorithms for aerospace material design
-* **Koen Mesman** - Quantum algorithms for aerospace material design
-* **Hongfeng Zhang** - Quantum algorithms for bioinformatics
-* **Delphine De Smedt** - Quantum algorithms for satellite image processing
-* **Kourosh Sayar Dogahe** - High-impact applications of quantum computational chemistry
-* **Yassine Ferjani** - Quantum security protocols for industrial use-cases
+* **Matthew Steinberg**
+    - Efficient quantum error correction codes
+* **Alan Yu**
+    - Machine learning-based gate set tomography
+* **Nikiforos Paraskevopoulos**
+    - Compiler and design space exploration of spin qubit processors
+* **Medina Bandic**
+    - Quantum circuit mapping
+* **[Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b/)**
+    - [`Programming Quantum Computers'](http://resolver.tudelft.nl/uuid:43110674-5c4d-4745-a941-c8accf328c65)
+* **Arne Wulff**
+    - Quantum algorithms for aerospace material design
+* **Koen Mesman**
+    - Quantum algorithms for aerospace material design
+* **Hongfeng Zhang**
+    - Quantum algorithms for bioinformatics
+* **Delphine De Smedt**
+    - Quantum algorithms for satellite image processing
+* **Kourosh Sayar Dogahe**
+    - High-impact applications of quantum computational chemistry
+* **Yassine Ferjani**
+    - Quantum security protocols for industrial use cases
 
-#### Master thesis supervision
+#### Master theses supervision
 
 I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
-* **Mark Cilissen**
-    * Master's thesis on `An expressive pulse-programming language for quantum control' at QBlox
-* **Joris Henstra** 
-    * Master's thesis on `Reinforcement learning for quantum circuit mapping on NISQ processors' at TU Delft
+* **[Mark Cilissen](https://www.linkedin.com/in/mxxxc/)**
+    * `An expressive pulse-programming language for quantum control' at TU Delft
+    * Now at [QBlox](https://www.qblox.com/)
+* **[Joris Henstra](https://www.linkedin.com/in/jorishenstra/)** 
+    * [`Investigating the Effects of Variations in Reinforcement Learning Environments and Quantum Hardware for Qubit Routing'](http://resolver.tudelft.nl/uuid:f33f46c5-ebea-4e2e-86e9-e6b5616134df) at TU Delft
 * **[Shubing Xie](https://www.linkedin.com/in/shubing-xie-44060b267/)**
-    * Master's thesis on [Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm](https://hdl.handle.net/1887/4010640) at Leiden University
+    * [`Quantum Circuit Decompiler: Pattern Recognition of Quantum Circuits By Genetic Algorithm'](https://hdl.handle.net/1887/4010640) at Leiden University
     * Now at [Aramco](https://www.aramco.com/en), the Netherlands
 * **[Sibasish Mishra](https://www.linkedin.com/in/sibasish-mishra-078bbb176/)**
-    * Master's thesis on [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information'](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f) at TU Delft
+    * [`Dictionary-based Energy-efficient Coding of Quantum Instruction Set guided by Algorithmic Information'](https://resolver.tudelft.nl/uuid:961f1665-2a4a-4d7d-a344-58e6a573f17f) at TU Delft
     * Now at [Orange Quantum Systems](https://orangeqs.com/), the Netherlands
 * **[Sebastiaan Fauquenot](https://www.linkedin.com/in/sebastiaanfauquenot/)**
-    * Master's thesis on [`Energy Efficient Universal Quantum Optimal Control'](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359) at TU Delft
+    * [`Energy Efficient Universal Quantum Optimal Control'](https://resolver.tudelft.nl/uuid:d115c6c2-329f-47ed-9791-2ef6b1f8c359) at TU Delft
     * Now at Google, Ireland
 * **[Deepika Rajan](https://in.linkedin.com/in/deepika-rajan-991624249)**
-    * Master's thesis on [`Automated Discovery of Quantum Error Correction Codes']() at Indian Institute of Space Science and Technology
+    * [`Automated Discovery of Quantum Error Correction Codes']() at Indian Institute of Space Science and Technology
     * Now at [Creed&Bear](https://creedandbear.com/), UAE
 * **[David Hamel](https://www.linkedin.com/in/david-hamel-322a9b197/)**
-    * Master's thesis on [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']() at TU Delft
+    * [`ArtA: Artificial Architect - Automating Design Space Exploration of Spin Qubit Architectures using Optimization Methods']() at TU Delft
     * Now at [QuantWare](https://www.quantware.com/), the Netherlands
 * **[Boran Apak](https://www.linkedin.com/in/boran-apak-004849279/)**
-    * Master's thesis on [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783) at TU Delft
+    * [`KetGPT: creating realistic looking quantum circuits using Transformers'](https://resolver.tudelft.nl/uuid:ff02dbbd-b0c5-4c33-b71a-337c5e0d1783) at TU Delft
 * **[Sacha Szkudlarek](https://www.linkedin.com/in/sacha-szkudlarek-375046129/)** 
-    * Master's thesis on [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12) at TU Delft
+    * [`Determining Minimal SWAP Operations for the Qubit-Mapping Problem using Quantum Information Theory'](http://resolver.tudelft.nl/uuid:9923313d-45c9-4af6-b800-98cfe28aab12) at TU Delft
     * Now at TU Delft
 * **[Luís Ricardo Matos Mendes](https://www.linkedin.com/in/luis-rmendes/)** 
-    * Master's thesis on [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto
+    * [`Scalable Parallelization of Quantum Computing Simulations'](https://repositorio-aberto.up.pt/bitstream/10216/142721/2/572019.pdf) at the University of Porto
 * **[Duarte Frazão](https://www.linkedin.com/in/duartefrazao/)** 
-    * Master's thesis on [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto
+    * [`Quantum Algorithms for Portfolio Management'](ttps://repositorio-aberto.up.pt/bitstream/10216/135859/2/490520.pdf) at the University of Porto
 * **[João Lourenço Teixeira Vieira](https://www.linkedin.com/in/joaoltvieira/)** 
-    * Master's thesis on [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto
+    * [`A Generic Micro-Architecture for Quantum Accelerators'](https://repositorio-aberto.up.pt/bitstream/10216/136070/2/494080.pdf) at the University of Porto
 * **[Ravish Budhrani](https://www.linkedin.com/in/ravi-budhrani-31767b128/)** 
-    * Master's thesis on [`QuantumSim - A memory efficient quantum computing simulator'](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91)  at TU Delft
+    * [`QuantumSim - A memory efficient quantum computing simulator'](http://resolver.tudelft.nl/uuid:8d0d0375-f35c-472f-bdd7-ad0012b22c91) at TU Delft
     * Now at QuTech
 * **[Karthik Krishnakumar](https://www.linkedin.com/in/karthik-krishnakumar/)** 
-    * Master's thesis on `Distributed Quantum Circuit Simulation' at Birla Institute of Technology and Science 
+    * `Distributed Quantum Circuit Simulation' at Birla Institute of Technology and Science 
     * Now at [Qulabs](https://www.qulabs.ai/)
 * **[Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b/)** 
-    * Master's thesis on [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft 
+    * [`Unitary Decomposition - Implemented in the OpenQL programming language for quantum computation'](http://resolver.tudelft.nl/uuid:9c60d13d-4f42-4d8b-bc23-5de92d7b9600) at TU Delft 
     * Now at TU Delft
 
 ##### Project guidance and evaluation
 
 I was involved in the weekly brainstorming sessions and part of the M.Sc. graduation defense committee for:
-* **Smaran Adarsh** - [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7).
-* **Koen Mesman** - [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9).
-* **Huub Donkers** - [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9)
+* **[Smaran Adarsh](https://www.linkedin.com/in/smaran-adarsh-06b6b316b/)**
+    * [`Resource Optimal Executable Quantum Circuit Generation Using Approximate Computing'](http://resolver.tudelft.nl/uuid:65133980-a018-4960-9c3f-1beb209392e7) at TU Delft
+    * Now at [Rambus](https://www.rambus.com/), the Netherlands
+* **[Koen Mesman](https://www.linkedin.com/in/koenmesman/)**
+    * [`QPack: QAOA as scalable application-level quantum benchmark'](http://resolver.tudelft.nl/uuid:cc8d7440-928d-4518-9a91-14f8770b31e9) at TU Delft
+    * Now at TU Delft
+* **[Huub Donkers](https://www.linkedin.com/in/huubdonkers/)**
+    * [`QPack: A cross-platform quantum benchmark-suite: Quantitative performance metrics for application-oriented quantum computer benchmarking'](http://resolver.tudelft.nl/uuid:b715d9c3-c8a4-4a8e-98b2-762458a3d7cb) at TU Delft
+    * Now at [Roland Berger](https://www.rolandberger.com/en/)
 
 #### Bachelor project supervision
 
@@ -105,6 +123,8 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 
 ### Presentations and Videos
 
+* Quantum Computing: naam toh suna hi hoga?
+    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme
 * Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
     - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
 * Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
@@ -126,9 +146,11 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * QKSA: Quantum Knowledge Seeking Agent [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=IFs7nVoTGRg&t=26668s)
     - 2022-08-21: AGI-22 Technical Paper Presentations
 * Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
-    - 2022-06-30: Expert Talk at Bennett university
+    - 2022-06-30: Expert Talk at Bennett University
 * Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
-    - 2022-06-30: Expert Talk at Bennett university
+    - 2022-06-30: Expert Talk at Bennett University
+* Quantum Computing: naam toh suna hi hoga?
+    - 2022-04-08: QIndia Workshop with IEEE Student Chapter at Thakur College of Engineering and Technology
 * An interdisciplinary introduction to Quantum Computation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KSEJjrU_pvU)
     - 2021-06-19: Qoffee o'Clock by QIndia
 * Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
@@ -144,7 +166,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * HiPEAC'19 Tutorial on Quantum algorithms using QX [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/hipeac19-tutorial-on-quantum-algorithms-using-qx-20190123)
     - 2019-01-23: at València, Spain
 * Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
-    - 2018-06-22: M.Sc. thesis defence at TU Delft
+    - 2018-06-22: M.Sc. thesis defense at TU Delft
 
 <!--
 ### Presentations from QCA team
