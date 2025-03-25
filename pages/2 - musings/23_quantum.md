@@ -20,29 +20,48 @@ widget1:
 
 ## Posts
 
+<body style="background-color:#EAD1DC;"></body>
 
-<div class="row">
-<div class="medium-8 medium-push-0 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Topics**
-{: #toc }
-*  TOC
-{:toc}
-<!-- {:toc_levels:"1"} -->
+<div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
+
+#### Index <a name="toc"></a>
+1. [Artificial Intelligence and Quantum Computation](#aiqc)
+2. [Interpretations of QM](#interpretations)
+3. [QC Resources](#qcresources)
+4. [QC Mythbusters](#mythbusters)
+5. [QC Programming Languages](#programming)
+6. [Universal Gate Set](#ugs) 
+7. [IN Quantum](#inq)
+8. [Career in QC - a guide for highschoolers](#qccareer)
+9. [Quantum Quixote](#quantumquixote)
+
 </div>
-</div><!-- /.medium-4.columns -->
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-(abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation)
+(abbreviations: Q for Quantum; QC for Quantum Computer/Computing/Computation; QM for Quantum Mechanics)
 
-### Artificial Intelligence and Quantum Computation
+### Artificial Intelligence and Quantum Computation <a name="aiqc"></a>
 
-Crossref to QuTech blog post:
+Crossref to QuTech blog post (click on image):
 
 [![QuTech Blog](/images/musings/qutech_blog.jpg)](https://blog.qutech.nl/2023/03/02/artificial-intelligence-and-quantum-computation/)
 
-### QC Resources
+The cover banner is a collage of images depicting human intelligence (left), artificial intelligence (right), and a quantum mechanical system (center). The classical interfaces of the quantum system are controlled, sensed, and interpreted using artifacts of mathematical logic and corresponding semantics.
+
+[*^ back to top ^*](#toc)
+
+### Interpretations of QM <a name="interpretations"></a>
+
+My ideas currently align well with the [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) interpretation of QM. [Relational Quantum Mechanics (RQM)](https://en.wikipedia.org/wiki/Relational_quantum_mechanics) comes a close second. I am not a fan of the [Many-Worlds interpretation (MWI)](https://en.wikipedia.org/wiki/Many-worlds_interpretation), [Von Neumann–Wigner interpretation](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation) and [Quantum Darwinism](https://en.wikipedia.org/wiki/Quantum_Darwinism).
+
+It is important to understand that interpretations lie at the interface of physics and philosophy. While most QC/QM researchers are dismissive of philosophy and cringe at even the thought of acknowledging (forget commenting on) their philosophical ideals, it's a fallacy. Our scientific explorations are deeply guided by the philosophical basis that we implicitly assume to be true. For example, for a long period in science, we have followed the Galilean ideals of scientists/observers who can objectively build theories on a realistic external world. This idea was challenged with the advent of quantum mechanics, blurring the subject-object distinction with a third-party view of entanglement of what is considered measurement by a participatory. 
+
+RQM subscribes to the metaphysics of [ontic structural realism](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science)#Ontic_structural_realism). QBism subscribes to the metaphysics of [neutral monism](https://en.wikipedia.org/wiki/Neutral_monism).
+
+While I like the parsimonous account of neutral monism, and especially how well it resonates with [nirguna brahman](https://en.wikipedia.org/wiki/Para_Brahman) in [advaita vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) and [wuji](https://en.wikipedia.org/wiki/Wuji_(philosophy)) in [taoism](https://en.wikipedia.org/wiki/Taoism); my concerns with all the 3 (i.e., the QM interpretation, the metaphysics, and the two Eastern philosophical concepts) is that it shrugs off too much in the name of parsimony to render the metaphysics oversimplified and silent about most concepts where you would expect a metaphysical stance would come to aid. Specifically, it fails to answer the birth of dualism (subject-object, shiva-shakti, yin-yang) from the undifferentiated neutral concept. Hinduism gets around this with the [deus ex machine](https://en.wikipedia.org/wiki/Deus_ex_machina) of [lila](https://en.wikipedia.org/wiki/Lila_(Hinduism)) (divine play), but what is it in QBism?   
+
+### QC Resources <a name="qcresources"></a>
 
 (Created Jun 21, 2020; Updated Sep 26, 2021)
 
@@ -79,9 +98,9 @@ Quantum computing platforms:
 * [QC Ware Forge](https://forge.qcware.com/)
 * [Quantum JavaScript](https://quantumjavascript.app/)
 
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+[*^ back to top ^*](#toc)
 
-### Q Mythbusters
+### QC Mythbusters <a name="mythbusters"></a>
 
 #### DeHyping Quantum
 
@@ -142,15 +161,74 @@ This has nothing to do with the Quantum Supremacy limit that I will discuss soon
 
 (coming soon)
 
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+[*^ back to top ^*](#toc)
 
-### IN Quantum
+### QC Programming Languages <a name="programming"></a>
+
+(Jun 21, 2020)
+
+The first question a quantum software/application developer faces is which programming platform to use.
+Especially with the many choices already available, this becomes difficult to choose.
+
+If you plan to develop a few-qubit programs and eventually test the implementation on an available physical chip, then choose the toolset from the corresponding providers, e.g., Qiskit for IBM, Forest for Rigetti.
+Beware, developing a 'realistic' application is difficult due to the limitation in quantum volume.
+
+If you are interested in the computation logic and remain hardware agnostic, choose a platform with more simulation capabilities.
+The larger the unitary matrix (i.e. number of qubits) you are allowed, the better you can test the logic.
+Often, access to the internal state vector and execution capabilities on HPC systems are useful.
+Available algorithmic primitives, ease of expressing logic at a high level, and analytic tools like metrics and visualizations are also desirable.
+Do not worry too much about not choosing the mainstream most popular one as cross-compilers between the dominant tools will soon be a norm.
+Beware, developing a 'realistic' application is difficult due to limitations in quantum computer simulation using classical logic.
+
+[*^ back to top ^*](#toc)
+
+### Universal Gate Set <a name="ugs"></a>
+
+(Jun 21, 2020)
+
+What is computation?
+It is a set of inputs I={i1,i2,...,in} getting transformed to a set of outputs O={o1,o2,...,om}.
+Now, for the processing part, let us process one output at a time, as is the convention in simple single-threaded single-core processors.
+Each output variable is defined by a map from the set of input variables.
+The exhaustive possibilities for each input variable and the corresponding expected output are represented in a truth table.
+From a black box model, the processing logic is expected to implement this truth table's epistemological behavior.
+It can as well maintain a huge look-up table and search for the entry corresponding to a specific input case and produce the output.
+
+To derive the logic behind the truth table, we transform it into a sum-of-product form.
+This transformation is very powerful, as we use only 3 logical operators to form this expression - AND, OR, NOT.
+Since AND and OR are associative, if our processor supports the primitives of a 2-variable AND, 2-variable OR, and NOT, we have a universal set for any computation.
+With these tools at hand, we do not need to design different logic gates for each truth table, we just need to wire up many AND, OR, NOT gates in a circuit.
+These are like the protons, neutrons, and electrons of the computer world.
+
+The NAND and NOR gates are also universal on their own.
+NOT(i) = NAND(i,i); AND(i1,i2) = NAND(NAND(i1,i2),NAND(i1,i2)); OR(i1,i2) = NAND(NAND(i1,i1),NAND(i2,i2)).
+Isn't this great?
+With just one 2-input truth table, all other truth tables can be formed.
+
+Similarly for quantum computation, there are also universal sets.
+A common one is formed from the 3 quantum gates of CNOT, H, and T.
+A quantum computation is represented by a unitary transform of the input state to the output state.
+This arbitrary unitary is like a truth table, that can be decomposed into simpler building blocks of smaller quantum gates.
+My favorite universal set is Toffoli and H.
+The Toffoli gate (CCNOT) is universal for classical computation, as it can implement NAND and FanOut.
+While the Hadamard gate is native to quantum, giving rise to superpositions.
+I often find, that most quantum algorithms I implement rely on these gates by intuition.
+Also, the matrix forms of these gates have no complex elements making them easy to implement on simulators.
+
+One important point often overlooked is that by choosing to implement a general function by a universal set, we lose some performance.
+If we design special-purpose hardware to support a specific data transform, it will most likely be more optimal than doing so with the blocks from a universal set, similar to how ASICs are faster than CPUs.
+
+[*^ back to top ^*](#toc)
+
+### IN Quantum <a name="inq"></a>
 
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
 </div>
 
-### Career in QC - a guide for highschoolers
+[*^ back to top ^*](#toc)
+
+### Career in QC - a guide for highschoolers <a name="qccareer"></a>
 
 (Jul 8, 2020)
 
@@ -223,75 +301,17 @@ Back to the question:
 
 *You already can. Buckle-up to train in the ways of its magic. The world awaits the quantum wizard in you.*
 
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
+[*^ back to top ^*](#toc)
 
-### Q Programming Languages
-
-(Jun 21, 2020)
-
-The first question a quantum software/application developer faces is, which programming platform to use.
-Especially with the large number of choices already available, this becomes difficult to choose.
-
-If you plan to develop few-qubit programs and eventually test the implementation on an available physical chip, then choose the toolset from the corresponding provides, e.g. Qiskit for IBM, Forest for Rigetti.
-Beware, developing a 'realistic' application is difficult due to the limitation in quantum volume.
-
-If you are interested in the computation logic and remain hardware agnostic, choose a platform that offers more simulation capabilities.
-The larger the unitary matrix (i.e. number of qubits) you are allowed, the better you can test the logic.
-Often access to the internal state vector and execution capabilities on HPC systems are useful.
-Available algorithmic primitives, ease of expressing logic at a high level, and analytic tools like metrics and visualizations are also desirable.
-Do not worry too much about not choosing the mainstream most popular one as cross-compilers between the dominant tools will soon be a norm.
-Beware, developing a 'realistic' application is difficult due to limitations in quantum computer simulation using classical logic.
-
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
-
-### Universal Gate Set
-
-(Jun 21, 2020)
-
-What is computation?
-It is a set of inputs I={i1,i2,...,in} getting transformed to a set of outputs O={o1,o2,...,om}.
-Now, for the processing part, let us process one output at a time, as is the convention in simple single-threaded single-core processors.
-Each output variable is defined by a map from the set of input variables.
-The exhaustive possibilities for each input variable and the corresponding expected output are represented in a truth table.
-From a black box model, the processing logic is expected to implement this truth table's epistemological behavior.
-It can as well maintain a huge look-up table and search for the entry corresponding to a specific input case and produce the output.
-
-To derive the logic behind the truth table, we transform it into a sum-of-product form.
-This transformation is very powerful, as we use only 3 logical operators to form this expression - AND, OR, NOT.
-Since AND and OR are associative, if our processor supports the primitives of a 2-variable AND, 2-variable OR, and NOT, we have a universal set for any computation.
-With these tools at hand, we do not need to design different logic gates for each truth table, we just need to wire up many AND, OR, NOT gates in a circuit.
-These are like the protons, neutrons, and electrons of the computer world.
-
-The NAND and NOR gates are also universal on their own.
-NOT(i) = NAND(i,i); AND(i1,i2) = NAND(NAND(i1,i2),NAND(i1,i2)); OR(i1,i2) = NAND(NAND(i1,i1),NAND(i2,i2)).
-Isn't this great?
-With just one 2-input truth table, all other truth tables can be formed.
-
-Similarly for quantum computation, there are also universal sets.
-A common one is formed from the 3 quantum gates of CNOT, H, and T.
-A quantum computation is represented by a unitary transform of the input state to the output state.
-This arbitrary unitary is like a truth table, that can be decomposed into simpler building blocks of smaller quantum gates.
-My favorite universal set is Toffoli and H.
-The Toffoli gate (CCNOT) is universal for classical computation, as it can implement NAND and FanOut.
-While the Hadamard gate is native to quantum, giving rise to superpositions.
-I often find, that most quantum algorithms I implement rely on these gates by intuition.
-Also, the matrix forms of these gates have no complex elements making them easy to implement on simulators.
-
-One important point often overlooked is that by choosing to implement a general function by a universal set, we lose some performance.
-If we design special-purpose hardware to support a specific data transform, it will most likely be more optimal than doing so with the blocks from a universal set, similar to how ASICs are faster than CPUs.
-
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
-
-### Quantum Quixote
+### Quantum Quixote <a name="quantumquixote"></a>
 
 (Mar 24, 2019)
 
 There is already a [Quantum Pontiff][1], [Quantum Sheikh][2] and [Quantum Pundit][3]. Hey, I am a Hindu by birth, and pundit is already taken! Also, I am so confused - am I an atheist or an agnostic? Duh! It is not about your real faith.... do I believe in a single way of doing computation, a single enterprise taking over, a single physical platform.... no! But also, when it comes to quantum, I am not an atheist like [Gil Kalai][4]. Rather the opposite. I like to dream big - even unrealistic, quixotic. And that has set me on a course through the stormy waters on my own adventure: The Ingenious Gentleman Sir Quan' Quixote of Delft.
-
-[*^ back to top ^*](http://aritrasarkar.com/research/quantum/#posts)
 
  [1]: http://dabacon.org/pontiff/
  [2]: https://www.quantumsheikh.com/
  [3]: http://quantumpundit.blogspot.com/
  [4]: https://gilkalai.wordpress.com/
 
+[*^ back to top ^*](#toc)
