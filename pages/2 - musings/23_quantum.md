@@ -25,15 +25,15 @@ widget1:
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Artificial Intelligence and Quantum Computation](#aiqc)
-2. [Interpretations of QM](#interpretations)
-3. [QC Resources](#qcresources)
-4. [QC Mythbusters](#mythbusters)
-5. [QC Programming Languages](#programming)
-6. [Universal Gate Set](#ugs) 
-7. [IN Quantum](#inq)
-8. [Career in QC - a guide for highschoolers](#qccareer)
-9. [Quantum Quixote](#quantumquixote)
+* [Artificial Intelligence and Quantum Computation](#aiqc)
+* [Interpretations of QM](#interpretations)
+* [QC Resources](#qcresources)
+* [QC Mythbusters](#mythbusters)
+* [QC Programming Languages](#programming)
+* [Universal Gate Set](#ugs) 
+* [IN Quantum](#inq)
+* [Career in QC - a guide for highschoolers](#qccareer)
+* [Quantum Quixote](#quantumquixote)
 
 </div>
 
@@ -57,9 +57,13 @@ My ideas currently align well with the [QBism](https://en.wikipedia.org/wiki/Qua
 
 It is important to understand that interpretations lie at the interface of physics and philosophy. While most QC/QM researchers are dismissive of philosophy and cringe at even the thought of acknowledging (forget commenting on) their philosophical ideals, it's a fallacy. Our scientific explorations are deeply guided by the philosophical basis that we implicitly assume to be true. For example, for a long period in science, we have followed the Galilean ideals of scientists/observers who can objectively build theories on a realistic external world. This idea was challenged with the advent of quantum mechanics, blurring the subject-object distinction with a third-party view of entanglement of what is considered measurement by a participatory. 
 
-RQM subscribes to the metaphysics of [ontic structural realism](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science)#Ontic_structural_realism). QBism subscribes to the metaphysics of [neutral monism](https://en.wikipedia.org/wiki/Neutral_monism).
+RQM subscribes to the metaphysics of [ontic structural realism](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science)#Ontic_structural_realism). QBism subscribes to the metaphysics of [neutral monism](https://en.wikipedia.org/wiki/Neutral_monism) [ref.](https://www.youtube.com/watch?v=nSqDMtHoaT0).
 
 While I like the parsimonous account of neutral monism, and especially how well it resonates with [nirguna brahman](https://en.wikipedia.org/wiki/Para_Brahman) in [advaita vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) and [wuji](https://en.wikipedia.org/wiki/Wuji_(philosophy)) in [taoism](https://en.wikipedia.org/wiki/Taoism); my concerns with all the 3 (i.e., the QM interpretation, the metaphysics, and the two Eastern philosophical concepts) is that it shrugs off too much in the name of parsimony to render the metaphysics oversimplified and silent about most concepts where you would expect a metaphysical stance would come to aid. Specifically, it fails to answer the birth of dualism (subject-object, shiva-shakti, yin-yang) from the undifferentiated neutral concept. Hinduism gets around this with the [deus ex machine](https://en.wikipedia.org/wiki/Deus_ex_machina) of [lila](https://en.wikipedia.org/wiki/Lila_(Hinduism)) (divine play), but what is it in QBism?   
+
+Coming back to QBism, the core tenet can be found in [this article](https://arxiv.org/abs/2303.01446) by its founder Christopher A. Fuchs. At its core, quantum wavefunctions and unitaries/CPTP-maps are not ontic. Measurements are personal to the agent who uses the formalism of QM as a model to explain experimental results and predict future ones. Great, so far so good! It gives a first-person view. 
+
+However, it must still explain a few stacks of 'whys.' Why this particular formalism, with complex numbers and weird, counterintuitive projection to classical logic? An insightful progress towards this can be made via algorithmic information theory (don't tell me you didn't see this coming), via [Algorithmic Idealism](https://arxiv.org/abs/2412.02826) from Markus P. Mueller. It uses algorithmic probability and universal induction from Ray Solomonoff to present [a version](https://arxiv.org/abs/1712.01826) of John Archibald Wheeler's Law without Law. While this is good progress, a 'why' remains lingering at the bottom. The 'why' of universal computation and the Church-Turing-Deutsch principle create an equivalence between It (the physical reality) and Bit (its informational simulation). With neutral monism and QBism, we also have the equivalence of the mind-matter, which I would refer to as [Chit](https://en.wikipedia.org/wiki/Chit_(consciousness)). While Swami Sarvapriyananda would propose the advaitic perspective of [It from Bit from Chit](https://www.youtube.com/watch?v=rUfa450m_aQ), I would like to stand by the trifold equivalence of `It = Bit = Chit`. Still doesn't answer the 'why' though. While I hope to find the answer to be the creation of Chit is dual to the creation of It, both interacting via the Bit; unfortunately, I don't have much to say about the 'why' besides `lila`!  
 
 ### QC Resources <a name="qcresources"></a>
 
