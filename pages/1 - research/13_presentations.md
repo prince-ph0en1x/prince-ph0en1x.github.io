@@ -126,7 +126,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 ### Presentations and Videos
 
 * Quantum Computing: naam toh suna hi hoga?
-    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme
+    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme at IIM Kozhikode
 * Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
     - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
 * Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
