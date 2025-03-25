@@ -17,22 +17,27 @@ permalink: "/research/cv/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: justify;'>
 
-<center><iframe width="640" height="385" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
-<!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
-* Video CV (till June 2024)
-* [Full CV as pdf](../../docs/Aritra_Sarkar_CV_full.pdf) (last updated: 2023-12-29)
 * [LinkedIn profile](https://www.linkedin.com/in/sarkararitra/)
 * [Google Scholar](https://scholar.google.nl/citations?user=Qo84iBgAAAAJ&hl=en)
 * [ORCiD](https://orcid.org/0000-0002-3026-6892)
 * [Semantic Scholar](https://www.semanticscholar.org/author/A.-Sarkar/144330671)
 * [dblp](https://dblp.org/pid/153/0349.html)
 * [Research Gate](https://www.researchgate.net/profile/Aritra-Sarkar-2)
+  
+<center><iframe width="640" height="385" src="https://www.youtube.com/embed/PbTjToKICwU" title="Aritra Sarkar - video  2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-#### Current Affiliation
+* Video CV <small>(Last updated: June 2024)</small>
+* [Full CV as pdf](../../docs/Aritra_Sarkar_CV_full.pdf) <small>(Last updated: December 2023)</small>
+<!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
+
+### Current Affiliation
+<small>(Last updated: August 2024)</small>
+
 * *Senior researcher* - [Fujitsu Research India Private Limited](https://www.fujitsu.com/in/about/local/corporate/subsidiaries/); Bengaluru, India
 
-#### Pro-bono Activities
+### Pro-bono Activities
+<small>(Last updated: March 2025)</small>
+
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch Department](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Steering committee* - [QIndia](https://qindia.org/); India
@@ -54,7 +59,9 @@ permalink: "/research/cv/"
 * *Vice-coordinator* - [QResearch](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Co-founder and Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
 
-#### Past Associations
+### Past Associations
+<small>(Last updated: August 2024)</small>
+
 * [Delft University of Technology](https://www.tudelft.nl/en/)
    - Postdoctoral Researcher (2022 - 2024)
       - [Feld Group](https://qutech.nl/lab/feld-group/); [Quantum Computing Division](https://qutech.nl/research-engineering/quantum-computing/); [QuTech](https://qutech.nl/)
