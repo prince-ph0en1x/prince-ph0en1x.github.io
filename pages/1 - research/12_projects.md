@@ -18,6 +18,7 @@ permalink: "/research/projects/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
  
 ### Ongoing Projects
+<small>(Last updated: March 2025)</small>
 
 * Qurator - Library Learning for Quantum Computer Engineering <small>(QIA)</small> <span style="color:red"><small>(looking for collaborators)</small></span>
 * Identification and generative synthesis of provable quantum accelerated kernels <span style="color:red"><small>(looking for collaborators)</small></span>
@@ -26,10 +27,8 @@ permalink: "/research/projects/"
 * CutQAS - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry <small>(QIndia)</small>
 * Agent-based concept discovery of quantum error correction codes <small>(QIndia, QML)</small>
 * Resource modelling of distributed quantum computing using Petri nets <small>(QIndia)</small>
-* Enriching the expressive capabilities of quantum pulse languages <small>(QML)</small>
-* Q-NARR - Quantum Noise-Aware Routing with Reinforcement Learning <small>(QML)</small>
 
-... interested in a research collaboration within the Quantum Intelligence Alliance team on related topics? Contact me over [LinkedIn](https://www.linkedin.com/in/sarkararitra/) or email.
+... interested in a research collaboration within the [Quantum Intelligence Alliance](https://github.com/Advanced-Research-Centre) team on related topics? Contact me via [LinkedIn](https://www.linkedin.com/in/sarkararitra/) or email.
 
 <!-- * Algorithmic probability guided quantum geometric machine learning -->
 <!-- * Quantum accelerated probabilisitic logic programs -->
@@ -43,6 +42,8 @@ permalink: "/research/projects/"
 <!--  ... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact [me](https://www.linkedin.com/in/sarkararitra/) or [Sebastian Feld](https://www.linkedin.com/in/sebastian-feld/) over LinkedIn or email.  -->
 
 ### Past Projects
+<small>(Last updated: March 2025)</small>
+
 (in reverse chronological order) For a more updated list, check [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Qo84iBgAAAAJ&view_op=list_works&sortby=pubdate).
 
 * Quantum circuit decompiler for scalable and explainable quantum architecture search <small>(QIA '24)</small>
@@ -78,7 +79,7 @@ permalink: "/research/projects/"
 * Brain-inspired robotic mapping and navigation using time-series of hexagonal grid and place cells <small>(TCSRI '18)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/scroll.svg" width="20" height="20">](https://worldwide.espacenet.com/publicationDetails/biblio?DB=&ND=2&locale=en_EP&FT=D&date=20190828&CC=JP&NR=2019169125A&KC=A)
 * System design of warehouse automation using multi-agent collaborative box-pushing strategies <small>(TCSRI '17)</small>
 * Human brain simulation in GPU with Inferior Olive model in OpenCL and CUDA <small>(TUD '17)</small>
-* GATK based human genome sequencing for distributed Spark platform in Scala <small>(TUD '17)</small>
+* GATK-based human genome sequencing for distributed Spark platform in Scala <small>(TUD '17)</small>
 * Fuzzing and concolic execution on RERS-2016 problems using AFL and KLEE <small>(TUD '17)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-github.svg" width="20" height="20">](https://github.com/prince-ph0en1x/ltl17)
 * Optimizing a SoC using ρ-VEX VLIW processors <small>(TUD '17)</small>
 * Enhancing the Plasma processor IP core <small>(TUD '17)</small>
