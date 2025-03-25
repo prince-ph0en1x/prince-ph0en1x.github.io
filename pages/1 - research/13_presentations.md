@@ -35,28 +35,30 @@ I (co)-supervised the following bachelor, master's, and doctoral projects while 
 
 #### Doctoral research co-supervision
 
-* **Matthew Steinberg**
-    - Efficient quantum error correction codes
-* **Alan Yu**
-    - Machine learning-based gate set tomography
-* **Nikiforos Paraskevopoulos**
-    - Compiler and design space exploration of spin qubit processors
-* **Medina Bandic**
-    - Quantum circuit mapping
+* **[Matthew Steinberg](https://www.linkedin.com/in/matthew-steinberg-190a82251/)**
+    - `Efficient quantum error correction codes' at QML, TU Delft
+    - Now at [JPMorganChase](https://www.jpmorganchase.com/)
+* **[Alan Yu](https://qutech.nl/person/alan-yu/)**
+    - `Machine learning-based gate set tomography' at QML, TU Delft
+* **[Nikiforos Paraskevopoulos](https://www.linkedin.com/in/nikiforos-paraskevopoulos/)**
+    - `Compiler and design space exploration of spin qubit processors' at QML, TU Delft
+* **[Medina Bandić-Hesam](https://www.linkedin.com/in/medina-bandi%C4%87-hesam-91b7b285/)**
+    - `Quantum circuit mapping' at QML, TU Delft
+    - Now at [QuiX Quantum B.V.](https://www.quixquantum.com/)
 * **[Anna Maria Krol](https://www.linkedin.com/in/anneriet-krol-05027b14b/)**
-    - [`Programming Quantum Computers'](http://resolver.tudelft.nl/uuid:43110674-5c4d-4745-a941-c8accf328c65)
-* **Arne Wulff**
-    - Quantum algorithms for aerospace material design
-* **Koen Mesman**
-    - Quantum algorithms for aerospace material design
-* **Hongfeng Zhang**
-    - Quantum algorithms for bioinformatics
-* **Delphine De Smedt**
-    - Quantum algorithms for satellite image processing
-* **Kourosh Sayar Dogahe**
-    - High-impact applications of quantum computational chemistry
-* **Yassine Ferjani**
-    - Quantum security protocols for industrial use cases
+    - [`Programming Quantum Computers'](http://resolver.tudelft.nl/uuid:43110674-5c4d-4745-a941-c8accf328c65) at ABS, TU Delft
+* **[Arne Wulff](https://www.linkedin.com/in/arne-wulff-302292236/)**
+    - `Quantum algorithms for aerospace material design' at QAIMS, TU Delft
+* **[Koen Mesman](https://www.linkedin.com/in/koenmesman/)**
+    - `Quantum algorithms for aerospace material design' at QAIMS, TU Delft
+* **[Hongfeng Zhang](https://www.linkedin.com/in/zhang-hongfeng-176122270/)**
+    - `Quantum algorithms for bioinformatics' at QBee
+* **[Delphine De Smedt](https://www.linkedin.com/in/delphine-desmedt/)**
+    - `Quantum algorithms for satellite image processing' at QBee
+* **[Kourosh Sayar Dogahe](https://www.linkedin.com/in/kouroshsayar/)**
+    - `High-impact applications of quantum computational chemistry' at QBee
+* **[Mohamed Yassine Ferjani](https://www.linkedin.com/in/med-yassine-ferjani/)**
+    - `Quantum security protocols for industrial use cases' at QBee
 
 #### Master theses supervision
 
