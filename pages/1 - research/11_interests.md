@@ -37,10 +37,9 @@ widget2:
 1. [Research Questions](#questions)
 2. [Research Themes](#themes)
 3. [Research Journey](#perspective)
-4. [Mind Map](#mindmap)
-5. [Curated Lists](#lists)
-6. [Scientists with similar research interest](#researchers)
-7. [Favourite formulae/hypotheses](#formulae)
+4. [Curated Lists](#lists)
+5. [Favourite formulae/hypotheses](#formulae)
+6. [Mind Map](#mindmap)
 
 </div>
 
@@ -105,19 +104,6 @@ Today, I would best describe myself as a *quantum computer architect*, integrati
 
 [*^ back to top ^*](#toc)
 
-### Mind Map <a name="mindmap"></a>
-... of all things I love to keep myself updated about and the associated contributors to those ideas...
-
-The blue boxes and their 1-hop neighbours are my core interests.
-
-[![Mind map](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
-
-I tried finding my core interests in the 'Domain of Science' charts. I eventually figured that most of my core interests lie in the field of [computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA). The interests within physics, mathematics, and biology reflect the topics in computer science. Here's the result:
-
-[![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
-
-[*^ back to top ^*](#toc)
-
 ### Curated Lists <a name="lists"></a>
 
 <div class="row t60">
@@ -126,18 +112,6 @@ I tried finding my core interests in the 'Domain of Science' charts. I eventuall
 </div>
 
 <p style="margin-bottom:1cm;"></p>
-
-### Scientists with similar research interest <a name="researchers"></a>
-
-Some researchers whom I currently follow closely for my research as they have overlapping interests with me.
-* Automation in quantum computing: Florian Marquardt, Leopoldo Sarra, Mario Krenn, Robert Wille
-* Program synthesis / symbolic regression / genetic programming: Kevin Ellis, Armando Solar-Lezama, Max Tegmark, Lee Spector
-* Algorithmic information theory: Hector Zenil, Cristian S. Calude, Markus Müller, Noson Yanofsky
-* Digital physics: Stephen Wolfram
-* Artificial general intelligence: Jürgen Schmidhuber, Ben Goertzel, Marcus Hutter
-* Quantum information theory: David Wolpert, John Baez, Charles Bennett
-
-[*^ back to top ^*](#toc)
 
 ### Favourite formulae/hypotheses <a name="formulae"></a>
 
@@ -153,5 +127,18 @@ List of formulae or hypotheses that I find most impactful
 * [Lorentz invariance](https://en.wikipedia.org/wiki/Lorentz_covariance), [CPT symmetry](https://en.wikipedia.org/wiki/CPT_symmetry), [Quantum Reference Frames](https://en.wikipedia.org/wiki/Quantum_reference_frame#:~:text=A%20quantum%20reference%20frame%20is,%2C%20spin%2C%20and%20so%20on.), and [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)
 * Area law of entanglement
 * Fractals: Mandelbrot set, Barsley fern fractal, Glynn Julia set
+
+[*^ back to top ^*](#toc)
+
+### Mind Map <a name="mindmap"></a>
+... of all things I love to keep myself updated about and the associated contributors to those ideas...
+
+The blue boxes and their 1-hop neighbours are my core interests.
+
+[![Mind map](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
+
+I tried finding my core interests in the 'Domain of Science' charts. I eventually figured that most of my core interests lie in the field of [computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA). The interests within physics, mathematics, and biology reflect the topics in computer science. Here's the result:
+
+[![CS interests](/images/research/interests-001.jpg)](/images/research/interests-001.jpg)
 
 [*^ back to top ^*](#toc)
