@@ -4,7 +4,7 @@ title: ""
 meta_title: ""
 subheadline: ""
 teaser: ""
-comments: true
+comments: false
 header: no
 permalink: "/creative-corner/"
 
