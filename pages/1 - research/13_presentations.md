@@ -18,6 +18,8 @@ permalink: "/research/teaching_supervision_talks/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
  
 ### Courses
+<small>(Last updated: March 2025)</small>
+
 I aid(ed) in the development and delivery of the following courses:
 
 * [Electronics and Computer Engineering for Quantum Information Science and Technology](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66909) at TU Delft <small>2023-24</small>
@@ -31,6 +33,8 @@ I aid(ed) in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
+<small>(Last updated: March 2025)</small>
+
 I (co)-supervised the following bachelor, master's, and doctoral projects while I was at TU Delft and QBee.
 
 #### Doctoral research co-supervision
@@ -62,7 +66,7 @@ I (co)-supervised the following bachelor, master's, and doctoral projects while 
 
 #### Master theses supervision
 
-I am(was) involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
+I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 
 * **[Mark Cilissen](https://www.linkedin.com/in/mxxxc/)**
     * `An expressive pulse-programming language for quantum control' at TU Delft
@@ -124,6 +128,7 @@ I was involved in proposing the topics, quantum computing technicalities, and/or
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA, involved programming useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
 
 ### Presentations and Videos
+<small>(Last updated: March 2025)</small>
 
 * Quantum Computing: naam toh suna hi hoga?
     - 2025-02-22: Guest Speaker at Chief Technology Officer Programme at IIM Kozhikode
