@@ -10,7 +10,7 @@ image:
     title:
     caption: 
     caption_url:
-permalink: "/research/presentations/"
+permalink: "/research/teaching_supervision_talks/"
 ---
 
 <body style="background-color:#F4F0F7;"></body>
