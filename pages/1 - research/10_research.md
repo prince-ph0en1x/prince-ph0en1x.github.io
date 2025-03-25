@@ -24,7 +24,7 @@ widget2:
   text: ''
 widget3:
   title: "Teaching & Outreach"
-  url: 'https://aritrasarkar.com/research/presentations/'
+  url: 'https://aritrasarkar.com/research/teaching_supervision_talks/'
   image: research/r03.jpg
   text: ''
 widget4:
