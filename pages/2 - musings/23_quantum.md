@@ -7,7 +7,7 @@ teaser: "quivalric qomic"
 comments: true
 header: no
 image:
-    title: "page_head/qq.jpg"
+    title: 
     caption: 
     caption_url:
 permalink: "/musings/quantum/"
