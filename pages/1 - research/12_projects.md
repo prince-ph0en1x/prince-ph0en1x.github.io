@@ -21,10 +21,9 @@ permalink: "/research/projects/"
 <small>(Last updated: March 2025)</small>
 
 * Qurator - Library Learning for Quantum Computer Engineering <small>(QIA)</small> <span style="color:red"><small>(looking for collaborators)</small></span>
-* Identification and generative synthesis of provable quantum accelerated kernels <span style="color:red"><small>(looking for collaborators)</small></span>
+* Automated identification and generative synthesis of provable quantum accelerated kernels <span style="color:red"><small>(looking for collaborators)</small></span>
 * MLC4QC: Machine learning control of quantum computation on programmable matter <small>(QML, QIA)</small>
 * KANQOC - Kolmogorov Arnold Network for Quantum Optimal Control <small>(QIndia)</small>
-* CutQAS - Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry <small>(QIndia)</small>
 * Agent-based concept discovery of quantum error correction codes <small>(QIndia, QML)</small>
 * Resource modelling of distributed quantum computing using Petri nets <small>(QIndia)</small>
 
@@ -46,6 +45,7 @@ permalink: "/research/projects/"
 
 (in reverse chronological order) For a more updated list, check [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Qo84iBgAAAAJ&view_op=list_works&sortby=pubdate).
 
+* CutQAS: Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry <small>(QIndia, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2504.04167)
 * Quantum circuit decompiler for scalable and explainable quantum architecture search <small>(QIA '24)</small>
 * Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States <small>(QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2412.12874)
 * LEGO HQEC: A Software Tool for Analyzing Holographic Quantum Codes <small>(QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2410.22861)
