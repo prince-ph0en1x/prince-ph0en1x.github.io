@@ -19,7 +19,7 @@ permalink: "/musings/agi/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Exploratory Hallucination](#hallucations)
+1. [Exploratory Hallucination](#hallucination)
 2. [Pattern and Randomness](#patterns)
 3. [Fascination with Fractals](#fractals)
 4. [GUT from It](#gut)
@@ -32,7 +32,7 @@ permalink: "/musings/agi/"
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
 
-### Exploratory Hallucination <a name="hallucations"></a>
+### Exploratory Hallucination <a name="hallucination"></a>
 
 (Apr, 2025)
 
@@ -49,9 +49,11 @@ For example, hallucinations can be useful for:
  - Drug discovery, where generative models create new molecular structures that don't exist in the training set, but could be chemically valid and therapeutically useful.-
  - Engineering design automation to suggest mechanical structures or circuit layouts that might be non-obvious to human designers.
  - Theoretical physics models exploring new equations or relationships between physical variables, which researchers can later test for physical consistency.
- - Synthetic data generation of novel, plausible but fictional data (images, situations) to fill in gaps in real-world datasets.
+ - Synthetic data generation of novel, plausible but fictional data (images, situations) to fill in real-world data gaps.
 
-When a system rewards exploration rather than correctness, hallucination can become a feature, not a bug. It helps uncover new possibilities in factual domains where the search space is too vast for brute-force exploration, similar to genetic algorithms. So it isn't about hallucination being right or wrong, but whether the system can signal uncertainty or intent. Hallucination likelihood metrics can be model uncertainty, retrieval consistency, fact-checking backends, sampling temperature indicator, latent space distance, or the like.
+When a system rewards exploration rather than correctness, hallucination can become a feature, not a bug. It helps uncover new possibilities in factual domains where the search space is too vast for brute-force exploration, similar to genetic algorithms. So it isn't about hallucination being right or wrong, but whether the system can signal uncertainty or intent. Hallucination likelihood metrics can be model uncertainty, retrieval consistency, fact-checking backends, sampling temperature indicator, latent space distance, etc.
+
+[*^ back to top ^*](#toc)
 
 ### Pattern and Randomness <a name="patterns"></a>
 
