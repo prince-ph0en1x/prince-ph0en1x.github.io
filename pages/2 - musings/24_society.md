@@ -69,6 +69,18 @@ It taught me but one thing. Language, like society, is ever evolving. It is not 
 
 On the flipside, I love linguistic artistry - synonyms, idioms, puns, etc. that adds richness and vigour to a language. The resolution indeed is similar to my alignment between science and art. The necessary and the inevitable. The explainable and the creative.
 
+### AI-Resistant Jobs
+
+(Apr, 2025)
+
+(Note: the following passage has been brainstormed with the aid of ChatGPT)
+
+Here are my thoughts on jobs that I think will be hard to automate with AI (software) + Robotics (hardware) in the near future.
+
+These jobs should involve complex human interaction, understanding of culture, trust and empathy (e.g., psychologists, religious preachers), representing or deciding authority on behalf of humanity (e.g., diplomats, ethicists, policymakers, politicians), strategic roles (e.g., startup founders, CXOs), involving dexterous, unstructured physical work (e.g., plumbers, electricians, high-end chefs, artisan bakers), or things to do with specific human body (e.g., Olympic runner, yoga trainer).
+
+Specific to Computer Science or Electrical Engineering, a lot of traditional roles (like basic programming, hardware design, or testing) will face heavy automation pressure. The roles that are harder to replace would  require a mix of deep human judgment, systems thinking, real-world context, or novel problem-solving. Some typical examples that come to mind would be (i) Systems / Solution Architect (requires designing complex, multi-layered systems that integrate hardware, software, human factors, understanding of user needs, trade-offs, business goals, and sometimes politics); (ii) Cybersecurity Specialist / Ethical Hacker (cat-and-mouse game requiring creativity, intuition, and improvisation); (iii) AI/ML Researcher & Algorithm Designer (ironically, the people creating AI systems are hard to automate, especially in the context of new models and explainability).
+
 ### Social media
 
 (Sep 13, 2020)
