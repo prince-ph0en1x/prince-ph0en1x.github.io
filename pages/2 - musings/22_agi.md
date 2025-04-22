@@ -19,17 +19,39 @@ permalink: "/musings/agi/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Pattern and Randomness](#patterns)
-2. [Fascination with Fractals](#fractals)
-3. [GUT from It](#gut)
-4. [(A)daitva](#adaitva)
-5. [The Grand (Un-)unified Theory](#gut2)
-6. [AGI Chatbots](#chat)
-7. [Mind reading](#mind)
+1. [Exploratory Hallucination](#hallucations)
+2. [Pattern and Randomness](#patterns)
+3. [Fascination with Fractals](#fractals)
+4. [GUT from It](#gut)
+5. [(A)daitva](#adaitva)
+6. [The Grand (Un-)unified Theory](#gut2)
+7. [AGI Chatbots](#chat)
+8. [Mind reading](#mind)
 
 </div>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: justify;'>
+
+### Exploratory Hallucination <a name="hallucations"></a>
+
+(Apr, 2025)
+
+(Note: the following passage has been brainstormed with the aid of ChatGPT)
+
+How can we distinguish hallucination from novelty? Why is a generated image of an astronaut riding a horse considered art, while 5+1 = 10 is ridiculed (but is true in radix-5 number systems)? 
+
+Hallucination refers to AI models (usually large language models or generative systems) confidently producing factually incorrect or nonsensical output that sounds plausible. In art, novelty and absurdity are often the goal; however, in logic, math, or factual deviation is treated as incorrect. This is a hard problem because AI models don't understand the prompter's intent — they probabilistically predict the next token based on training data, whether the prompt implies logic or fantasy.
+
+However, creativity isn't limited to art. Even in factual, logical, or technical domains, controlled hallucination (generative exploration beyond known data) can be a powerful tool when the goal is to explore possibilities, not confirm facts, especially in open-ended environments that are problem-solving-driven, not just about retrieval or deduction.
+
+For example, hallucinations can be useful for:
+ - Mathematical conjecturing and axiom discovery, mirroring human mathematicians, who often rely on intuition before formal proof.
+ - Drug discovery, where generative models create new molecular structures that don't exist in the training set, but could be chemically valid and therapeutically useful.-
+ - Engineering design automation to suggest mechanical structures or circuit layouts that might be non-obvious to human designers.
+ - Theoretical physics models exploring new equations or relationships between physical variables, which researchers can later test for physical consistency.
+ - Synthetic data generation of novel, plausible but fictional data (images, situations) to fill in gaps in real-world datasets.
+
+When a system rewards exploration rather than correctness, hallucination can become a feature, not a bug. It helps uncover new possibilities in factual domains where the search space is too vast for brute-force exploration, similar to genetic algorithms. So it isn't about hallucination being right or wrong, but whether the system can signal uncertainty or intent. Hallucination likelihood metrics can be model uncertainty, retrieval consistency, fact-checking backends, sampling temperature indicator, latent space distance, or the like.
 
 ### Pattern and Randomness <a name="patterns"></a>
 
