@@ -32,6 +32,7 @@ widget1:
 * [QC Programming Languages](#programming)
 * [Universal Gate Set](#ugs) 
 * [IN Quantum](#inq)
+* [Quantum Journals](#quj)
 * [Career in QC - a guide for highschoolers](#qccareer)
 * [Quantum Quixote](#quantumquixote)
 
@@ -231,6 +232,22 @@ If we design special-purpose hardware to support a specific data transform, it w
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
 </div>
+
+[*^ back to top ^*](#toc)
+
+### Quantum Journals <a name="quj"></a>
+
+List of popular venues for quantum computing publications:
+ - ACM Transactions on Quantum Computing [[link](https://dl.acm.org/journal/tqc)]
+ - IEEE Transactions on Quantum Engineering [[link](https://tqe.ieee.org)]
+ - Springer Quantum Information Processing [[link](https://link.springer.com/journal/11128)]
+ - Wiley Advanced Quantum Technologies [[link](https://onlinelibrary.wiley.com/journal/25119044)]
+ - Springer EPJ Quantum Technology [[link](https://epjquantumtechnology.springeropen.com)]
+ - IOP Quantum Science and Technology [[link](https://iopscience.iop.org/journal/2058-9565)]
+ - Springer Quantum Machine Intelligence [[link](https://link.springer.com/journal/42484)]
+ - PRX Quantum [[link](https://journals.aps.org/prxquantum/)]
+ - NPJ Quantum Information [[link](https://www.nature.com/npjqi/)]
+ - Quantum [[link](https://quantum-journal.org/)]
 
 [*^ back to top ^*](#toc)
 
