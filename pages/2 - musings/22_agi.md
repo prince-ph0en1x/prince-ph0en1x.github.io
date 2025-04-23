@@ -19,7 +19,7 @@ permalink: "/musings/agi/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-* [Exploratory Hallucination](#hallucination
+* [Exploratory Hallucination](#hallucination)
 * [Promoter's Block in the Age of Agentic AI](#prompter)
 * [Pattern and Randomness](#patterns)
 * [Fascination with Fractals](#fractals)
