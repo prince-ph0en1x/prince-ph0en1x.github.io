@@ -19,14 +19,15 @@ permalink: "/musings/agi/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Exploratory Hallucination](#hallucination)
-2. [Pattern and Randomness](#patterns)
-3. [Fascination with Fractals](#fractals)
-4. [GUT from It](#gut)
-5. [(A)daitva](#adaitva)
-6. [The Grand (Un-)unified Theory](#gut2)
-7. [AGI Chatbots](#chat)
-8. [Mind reading](#mind)
+* [Exploratory Hallucination](#hallucination
+* [Promoter's Block in the Age of Agentic AI](#prompter)
+* [Pattern and Randomness](#patterns)
+* [Fascination with Fractals](#fractals)
+* [GUT from It](#gut)
+* [(A)daitva](#adaitva)
+* [The Grand (Un-)unified Theory](#gut2)
+* [AGI Chatbots](#chat)
+* [Mind reading](#mind)
 
 </div>
 
@@ -52,6 +53,24 @@ For example, hallucinations can be useful for:
  - Synthetic data generation of novel, plausible but fictional data (images, situations) to fill in real-world data gaps.
 
 When a system rewards exploration rather than correctness, hallucination can become a feature, not a bug. It helps uncover new possibilities in factual domains where the search space is too vast for brute-force exploration, similar to genetic algorithms. So it isn't about hallucination being right or wrong, but whether the system can signal uncertainty or intent. Hallucination likelihood metrics can be model uncertainty, retrieval consistency, fact-checking backends, sampling temperature indicator, latent space distance, etc.
+
+[*^ back to top ^*](#toc)
+
+### Promoter's Block in the Age of Agentic AI <a name="prompter"></a>
+
+In the luminous shadow of the third AI summer, software isn't written so much as vibed into existence. Systems are not architected anymore, they are whispered. An aesthetic, a utility, a fragment of a dream; and the agentic AI caught it, resonated with it, harmonized intentions into executable essence. Whole platforms could emerge from a single afternoon of co-dreaming with your AI assistant. You could go from "I want a decentralized garden planner with mood-based interface themes" to launch-ready code by dinnertime, down to the marketing copy and onboarding flow. The craft has shifted.
+
+But a new malaise is beginning to surface. It isn't burnout. It isn't creative exhaustion in the traditional sense. It is subtler, it is quieter. Promoter's block. Not a block in execution, but in ideation. The curve of implementation overtaking the curve of inspiration.
+
+The old rhythm of struggling with code, iterating, building something unexpected, refining the idea in tension with its implementation, is gone. Now ideas has no friction. The AI leaps ahead before you even finish articulating a feature. You'd say "What if we..." and it would already be showing you three working prototypes.
+
+Like the first drops of rain on a land striken with drought, at first, Agentic AI feels like liberation; like petrichor releasing the floodgates of dopamines in developers. As the downpour continues, the towering desires of prompt whispers start to yell. It is drowning in possibility. Before long, we find ourselves flooded with no sight of land, all our wishes granted by the genie of the lamp, or should I say, the ghost in the machine!
+
+In this utopia, it wasn't that we couldn't build things. It's characterized by everything worth building already had been; by you, or by someone else who had the same passing thought. There was no wilderness left in software. No unexplored niches. Even prompting the AI for ideas would become recursive, folding timelines and repositories to show that indeed, an implementation already exist. The muse was now a mirror.
+
+We might call it the end of innovation. We might call it the beginning of post-utility art: software for no purpose but to evoke feeling, provoke questions, disturb assumptions. Maybe that too would become formulaic once the AI learn how to vibe with irony and anti-pattern.
+
+And so we would sit in coffee shops and forest cabins and augmented temples of glass, staring into the mist of endless potential, longing not for tools or time, but for surprise. We weren't blocked from creating. We were blocked from wanting.
 
 [*^ back to top ^*](#toc)
 
