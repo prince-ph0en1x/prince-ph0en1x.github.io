@@ -58,7 +58,7 @@ When a system rewards exploration rather than correctness, hallucination can bec
 
 ### Promoter's Block in the Age of Agentic AI <a name="prompter"></a>
 
-(Apr 23, 2019)
+(Apr 23, 2025)
 
 (Note: the following passage was drafted with the aid of ChatGPT)
 
