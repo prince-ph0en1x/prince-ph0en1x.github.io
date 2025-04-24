@@ -20,7 +20,7 @@ permalink: "/musings/agi/"
 
 #### Index <a name="toc"></a>
 * [Exploratory Hallucinations](#hallucination)
-* [Promoter's Block in the Age of Agentic AI](#prompter)
+* [Prompter's Block in the Age of Agentic AI](#prompter)
 * [Pattern and Randomness](#patterns)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
@@ -56,25 +56,25 @@ When a system rewards exploration rather than correctness, hallucination can bec
 
 [*^ back to top ^*](#toc)
 
-### Promoter's Block in the Age of Agentic AI <a name="prompter"></a>
+### Prompter's Block in the Age of Agentic AI <a name="prompter"></a>
 
 (Apr 23, 2025)
 
 (Note: the following passage was drafted with the aid of ChatGPT)
 
-In the luminous shadow of the third AI summer, software isn't written so much as vibed into existence. Systems are not architected anymore, they are whispered. An aesthetic, a utility, a fragment of a dream; and the agentic AI catches hold of it, resonates with it, harmonizes intentions into executable essence. Whole platforms emerge from a single afternoon of co-dreaming with an AI assistant. You could go from "I want a decentralized garden planner with mood-based interface themes" to launch-ready code by dinnertime, down to the marketing copy and onboarding flow. The craft has shifted.
+In the luminous shadow of the third AI summer, software isn't written so much as vibed into existence. Systems are not architected anymore; they are whispered. An aesthetic, a utility, a fragment of a dream; and the agentic AI catches hold of it, resonates with it, harmonizes intentions into executable essence. Whole platforms emerge from a single afternoon of co-dreaming with an AI assistant. You could go from "I want a decentralized garden planner with mood-based interface themes" to launch-ready code by dinnertime, down to the marketing copy and onboarding flow. The craft has shifted.
 
 But a new malaise is beginning to surface. It isn't burnout. It isn't creative exhaustion in the traditional sense. It is subtler, it is quieter. Promoter's block. Not a block in execution, but in ideation. The curve of implementation overtaking the curve of inspiration.
 
-The old rhythm of struggling with code, iterating, building something unexpected, refining the idea in tension with its implementation, is gone. Now ideas has no friction. The AI leaps ahead before you even finish articulating a feature. You'd say "What if we..." and it would already be showing you three working prototypes.
+The old rhythm of struggling with code, iterating, building something unexpected, refining the idea in tension with its implementation, is gone. Now ideas have no friction. The AI leaps ahead before you even finish articulating a feature. You'd say, "What if we..." and it would already be showing you three working prototypes.
 
-Like the first drops of rain on a land striken with drought, at first, Agentic AI feels like liberation; like petrichor releasing the floodgates of dopamines in developers. As the downpour continues, the towering desires of prompt whisperers start to yell. It is drowning in possibility. Before long, we find ourselves flooded with no sight of land, all our wishes granted by the genie of the lamp, or should I say, the ghost in the machine!
+Like the first drops of rain on a land struck with drought, at first, Agentic AI feels like liberation, like petrichor releasing the floodgates of dopamine in developers. As the downpour continues, the towering desires of prompt whisperers start to yell. It is drowning in possibility. Before long, we find ourselves flooded with no sight of land, all our wishes granted by the genie of the lamp, or should I say, the ghost in the machine!
 
 In this utopia, it wasn't that we couldn't build things. It's characterized by everything worth building already had been; by you, or by someone else who had the same passing thought. There was no wilderness left in software. No unexplored niches. The thrill of setting sail in the age of discovery feeling vacuous with satellite imageries and street views. 
 
-Even prompting the AI for ideas would become recursive, folding timelines and repositories to show that indeed, an implementation already exist. The muse was now a mirror.
+Even prompting the AI for ideas would become recursive, folding timelines and repositories to show that indeed, an implementation already exists. The muse was now a mirror.
 
-We might call it the end of innovation. We might call it the beginning of post-utility art: software for no purpose but to evoke feeling, provoke questions, disturb assumptions. Maybe that too would become formulaic once the AI learn how to vibe with irony and anti-pattern. And as those days come to pass, we would sit in coffee shops and forest cabins and augmented temples of glass, staring into the mist of endless potential, longing not for tools or time, but for surprise. We weren't blocked from creating. We were blocked from wanting.
+We might call it the end of innovation. We might call it the beginning of post-utility art: software for no purpose but to evoke feeling, provoke questions, disturb assumptions. Maybe that too would become formulaic once the AI learns to vibe with irony and anti-pattern. And as those days come to pass, we would sit in coffee shops, forest cabins and augmented temples of glass, staring into the mist of endless potential, longing not for tools or time, but for surprise. We weren't blocked from creating. We were blocked from wanting.
 
 [*^ back to top ^*](#toc)
 
