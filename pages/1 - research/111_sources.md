@@ -30,7 +30,11 @@ permalink: "/research/interests/sources/"
 
 ### Links to articles I love <a name="articles"></a>
 
-The following articles had major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
+The following articles have had a major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
+
+###### read in 2025
+* [The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning](https://arxiv.org/abs/2304.05366) <small>ARA</small>
+* [Symbolic-Model-Based Reinforcement Learning](https://openreview.net/forum?id=yeF6cyYU7W) <small>QKSA+</small>
 
 ###### read in 2024
 * [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
