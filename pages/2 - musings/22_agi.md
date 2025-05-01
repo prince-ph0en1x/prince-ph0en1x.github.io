@@ -21,6 +21,7 @@ permalink: "/musings/agi/"
 #### Index <a name="toc"></a>
 * [Exploratory Hallucinations](#hallucination)
 * [Prompter's Block in the Age of Agentic AI](#prompter)
+* [NeuroSymbolic AI](#nesy)
 * [Pattern and Randomness](#patterns)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
@@ -75,6 +76,31 @@ In this utopia, it wasn't that we couldn't build things. It's characterized by e
 Even prompting the AI for ideas would become recursive, folding timelines and repositories to show that indeed, an implementation already exists. The muse was now a mirror.
 
 We might call it the end of innovation. We might call it the beginning of post-utility art: software for no purpose but to evoke feeling, provoke questions, disturb assumptions. Maybe that too would become formulaic once the AI learns to vibe with irony and anti-pattern. And as those days come to pass, we would sit in coffee shops, forest cabins and augmented temples of glass, staring into the mist of endless potential, longing not for tools or time, but for surprise. We weren't blocked from creating. We were blocked from wanting.
+
+[*^ back to top ^*](#toc)
+
+### NeuroSymbolic AI <a name="nesy"></a>
+
+(May 1, 2025)
+
+Henry Kautz's [talk](https://www.youtube.com/watch?v=_cQITY0SPiw) (winner of the Robert S. Engelmore Memorial Lecture Award, at the 34th Annual Meeting of the Association for the Advancement of Artificial Intelligence in New York, on February 10, 2020) entitled ["The Third AI Summer"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12036) presents 6 different types of NeuroSymbolic AI.
+ 1. $Symbolic\ Neurosymbolic$
+ 2. $Symbolic\ [Neuro]$
+ 3. $Neuro | Symbolic$
+ 4. $Neuro: Symbolic → Neuro$
+ 5. $Neuro_\{Symbolic\}$
+ 6. $Neuro\ [Symbolic]$
+This [blog post](https://harshakokel.com/posts/neurosymbolic-systems) nicely visualizes and summarizes these models.
+
+In this short post, I want to explore which of the NeuroSymbolic models discussed by Kautz most closely resemble human intelligence. This turns out to be a surprisingly difficult question; less about engineering and more about philosophy.
+
+One camp, inspired by [Platonic forms](https://en.wikipedia.org/wiki/Theory_of_forms), sees the universe as ultimately symbolic in nature. This perspective flows into the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) and [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference), both of which posit that symbolic structures are more fundamental than raw empirical data. From this view, intelligence is about uncovering elegant, compressed symbolic representations of reality.
+
+On the other hand, neuroscience tells a different story. From [Hebbian learning](https://en.wikipedia.org/wiki/Hebbian_theory) to recent findings on the [disutility of language for thought](https://www.nature.com/articles/s41586-024-07522-w), the evidence suggests that symbols may be merely lossy summaries of a deeper, sub-symbolic pattern-free ontology. If so, perhaps symbolic modeling is less a reflection of how we think, or how the world is, and more of an evolutionary artifact for cognitive energy efficiency. This is reminiscent of Borges' [Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel), where total knowledge is useless, and a computationally bounded reader could only ground meaning for a subset of the books, while the rest remain algorithmically random or gibberish.
+
+Each approach, symbolic and sub-symbolic, has strengths and weaknesses. Symbolic systems can generalize from limited data and offer interpretability, but they often struggle with scalability as the hypothesis space grows exponentially. Simplicity bias becomes necessary, but can lead to brittle models. Sub-symbolic models, like neural networks, thrive in messy, high-dimensional spaces, extracting fuzzy patterns where no clear symbolic rule exists. A [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), for example, is beautifully explained by a simple equation; recognizing a dog versus a fox, however, is a task better suited to convolutional networks.
+
+Given these contrasts, my own interest in algorithmic information theory and the philosophy of science, I currently lean toward sub-symbolic models augmented by symbolic distillation. That is, let the model think in sub-symbolic representations, and extract symbols after the fact, if needed. Explainability is important, especially for safety-critical systems. But as Neil deGrasse Tyson once said (in another context, though it fits here): "The universe is under no obligation to make sense to you." That sentiment resonates with Gödel's reflections in his [Gibbs lecture](https://plato.stanford.edu/entries/goedel/content-mathematics.html): the deepest truths may resist symbolic capture. I sincerely hope [BCI technologies](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) would free us from the prison of language and symbolic models. It's implication for the theory of computation and the philosophy of science would be revolutionary.
 
 [*^ back to top ^*](#toc)
 
