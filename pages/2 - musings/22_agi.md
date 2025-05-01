@@ -86,7 +86,7 @@ We might call it the end of innovation. We might call it the beginning of post-u
 Henry Kautz's [talk](https://www.youtube.com/watch?v=_cQITY0SPiw) (winner of the Robert S. Engelmore Memorial Lecture Award, at the 34th Annual Meeting of the Association for the Advancement of Artificial Intelligence in New York, on February 10, 2020) entitled ["The Third AI Summer"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12036) presents 6 different types of NeuroSymbolic AI.
  1. $Symbolic\ Neurosymbolic$
  2. $Symbolic\ [Neuro]$
- 3. $Neuro \| Symbolic$
+ 3. $Neuro\ \|\ Symbolic$
  4. $Neuro: Symbolic → Neuro$
  5. $Neuro_\{Symbolic\}$
  6. $Neuro\ [Symbolic]$
