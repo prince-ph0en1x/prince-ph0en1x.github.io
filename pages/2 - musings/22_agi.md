@@ -38,8 +38,6 @@ permalink: "/musings/agi/"
 
 (Apr 22, 2025)
 
-(Note: the following passage has been brainstormed with the aid of ChatGPT)
-
 How can we distinguish hallucination from novelty? Why is a generated image of an astronaut riding a horse considered art, while 5+1 = 10 is ridiculed (but is true in radix-5 number systems)? 
 
 Hallucination refers to AI models (usually large language models or generative systems) confidently producing factually incorrect or nonsensical output that sounds plausible. In art, novelty and absurdity are often the goal; however, in logic, math, or factual deviation is treated as incorrect. This is a hard problem because AI models don't understand the prompter's intent — they probabilistically predict the next token based on training data, whether the prompt implies logic or fantasy.
@@ -55,13 +53,13 @@ For example, hallucinations can be useful for:
 
 When a system rewards exploration rather than correctness, hallucination can become a feature, not a bug. It helps uncover new possibilities in factual domains where the search space is too vast for brute-force exploration, similar to genetic algorithms. So it isn't about hallucination being right or wrong, but whether the system can signal uncertainty or intent. Hallucination likelihood metrics can be model uncertainty, retrieval consistency, fact-checking backends, sampling temperature indicator, latent space distance, etc.
 
+(PS: the above passage has been brainstormed with the aid of ChatGPT)
+
 [*^ back to top ^*](#toc)
 
 ### Prompter's Block in the Age of Agentic AI <a name="prompter"></a>
 
 (Apr 23, 2025)
-
-(Note: the following passage was drafted with the aid of ChatGPT)
 
 In the luminous shadow of the third AI summer, software isn't written so much as vibed into existence. Systems are not architected anymore; they are whispered. An aesthetic, a utility, a fragment of a dream; and the agentic AI catches hold of it, resonates with it, harmonizes intentions into executable essence. Whole platforms emerge from a single afternoon of co-dreaming with an AI assistant. You could go from "I want a decentralized garden planner with mood-based interface themes" to launch-ready code by dinnertime, down to the marketing copy and onboarding flow. The craft has shifted.
 
@@ -76,6 +74,8 @@ In this utopia, it wasn't that we couldn't build things. It's characterized by e
 Even prompting the AI for ideas would become recursive, folding timelines and repositories to show that indeed, an implementation already exists. The muse was now a mirror.
 
 We might call it the end of innovation. We might call it the beginning of post-utility art: software for no purpose but to evoke feeling, provoke questions, disturb assumptions. Maybe that too would become formulaic once the AI learns to vibe with irony and anti-pattern. And as those days come to pass, we would sit in coffee shops, forest cabins and augmented temples of glass, staring into the mist of endless potential, longing not for tools or time, but for surprise. We weren't blocked from creating. We were blocked from wanting.
+
+(PS: the above passage was drafted with the aid of ChatGPT)
 
 [*^ back to top ^*](#toc)
 
@@ -101,7 +101,11 @@ On the other hand, neuroscience tells a different story. From [Hebbian learning]
 
 Each approach, symbolic and sub-symbolic, has strengths and weaknesses. Symbolic systems can generalize from limited data and offer interpretability, but they often struggle with [scalability](https://onlinelibrary.wiley.com/doi/epdf/10.1609/aimag.v40i2.2850) as the hypothesis space grows exponentially. Simplicity bias becomes necessary, but can lead to brittle models. Sub-symbolic models, like neural networks, thrive in messy, high-dimensional spaces, extracting fuzzy patterns where no clear symbolic rule exists. A [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), for example, is beautifully explained by a simple equation; recognizing a dog versus a fox, however, is a task better suited to convolutional networks.
 
-Given these contrasts, my own interest in algorithmic information theory and the philosophy of science, I currently lean toward sub-symbolic models augmented by symbolic distillation. That is, let the model think in sub-symbolic representations, and extract symbols after the fact, if needed. Explainability is important, especially for safety-critical systems. But as Neil deGrasse Tyson once said (in another context, though it fits here): "The universe is under no obligation to make sense to you." That sentiment resonates with Gödel's reflections in his [Gibbs lecture](https://plato.stanford.edu/entries/goedel/content-mathematics.html): the deepest truths may resist symbolic capture. I sincerely hope [BCI technologies](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) would free us from the prison of language and symbolic models. It's implication for the theory of computation and the philosophy of science would be revolutionary.
+Given these contrasts, my own interest in algorithmic information theory and the philosophy of science, I currently lean toward sub-symbolic models augmented by symbolic distillation. That is, let the model think in sub-symbolic representations, and extract symbols after the fact, if needed. Explainability is important, especially for safety-critical systems. But as Neil deGrasse Tyson once said (in another context, though it fits here): "The universe is under no obligation to make sense to you." That sentiment resonates with Gödel's reflections in his [Gibbs lecture](https://plato.stanford.edu/entries/goedel/content-mathematics.html): the deepest truths may resist symbolic capture. I sincerely hope [BCI technologies](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) would free us from the prison of language and symbolic models. Its implications for the theory of computation and the philosophy of science would be revolutionary.
+
+This divide echoes through interpretations of quantum mechanics. Axiomatic or algebraic formulations of QM, like those pursued by von Neumann or [Hardy](https://arxiv.org/abs/quant-ph/0101012), reflect the symbolic mindset; seeking a compact, rule-based structure that underpins quantum phenomena. In contrast, approaches like [QBism](https://arxiv.org/abs/2303.01446) emphasize the observer's subjective experience and information, aligning more with a sub-symbolic view: reality isn't a fixed symbolic code to be discovered, but a fluid, probabilistic process shaped by interaction and belief. The tension between these interpretations may mirror our competing intuitions about intelligence. Whether it's about finding 'the code' or navigating uncertainty adaptively.
+
+(PS: the above passage has been refined with the aid of ChatGPT)
 
 [*^ back to top ^*](#toc)
 
