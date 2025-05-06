@@ -19,11 +19,12 @@ permalink: "/research/interests/researchers/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='background-color:rgba(0, 0, 0, 0.0470588); text-align: left;'>
 
 #### Index <a name="toc"></a>
-1. [Favourite scientists of all time](#faves)
-2. [Scientists with similar research interest](#researchers)
-3. [AIT researchers](#ait)
-4. [QCE/QSE researchers](#qce)
-5. [On the shoulder of giants](#scientists)
+* [Favourite scientists of all time](#faves)
+* [Scientists with similar research interest](#researchers)
+* [AIT researchers](#ait)
+* [SyReg researchers](#syreg)
+* [QCE/QSE researchers](#qce)
+* [On the shoulder of giants](#scientists)
 
 </div>
 
@@ -168,7 +169,22 @@ Chris Wallace	Monash University, Australia (MML)
 Yongge Wang	University Heidelberg, Germany (CC,AR)
 Osamu Watanabe	Tokyo Institute of Technology, Tokyo, Japan (CC,KC)
 -->
-  
+
+[*^ back to top ^*](#toc)
+
+### Symbolic Regression researchers <a name="syreg"></a>
+
+Symbolic regression and symbolic distillation are crucial types of learning that explore the interface of symbolic and sub-symbolic representations.
+
+* [Max Tegmark](https://scholar.google.com/citations?hl=en&user=eBXEZxgAAAAJ&view_op=list_works&sortby=pubdate)
+* [Miles Cranmer](https://scholar.google.com/citations?hl=en&user=10WfwCQAAAAJ&view_op=list_works&sortby=pubdate)
+* [Michael Schmidt](https://scholar.google.com/citations?hl=en&user=fxH9VZEAAAAJ&view_op=list_works&sortby=pubdate)
+* [Francois Charton](https://scholar.google.com/citations?hl=en&user=1tMnd-4AAAAJ&view_op=list_works&sortby=pubdate)
+* [Hod Lipson](https://scholar.google.com/citations?hl=en&user=F_Go4V4AAAAJ&view_op=list_works&sortby=pubdate)
+* [Silviu-Marian Udrescu](https://scholar.google.com/citations?hl=en&user=maphp-0AAAAJ&view_op=list_works&sortby=pubdate)
+* [Brenden K. Petersen](https://scholar.google.com/citations?hl=en&user=N2WFmdgAAAAJ&view_op=list_works&sortby=pubdate)
+
+
 [*^ back to top ^*](#toc)
 
 ### QCE/QSE researchers <a name="qce"></a>
