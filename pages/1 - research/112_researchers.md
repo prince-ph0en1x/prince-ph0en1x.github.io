@@ -78,6 +78,7 @@ In his [blog](http://www.hutter1.net/), Marcus Hutter curates a list of famous A
 * [Cole Wyeth](https://colewyeth.com/publications.html)
 * [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate)
 * [Mike Stay](https://scholar.google.com/citations?hl=en&user=E3wyDhUAAAAJ&view_op=list_works&sortby=pubdate)
+* [Elija Perrier](https://scholar.google.com/citations?hl=en&user=ImlF7PsAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
 
