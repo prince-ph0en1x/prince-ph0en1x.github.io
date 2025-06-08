@@ -330,11 +330,16 @@ Links:
 
 ### Mind reading <a name="mind"></a>
 
-(Aug 7, 2023)
+(Aug 7, 2023) (updated Jun 2025)
 
-Can we read the mind? Most possibly soon.
-Here are a few articles (which I hope to review if/when I find time).
+Can we read the mind? Most probably soon.
+
+Here are a few articles (which I hope to review when I find time).
 * [Semantic reconstruction of continuous language from non-invasive brain recordings](https://www.nature.com/articles/s41593-023-01304-9)
+* [Is my “red” your “red”?: Evaluating structural correspondences between color similarity judgments using unsupervised alignment](https://doi.org/10.1016/j.isci.2025.112029)
+* [A neuroimaging dataset during sequential color qualia similarity judgments with and without reports](https://www.nature.com/articles/s41597-025-04511-0)
+* [A Mathematical Perspective on Neurophenomenology](https://arxiv.org/abs/2409.20318)
+* [Qualia Research Institute](https://qri.org/)
 
 [*^ back to top ^*](#toc)
 
