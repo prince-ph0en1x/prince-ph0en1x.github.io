@@ -11,4 +11,4 @@
 9. [The KoLMogorov Test: Compression by Code Generation](https://arxiv.org/html/2503.13992v1) EAIT
 10. [Transformers As Approximations of Solomonoff Induction](https://arxiv.org/abs/2408.12065v1) AIT
 11. [Action and planning in embedded agents](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/kaelbling90action.pdf) EKSA
-12. [Entanglement–magic separation in hybrid quantum circuits](https://arxiv.org/abs/2312.02039) QIT
+12. [Magic-induced computational separation in entanglement theory](https://arxiv.org/abs/2403.19610) QIT
