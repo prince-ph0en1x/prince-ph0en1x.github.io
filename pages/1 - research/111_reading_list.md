@@ -7,7 +7,7 @@
 - [ ] [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) QuineAGI
 - [ ] [Foundations of algorithmic thermodynamics](https://arxiv.org/abs/2308.06927) AIT
 - [ ] [SuperARC: An Agnostic Test for Narrow, General, and Super Intelligence Based On the Principles of Recursive Compression and Algorithmic Probability](https://arxiv.org/abs/2503.16743) EAIT
-- [ ] [Do Quantum Neural Networks have Simplicity Bias?](https://arxiv.org/abs/2407.03266) QEAIT
+- [x] [Do Quantum Neural Networks have Simplicity Bias?](https://arxiv.org/abs/2407.03266) QEAIT
 - [ ] [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://ress.at/news_uploads/AlphaEvolve.pdf) AutoSci
 - [ ] [What You Shouldn't Know About Quantum Computers](https://arxiv.org/abs/2405.15838) QCA
 - [ ] [The KoLMogorov Test: Compression by Code Generation](https://arxiv.org/html/2503.13992v1) EAIT
