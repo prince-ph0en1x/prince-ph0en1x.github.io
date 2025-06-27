@@ -63,7 +63,7 @@ permalink: "/faves/movies/"
     * [Stuart Little (1999)](https://www.imdb.com/title/tt0164912)
     * [Ratatouille (2007)](https://www.imdb.com/title/tt0382932)
     * [WALL·E (2008)](https://www.imdb.com/title/tt0910970)
-    * [Coco (2017)](https://www.imdb.com/title/tt2380307)\
+    * [Coco (2017)](https://www.imdb.com/title/tt2380307)
     * [Zootopia (2016)](https://www.imdb.com/title/tt2948356)
 
 * **Bengali Movies** 
