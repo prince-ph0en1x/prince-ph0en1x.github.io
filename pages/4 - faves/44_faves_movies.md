@@ -30,6 +30,10 @@ permalink: "/faves/movies/"
     * The Hateful Eight
     * Murder on the Orient Express
     * Spirit: Stallion of the Cimarron
+    * When Nietzsche wept
+    * Waking Life
+    * Everything everywhere all at once
+    * The Seventh Seal
 
 * **Bengali Movies** 
     * Goopy Gynen Bagha Byne
@@ -40,11 +44,23 @@ permalink: "/faves/movies/"
     * Mouchak
     * Bhooter Bhobityot
     * Patalghor
+    * Goynar byakso
+    * Ballabhpur er roopkatha
+    * Cheley kaar
+    * Oti Uttam
+    * Ek je chilo Raja
+    * Bibaho Obhijan
+    * The Bong Connection 
+    * Maach Misti and More
+    * Killbill Society
 
 * **Hindi Movies**
+    * Ankhon dekhi
     * 3 Idiots
     * OMG - Oh My God!
     * PK
+    * Anukul
+    * Swades
     * Barfi!
     * Jab We Met
     * Phata Poster Nikhla Hero
@@ -76,13 +92,15 @@ permalink: "/faves/movies/"
     * Final Space
     * BoJack Horseman
     * Lie to me
+    * Rings of Power
+    * The Wheel of Time
 
 I also watch a lot of Indian comedy shows.
 
 * **Actors/Actresses**
     * *English actors*: Johnny Depp; Morgan Freeman; Ian McKellen; Robert Downey Jn.; Benedict Cumberbatch; Will Smith; Rowen Adkinson; Nicholas Cage; Jackie Chan; Orlando Bloom; Russel Crowe; Pierce Brosnan; Keanu Reeves; Hugh Jackman; Jim Carrey
     * *English actresses*: Helena Bonham Carter; Judi Dench; Keira Knightley; AnnaSophia Robb; Lily Collins; Scarlett Johansson; Emma Watson; Anne Hathaway; Natalie Portman; Kristen Stewart; Eva Green; Halle Berry; Megan Fox
-    * *Bengali actors*: Soumitra Chatterjee; Rabi Ghosh; Bhanu Bandopadhyay; Santosh Dutta; Chinmoy Roy; Parambrata Chatterjee; Paran Bandopadhyay; Kaushik Ganguly; Kharaj Mukherjee; Sabyasachi Chakraborty; Mir Afsar Ali
+    * *Bengali actors*: Soumitra Chatterjee; Rabi Ghosh; Bhanu Bandopadhyay; Santosh Dutta; Chinmoy Roy; Parambrata Chatterjee; Paran Bandopadhyay; Kaushik Ganguly; Kharaj Mukherjee; Sabyasachi Chakraborty; Mir Afsar Ali; Anirban Bhattacharya 
     * *Bengali actresses*: Tanuja; Suchitra Sen; Raima Sen; Swastika Mukherjee
     * *Hindi actors*: Shahid Kapoor; Aamir Khan; Ranbir Kapoor; Paresh Rawal; Rishi Kapoor; Imran Khan
     * *Hindi actresses*: Parineeti Chopra; Kajol; Deepika Padukone; Ileana D'Cruz; Katrina Kaif; Radhika Apte
