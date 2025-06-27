@@ -58,23 +58,35 @@ permalink: "/faves/movies/"
     * [Jumanji: Welcome to the Jungle (2017)](https://www.imdb.com/title/tt2283362)
 
 * **Bengali Movies** 
-    * Goopy Gynen Bagha Byne
-    * Feluda
-    * Basanta Bilap
-    * Raja Saja
-    * Deya Neya
-    * Mouchak
-    * Bhooter Bhobityot
-    * Patalghor
-    * Goynar byakso
-    * Ballabhpur er roopkatha
-    * Cheley kaar
-    * Oti Uttam
-    * Ek je chilo Raja
-    * Bibaho Obhijan
-    * The Bong Connection 
-    * Maach Misti and More
-    * Killbill Society
+    * [Goopy Gyne Bagha Byne (1969)](https://www.imdb.com/title/tt0063023)
+    * [Heerak Rajar Deshe (1980)](https://www.imdb.com/title/tt0080856)
+    * [Goopy Bagha Phire Elo (1991)](https://www.imdb.com/title/tt0457920)
+    * [Joi Baba Felunath (1979)](https://www.imdb.com/title/tt0077775)
+    * [Sonar Kella (1974)](https://www.imdb.com/title/tt0072190)
+    * [Bhooter Bhabishyat (2012)](https://www.imdb.com/title/tt2351177)
+    * [Goynar Baksho (2013)](https://www.imdb.com/title/tt2819358)
+    * [Patalghar (2003)](https://www.imdb.com/title/tt0366886)
+    * [Ballabhpurer Roopkotha (2022)](https://www.imdb.com/title/tt23024514)
+    * [Basanta Bilap (1973)](https://www.imdb.com/title/tt0215549)
+    * [Raja-Saja (1960)](https://www.imdb.com/title/tt0054227)
+    * [Galpa Holeo Satyi (1966)](https://www.imdb.com/title/tt0366505)
+    * [Deya Neya (1963)](https://www.imdb.com/title/tt3918808)
+    * [Agantuk (1991)](https://www.imdb.com/title/tt0101279)
+    * [Antony Firingee (1967)](https://www.imdb.com/title/tt0317088)
+    * [Jaatishwar (2014)](https://www.imdb.com/title/tt3365690)
+    * [Moner Manush (2010)](https://www.imdb.com/title/tt1815837)
+    * [Mouchak (1974)](https://www.imdb.com/title/tt1587224)
+    * [Chheley Kaar (1954)](https://www.imdb.com/title/tt0156395)
+    * [Oti Uttam (2024)](https://www.imdb.com/title/tt31250966)
+    * [Ek Je Chhilo Raja (2018)](https://www.imdb.com/title/tt7822320)
+    * [Ashchorjyo Prodeep (2013)](https://www.imdb.com/title/tt3329526)
+    * [Durga Sohay (2017)](https://www.imdb.com/title/tt6774538)
+    * [Bibaho Obhijaan (2019)](https://www.imdb.com/title/tt9461494)
+    * [Hawa Bodol (2013)](https://www.imdb.com/title/tt2580150)
+    * [The Bong Connection (2006)](https://www.imdb.com/title/tt0488374)
+    * [Maach Mishti & More (2013)](https://www.imdb.com/title/tt2437786)
+    * [Ogo Bideshini (2022)](https://www.imdb.com/title/tt23900716)
+    * [Killbill Society (2025)](https://www.imdb.com/title/tt35660545)
 
 * **Hindi Movies**
     * [Ankhon Dekhi (2013)](https://www.imdb.com/title/tt3614516)
@@ -96,12 +108,18 @@ permalink: "/faves/movies/"
     * [Mere Brother Ki Dulhan (2011)](https://www.imdb.com/title/tt1740710)
     * [Break Ke Baad (2010)](https://www.imdb.com/title/tt1578261)
     * [Hasee Toh Phasee (2014)](https://www.imdb.com/title/tt3173910)
-    * Meri Pyaari Bindu
-    * Shuddh Desi Romance
-    * Hawaizaada
-    * Vaah! Life Ho Toh Aisi!
-    * Munna Bhai M.B.B.S.
-    * Hera Pheri
+    * [Meri Pyaari Bindu (2017)](https://www.imdb.com/title/tt5472374)
+    * [Shuddh Desi Romance (2013)](https://www.imdb.com/title/tt2988272)
+    * [Hawaizaada (2015)](https://www.imdb.com/title/tt4338154)
+    * [Vaah! Life Ho Toh Aisi! (2005)](https://www.imdb.com/title/tt0475645)
+    * [Munna Bhai M.B.B.S. (2003)](https://www.imdb.com/title/tt0374887)
+    * [Hera Pheri (2000)](https://www.imdb.com/title/tt0242519)
+    * [Andaz Apna Apna (1994)](https://www.imdb.com/title/tt0109117)
+    * [Lagaan: Once Upon a Time in India (2001)](https://www.imdb.com/title/tt0169102)
+    * [Baahubali: The Beginning 2015)](https://www.imdb.com/title/tt2631186)
+    * [Baahubali 2: The Conclusion (2017)](https://www.imdb.com/title/tt4849438)
+    * [Brahmastra Part One: Shiva (2022)](https://www.imdb.com/title/tt6277462)
+    * [Kalki 2898 AD (2024)](https://www.imdb.com/title/tt12735488)
 
 * **TV Series**
     * Westworld
