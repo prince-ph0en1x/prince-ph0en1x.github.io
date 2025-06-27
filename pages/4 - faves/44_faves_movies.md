@@ -56,6 +56,15 @@ permalink: "/faves/movies/"
     * [The Sorcerer's Apprentice (2010)](https://www.imdb.com/title/tt0963966)
     * [Percy Jackson & the Olympians: The Lightning Thief (2010)](https://www.imdb.com/title/tt0814255)
     * [Jumanji: Welcome to the Jungle (2017)](https://www.imdb.com/title/tt2283362)
+    * [Gladiator (2000)](https://www.imdb.com/title/tt0172495)
+    * [The Mortal Instruments: City of Bones (2013)](https://www.imdb.com/title/tt1538403)
+    * [Inkheart (2008)](https://www.imdb.com/title/tt0494238)
+    * [Baby's Day Out (1994)](https://www.imdb.com/title/tt0109190)
+    * [Stuart Little (1999)](https://www.imdb.com/title/tt0164912)
+    * [Ratatouille (2007)](https://www.imdb.com/title/tt0382932)
+    * [WALL·E (2008)](https://www.imdb.com/title/tt0910970)
+    * [Coco (2017)](https://www.imdb.com/title/tt2380307)\
+    * [Zootopia (2016)](https://www.imdb.com/title/tt2948356)
 
 * **Bengali Movies** 
     * [Goopy Gyne Bagha Byne (1969)](https://www.imdb.com/title/tt0063023)
@@ -87,6 +96,11 @@ permalink: "/faves/movies/"
     * [Maach Mishti & More (2013)](https://www.imdb.com/title/tt2437786)
     * [Ogo Bideshini (2022)](https://www.imdb.com/title/tt23900716)
     * [Killbill Society (2025)](https://www.imdb.com/title/tt35660545)
+    * [Bhootpori (2024)](https://www.imdb.com/title/tt12526976)
+    * [Parineeta (2019)](https://www.imdb.com/title/tt10592082)
+    * [Bastu Shaap (2016)](https://www.imdb.com/title/tt5352898)
+    * [Antaheen (2009)](https://www.imdb.com/title/tt1359552)
+    * [Samantaral (2017)](https://www.imdb.com/title/tt7746986)
 
 * **Hindi Movies**
     * [Ankhon Dekhi (2013)](https://www.imdb.com/title/tt3614516)
@@ -122,18 +136,22 @@ permalink: "/faves/movies/"
     * [Kalki 2898 AD (2024)](https://www.imdb.com/title/tt12735488)
 
 * **TV Series**
-    * Westworld
-    * Fringe
-    * Game of Thrones
-    * Sherlock
-    * Mr. Robot
-    * Big Bang Theory
-    * Rick and Morty
-    * Final Space
-    * BoJack Horseman
-    * Lie to me
-    * Rings of Power
-    * The Wheel of Time
+    * [Westworld (2016–2022)](https://www.imdb.com/title/tt0475784)
+    * [Fringe (2008–2013)](https://www.imdb.com/title/tt1119644)
+    * [Game of Thrones (2011–2019)](https://www.imdb.com/title/tt0944947)
+    * [Sherlock (2010–2017)](https://www.imdb.com/title/tt1475582)
+    * [Mr. Robot (2015–2019)](https://www.imdb.com/title/tt4158110)
+    * [The Big Bang Theory (2007–2019)](https://www.imdb.com/title/tt0898266)
+    * [Rick and Morty (2013–)](https://www.imdb.com/title/tt2861424)
+    * [Final Space (2018–2021)](https://www.imdb.com/title/tt6317068)
+    * [BoJack Horseman (2014–2020)](https://www.imdb.com/title/tt3398228)
+    * [Lie to Me (2009–2011)](https://www.imdb.com/title/tt1235099)
+    * [Spartacus (2010–2013)](https://www.imdb.com/title/tt1442449)
+    * [The Lord of the Rings: The Rings of Power (2022–)](https://www.imdb.com/title/tt7631058)
+    * [The Wheel of Time (2021–2025)](https://www.imdb.com/title/tt7462410)
+    * [Sweet Tooth (2021–2024)](https://www.imdb.com/title/tt12809988)
+    * [The Umbrella Academy (2019–2024)](https://www.imdb.com/title/tt1312171)
+    * [Black Mirror (2011–)](https://www.imdb.com/title/tt2085059)
 
 I also watch a lot of Indian comedy shows.
 
