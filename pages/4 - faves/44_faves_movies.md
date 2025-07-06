@@ -58,7 +58,7 @@ permalink: "/faves/movies/"
 - [Sweeney Todd: The Demon Barber of Fleet Street (2007)](https://www.imdb.com/title/tt0408236) :musical_score:
 - [Les Misérables (2012)](https://www.imdb.com/title/tt1707386) :musical_score:
 - [Pride & Prejudice (2005)](https://www.imdb.com/title/tt0414387)
-- [The Hateful Eight (2015)](https://www.imdb.com/title/tt3460252)
+- [The Hateful Eight (2015)](https://www.imdb.com/title/tt3460252) :movie_camera:
 - [Murder on the Orient Express (2017)](https://www.imdb.com/title/tt3402236)
 - [Spirit: Stallion of the Cimarron (2002)](https://www.imdb.com/title/tt0166813)
 - [The Sorcerer's Apprentice (2010)](https://www.imdb.com/title/tt0963966) :dragon:
@@ -93,6 +93,13 @@ permalink: "/faves/movies/"
 - [Jurassic Park (1993)](https://www.imdb.com/title/tt0107290)
 - [Godzilla (1998)](https://www.imdb.com/title/tt0120685)
 - [E.T. the Extra-Terrestrial (1982)](https://www.imdb.com/title/tt0083866)
+- [Hugo (2011)](https://www.imdb.com/title/tt0970179)
+- [The Holiday (2006)](https://www.imdb.com/title/tt0457939) :cupid:
+- [The Intern (2015)](https://www.imdb.com/title/tt2361509)
+- [How to Lose a Guy in 10 Days (2003)](https://www.imdb.com/title/tt0251127)
+- [The Fault in Our Stars (2014)](https://www.imdb.com/title/tt2582846) :cupid:
+- [Sweet November (2001)](https://www.imdb.com/title/tt0230838) :cupid:
+- [Me Before You (2016)](https://www.imdb.com/title/tt2674426)
 
 #### Bengali Movies
 
