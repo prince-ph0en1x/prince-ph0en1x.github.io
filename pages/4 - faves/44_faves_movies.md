@@ -11,7 +11,7 @@ permalink: "/faves/movies/"
 ---
 
 
-*Tags for favourites within categories*: :movie_camera:: <small>cinematography</small>, :dragon:: <small>fantasy</small>, :rocket:: <small>scientific fantasy</small>, :cupid:: <small>romance</small>, :trollface:: <small>comedy</small>, :thought_balloon:: <small>philosophy</small>, :musical_score:: <small>musical</small>, :gun:: <small>action</small>
+*Tags for favourites within categories*: :movie_camera:: <small>cinematography</small>, :dragon:: <small>fantasy</small>, :rocket:: <small>scientific fantasy</small>, :cupid:: <small>romance</small>, :laughing: : <small>comedy</small>, :thought_balloon:: <small>philosophy</small>, :musical_score:: <small>musical</small>, :gun:: <small>action</small>
 
 #### English Movies
 
@@ -112,16 +112,16 @@ permalink: "/faves/movies/"
 - [Goynar Baksho (2013)](https://www.imdb.com/title/tt2819358)
 - [Patalghar (2003)](https://www.imdb.com/title/tt0366886) :rocket:
 - [Ballabhpurer Roopkotha (2022)](https://www.imdb.com/title/tt23024514)
-- [Basanta Bilap (1973)](https://www.imdb.com/title/tt0215549) :trollface:
-- [Raja-Saja (1960)](https://www.imdb.com/title/tt0054227) :trollface:
-- [Galpa Holeo Satyi (1966)](https://www.imdb.com/title/tt0366505) :trollface:
+- [Basanta Bilap (1973)](https://www.imdb.com/title/tt0215549) :laughing:
+- [Raja-Saja (1960)](https://www.imdb.com/title/tt0054227) :laughing:
+- [Galpa Holeo Satyi (1966)](https://www.imdb.com/title/tt0366505) :laughing:
 - [Deya Neya (1963)](https://www.imdb.com/title/tt3918808)
 - [Agantuk (1991)](https://www.imdb.com/title/tt0101279)
 - [Antony Firingee (1967)](https://www.imdb.com/title/tt0317088)
 - [Jaatishwar (2014)](https://www.imdb.com/title/tt3365690)
 - [Moner Manush (2010)](https://www.imdb.com/title/tt1815837)
 - [Mouchak (1974)](https://www.imdb.com/title/tt1587224)
-- [Chheley Kaar (1954)](https://www.imdb.com/title/tt0156395) :trollface:
+- [Chheley Kaar (1954)](https://www.imdb.com/title/tt0156395) :laughing:
 - [Oti Uttam (2024)](https://www.imdb.com/title/tt31250966) :movie_camera:
 - [Ek Je Chhilo Raja (2018)](https://www.imdb.com/title/tt7822320)
 - [Ashchorjyo Prodeep (2013)](https://www.imdb.com/title/tt3329526) :dragon:
@@ -154,11 +154,11 @@ permalink: "/faves/movies/"
 - [PK (2014)](https://www.imdb.com/title/tt2338151) :thought_balloon:
 - [OMG: Oh My God! (2012)](https://www.imdb.com/title/tt2283748) :thought_balloon:
 - [Anukul (2017)](https://www.imdb.com/title/tt7493710) :thought_balloon:
-- [3 Idiots (2009)](https://www.imdb.com/title/tt1187043) :trollface:
+- [3 Idiots (2009)](https://www.imdb.com/title/tt1187043) :laughing:
 - [Swades: We, the People (2004)](https://www.imdb.com/title/tt0367110)
 - [Barfi! (2012)](https://www.imdb.com/title/tt2082197)
 - [Jab We Met (2007)](https://www.imdb.com/title/tt1093370)
-- [Phata Poster Nikhla Hero (2013)](https://www.imdb.com/title/tt2615584) :trollface:
+- [Phata Poster Nikhla Hero (2013)](https://www.imdb.com/title/tt2615584) :laughing:
 - [Shaandaar (2015)](https://www.imdb.com/title/tt4007558)
 - [Namastey London (2007)](https://www.imdb.com/title/tt0795434)
 - [Jagga Jasoos (2017)](https://www.imdb.com/title/tt4129428)
@@ -175,7 +175,7 @@ permalink: "/faves/movies/"
 - [Vaah! Life Ho Toh Aisi! (2005)](https://www.imdb.com/title/tt0475645)
 - [Munna Bhai M.B.B.S. (2003)](https://www.imdb.com/title/tt0374887)
 - [Hera Pheri (2000)](https://www.imdb.com/title/tt0242519)
-- [Andaz Apna Apna (1994)](https://www.imdb.com/title/tt0109117) :trollface:
+- [Andaz Apna Apna (1994)](https://www.imdb.com/title/tt0109117) :laughing:
 - [Lagaan: Once Upon a Time in India (2001)](https://www.imdb.com/title/tt0169102)
 - [Baahubali: The Beginning (2015)](https://www.imdb.com/title/tt2631186)
 - [Baahubali 2: The Conclusion (2017)](https://www.imdb.com/title/tt4849438)
