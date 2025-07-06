@@ -11,36 +11,28 @@ permalink: "/faves/movies/"
 ---
 
 
-* Tags for favourites in categories:
-   - :movie_camera: - cinematography
-   - :dragon: - fantasy
-   - :rocket: - scientific fantasy
-   - :cupid: - romance
-   - :trollface: - comedy
-   - :thought_balloon: - philosophy
-   - :musical_score: - musical
-   - :gun: - action
+*Tags for favourites within categories*: :movie_camera:: <small>cinematography</small>, :dragon:: <small>fantasy</small>, :rocket:: <small>scientific fantasy</small>, :cupid:: <small>romance</small>, :trollface:: <small>comedy</small>, :thought_balloon:: <small>philosophy</small>, :musical_score:: <small>musical</small>, :gun:: <small>action</small>
 
 #### English Movies
 
-- [The Lord of the Rings: The Fellowship of the Ring (2001)](https://www.imdb.com/title/tt0120737) :dragon:
-- [The Lord of the Rings: The Two Towers (2002)](https://www.imdb.com/title/tt0167261) :dragon:
+- [The Lord of the Rings: The Fellowship of the Ring (2001)](https://www.imdb.com/title/tt0120737)
+- [The Lord of the Rings: The Two Towers (2002)](https://www.imdb.com/title/tt0167261)
 - [The Lord of the Rings: The Return of the King (2003)](https://www.imdb.com/title/tt0167260) :dragon:
-- [The Hobbit: An Unexpected Journey (2012)](https://www.imdb.com/title/tt0903624) :dragon:
-- [The Hobbit: The Desolation of Smaug (2013)](https://www.imdb.com/title/tt1170358) :dragon:
-- [The Hobbit: The Battle of the Five Armies (2014)](https://www.imdb.com/title/tt2310332) :dragon:
-- [Pirates of the Caribbean: The Curse of the Black Pearl (2003)](https://www.imdb.com/title/tt0325980) :dragon:
-- [Pirates of the Caribbean: Dead Man's Chest (2006)](https://www.imdb.com/title/tt0383574) :dragon:
+- [The Hobbit: An Unexpected Journey (2012)](https://www.imdb.com/title/tt0903624)
+- [The Hobbit: The Desolation of Smaug (2013)](https://www.imdb.com/title/tt1170358)
+- [The Hobbit: The Battle of the Five Armies (2014)](https://www.imdb.com/title/tt2310332)
+- [Pirates of the Caribbean: The Curse of the Black Pearl (2003)](https://www.imdb.com/title/tt0325980)
+- [Pirates of the Caribbean: Dead Man's Chest (2006)](https://www.imdb.com/title/tt0383574)
 - [Pirates of the Caribbean: At World's End (2007)](https://www.imdb.com/title/tt0449088) :dragon:
-- [Pirates of the Caribbean: On Stranger Tides (2011)](https://www.imdb.com/title/tt1298650) :dragon:
-- [Pirates of the Caribbean: Dead Men Tell No Tales (2017)](https://www.imdb.com/title/tt1790809) :dragon:
+- [Pirates of the Caribbean: On Stranger Tides (2011)](https://www.imdb.com/title/tt1298650)
+- [Pirates of the Caribbean: Dead Men Tell No Tales (2017)](https://www.imdb.com/title/tt1790809) 
 - [I, Robot (2004)](https://www.imdb.com/title/tt0343818) :rocket:
 - [The Matrix (1999)](https://www.imdb.com/title/tt0133093) :rocket:
-- [The Matrix Reloaded (2003)](https://www.imdb.com/title/tt0234215) :rocket:
-- [The Matrix Revolutions (2003)](https://www.imdb.com/title/tt0242653) :rocket:
+- [The Matrix Reloaded (2003)](https://www.imdb.com/title/tt0234215)
+- [The Matrix Revolutions (2003)](https://www.imdb.com/title/tt0242653)
 - [Transcendence (2014)](https://www.imdb.com/title/tt2209764) :rocket:
 - [Interstellar (2014)](https://www.imdb.com/title/tt0816692) :rocket:
-- [Inception (2010)](https://www.imdb.com/title/tt1375666) :rocket:
+- [Inception (2010)](https://www.imdb.com/title/tt1375666)
 - [Lucy (2014)](https://www.imdb.com/title/tt2872732) :rocket:
 - [Mr. Nobody (2009)](https://www.imdb.com/title/tt0485947) :rocket: :thought_balloon:
 - [When Nietzsche Wept (2007)](https://www.imdb.com/title/tt0760188) :thought_balloon:
@@ -54,9 +46,9 @@ permalink: "/faves/movies/"
 - [Thor: Ragnarok (2017)](https://www.imdb.com/title/tt3501632)
 - [Doctor Strange (2016)](https://www.imdb.com/title/tt1211837)
 - [The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)](https://www.imdb.com/title/tt0363771) :dragon:
-- [The Chronicles of Narnia: Prince Caspian (2008)](https://www.imdb.com/title/tt0499448) :dragon:
-- [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)](https://www.imdb.com/title/tt0980970) :dragon:
-- [Alice in Wonderland (2010)](https://www.imdb.com/title/tt1014759)
+- [The Chronicles of Narnia: Prince Caspian (2008)](https://www.imdb.com/title/tt0499448)
+- [The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)](https://www.imdb.com/title/tt0980970)
+- [Alice in Wonderland (2010)](https://www.imdb.com/title/tt1014759) :dragon:
 - [The Avengers (2012)](https://www.imdb.com/title/tt0848228)
 - [Avengers: Age of Ultron (2015)](https://www.imdb.com/title/tt2395427)
 - [Avengers: Endgame (2019)](https://www.imdb.com/title/tt4154796)
@@ -69,7 +61,7 @@ permalink: "/faves/movies/"
 - [The Hateful Eight (2015)](https://www.imdb.com/title/tt3460252)
 - [Murder on the Orient Express (2017)](https://www.imdb.com/title/tt3402236)
 - [Spirit: Stallion of the Cimarron (2002)](https://www.imdb.com/title/tt0166813)
-- [The Sorcerer's Apprentice (2010)](https://www.imdb.com/title/tt0963966)
+- [The Sorcerer's Apprentice (2010)](https://www.imdb.com/title/tt0963966) :dragon:
 - [Percy Jackson & the Olympians: The Lightning Thief (2010)](https://www.imdb.com/title/tt0814255)
 - [Jumanji: Welcome to the Jungle (2017)](https://www.imdb.com/title/tt2283362)
 - [Gladiator (2000)](https://www.imdb.com/title/tt0172495)
@@ -98,31 +90,34 @@ permalink: "/faves/movies/"
 - [Angels & Demons (2009)](https://www.imdb.com/title/tt0808151)
 - [The Da Vinci Code (2006)](https://www.imdb.com/title/tt0382625)
 - [The Day the Earth Stood Still (2008)](https://www.imdb.com/title/tt0970416)
+- [Jurassic Park (1993)](https://www.imdb.com/title/tt0107290)
+- [Godzilla (1998)](https://www.imdb.com/title/tt0120685)
+- [E.T. the Extra-Terrestrial (1982)](https://www.imdb.com/title/tt0083866)
 
 #### Bengali Movies
 
 - [Goopy Gyne Bagha Byne (1969)](https://www.imdb.com/title/tt0063023) :dragon: 
 - [Heerak Rajar Deshe (1980)](https://www.imdb.com/title/tt0080856) :musical_score: :dragon: 
-- [Goopy Bagha Phire Elo (1991)](https://www.imdb.com/title/tt0457920) :dragon: 
+- [Goopy Bagha Phire Elo (1991)](https://www.imdb.com/title/tt0457920)
 - [Joi Baba Felunath (1979)](https://www.imdb.com/title/tt0077775) :gun:
-- [Sonar Kella (1974)](https://www.imdb.com/title/tt0072190) :gun:
+- [Sonar Kella (1974)](https://www.imdb.com/title/tt0072190)
 - [Bhooter Bhabishyat (2012)](https://www.imdb.com/title/tt2351177) :musical_score:
 - [Goynar Baksho (2013)](https://www.imdb.com/title/tt2819358)
 - [Patalghar (2003)](https://www.imdb.com/title/tt0366886) :rocket:
 - [Ballabhpurer Roopkotha (2022)](https://www.imdb.com/title/tt23024514)
-- [Basanta Bilap (1973)](https://www.imdb.com/title/tt0215549)
-- [Raja-Saja (1960)](https://www.imdb.com/title/tt0054227)
-- [Galpa Holeo Satyi (1966)](https://www.imdb.com/title/tt0366505)
+- [Basanta Bilap (1973)](https://www.imdb.com/title/tt0215549) :trollface:
+- [Raja-Saja (1960)](https://www.imdb.com/title/tt0054227) :trollface:
+- [Galpa Holeo Satyi (1966)](https://www.imdb.com/title/tt0366505) :trollface:
 - [Deya Neya (1963)](https://www.imdb.com/title/tt3918808)
 - [Agantuk (1991)](https://www.imdb.com/title/tt0101279)
 - [Antony Firingee (1967)](https://www.imdb.com/title/tt0317088)
 - [Jaatishwar (2014)](https://www.imdb.com/title/tt3365690)
 - [Moner Manush (2010)](https://www.imdb.com/title/tt1815837)
 - [Mouchak (1974)](https://www.imdb.com/title/tt1587224)
-- [Chheley Kaar (1954)](https://www.imdb.com/title/tt0156395)
-- [Oti Uttam (2024)](https://www.imdb.com/title/tt31250966)
+- [Chheley Kaar (1954)](https://www.imdb.com/title/tt0156395) :trollface:
+- [Oti Uttam (2024)](https://www.imdb.com/title/tt31250966) :movie_camera:
 - [Ek Je Chhilo Raja (2018)](https://www.imdb.com/title/tt7822320)
-- [Ashchorjyo Prodeep (2013)](https://www.imdb.com/title/tt3329526)
+- [Ashchorjyo Prodeep (2013)](https://www.imdb.com/title/tt3329526) :dragon:
 - [Durga Sohay (2017)](https://www.imdb.com/title/tt6774538)
 - [Bibaho Obhijaan (2019)](https://www.imdb.com/title/tt9461494)
 - [Hawa Bodol (2013)](https://www.imdb.com/title/tt2580150)
@@ -149,10 +144,10 @@ permalink: "/faves/movies/"
 #### Hindi Movies
 
 - [Ankhon Dekhi (2013)](https://www.imdb.com/title/tt3614516) :thought_balloon:
-- [3 Idiots (2009)](https://www.imdb.com/title/tt1187043)
-- [OMG: Oh My God! (2012)](https://www.imdb.com/title/tt2283748) :thought_balloon:
 - [PK (2014)](https://www.imdb.com/title/tt2338151) :thought_balloon:
+- [OMG: Oh My God! (2012)](https://www.imdb.com/title/tt2283748) :thought_balloon:
 - [Anukul (2017)](https://www.imdb.com/title/tt7493710) :thought_balloon:
+- [3 Idiots (2009)](https://www.imdb.com/title/tt1187043) :trollface:
 - [Swades: We, the People (2004)](https://www.imdb.com/title/tt0367110)
 - [Barfi! (2012)](https://www.imdb.com/title/tt2082197)
 - [Jab We Met (2007)](https://www.imdb.com/title/tt1093370)
@@ -166,14 +161,14 @@ permalink: "/faves/movies/"
 - [Jaane Tu... Ya Jaane Na (2008)](https://www.imdb.com/title/tt0473367)
 - [Mere Brother Ki Dulhan (2011)](https://www.imdb.com/title/tt1740710)
 - [Break Ke Baad (2010)](https://www.imdb.com/title/tt1578261)
-- [Hasee Toh Phasee (2014)](https://www.imdb.com/title/tt3173910)
+- [Hasee Toh Phasee (2014)](https://www.imdb.com/title/tt3173910) :cupid:
 - [Meri Pyaari Bindu (2017)](https://www.imdb.com/title/tt5472374)
-- [Shuddh Desi Romance (2013)](https://www.imdb.com/title/tt2988272)
+- [Shuddh Desi Romance (2013)](https://www.imdb.com/title/tt2988272) :cupid:
 - [Hawaizaada (2015)](https://www.imdb.com/title/tt4338154)
 - [Vaah! Life Ho Toh Aisi! (2005)](https://www.imdb.com/title/tt0475645)
 - [Munna Bhai M.B.B.S. (2003)](https://www.imdb.com/title/tt0374887)
 - [Hera Pheri (2000)](https://www.imdb.com/title/tt0242519)
-- [Andaz Apna Apna (1994)](https://www.imdb.com/title/tt0109117)
+- [Andaz Apna Apna (1994)](https://www.imdb.com/title/tt0109117) :trollface:
 - [Lagaan: Once Upon a Time in India (2001)](https://www.imdb.com/title/tt0169102)
 - [Baahubali: The Beginning (2015)](https://www.imdb.com/title/tt2631186)
 - [Baahubali 2: The Conclusion (2017)](https://www.imdb.com/title/tt4849438)
@@ -185,7 +180,7 @@ permalink: "/faves/movies/"
 - [Westworld (2016–2022)](https://www.imdb.com/title/tt0475784) :rocket:
 - [Fringe (2008–2013)](https://www.imdb.com/title/tt1119644) :rocket:
 - [Game of Thrones (2011–2019)](https://www.imdb.com/title/tt0944947) :dragon:
-- [Sherlock (2010–2017)](https://www.imdb.com/title/tt1475582)
+- [Sherlock (2010–2017)](https://www.imdb.com/title/tt1475582) :gun:
 - [Mr. Robot (2015–2019)](https://www.imdb.com/title/tt4158110) :rocket:
 - [The Big Bang Theory (2007–2019)](https://www.imdb.com/title/tt0898266)
 - [Rick and Morty (2013–)](https://www.imdb.com/title/tt2861424) :rocket:
