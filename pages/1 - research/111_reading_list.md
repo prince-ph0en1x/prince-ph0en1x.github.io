@@ -14,3 +14,4 @@
 - [ ] [Transformers As Approximations of Solomonoff Induction](https://arxiv.org/abs/2408.12065v1) AIT
 - [ ] [Action and planning in embedded agents](https://cse-robotics.engr.tamu.edu/dshell/cs631/papers/kaelbling90action.pdf) EKSA
 - [ ] [Magic-induced computational separation in entanglement theory](https://arxiv.org/abs/2403.19610) QIT
+- [ ] [In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly](https://arxiv.org/abs/2506.19351) AIT
