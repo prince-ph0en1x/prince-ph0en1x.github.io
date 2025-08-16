@@ -176,7 +176,7 @@ Some of these you can find in my PhD [propositions](https://academia.stackexchan
 * `Pragyan` is sentience (conscious of the agent, self); `Vigyan` is intellect (conscious of the environment).
 * Vedanta is about viewing the universe without a specific prior, nirguna. The prior is maya, saguna.
 
-### चिताकाशगीता
+### चिताकाशगीता <a name="chitakasha-gita"></a>
 
 (Created Aug 16, 2025)
 
