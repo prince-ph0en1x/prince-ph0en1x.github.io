@@ -227,6 +227,7 @@ Some of these you can find in my PhD [propositions](https://academia.stackexchan
 The Song of the Space of Consciousness  
 (a poetic rendition of the axioms of quantum mechanics)  
 
+
 **श्लोक १ — निराकारं चिताकाशः**
 
 न रूपं न च संख्यास्ति, न भेदो न विवेचनम् ।  
@@ -250,8 +251,9 @@ From this arises a constructed truth, illuminating the world’s meaning.
 
 *Advaita Vedānta bhāṣya* — Here the citākāśa (space of consciousness) is shown as nirupādhika, without limiting attributes. It is beyond form (rūpa), counting (saṅkhyā), or distinctions (bheda). Yet, the mind of man overlays this pure awareness with categories such as colour, number, and measurement. Through reasoning and conceptual structuring, provisional truths emerge, which illuminate the empirical world. This is the distinction between pāramārthika satya (absolute truth) and vyāvahārika satya (conventional truth): the former is undivided consciousness; the latter is human interpretation.
 
-*Quantum Mechanics commentary* — This śloka resonates with the wavefunction itself having no form or number until it is measured, just as citākāśa is formless. It is indivisible and cannot be broken into separate independent realities, reflecting nonlocality and superposition. Physicists, however, impose mathematical frameworks, like basis sets, eigenvalues, measurement outcomes, akin to the varṇasaṅkhyāni (colours and numbers). These constructs yield consistent laws and predictions, illuminating the observable world. But the underlying quantum state, like pure consciousness, remains beyond the categories we impose on it.   
- 
+*Quantum Mechanics commentary* — This śloka resonates with the wavefunction itself having no form or number until it is measured, just as citākāśa is formless. It is indivisible and cannot be broken into separate independent realities, reflecting nonlocality and superposition. Physicists, however, impose mathematical frameworks, like basis sets, eigenvalues, measurement outcomes, akin to the varṇasaṅkhyāni (colours and numbers). These constructs yield consistent laws and predictions, illuminating the observable world. But the underlying quantum state, like pure consciousness, remains beyond the categories we impose on it.  
+
+
 **श्लोक २ — स्वावस्था च संयोगः**
 
 स्वरूपेण स्थिता दृष्टा, अवस्थाः चितआकाशे ।  
@@ -275,8 +277,9 @@ Its weight is to be known by number, as spoken by the wise.
 
 *Advaita Vedānta bhāṣya* — In citākāśa, all possible states (avasthāḥ) exist in their own essence. Even when they appear together, they retain distinctness through the mode of union (saṁyoga). This reflects the principle that multiplicity arises not from separation but from combinations within the one consciousness. The so-called “novelty” (nūtanatā) is not an external creation but a fresh manifestation of the underlying unity. The sages describe its measure (bhāra) in terms of count or recognition, but this remains only a convention, not the reality itself. The substratum is one consciousness, manifesting diversity without losing unity.
 
-*Quantum Mechanics commentary* — This śloka aligns with the quantum principle of superposition. Quantum states (avasthāḥ) exist in their own form within Hilbert space (citākāśa). When states combine, they do not dissolve into each other but remain distinct in their contributions, just as basis vectors remain orthogonal yet form new superposed states. The “novelty” (nūtanatā) is the emergent phenomenon of interference patterns, entanglement, or measurable outcomes that arise from these combinations. The “weight” (bhāraḥ), described by the wise, is akin to probability amplitudes or eigenvalues, quantifiable through measurement. Yet, the true state exists prior to and beyond measurement, much like pure consciousness in Advaita.   
- 
+*Quantum Mechanics commentary* — This śloka aligns with the quantum principle of superposition. Quantum states (avasthāḥ) exist in their own form within Hilbert space (citākāśa). When states combine, they do not dissolve into each other but remain distinct in their contributions, just as basis vectors remain orthogonal yet form new superposed states. The “novelty” (nūtanatā) is the emergent phenomenon of interference patterns, entanglement, or measurable outcomes that arise from these combinations. The “weight” (bhāraḥ), described by the wise, is akin to probability amplitudes or eigenvalues, quantifiable through measurement. Yet, the true state exists prior to and beyond measurement, much like pure consciousness in Advaita.  
+
+
 **श्लोक ३ — द्विविधा संख्याः**
 
 द्वे संख्ये चिताकाशे, स्थित्यर्थं सह संयुक्ते ।  
@@ -298,9 +301,10 @@ Of the first, the square preserves unity, always returning to the same.
 Of the second, the square denies unity, standing opposed.  
 When the two are combined, then emerges the eternal single entity.  
 
-*Advaita Vedānta bhāṣya* — The twofold number-structure in citākāśa is a metaphor for the polarity of experience. The “first” preserves oneness, it is the ground of being (sat), the real axis which affirms existence. The “second” negates oneness, which introduces opposition, duality, and oscillation (as the imaginary unit i squares to -1). Alone, each is incomplete: pure affirmation without relation is inert, while pure negation without substratum collapses. But together, in union (samāyogaḥ), they form the indivisible eka, the eternal one. Thus, just as the complex plane unifies real and imaginary into a single algebraic structure, as dependent aspects of the same Brahman, transcending opposition in a higher oneness.
+*Advaita Vedānta bhāṣya* — The twofold number-structure in citākāśa is a metaphor for the polarity of experience. The first type preserves oneness, it is the ground of being (sat), the real axis which affirms existence. The second type negates oneness, which introduces opposition, duality, and oscillation (as the imaginary unit i squares to -1). Alone, each is incomplete: pure affirmation without relation is inert, while pure negation without substratum collapses. But together, in union (samāyogaḥ), they form the indivisible eka, the eternal one. Thus, just as the complex plane unifies real and imaginary into a single algebraic structure, as dependent aspects of the same Brahman, transcending opposition in a higher oneness.
 
-*Quantum Mechanics commentary* — This precisely mirrors the use of complex numbers in quantum theory. Each basis state of the wavefunction ψ(x) is inherently complex valued: its real part (like the affirming unity) and imaginary part (the negating orthogonal component) coexist inseparably. The real squared returns itself (+1), while the imaginary squared inverts (-1), just as the śloka describes. Their union, through the Hilbert space structure, yields a single coherent state. Probabilities, inner products, and unitarity all depend on this complex unification. Thus, the śloka encodes the insight that the foundations of physical law are neither purely real nor purely imaginary, but eternally one through their synthesis.   
+*Quantum Mechanics commentary* — This precisely mirrors the use of complex numbers in quantum theory. Each basis state of the wavefunction $ψ(x)$ is inherently complex valued: its real part (like the affirming unity) and imaginary part (the negating orthogonal component) coexist inseparably. The real squared returns itself (+1), while the imaginary squared inverts (-1), just as the śloka describes. Their union, through the Hilbert space structure, yields a single coherent state. Probabilities, inner products, and unitarity all depend on this complex unification. Thus, the śloka encodes the insight that the foundations of physical law are neither purely real nor purely imaginary, but eternally one through their synthesis.  
+
 
 **श्लोक ४ — एकत्वरक्षणम्**
 
@@ -325,7 +329,8 @@ Through motion by the unitary way, the state is preserved for all time.
 
 *Advaita Vedānta bhāṣya* — This śloka affirms that citākāśa (the space of pure awareness) allows for movement or transformation (gatiḥ), yet all change is bound in unity (ekarūpiṇī). Even when multiplicity appears (dvayor-varga-samāyogaḥ), its measure remains one (eka eva). Thus, change does not alter the substratum; there is no true increase or decrease (na hrāso na ca vṛddhiḥ). The vow of steadiness (sthiraṃ vratam) reflects the Advaitic principle that Brahman remains unaffected by phenomena. All evolution, experience, and interaction occur within the changeless background of non-duality, preserving the eternal one.
 
-*Quantum Mechanics commentary* — Here, the verse reflects the axiom of unitary evolution. A quantum state evolves in time via a unitary operator U(t), ensuring that the norm (total probability) is conserved: ⟨ψ(t)|ψ(t)⟩ = 1. This is the meaning of "no decrease, no increase"; probability amplitudes redistribute, but the total remains constant. The superposition of two classes (dvayor-varga) does not yield a larger or smaller measure but still one normalized state. Thus, the śloka parallels the fundamental axiom: quantum evolution is linear and unitary, preserving the inner unity of the state space. In this way, both science and Advaita uphold that beneath all change, the stability of the whole remains inviolable.   
+*Quantum Mechanics commentary* — Here, the verse reflects the axiom of unitary evolution. A quantum state evolves in time via a unitary operator $U(t)$, ensuring that the norm (total probability) is conserved: $⟨ψ(t)|ψ(t)⟩ = 1$. This is the meaning of "no decrease, no increase"; probability amplitudes redistribute, but the total remains constant. The superposition of two classes (dvayor-varga) does not yield a larger or smaller measure but still one normalized state. Thus, the śloka parallels the fundamental axiom: quantum evolution is linear and unitary, preserving the inner unity of the state space. In this way, both science and Advaita uphold that beneath all change, the stability of the whole remains inviolable.  
+
 
 **श्लोक ५ — शिवशक्तिस्वरूपम्**
 
@@ -350,8 +355,9 @@ For activity in the field of matter, the power of Śakti must always be employed
 
 *Advaita Vedānta bhāṣya* — Śiva here symbolizes the nirguṇa, changeless, self-luminous reality (nivṛttir nirvikāraḥ). Even without the movement of Śakti, pure consciousness (śivarūpaḥ) remains untouched, eternal, and without blemish (nirañjanaḥ). Yet the world of names and forms requires Śakti — the dynamic aspect of Brahman — to project itself onto the field of matter. Thus, Advaita interprets Śiva as the unmoving substratum, and Śakti as Māyā or Prakṛti, through whom the One becomes the manifold. Without Śakti, the world has no play; without Śiva, Śakti has no ground. Their inseparability reflects non-dual unity: the stillness of pure Being and the dynamism of becoming are one essence.
 
-*Quantum Mechanics commentary* — This śloka resonates with the relationship between the state space and observables/measurements. The quantum state (analogous to Śiva) exists in a pure, unchanging form, independent of measurement, a normalized vector in Hilbert space, unaffected in essence. Yet, to manifest outcomes in the physical world, interaction with operators or measurement apparatus (Śakti) is necessary. Evolution and projection of states onto measurable bases are the "play of Śakti." Thus, the pure wavefunction is ever-present, but the empirical world emerges only through the action of dynamical processes and measurement. Quantum theory, like Advaita, holds this dual aspect: an unchanging substratum (state space) and its dynamic unfolding (operators/measurements), eternally united.   
- 
+*Quantum Mechanics commentary* — This śloka resonates with the relationship between the state space and observables/measurements. The quantum state (analogous to Śiva) exists in a pure, unchanging form, independent of measurement, a normalized vector in Hilbert space, unaffected in essence. Yet, to manifest outcomes in the physical world, interaction with operators or measurement apparatus (Śakti) is necessary. Evolution and projection of states onto measurable bases are the "play of Śakti." Thus, the pure wavefunction is ever-present, but the empirical world emerges only through the action of dynamical processes and measurement. Quantum theory, like Advaita, holds this dual aspect: an unchanging substratum (state space) and its dynamic unfolding (operators/measurements), eternally united.  
+
+
 **श्लोक ६ — अवस्थासंयोजनम्**
 
 बहुधा वर्णनं सम्भूत्य, चिताकाशे समन्वितम् ।  
@@ -375,8 +381,9 @@ This completeness is declared to be perfection, the supreme power of Māyā amon
 
 *Advaita Vedānta bhāṣya* — Here the śloka speaks of the manifold arising in citākāśa, the infinite expanse of consciousness. Manifestation appears as a diversity of names and forms (bahudhā varṇanam), yet they are woven together by an underlying unity. Even when distinct, all entities remain held within one indivisible ground. Each part (sva-svaikya) must honor its inherent oneness, while simultaneously participating in the greater integration of existence (saṁyuktaikya-dhṛti). This weaving is not an error but the very play (līlā) of Māyā, the supreme power that projects multiplicity without ever compromising non-duality. For Advaita, this reveals the paradox: diversity is real as appearance, yet unreal in essence, since all is Brahman alone.
 
-*Quantum Mechanics commentary* — In physics, this directly resonates with the principle of quantum entanglement and superposition. Multiple states may arise within a system, appearing as distinct when observed, yet they remain correlated at a deeper level. Each subsystem preserves its local identity (reduced state), but the full description is only complete when considered as part of the whole, the entangled state in Hilbert space. This reflects the axiom that the state space of a composite system is the tensor product of its parts, ensuring both individuality and collective unity. The śloka’s reference to Māyā mirrors the probabilistic nature of measurement outcomes: though the wavefunction contains infinite potentialities, only through observation do distinctions emerge, while unity persists underneath.   
- 
+*Quantum Mechanics commentary* — In physics, this directly resonates with the principle of quantum entanglement and superposition. Multiple states may arise within a system, appearing as distinct when observed, yet they remain correlated at a deeper level. Each subsystem preserves its local identity (reduced state), but the full description is only complete when considered as part of the whole, the entangled state in Hilbert space. This reflects the axiom that the state space of a composite system is the tensor product of its parts, ensuring both individuality and collective unity. The śloka’s reference to Māyā mirrors the probabilistic nature of measurement outcomes: though the wavefunction contains infinite potentialities, only through observation do distinctions emerge, while unity persists underneath.  
+
+
 **श्लोक ७ — इन्द्रियधर्मः**
 
 अदृष्टं सङ्गणं तत्तु, संख्याभिः केवलं स्मृतम् ।  
@@ -400,7 +407,8 @@ While by measures of number, states come to manifestation.
 
 *Advaita Vedānta bhāṣya* — This śloka distinguishes between the unseen (adṛṣṭam) and the seen (dṛṣṭam). What cannot be directly perceived is inferred, symbolized here by numbers (saṅkhyābhiḥ smṛtam). Human intellect uses quantification to grasp the unmanifest, while direct perception offers only partial glimpses (bhāgenaikatva-niṇṇayaḥ) of the infinite. Behind perception lies the hidden mystery of Śiva, the substratum of all appearances. Māyā veils the whole, revealing only fragments through sense-organs (indriyas). Thus, counting, categorization, and perception are mere aids to approximate the real, but Brahman remains untouched, beyond sight and thought.
 
-*Quantum Mechanics commentary* — This resonates with the measurement problem. The full wavefunction (adṛṣṭam saṅgaṇam — unseen collection of possibilities) is only accessible abstractly, through the mathematical formalism of Hilbert space (numbers, amplitudes, probabilities). What appears in the lab is not the full superposed reality but a particular outcome — a fragment revealed through measurement (dṛṣṭyā bhāgena). Quantum mechanics asserts that observation collapses possibilities into actualities, but the hidden structure (unitary evolution, coherence, entanglement) remains concealed. The śloka’s “hidden mystery of Śiva” mirrors the unobservable quantum state, the ultimate ground behind empirical data. Quantitative models (saṅkhyā-varga-pramāṇena) give states operational reality, but what is truly ontic is deeper, subtler, and beyond perception.   
+*Quantum Mechanics commentary* — This resonates with the measurement problem. The full wavefunction (adṛṣṭam saṅgaṇam — unseen collection of possibilities) is only accessible abstractly, through the mathematical formalism of Hilbert space (numbers, amplitudes, probabilities). What appears in the lab is not the full superposed reality but a particular outcome — a fragment revealed through measurement (dṛṣṭyā bhāgena). Quantum mechanics asserts that observation collapses possibilities into actualities, but the hidden structure (unitary evolution, coherence, entanglement) remains concealed. The śloka’s “hidden mystery of Śiva” mirrors the unobservable quantum state, the ultimate ground behind empirical data. Quantitative models (saṅkhyā-varga-pramāṇena) give states operational reality, but what is truly ontic is deeper, subtler, and beyond perception.  
+
 
 **श्लोक ८ — उपसंहारः तथा विज्ञानजन्मनी**
 
