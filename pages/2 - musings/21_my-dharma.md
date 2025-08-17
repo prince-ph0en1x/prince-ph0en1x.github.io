@@ -469,6 +469,18 @@ There is one more idea that is worth discussion. Intuition. Belief is not intuit
 
 The zeroth law touches upon the ideas that will develop in depth as you move along other topics I discuss. Sit back! The bumpy ride is just about to begin.
 
+### Book Recommendations
+
+Here are my book recommendations (rather, tracing out the learning path I followed) for Indian Philosophy (esp. on Advaita Vedanta):
+
+ - Why I Am A Hindu, Shashi Tharoor ([link](https://www.amazon.in/Why-Hindu-Dr-Shashi-Tharoor/dp/9386021102/))
+ - Sarvadarshanasamgraha, Madhavacharya, translated by E.B. Cowell ([link](https://www.amazon.in/Sarvadarshanasamgraha-Madhavacharya-B-Cowell/dp/812460844X/))
+ - Tattvabodha, Sri Adi Sankaracharya, translated by Swami Tejomayananda ([link](https://www.amazon.in/Tattvabodhah-New-English-Swami-Tejomayananda/dp/817597561X/)) ([mindmap](https://www.academia.edu/26970470/Intro_to_Vedanta_and_Tattva_Bodha_Mind_map))
+ - Nirvana Shatakam, Sri Adi Sankaracharya, translated by Swami Tejomayananda ([link](https://www.amazon.in/Nirvana-Shatakam-Swami-Tejomayananda/dp/817597625X/))
+ - Drg-Drsya-Viveka, Sri Adi Sankaracharya, translated by Swami Nikhilananda ([link](https://www.amazon.in/Drg-Drsya-Viveka-Inquiry-Into-Nature-Seer/dp/8175050276/))
+ - Aparokshanubhuti, Sri Adi Sankaracharya, translated by Swami Vimuktananda ([link](https://www.amazon.in/Aparokshanubhuti-Shankaracharya-Self-Realization-Swami-Vimuktananda/dp/8175051078/))
+ - Mandukya Upanishad With Gaudapada's Karika and Shankara's Commentary, translated by Swami Nikhilananda ([link](https://www.amazon.in/Mandukya-Upanishad-Gaudapadas-Shankaras-Commentary/dp/8175050225/))
+ - Vakya Vritti, Sri Adi Sankaracharya, translated by Swami Chinmayananda ([link](https://www.amazon.in/Vakya-Vritti-Swami-Chinmayananda/dp/8175976659/))
 
 ### God and Mayonnaise
 
