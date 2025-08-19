@@ -154,14 +154,39 @@ Is pattern also an emergent parameter? Is it a statistical low entropy configura
 
 ### Algebraic Structures <a name="algb"></a>
 
+Axioms for a single binary operator:
+- A0 closure
+- A1 commutivity
+- A2 associativity
+- A3 left distributivity
+- A4 right distributivity
+- A5 distributivity
+- A6 existence of an identity element
+- A7 existence of an inverse element
+- A8 divisibility/invertibility
+
 - Set
-- Magma
-- Group
-- Abelian Group
+- Magma: Set + A0
+- Quasi-group: Magma + A8
+- Unital-magma: Magma + A6
+- Semi-group: Magma + A2
+- Loop: Magma + A6 + A8
+- Associative quasi-group: Magma + A2 + A8
+- Monoid: Magma + A2 + A6
+- Group: Magma + A2 + A6 + A8
+- Abelian-group: Group + A1
 - Ring
 - Field
 
 Each can be discrete or continuous. 
+
+Groups: represent symmetry
+
+Monoids: equivalent to functors in category theory
+
+Monoids: can represent abstract data types in computer science
+
+Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, on rationals are equivalent to a field.
 
 [*^ back to top ^*](#toc)
 
