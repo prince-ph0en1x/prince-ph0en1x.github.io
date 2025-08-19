@@ -154,6 +154,8 @@ Is pattern also an emergent parameter? Is it a statistical low entropy configura
 
 ### Algebraic Structures <a name="algb"></a>
 
+Notes on the foundations of mathematics
+
 Axioms for a single binary operator:
 - A0 closure
 - A1 commutivity
@@ -165,6 +167,8 @@ Axioms for a single binary operator:
 - A7 existence of an inverse element
 - A8 divisibility/invertibility
 
+
+Algebraic structures based on these axioms:
 - Set
 - Magma: Set + A0
 - Quasi-group: Magma + A8
@@ -178,15 +182,12 @@ Axioms for a single binary operator:
 - Ring
 - Field
 
-Each can be discrete or continuous. 
-
-Groups: represent symmetry
-
-Monoids: equivalent to functors in category theory
-
-Monoids: can represent abstract data types in computer science
-
-Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, on rationals are equivalent to a field.
+Fun facts:
+- Each can be discrete or continuous. 
+- Groups: represent symmetry
+- Monoids: equivalent to functors in category theory
+- Monoids: can represent abstract data types in computer science
+- Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, on rationals are equivalent to a field.
 
 [*^ back to top ^*](#toc)
 
