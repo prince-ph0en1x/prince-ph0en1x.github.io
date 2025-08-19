@@ -187,7 +187,14 @@ Fun facts:
 - Groups: represent symmetry
 - Monoids: equivalent to functors in category theory
 - Monoids: can represent abstract data types in computer science
-- Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, on rationals are equivalent to a field.
+- Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, and on rationals are equivalent to a field.
+
+RuliadTrotter:
+- The core of my Ruliad Trotter project in the Wolfram Summer School 2022 is that an observer in the Ruliad is modeled as the set of axioms it adheres to. That defines the capability of the observer to parse deductively through proof space based on these axioms (like an Automated Theorem Prover).
+
+RuliadDistiller:
+- The upgrade of the Ruliad Trotter project, where the primary mode is abductive inference instead of deductive. The agent/observer has access to a set of observations. It may assign axioms to these observations pertaining to the environment based on (approximately) validating which axioms maintain closure over the set of observations, and can also lead to planning further active experiments or counterfactuals. As an example, quantum measurements can be described by a model pertaining to Lie Groups.
+  
 
 [*^ back to top ^*](#toc)
 
