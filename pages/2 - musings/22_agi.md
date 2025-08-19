@@ -24,6 +24,7 @@ permalink: "/musings/agi/"
 * [Seed 42](#seed)
 * [NeuroSymbolic AI](#nesy)
 * [Pattern and Randomness](#patterns)
+* [Algebraic Structures](#algb)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
 * [(A)daitva](#adaitva)
@@ -148,6 +149,19 @@ I argue here, randomness is an emergent property. Say I got {H,H,H} on 3 success
 Is pattern also an emergent parameter? Is it a statistical low entropy configuration or a collection of semantically meaning states?
 * Arguments against the 1st idea: based on how we semantically understand something, a higher entropy system can show more pattern. E.g. a program in BrainFuck printing 1s forever will have less algorithmic entropy than a program in C++ generating the Fibonacci series due to the inherent non-rationality of te golden mean; or a C++ code for 1s would have lower entropy than a BrainFuck code for golden mean; even though it should depend on the semantics of the language for the compiler, like an english sentence has lower entropy than a japanese sentence due to the higher number of japanese alphabets.
 * Arguments against the 2nd idea: if something has semantic meaning, it should be reducible to a cost function for which a pattern would give a higher score than a random input. For a program/language, it would be syntactic correctness, e.g. grammarly. But still the association to the application is missing, the same problem as with shannon information metric.
+
+[*^ back to top ^*](#toc)
+
+### Algebraic Structures <a name="algb"></a>
+
+- Set
+- Magma
+- Group
+- Abelian Group
+- Ring
+- Field
+
+Each can be discrete or continuous. 
 
 [*^ back to top ^*](#toc)
 
