@@ -24,7 +24,7 @@ permalink: "/musings/agi/"
 * [Seed 42](#seed)
 * [NeuroSymbolic AI](#nesy)
 * [Pattern and Randomness](#patterns)
-* [Algebraic Structures](#algb)
+* [Explorations in Metamathematics](#metamath)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
 * [(A)daitva](#adaitva)
@@ -152,9 +152,9 @@ Is pattern also an emergent parameter? Is it a statistical low entropy configura
 
 [*^ back to top ^*](#toc)
 
-### Algebraic Structures <a name="algb"></a>
+### Explorations in Metamathematics <a name="metamath"></a>
 
-Notes on the foundations of mathematics
+Notes on the foundations of mathematics.
 
 Axioms for a single binary operator $\cdot$:
 * **A0 (closure)**: $x\cdot y\in S$.
@@ -224,7 +224,7 @@ RuliadTrotter:
 
 RuliadDistiller:
 - The upgrade of the RuliadTrotter project, where the primary mode is abductive inference instead of deductive inference. The agent/observer has access to a set of observations. It may assign axioms to these observations pertaining to the environment based on (approximately) validating which axioms maintain closure over the set of observations, and can also lead to planning further active experiments or counterfactuals. As an example, quantum measurements can be described by a model pertaining to Lie Groups.
-- The core philosophical difference is that here we take the set of observations as the core epistemic truth. We reject the notion that the environment is generated a priori via a computational process adhering to a structure (a.k.a., the physical Church-Turing thesis). Any structure the agent infers abductively can be equally attributed to one or more of the 3 reasons: (a) the environment inherently has the structure, (b) the perceived structures are due to limits of the measuring device of the agent that records the observation into the set or limitations on the active controlled experiments the agent can perform on the environment, and/or, (c) the abducted structures are due to an approximate processing/compressing of the set of observations with resource bounds to create an effective theory.
+- The core philosophical difference is that here we take the set of observations as the core epistemic truth. We reject the notion that the environment is generated a priori via a computational process adhering to a structure (a.k.a., the physical Church-Turing thesis). Any structure the agent infers abductively can be equally attributed to one or more of the 3 reasons: (a) the environment inherently has the structure, (b) the perceived structures are due to limits of the measuring device of the agent that records the observation into the set or limitations on the active controlled experiments the agent can perform on the environment, and/or, (c) the abducted structures are due to an approximate processing/compressing of the set of observations with resource bounds to create an effective theory. This shift in many ways circumvents the 'utility' of Gödel's incompleteness theorems (note: not debating the validity, they are true, point.) Given a set of observations, as long as a list of abducted axioms (e.g., via reverse mathematics) aids in compressing the data, leading to computational efficiency, the question arises whether we really want the system to be complete or self-consistent. What is the scope of our generalization of these axioms to other theorems on the dataset or data obtained in the future?
   
 
 [*^ back to top ^*](#toc)
