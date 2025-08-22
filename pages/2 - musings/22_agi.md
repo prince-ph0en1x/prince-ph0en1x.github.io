@@ -280,6 +280,22 @@ print(result)  # "hello world!"
 
 Now this works for any monoid, for example, `(int, +, 0)` → sum of numbers, `(int, *, 1)` → product of numbers, `(list, +, [])` → flatten lists, `(str, +, "")` → join strings.
 
+Here's a cheat-sheet table of algebraic structures and their common programming roles:
+
+| **Structure**             | **Axioms (short)**                                    | **Programming Use Cases**                                           | **Python Example**                                                     |
+| ------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Monoid**                | Closure + Associativity + Identity                    | String concatenation, logging, MapReduce, parallel reductions       | `"".join(["a","b","c"])` or `functools.reduce(operator.add, strs, "")` |                                                        
+| **Semigroup**             | Closure + Associativity                               | Segment trees, range queries, aggregation without identity          | `max([3,5,2])` → associative but no natural identity                   |                                                        
+| **Group**                 | Monoid + Inverses                                     | Undo/redo, rollback, cryptography, modular arithmetic               | `(a + b) - b == a`; `pow(a, -1, n)` (mod inverse)                      |                                                        
+| **Abelian Group**         | Group + Commutativity                                 | Vector addition, CRDTs, distributed systems                         | `(1,2)+(3,4) == (3,4)+(1,2)`                                           |                                                        
+| **Ring**                  | Abelian group under +, monoid under ×, distributivity | Arithmetic libs, symbolic math, modular arithmetic                  | `int`, `fractions.Fraction`, `sympy.Poly`                              |                                                        
+| **Field**                 | Ring + multiplicative inverses (≠0)                   | Machine learning, linear algebra, graphics                          | `fractions.Fraction(1,3)`; `numpy.float64`                             |                                                        
+| **Lattice**               | Partially ordered set with meet ∧ and join ∨          | Type systems, compiler dataflow, access control                     | `{1,2} \| {2,3} == {1,2,3}`(join),`{1,2} & {2,3} == {2}` (meet)        |
+| **Boolean Algebra**       | Lattice + distributivity + complements                | Bitsets, DB queries, circuit logic                                  | `a & b`, `a \| b`, `~a` on integers/bitsets                            |
+| **Vector Space / Module** | Abelian group + scalar multiplication over field      | Numpy arrays, ML, graphics, physics                                 | `numpy.array([1,2])+numpy.array([3,4])`; `3*np.array([1,2])`           |                                                        
+| **Semiring**              | Two monoids (+, ×), distributivity, no negatives      | Dynamic programming, graph algorithms (shortest paths, path counts) | Shortest path: `(min, +)` semiring with `math.inf` as identity         |                                                        
+
+
 [*^ back to top ^*](#toc)
 
 ### Fascination with Fractals <a name="fractals"></a>
