@@ -25,6 +25,7 @@ permalink: "/musings/agi/"
 * [NeuroSymbolic AI](#nesy)
 * [Pattern and Randomness](#patterns)
 * [Explorations in Metamathematics](#metamath)
+* [Abstract Algebra for Programmers](#aaprog)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
 * [(A)daitva](#adaitva)
@@ -210,6 +211,7 @@ This reasoning can be extended to include more axioms. For example, axioms for t
 * **A6 (left distributivity)**
 * **A7 (right distributivity)**
 * **A8 (distributivity)**
+
 These typically mean $\times$ (the multiplication type operator) distributes over $+$ (the addition type operator).
 
 Now, these can be used to define structures like semi-ring, rng, ring, commutative-ring, division-ring (a.k.a. skew-field), commutative-division-ring (a.k.a. field), semi-field, etc.
@@ -230,11 +232,12 @@ Fun facts:
 - RuliadDistiller is the upgrade of the RuliadTrotter project, where the primary mode is abductive inference instead of deductive inference. The agent/observer has access to a set of observations. It may assign axioms to these observations pertaining to the environment based on (approximately) validating which axioms maintain closure over the set of observations, and can also lead to planning further active experiments or counterfactuals. As an example, quantum measurements can be described by a model pertaining to Lie Groups.
 - The core philosophical difference is that here we take the set of observations as the core epistemic truth. We reject the notion that the environment is generated a priori via a computational process adhering to a structure (a.k.a., the physical Church-Turing thesis). Any structure the agent infers abductively can be equally attributed to one or more of the 3 reasons: (a) the environment inherently has the structure, (b) the perceived structures are due to limits of the measuring device of the agent that records the observation into the set or limitations on the active controlled experiments the agent can perform on the environment, and/or, (c) the abducted structures are due to an approximate processing/compressing of the set of observations with resource bounds to create an effective theory. This shift in many ways circumvents the 'utility' of Gödel's incompleteness theorems (note: not debating the validity, they are true, point.) Given a set of observations, as long as a list of abducted axioms (e.g., via reverse mathematics) aids in compressing the data, leading to computational efficiency, the question arises whether we really want the system to be complete or self-consistent. What is the scope of our generalization of these axioms to other theorems on the dataset or data obtained in the future?
 
-#### Monoids: a programmer's toolkit
 
-Monoids show up in programming more often than people realize.
+[*^ back to top ^*](#toc)
 
-Recall, a monoid is a set with closure over an associative binary operation and the existence of an identity element.
+### Abstract Algebra for Programmers <a name="aaprog"></a>
+
+Abstract algebraic structures show up in programming more often than people realize. Let's have a look at monoids as an example. Recall, a monoid is a set with closure over an associative binary operation and the existence of an identity element.
 
 Let's use the example of strings to get the idea across. Here, the concatenation operation is associative, and the identity is the empty string `""`. As programmers, when you aggregate data, associativity guarantees the result doesn't depend on evaluation order. That means you can parallelize, chunk, or reorder computations safely. For example, MapReduce and Spark rely on the **reduce** step uses a monoidal operation to merge partial results. Similar to strings, many data structures are monoids, so you can abstract over the two axioms, `combine` and `empty`, instead of reinventing the wheel. For example, in Haskell/Scala/Rust you can write generic code that works for any monoid, e.g., numbers, strings, lists, trees, etc. If you don't treat something as a monoid, well, then every time you encounter that pattern (like joining strings, summing numbers, merging logs), you implement and reason about it from scratch case by case, i.e., hard-code loops or recursive functions; convince yourself again if it is safe to parallelize, what's the neutral element and what happens on empty input; and lack a general API that works across domains.
 
@@ -280,7 +283,7 @@ print(result)  # "hello world!"
 
 Now this works for any monoid, for example, `(int, +, 0)` → sum of numbers, `(int, *, 1)` → product of numbers, `(list, +, [])` → flatten lists, `(str, +, "")` → join strings.
 
-Here's a cheat-sheet table of algebraic structures and their common programming roles:
+Here's a cheat-sheet table of more algebraic structures and their common programming roles:
 
 | **Structure**             | **Axioms (short)**                                    | **Programming Use Cases**                                           | **Python Example**                                                     |
 | ------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
