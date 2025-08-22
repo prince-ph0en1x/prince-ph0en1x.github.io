@@ -156,31 +156,61 @@ Is pattern also an emergent parameter? Is it a statistical low entropy configura
 
 Notes on the foundations of mathematics
 
-Axioms for a single binary operator:
-- A0 closure
-- A1 commutivity
-- A2 associativity
-- A3 left distributivity
-- A4 right distributivity
-- A5 distributivity
-- A6 existence of an identity element
-- A7 existence of an inverse element
-- A8 divisibility/invertibility
+Axioms for a single binary operator $\cdot$:
+* **A0 (closure)**: $x\cdot y\in S$.
+* **A1 (commutativity)**: $x\cdot y=y\cdot x$.
+* **A2 (associativity)**: $(x\cdot y)\cdot z=x\cdot(y\cdot z)$.
+* **A3 (identity)**: $\exists e$ with $e\cdot x=x\cdot e=x$.
+* **A4 (inverses)**: for each $x$ there exists $x^{-1}$ with $x\cdot x^{-1}=x^{-1}\cdot x=e$.
+* **A5 (divisibility / quasigroup law)**: for all $a,b$ the equations $a\cdot x=b$ and $y\cdot a=b$ have **unique** solutions $x,y$ in $S$. (No identity required a priori.)
 
+Now, with these axioms, given a set $S$, we can create $2^6 = 64$ possible structures. Do all of them make sense? Well, no. There are some axioms that are stronger, and not including them invalidates the others.
 
-Algebraic structures based on these axioms:
-- Set
-- Magma: Set + A0
-- Quasi-group: Magma + A8
-- Unital-magma: Magma + A6
-- Semi-group: Magma + A2
-- Loop: Magma + A6 + A8
-- Associative quasi-group: Magma + A2 + A8
-- Monoid: Magma + A2 + A6
-- Group: Magma + A2 + A6 + A8
-- Abelian-group: Group + A1
-- Ring
-- Field
+| A0 | A1 | A2 | A3 | A4 | A5 | Common name                                      | Notes                                                                                           |
+| -- | -- | -- | -- | -- | -- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 0  | X  | X  | X  | X  | X  | —                                                | Not an algebraic structure on $S$ (no closure). All other axioms are moot without closure.      |
+| 1  | 0  | 0  | 0  | 0  | 0  | Magma                                            | Just closure.                                                                                   |
+| 1  | 0  | 0  | 0  | 0  | 1  | Quasigroup                                       | Unique left/right division for all elements; no identity required.                              |
+| 1  | 0  | 0  | 0  | 1  | 0  | —                                                | Inconsistent in this schema: A7 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 0  | 0  | 0  | 1  | 1  | —                                                | Inconsistent in this schema: A7 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 0  | 0  | 1  | 0  | 0  | Unital magma                                     | Magma with a two-sided identity; no associativity assumed.                                      |
+| 1  | 0  | 0  | 1  | 0  | 1  | Loop                                             | Quasigroup with identity; associativity not assumed.                                            |
+| 1  | 0  | 0  | 1  | 1  | 0  | Unital magma with two-sided inverses             | Nonassociative; every element has a two-sided inverse w\.r.t. the unit. Not necessarily a loop. |
+| 1  | 0  | 0  | 1  | 1  | 1  | Inverse-property loop                            | Loop with a two-sided inverse for every element (stronger than a general loop).                 |
+| 1  | 0  | 1  | 0  | 0  | 0  | Semigroup                                        | Associative magma; no unit required.                                                            |
+| 1  | 0  | 1  | 0  | 0  | 1  | Group                                            | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 0  | 1  | 0  | 1  | 0  | —                                                | Inconsistent in this schema: A4 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 0  | 1  | 0  | 1  | 1  | Group                                            | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 0  | 1  | 1  | 0  | 0  | Monoid                                           | Standard monoid. No requirement that every element be invertible.                               |
+| 1  | 0  | 1  | 1  | 0  | 1  | Group                                            | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 0  | 1  | 1  | 1  | 0  | Group                                            | A2 + A3 + A4 form a group; A8 (if present) is redundant.                                        |
+| 1  | 0  | 1  | 1  | 1  | 1  | Group                                            | A2 + A3 + A4 form a group; A8 (if present) is redundant.                                        |
+| 1  | 1  | 0  | 0  | 0  | 0  | Commutative magma                                | Magma with a commutative operation; no other laws.                                              |
+| 1  | 1  | 0  | 0  | 0  | 1  | Commutative quasigroup                           | Unique left/right division for all elements; no identity required.                              |
+| 1  | 1  | 0  | 0  | 1  | 0  | —                                                | Inconsistent in this schema: A4 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 1  | 0  | 0  | 1  | 1  | —                                                | Inconsistent in this schema: A4 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 1  | 0  | 1  | 0  | 0  | Commutative unital magma                         | Magma with a two-sided identity; no associativity assumed.                                      |
+| 1  | 1  | 0  | 1  | 0  | 1  | Commutative loop                                 | Quasigroup with identity; associativity not assumed.                                            |
+| 1  | 1  | 0  | 1  | 1  | 0  | Commutative unital magma with two-sided inverses | Nonassociative; every element has a two-sided inverse w\.r.t. the unit. Not necessarily a loop. |
+| 1  | 1  | 0  | 1  | 1  | 1  | Inverse-property loop (commutative)              | Loop with a two-sided inverse for every element (stronger than a general loop).                 |
+| 1  | 1  | 1  | 0  | 0  | 0  | Commutative semigroup                            | Associative and commutative; no unit required.                                                  |
+| 1  | 1  | 1  | 0  | 0  | 1  | Abelian group                                    | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 1  | 1  | 0  | 1  | 0  | —                                                | Inconsistent in this schema: A4 (two-sided inverses) presupposes an identity (A3).              |
+| 1  | 1  | 1  | 0  | 1  | 1  | Abelian group                                    | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 1  | 1  | 1  | 0  | 0  | Commutative monoid                               | Standard monoid. No requirement that every element be invertible.                               |
+| 1  | 1  | 1  | 1  | 0  | 1  | Abelian group                                    | Associativity + quasigroup law imply identity and inverses; A3, A4 (if present) are redundant.  |
+| 1  | 1  | 1  | 1  | 1  | 0  | Abelian group                                    | A2 + A3 + A4 form a group; A5 (if present) is redundant.                                        |
+| 1  | 1  | 1  | 1  | 1  | 1  | Abelian group                                    | A2 + A3 + A4 form a group; A5 (if present) is redundant.                                        |
+
+This table is AI-generated, so please take it with a pinch of salt.
+
+This reasoning can be extended to include more axioms. For example, axioms for two binary operators $+$ and $\times$:
+* **A6 (left distributivity)**
+* **A7 (right distributivity)**
+* **A8 (distributivity)**
+These typically mean $\times$ (the multiplication type operator) distributes over $+$ (the addition type operator).
+
+Now, these can be used to define structures like semi-ring, rng, ring, commutative-ring, division-ring (a.k.a. skew-field), commutative-division-ring (a.k.a. field), semi-field, etc.
 
 Fun facts:
 - Each can be discrete or continuous. 
@@ -190,10 +220,11 @@ Fun facts:
 - Peano axioms on natural numbers are equivalent to a semi-ring, on integers are equivalent to a ring, and on rationals are equivalent to a field.
 
 RuliadTrotter:
-- The core of my Ruliad Trotter project in the Wolfram Summer School 2022 is that an observer in the Ruliad is modeled as the set of axioms it adheres to. That defines the capability of the observer to parse deductively through proof space based on these axioms (like an Automated Theorem Prover).
+- The core of my [RuliadTrotter](https://community.wolfram.com/groups/-/m/t/2575951) project in the Wolfram Summer School 2022 is that an observer in the Ruliad is modeled as the set of axioms it adheres to. That defines the capability of the observer to parse deductively through proof space based on these axioms (like an Automated Theorem Prover).
 
 RuliadDistiller:
-- The upgrade of the Ruliad Trotter project, where the primary mode is abductive inference instead of deductive. The agent/observer has access to a set of observations. It may assign axioms to these observations pertaining to the environment based on (approximately) validating which axioms maintain closure over the set of observations, and can also lead to planning further active experiments or counterfactuals. As an example, quantum measurements can be described by a model pertaining to Lie Groups.
+- The upgrade of the RuliadTrotter project, where the primary mode is abductive inference instead of deductive inference. The agent/observer has access to a set of observations. It may assign axioms to these observations pertaining to the environment based on (approximately) validating which axioms maintain closure over the set of observations, and can also lead to planning further active experiments or counterfactuals. As an example, quantum measurements can be described by a model pertaining to Lie Groups.
+- The core philosophical difference is that here we take the set of observations as the core epistemic truth. We reject the notion that the environment is generated a priori via a computational process adhering to a structure (a.k.a., the physical Church-Turing thesis). Any structure the agent infers abductively can be equally attributed to one or more of the 3 reasons: (a) the environment inherently has the structure, (b) the perceived structures are due to limits of the measuring device of the agent that records the observation into the set or limitations on the active controlled experiments the agent can perform on the environment, and/or, (c) the abducted structures are due to an approximate processing/compressing of the set of observations with resource bounds to create an effective theory.
   
 
 [*^ back to top ^*](#toc)
