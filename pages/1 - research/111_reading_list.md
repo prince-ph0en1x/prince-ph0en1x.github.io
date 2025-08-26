@@ -16,3 +16,7 @@
 - [ ] [Magic-induced computational separation in entanglement theory](https://arxiv.org/abs/2403.19610) QIT
 - [ ] [In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly](https://arxiv.org/abs/2506.19351) AIT
 - [ ] [Resource Quantification for the No-Programming Theorem](https://arxiv.org/abs/1805.00756) QRE
+- [ ] [A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems](https://arxiv.org/abs/2508.07407) QuineAGI
+- [ ] [AlphaGo Moment for Model Architecture Discovery](https://arxiv.org/abs/2507.18074) QuineAGI
+- [ ] [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) QuineAGI
+- [ ] [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://www.preprints.org/manuscript/202507.1951/v1) QuineAGI
