@@ -22,3 +22,4 @@
 - [ ] [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) QuineAGI
 - [ ] [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://www.preprints.org/manuscript/202507.1951/v1) QuineAGI
 - [ ] [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](https://arxiv.org/abs/2508.14111)
+- [x] [Large Language Models as Computable Approximations to Solomonoff Induction](https://arxiv.org/abs/2505.15784v1) AIT
