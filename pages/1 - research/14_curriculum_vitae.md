@@ -31,12 +31,12 @@ permalink: "/research/cv/"
 <!-- * [CV as pdf](../docs/Aritra_CV_18.pdf) (version 2018) -->
 
 ### Current Affiliation
-<small>(Last updated: August 2024)</small>
+<small>(Last updated: Aug. 2024)</small>
 
 * *Senior researcher* - [Fujitsu Research India Private Limited](https://www.fujitsu.com/in/about/local/corporate/subsidiaries/); Bengaluru, India
 
 ### Pro-bono Activities
-<small>(Last updated: March 2025)</small>
+<small>(Last updated: Sep. 2025)</small>
 
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch Department](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
@@ -63,7 +63,7 @@ permalink: "/research/cv/"
 * *Co-founder and Research lead* - [Quantum algorithms](https://qbee.eu/applications/); QBee; Belgium
 
 ### Past Associations
-<small>(Last updated: August 2024)</small>
+<small>(Last updated: Aug. 2024)</small>
 
 * [Delft University of Technology](https://www.tudelft.nl/en/)
    - Postdoctoral Researcher (2022 - 2024)
