@@ -11,11 +11,6 @@ image:
     caption: 
     caption_url:
     thumb:
-gallery:
-    - image_url: research/gallery-000.jpg
-      caption: Interest 2018
-    - image_url: research/gallery-001.jpg
-      caption: Interest 2021
 permalink: "/research/interests/"
 widget1:
   title: ""
@@ -78,10 +73,6 @@ Research themes evolve over time. My older interests are listed with ~~strikethr
 * *Swarm intelligence* - ~~multi-agent collaboration~~; ~~swarm robotics~~; emergence; coarse-graining
 * Others - ~~fractals~~; ~~game theory~~; ~~RtOS~~; ~~computer vision~~; ~~digital steganography~~
 
-Here's a visual that captures the most important topics:
-
-{% include gallery %}
-
 <!--[![Interest 2021](/images/research/interests_2021.png)](/images/research/interests_2021.png)-->
 
 [*^ back to top ^*](#toc)
@@ -130,12 +121,30 @@ List of formulae or hypotheses that I find most impactful
 
 [*^ back to top ^*](#toc)
 
-### Mind Map <a name="mindmap"></a>
-... of all things I love to keep myself updated about and the associated contributors to those ideas...
+### Interest Map <a name="mindmap"></a>
+... of all things I love to keep myself updated about.
+
+Making these maps has become a biennial self-reflection tradition.
+
+#### 2025
+
+[![Interest map 2025](/images/research/2025_v3.svg)](/images/research/2025_v3.svg)
+
+#### 2023
 
 The blue boxes and their 1-hop neighbours are my core interests.
 
-[![Mind map](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
+[![Interest map 2023](/images/research/mindmap02.svg)](/images/research/mindmap02.svg)
+
+#### 2021
+
+[![Interest map 2021](/images/research/gallery-001.jpg)](/images/research/gallery-001.jpg)
+
+#### 2018
+
+[![Interest map 2018](/images/research/gallery-000.jpg)](/images/research/gallery-000.jpg)
+
+#### DoS
 
 I tried finding my core interests in the 'Domain of Science' charts. I eventually figured that most of my core interests lie in the field of [computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA). The interests within physics, mathematics, and biology reflect the topics in computer science. Here's the result:
 
