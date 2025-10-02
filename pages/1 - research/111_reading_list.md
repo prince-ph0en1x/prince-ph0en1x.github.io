@@ -1,12 +1,8 @@
 ##### reading list
 
 - [x] [LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791) Lambda-SR
-- [x] [Do Quantum Neural Networks have Simplicity Bias?](https://arxiv.org/abs/2407.03266) QEAIT
-- [x] [Resource Quantification for the No-Programming Theorem](https://arxiv.org/abs/1805.00756) QRE
 - [x] [Quantum computing and artificial intelligence: status and perspectives](https://arxiv.org/abs/2505.23860) QCA
-- [x] [Large Language Models as Computable Approximations to Solomonoff Induction](https://arxiv.org/abs/2505.15784v1) AIT
 - [x] [A Practical Open-Source Software Stack for a Cloud-Based Quantum Computing System](https://arxiv.org/abs/2507.23165) QCA
-- [x] [Quantum AIXI: Universal Intelligence via Quantum Information](https://arxiv.org/abs/2505.21170) EQKSA
 
 
 - [ ] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
@@ -30,3 +26,5 @@
 - [ ] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172)
 - [ ] [Quantum logic programming with Weyl predicates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11726/117260G/Quantum-logic-programming-with-Weyl-predicates/10.1117/12.2586496.short) QuLog
 - [ ] [Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682) QRE QCA
+- [ ] [A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/abs/2101.11365) QRE QCA
+- [ ] [The vast world of quantum advantage](https://arxiv.org/abs/2508.05720) QCA
