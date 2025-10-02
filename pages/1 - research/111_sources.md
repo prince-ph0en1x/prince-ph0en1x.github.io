@@ -35,6 +35,10 @@ The following articles have had a major influence on my research scoping. The re
 ###### read in 2025
 * [The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning](https://arxiv.org/abs/2304.05366) <small>ARA</small>
 * [Symbolic-Model-Based Reinforcement Learning](https://openreview.net/forum?id=yeF6cyYU7W) <small>QKSA+</small>
+* [Do Quantum Neural Networks have Simplicity Bias?](https://arxiv.org/abs/2407.03266) <small>QEAIT</small>
+* [Resource Quantification for the No-Programming Theorem](https://arxiv.org/abs/1805.00756) <small>AutoQC</small>
+* [Large Language Models as Computable Approximations to Solomonoff Induction](https://arxiv.org/abs/2505.15784v1) <small>AIT</small>
+* [Quantum AIXI: Universal Intelligence via Quantum Information](https://arxiv.org/abs/2505.21170) <small>EQKSA</small>
 
 ###### read in 2024
 * [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
