@@ -161,10 +161,13 @@ The following articles have had a major influence on my research scoping. The re
 * [FQXi](https://fqxi.org/community/articles) - physics
 * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) - multidisciplinary research
 * [Institute of Semantic Information Sciences and Technology](https://insist.ac.in/) - philosophy of information
+* [Imandra](https://www.imandra.ai/) - neurosymbolic ai
+* [Axiomatic AI](https://axiomatic-ai.com/) - neurosymbolic ai
+* [Quantum Formalism Labs](https://quantumformalism.com/) - quantum information theory
 
 [*^ back to top ^*](#toc)
 
-### Courses I recommend <a name="courses"></a>
+### Courses/Playlists I recommend <a name="courses"></a>
 
 * [What is Computation? From Turing Machines to Black Holes and Neurons](https://cnchou.github.io/mini-course/)
 * [Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai)
@@ -173,5 +176,6 @@ The following articles have had a major influence on my research scoping. The re
 * [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 * [General Theory of General Intelligence](https://www.youtube.com/playlist?list=PLAJnaovHtaFTK9E1xHnBWZeKtAOhonqH5)
 * [Boltzmann Law: Physics to Computing](https://www.edx.org/course/boltzmann-law-physics-to-computing)
+* [Neurosymbolic Programming for Science](https://www.youtube.com/@NeurosymbolicForScience/videos)
 
 [*^ back to top ^*](#toc)
