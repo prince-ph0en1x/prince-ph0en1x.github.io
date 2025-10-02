@@ -7,6 +7,8 @@
 - [x] [Large Language Models as Computable Approximations to Solomonoff Induction](https://arxiv.org/abs/2505.15784v1) AIT
 - [x] [A Practical Open-Source Software Stack for a Cloud-Based Quantum Computing System](https://arxiv.org/abs/2507.23165) QCA
 - [x] [Quantum AIXI: Universal Intelligence via Quantum Information](https://arxiv.org/abs/2505.21170) EQKSA
+
+
 - [ ] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
 - [ ] [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108) QuineAIT
 - [ ] [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) QuineAGI
@@ -25,3 +27,6 @@
 - [ ] [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) QuineAGI
 - [ ] [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://www.preprints.org/manuscript/202507.1951/v1) QuineAGI
 - [ ] [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](https://arxiv.org/abs/2508.14111)
+- [ ] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172)
+- [ ] [Quantum logic programming with Weyl predicates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11726/117260G/Quantum-logic-programming-with-Weyl-predicates/10.1117/12.2586496.short) QuLog
+- [ ] [Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682) QRE QCA
