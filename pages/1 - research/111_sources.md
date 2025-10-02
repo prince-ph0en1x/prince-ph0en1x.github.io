@@ -49,6 +49,7 @@ The following articles have had a major influence on my research scoping. The re
 
 ###### read in 2023
 * [Automated Gadget Discovery in Science](https://arxiv.org/abs/2212.12743) <small>YAQQ</small>
+* [Automated gadget discovery in the quantum domain](https://iopscience.iop.org/article/10.1088/2632-2153/acf098) <small>YAQQ</small>
 * [Discovering Quantum Circuit Components with Program Synthesis](https://arxiv.org/abs/2305.01707) <small>YAQQ</small>
 * [Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518) <small>QCA</small>
 * [Quantum computation with machine-learning-controlled quantum stuff](https://iopscience.iop.org/article/10.1088/2632-2153/abb215) <small>YAQQ</small>
