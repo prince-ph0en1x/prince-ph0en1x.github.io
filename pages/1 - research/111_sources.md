@@ -33,6 +33,7 @@ permalink: "/research/interests/sources/"
 The following articles have had a major influence on my research scoping. The research each influenced is denoted by the tags: <small>QCA</small>, <small>QiBAM</small>, <small>QuASeR</small>, <small>QEAIT</small>, <small>QKSA</small>, <small>QKSA+</small>, <small>YAQQ</small>, <small>ARA</small>. The bold ones are the major background works for each project.
 
 ###### read in 2025
+* [Quantum theory, the Church–Turing principle and the universal quantum computer](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.1985.0070) <small>ARA</small>
 * [The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning](https://arxiv.org/abs/2304.05366) <small>ARA</small>
 * [Symbolic-Model-Based Reinforcement Learning](https://openreview.net/forum?id=yeF6cyYU7W) <small>QKSA+</small>
 * [Do Quantum Neural Networks have Simplicity Bias?](https://arxiv.org/abs/2407.03266) <small>QEAIT</small>
@@ -44,6 +45,7 @@ The following articles have had a major influence on my research scoping. The re
 * [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
 * [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108) <small>ARA</small>
 * [From Easy to Hard: Tackling Quantum Problems with Learned Gadgets For Real Hardware](https://arxiv.org/abs/2411.00230) <small>QKSA+</small>
+* [Superstaq: Deep Optimization of Quantum Programs](https://ieeexplore.ieee.org/abstract/document/10313801) <small>YAQQ</small>
 
 ###### read in 2023
 * [Automated Gadget Discovery in Science](https://arxiv.org/abs/2212.12743) <small>YAQQ</small>
@@ -51,6 +53,15 @@ The following articles have had a major influence on my research scoping. The re
 * [Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518) <small>QCA</small>
 * [Quantum computation with machine-learning-controlled quantum stuff](https://iopscience.iop.org/article/10.1088/2632-2153/abb215) <small>YAQQ</small>
 * [What can we know about that which we cannot even imagine?](https://arxiv.org/abs/2208.03886) <small>ARA</small>
+* [ProbLog2: Probabilistic Logic Programming](https://link.springer.com/chapter/10.1007/978-3-319-23461-8_37) <small>QuLog</small>
+* [Generalized Zurek's bound on the cost of an individual classical or quantum computation](https://arxiv.org/abs/2301.06838) <small>QRE</small>
+* [The universal path integral](https://link.springer.com/article/10.1007/s11128-015-1178-7) <small>QEAIT</small>
+* [What Is the Lagrangian Counting?](https://link.springer.com/article/10.1023/A:1024411819910) <small>QEAIT</small>
+* [Evolving Quantum Circuits](https://arxiv.org/abs/2210.05058) <small>AutoQC</small>
+* [Novelty Search and the Problem with Objectives](https://link.springer.com/chapter/10.1007/978-1-4614-1770-5_3) <small>YAQQ</small>
+* [Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions](https://arxiv.org/abs/1901.01753) <small>ARA</small>
+* [Rewardless Open-Ended Learning](https://openreview.net/forum?id=g4nVdxU9RK) <small>ARA</small>
+* [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985) <small>ARA</small>
 
 ###### read in 2022
 * [Maximal Algorithmic Caliber and Algorithmic Causal Network Inference: General Principles of Real-World General Intelligence?](https://arxiv.org/abs/2005.04589) <small>ARA</small>
