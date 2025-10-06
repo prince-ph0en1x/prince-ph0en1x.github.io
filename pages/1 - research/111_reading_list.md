@@ -3,6 +3,7 @@
 - [x] [LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791) Lambda-SR
 - [x] [Quantum computing and artificial intelligence: status and perspectives](https://arxiv.org/abs/2505.23860) QCA
 - [x] [A Practical Open-Source Software Stack for a Cloud-Based Quantum Computing System](https://arxiv.org/abs/2507.23165) QCA
+- [x] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172) ARA
 
 
 - [ ] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
@@ -23,7 +24,6 @@
 - [ ] [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046) QuineAGI
 - [ ] [Autonomous Scientific Discovery Through Hierarchical AI Scientist Systems](https://www.preprints.org/manuscript/202507.1951/v1) QuineAGI
 - [ ] [From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery](https://arxiv.org/abs/2508.14111)
-- [ ] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172)
 - [ ] [Quantum logic programming with Weyl predicates](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11726/117260G/Quantum-logic-programming-with-Weyl-predicates/10.1117/12.2586496.short) QuLog
 - [ ] [Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682) QRE QCA
 - [ ] [A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/abs/2101.11365) QRE QCA
