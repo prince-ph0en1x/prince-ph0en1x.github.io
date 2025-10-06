@@ -28,3 +28,8 @@
 - [ ] [Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682) QRE QCA
 - [ ] [A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/abs/2101.11365) QRE QCA
 - [ ] [The vast world of quantum advantage](https://arxiv.org/abs/2508.05720) QCA
+- [ ] [Deep neural networks have an inbuilt Occam’s razor](https://www.nature.com/articles/s41467-024-54813-x) AIT
+- [ ] [Input–output maps are strongly biased towards simple outputs](https://www.nature.com/articles/s41467-018-03101-6) AIT
+- [ ] [A natural bias for simplicity](https://www.nature.com/articles/s41567-018-0370-y) AIT
+- [ ] [Does a rock implement every finite-state automaton?](https://link.springer.com/article/10.1007/BF00413692) AIT
+- [ ] 
