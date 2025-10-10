@@ -32,4 +32,4 @@
 - [ ] [Input–output maps are strongly biased towards simple outputs](https://www.nature.com/articles/s41467-018-03101-6) AIT
 - [ ] [A natural bias for simplicity](https://www.nature.com/articles/s41567-018-0370-y) AIT
 - [ ] [Does a rock implement every finite-state automaton?](https://link.springer.com/article/10.1007/BF00413692) AIT
-- [ ] 
+- [ ] [Representation Theory for Geometric Quantum Machine Learning](https://arxiv.org/abs/2210.07980) QML
