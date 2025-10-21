@@ -286,7 +286,7 @@ This represents the algorithmic conversion of mapping one computational form to 
 
 It's still cooking, still possible, just not always efficient.
 
-***When depth becomes essential --**
+**When depth becomes essential --**
 
 Now try boiling rice.
 
