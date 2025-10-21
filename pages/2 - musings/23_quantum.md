@@ -33,6 +33,7 @@ widget1:
 * [Universal Gate Set](#ugs) 
 * [IN Quantum](#inq)
 * [Quantum Journals](#quj)
+* [Cooking the Gourmet Future](#qcook)
 * [Career in QC - a guide for highschoolers](#qccareer)
 * [Quantum Quixote](#quantumquixote)
 
