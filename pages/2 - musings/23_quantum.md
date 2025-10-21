@@ -321,7 +321,7 @@ This is the world of computational creativity and quantum art.
 Quantum algorithms can generate unique visual patterns, sound textures, and entangled musical motifs that the skillet (classical art) can't quite reproduce.
 They're not necessarily faster or more efficient, just differently expressive.
 
-**The future Kitchen**
+**The future Kitchen --**
 
 Classical computing has given us a global gourmet, from AI to cryptography to the Internet.
 Quantum computing, though, introduces an entirely new cuisine, one where parallelism, interference, and entanglement are the secret ingredients.
