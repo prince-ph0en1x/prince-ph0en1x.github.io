@@ -44,6 +44,7 @@ I (co)-supervised the following bachelor, master's, and doctoral projects while 
     - Now at [JPMorganChase](https://www.jpmorganchase.com/)
 * **[Alan Yu](https://qutech.nl/person/alan-yu/)**
     - `Machine learning-based gate set tomography' at QML, TU Delft
+    - Now at [SpinQuanta](https://www.spinquanta.com/)
 * **[Nikiforos Paraskevopoulos](https://www.linkedin.com/in/nikiforos-paraskevopoulos/)**
     - `Compiler and design space exploration of spin qubit processors' at QML, TU Delft
 * **[Medina Bandić-Hesam](https://www.linkedin.com/in/medina-bandi%C4%87-hesam-91b7b285/)**
