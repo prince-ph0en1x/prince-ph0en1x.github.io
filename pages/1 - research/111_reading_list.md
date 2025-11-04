@@ -33,3 +33,5 @@
 - [ ] [A natural bias for simplicity](https://www.nature.com/articles/s41567-018-0370-y) AIT
 - [ ] [Does a rock implement every finite-state automaton?](https://link.springer.com/article/10.1007/BF00413692) AIT
 - [ ] [Representation Theory for Geometric Quantum Machine Learning](https://arxiv.org/abs/2210.07980) QML
+- [ ] [Quantum Agents for Algorithmic Discovery](https://arxiv.org/abs/2510.08159) QAS
+- [ ] [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928) QCA
