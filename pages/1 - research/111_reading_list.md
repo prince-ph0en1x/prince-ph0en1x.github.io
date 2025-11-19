@@ -5,6 +5,7 @@
 - [x] [Quantum computing and artificial intelligence: status and perspectives](https://arxiv.org/abs/2505.23860) QCA
 - [x] [A Practical Open-Source Software Stack for a Cloud-Based Quantum Computing System](https://arxiv.org/abs/2507.23165) QCA
 - [x] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172) ARA
+- [x] [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928) QCA
 
 ##### tbd
 - [ ] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
@@ -35,6 +36,5 @@
 - [ ] [Does a rock implement every finite-state automaton?](https://link.springer.com/article/10.1007/BF00413692) AIT
 - [ ] [Representation Theory for Geometric Quantum Machine Learning](https://arxiv.org/abs/2210.07980) QML
 - [ ] [Quantum Agents for Algorithmic Discovery](https://arxiv.org/abs/2510.08159) QAS
-- [ ] [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928) QCA
 - [ ] [Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning](https://arxiv.org/abs/2509.24666) QAS
 - [ ] [Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978) AGI
