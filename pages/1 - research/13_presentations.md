@@ -16,6 +16,58 @@ permalink: "/research/teaching_supervision_talks/"
 <body style="background-color:#F4F0F7;"></body>
 
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
+
+### Presentations and Videos
+<small>(Last updated: Nov 2025)</small>
+
+* Quantum Computing Architecture
+    - 2025-11-13: Invited Talk at Structured Training Programme, Space Application Centre, ISRO
+* Automating Quantum Computing Software [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2025-11-02-aqse-qiskit-fall-fest-iit-guwahati-pdf/284011725)
+    - 2025-11-02: Qiskit Fall Fest at Indian Institute of Technology, Guwahati
+* Quantum Computing: naam toh suna hi hoga?
+    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme at IIM Kozhikode
+* Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
+    - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
+* Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
+    - 2024-10-18: Qiskit Fall Fest at Indian Institute of Technology, Kharagpur
+* AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
+    - 2024-06-10: Seminar at Indian Institute of Science
+* Optimal Quantum Firmware Design [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=li-6PvNIz3w)
+    - 2024-02-28: QuTech360 Talk
+* Quantum Computing and Artificial Intelligence
+    - 2023-12-01: Invited Talk at URSC, ISRO
+* Quantum Algorithm Design Automation: Introduction and Overview [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=qZvcFplFaTE)
+    - 2023-09-22: IEEE Quantum Week Workshop 
+* Quantum Circuit Probability [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=d8-HzdDfINc)
+    - 2023-05-29: Quantum Science Days 
+* Automated Quantum Software Engineering: Why? What? How?
+    - 2022-12-01: Quantum Flanders Meet
+* Machine Learning for Quantum Computation
+    - 2022-09-22: IEEE Quantum Week Tutorial
+* QKSA: Quantum Knowledge Seeking Agent [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=IFs7nVoTGRg&t=26668s)
+    - 2022-08-21: AGI-22 Technical Paper Presentations
+* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
+    - 2022-06-30: Expert Talk at Bennett University
+* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
+    - 2022-06-30: Expert Talk at Bennett University
+* Quantum Computing: naam toh suna hi hoga?
+    - 2022-04-08: QIndia Workshop with IEEE Student Chapter at Thakur College of Engineering and Technology
+* An interdisciplinary introduction to Quantum Computation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KSEJjrU_pvU)
+    - 2021-06-19: Qoffee o'Clock by QIndia
+* Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
+    - 2021-01-09: Webinar by IIST Alumni Association, India
+* Navigating the landscape of NISQ algorithm development [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=VNbElGI7Pv4)
+    - 2020-11-04: Lecture for Quantum Entrepreneurship Laboratory by Push Quantum
+* Quantum-accelerated genomics - prospects and impacts [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=i5d_BVGWLTI) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-for-healthcare-20200714)
+    - 2020-07-14: MeetUp by Quantum for Healthcare, UK
+* QX Simulator and quantum programming [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=AkjXUNCKeRA) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/qx-simulator-and-quantum-programming-20200428)
+    - 2020-04-28: Electronics for Quantum Computing lecture at TU Delft
+* Genomics algorithms on digital NISQ accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/genomics-algorithms-on-digital-nisq-accelerators-20190125)
+    - 2019-01-25: at Universitat Politècnica de València, Spain
+* HiPEAC'19 Tutorial on Quantum algorithms using QX [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/hipeac19-tutorial-on-quantum-algorithms-using-qx-20190123)
+    - 2019-01-23: at València, Spain
+* Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
+    - 2018-06-22: M.Sc. thesis defense at TU Delft
  
 ### Courses
 <small>(Last updated: March 2025)</small>
@@ -127,54 +179,6 @@ I was involved in the weekly brainstorming sessions and part of the M.Sc. gradua
 
 I was involved in proposing the topics, quantum computing technicalities, and/or guiding the research methodology for the following theses:
 * **Neil Eelman** - Bachelor co-op from Drexel University, USA, involved programming useful primitives within variational quantum algorithms, like `Quantum State Tomography and Quantum Assisted Quantum Compilation on OpenQL'. This enabled me to implement VQE on OpenQL, which was later optimised and made into a native compiler feature by Anneriet as part of her Ph.D. research.
-
-### Presentations and Videos
-<small>(Last updated: March 2025)</small>
-
-* Quantum Computing: naam toh suna hi hoga?
-    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme at IIM Kozhikode
-* Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
-    - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
-* Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
-    - 2024-10-18: Qiskit Fall Fest at Indian Institute of Technology, Kharagpur
-* AutoQC: Automated Quantum Computing [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://www.csa.iisc.ac.in/event/647/autoqc-automated-quantum-computing/)
-    - 2024-06-10: Seminar at Indian Institute of Science
-* Optimal Quantum Firmware Design [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=li-6PvNIz3w)
-    - 2024-02-28: QuTech360 Talk
-* Quantum Computing and Artificial Intelligence
-    - 2023-12-01: Invited Talk at URSC, ISRO
-* Quantum Algorithm Design Automation: Introduction and Overview [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=qZvcFplFaTE)
-    - 2023-09-22: IEEE Quantum Week Workshop 
-* Quantum Circuit Probability [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=d8-HzdDfINc)
-    - 2023-05-29: Quantum Science Days 
-* Automated Quantum Software Engineering: Why? What? How?
-    - 2022-12-01: Quantum Flanders Meet
-* Machine Learning for Quantum Computation
-    - 2022-09-22: IEEE Quantum Week Tutorial
-* QKSA: Quantum Knowledge Seeking Agent [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=IFs7nVoTGRg&t=26668s)
-    - 2022-08-21: AGI-22 Technical Paper Presentations
-* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
-    - 2022-06-30: Expert Talk at Bennett University
-* Quantum Computing: Emerging Areas [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=8ZMddICOchw)
-    - 2022-06-30: Expert Talk at Bennett University
-* Quantum Computing: naam toh suna hi hoga?
-    - 2022-04-08: QIndia Workshop with IEEE Student Chapter at Thakur College of Engineering and Technology
-* An interdisciplinary introduction to Quantum Computation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=KSEJjrU_pvU)
-    - 2021-06-19: Qoffee o'Clock by QIndia
-* Quantum Computing - Towards the second quantum revolution [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=0fGr19_7gXs) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-computing-20210109-241232515)
-    - 2021-01-09: Webinar by IIST Alumni Association, India
-* Navigating the landscape of NISQ algorithm development [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=VNbElGI7Pv4)
-    - 2020-11-04: Lecture for Quantum Entrepreneurship Laboratory by Push Quantum
-* Quantum-accelerated genomics - prospects and impacts [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=i5d_BVGWLTI) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/quantum-for-healthcare-20200714)
-    - 2020-07-14: MeetUp by Quantum for Healthcare, UK
-* QX Simulator and quantum programming [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="20" height="20">](https://www.youtube.com/watch?v=AkjXUNCKeRA) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/qx-simulator-and-quantum-programming-20200428)
-    - 2020-04-28: Electronics for Quantum Computing lecture at TU Delft
-* Genomics algorithms on digital NISQ accelerators [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/genomics-algorithms-on-digital-nisq-accelerators-20190125)
-    - 2019-01-25: at Universitat Politècnica de València, Spain
-* HiPEAC'19 Tutorial on Quantum algorithms using QX [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/hipeac19-tutorial-on-quantum-algorithms-using-qx-20190123)
-    - 2019-01-23: at València, Spain
-* Quantum algorithms for pattern matching in genomic sequences [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/aritrasarkar/2018-0622-quantum-algorithms-for-pattern-matching-in-genomic-sequences-m-sc-thesis)
-    - 2018-06-22: M.Sc. thesis defense at TU Delft
 
 <!--
 ### Presentations from QCA team
