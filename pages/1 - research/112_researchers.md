@@ -42,7 +42,7 @@ And among those who are still among us, it's Charles Bennett and Leonard Susskin
 
 ### Scientists with similar research interest <a name="researchers"></a>
 
-Some researchers whom I currently follow closely for my research as they have overlapping interests with me.
+Some researchers whom I currently follow closely for my research, as they have overlapping interests with me.
 * Automation in quantum computing: Florian Marquardt, Leopoldo Sarra, Mario Krenn, Robert Wille
 * Program synthesis / symbolic regression / genetic programming: Kevin Ellis, Armando Solar-Lezama, Miles Cranmer, Max Tegmark, Lee Spector
 * Artificial general intelligence: Jürgen Schmidhuber, Ben Goertzel, Marcus Hutter
@@ -79,6 +79,7 @@ In his [blog](http://www.hutter1.net/), Marcus Hutter curates a list of famous A
 * [Cristian S. Calude](https://scholar.google.com/citations?hl=en&user=6-ioCW8AAAAJ&view_op=list_works&sortby=pubdate)
 * [Mike Stay](https://scholar.google.com/citations?hl=en&user=E3wyDhUAAAAJ&view_op=list_works&sortby=pubdate)
 * [Elija Perrier](https://scholar.google.com/citations?hl=en&user=ImlF7PsAAAAJ&view_op=list_works&sortby=pubdate)
+* [David Ha](https://scholar.google.com/citations?hl=en&user=N7X-kbUAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
 
@@ -190,12 +191,13 @@ Symbolic regression and symbolic distillation are crucial types of learning that
 
 ### QCE/QSE researchers <a name="qce"></a>
 
-Quantum computing, while being an interdisciplinary venture, is currently dominated by researchers with a background in quantum physics. My firm conviction is that it requires more researchers to wear computer engineering as their primary perspective. Here's a list of some researchers working on engineering challenges in quantum computer architecture and software.
+Quantum computing, while being an interdisciplinary venture, is currently dominated by researchers with a background in quantum physics. My firm conviction is that it requires more researchers to wear computer engineering hats as their primary perspective. Here's a list of some researchers working on engineering challenges in quantum computer architecture and software.
 
 * [Margaret Martonosi](https://scholar.google.nl/citations?hl=en&user=tgYsFS0AAAAJ&view_op=list_works&sortby=pubdate)
 * [Fredrick Chong](https://scholar.google.nl/citations?hl=en&user=U6OVPVMAAAAJ&view_op=list_works&sortby=pubdate)
 * [Kenneth R. Brown](https://scholar.google.nl/citations?hl=en&user=EFVX84sAAAAJ&view_op=list_works&sortby=pubdate)
 * [Koen Bertels](https://scholar.google.nl/citations?hl=en&user=a3c2b_wAAAAJ&view_op=list_works&sortby=pubdate)
+* [Amlan Chakrabarti](https://scholar.google.com/citations?hl=en&user=LTSiNggAAAAJ&view_op=list_works&sortby=pubdate)
 * [Prakash Murali](https://scholar.google.nl/citations?hl=en&user=2J0X_aIAAAAJ&view_op=list_works&sortby=pubdate)
 * [Igor L. Markov](https://scholar.google.nl/citations?hl=en&user=CHIZtZAAAAAJ&view_op=list_works&sortby=pubdate)
 * [Craig Gidney](https://scholar.google.nl/citations?hl=en&user=qKTv84IAAAAJ&view_op=list_works&sortby=pubdate)
