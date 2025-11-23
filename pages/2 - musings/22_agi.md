@@ -26,6 +26,7 @@ permalink: "/musings/agi/"
 * [Pattern and Randomness](#patterns)
 * [Explorations in Metamathematics](#metamath)
 * [Abstract Algebra for Programmers](#aaprog)
+* [Information-Theoretic Technosignatures in SETI](#seti)
 * [Fascination with Fractals](#fractals)
 * [GUT from It](#gut)
 * [(A)daitva](#adaitva)
@@ -298,6 +299,50 @@ Here's a cheat-sheet table of more algebraic structures and their common program
 | **Vector Space / Module** | Abelian group + scalar multiplication over field      | Numpy arrays, ML, graphics, physics                                 | `numpy.array([1,2])+numpy.array([3,4])`; `3*np.array([1,2])`           |                                                        
 | **Semiring**              | Two monoids (+, ×), distributivity, no negatives      | Dynamic programming, graph algorithms (shortest paths, path counts) | Shortest path: `(min, +)` semiring with `math.inf` as identity         |                                                        
 
+[*^ back to top ^*](#toc)
+
+### Information-Theoretic Technosignatures in SETI <a name="seti"></a>
+
+(Nov 23, 2025)
+
+Are we alone in the universe?
+
+For more than half a century, the Search for Extraterrestrial Intelligence (SETI) has explored this question by scanning the sky for hints of technology beyond Earth. 
+Early SETI efforts focused almost entirely on radio telescopes listening for narrowband beacons - simple, artificial-looking tones that nature rarely produces. 
+But as our understanding of astrophysics and planetary science has grown, so too has our definition of what a signal might look like.
+
+Today, SETI has expanded into the broader field of technosignatures: any measurable imprint of technology, whether it's a laser pulse, waste heat from a megastructure, or unusual chemistry in a distant exoplanet's atmosphere. 
+This shift is profound. 
+Instead of waiting for someone to deliberately say "hello," we look for the side effects of advanced civilizations doing whatever advanced civilizations do - communicating, building, computing, traveling, or engineering their environments.
+
+But among these many possibilities, one class of technosignatures stands out as uniquely powerful and universal: information-theoretic technosignatures. 
+These are not tied to any specific technology or wavelength. Instead, they rely on something deeper and more fundamental - the structures of information itself that are uniquely harnessed by civilization. 
+These technosignatures rely on identifying algorithmic, entropic, or statistical anomalies in signals or astrophysical data that are inconsistent with physical processes.
+
+Entropy-based signatures test whether the information content of a signal is lower or higher than can be produced naturally.  
+A civilization aiming for detectability may transmit structured sequences as low-entropy signals. 
+Examples of such signals are prime numbers, Fibonacci sequences, bit strings with low Kolmogorov complexity, repetition with drift correction, fractal or self-similar patterns. 
+Natural astrophysical processes rarely produce algorithmically structured patterns with sustained low entropy.
+Likewise, advanced civilizations may deliberately mask communication with high Entropy but non-random signals. 
+These can be pseudorandom sequences, error-correcting codes, or cryptographic sequences.
+These look random but contain engineered structures detectable via autocorrelation analysis, deviation from physical noise models, or unnaturally stable statistical properties.
+
+Algorithmic-complexity-based signatures focus on the compressibility or Kolmogorov complexity of observed signals.
+Nature rarely achieves mathematically meaningful constants that are too compressible, e.g., a narrowband signal with perfect periodic bursts every exact 2.71828 seconds.
+On the other hand, signals that are too incompressible are also detectable anomalies.
+If an exoplanet's atmospheric spectrum or stellar time series exhibits complexity greater than the physical processes that generate it, this suggests encoding, deliberate encryption, or artificial noise shaping.
+Algorithmic processing residues include signs that the signal was convolution-coded, block-encrypted, LDPC- or turbo-coded, or digitally modulated (e.g., PSK, QAM).
+Such features leave detectable footprints, even if they are undecodable.
+
+Semantic and structural technosignatures include signatures detectable even without decoding the message.
+These can include non-natural symbol structures, such as a distinct alphabet, multi-scale chunking, Zipf's law (as seen in human language), or hierarchical syntactic patterns.
+These may indicate communication from intelligent systems.
+Certain structures are considered universal indicators of intelligence.
+Such universal mathematical structures include prime gaps, geometric progressions, universal constants (π, e, φ), group-theoretic or number-theoretic patterns, or symmetry breaking done in a purposeful way.
+Furthermore, signals encoding temporal or spectral logic, such as framing, headers, trailers, parity bits, and packet lengths fixed in prime numbers, exhibit language-like features.
+
+Finally, statistical anomalies in astrophysical phenomena may indicate the ability of advanced civilizations to modify astronomical objects, leaving behind detectable statistical footprints at a large scale.
+Examples of such anomalies are population-level deviations (e.g., anomalous stellar populations of missing or overrepresented spectral classes, or unexpected clustering of high-metallicity stars with Dyson-like infrared excess), irregular variability statistics (e.g., light curves with sub-Poissonian fluctuations, unnatural periodic resets, engineered pulse sequences, or quasiperiodic but exact rational ratios), galactic-scale information structure (e.g., galactic disk showing unnatural entropy gradients, large-scale regular tiling, or optimized stellar positioning for computation or energy harvesting).
 
 [*^ back to top ^*](#toc)
 
