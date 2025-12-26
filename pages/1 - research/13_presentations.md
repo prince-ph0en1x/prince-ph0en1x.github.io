@@ -20,6 +20,8 @@ permalink: "/research/teaching_supervision_talks/"
 ### Presentations and Videos
 <small>(Last updated: Nov 2025)</small>
 
+* Advances in Quantum Computing – Where are we now?
+    - 2025-12-20: [Panel Discussion](https://hipc.org/irus-quantum/) at 32nd IEEE International Conference on High Performance Computing, Data, & Analytics (Industry Research and User Symposium)
 * Quantum Computing Architecture
     - 2025-11-13: Invited Talk at Structured Training Programme, Space Application Centre, ISRO
 * Automating Quantum Computing Software [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2025-11-02-aqse-qiskit-fall-fest-iit-guwahati-pdf/284011725)
