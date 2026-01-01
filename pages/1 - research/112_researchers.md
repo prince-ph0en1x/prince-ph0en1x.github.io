@@ -195,6 +195,7 @@ Quantum computing, while being an interdisciplinary venture, is currently domina
 
 * [Margaret Martonosi](https://scholar.google.nl/citations?hl=en&user=tgYsFS0AAAAJ&view_op=list_works&sortby=pubdate)
 * [Fredrick Chong](https://scholar.google.nl/citations?hl=en&user=U6OVPVMAAAAJ&view_op=list_works&sortby=pubdate)
+* [Rodney Van Meter](https://scholar.google.com/citations?hl=en&user=-YlArkcAAAAJ&view_op=list_works&sortby=pubdate)
 * [Kenneth R. Brown](https://scholar.google.nl/citations?hl=en&user=EFVX84sAAAAJ&view_op=list_works&sortby=pubdate)
 * [Koen Bertels](https://scholar.google.nl/citations?hl=en&user=a3c2b_wAAAAJ&view_op=list_works&sortby=pubdate)
 * [Amlan Chakrabarti](https://scholar.google.com/citations?hl=en&user=LTSiNggAAAAJ&view_op=list_works&sortby=pubdate)
@@ -209,6 +210,7 @@ Quantum computing, while being an interdisciplinary venture, is currently domina
 * [Matthew Amy](https://scholar.google.nl/citations?hl=en&user=1XgGNJQAAAAJ&view_op=list_works&sortby=pubdate)
 * [Carmen G. Almudever](https://scholar.google.nl/citations?hl=en&user=mII9unQAAAAJ&view_op=list_works&sortby=pubdate)
 * [Jonathan Baker](https://scholar.google.nl/citations?hl=en&user=87cLl3gAAAAJ&view_op=list_works&sortby=pubdate)
+* [Jianxin Chen](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=V7Ye1uQAAAAJ&sortby=pubdate)
 * [Nader Khammassi](https://scholar.google.nl/citations?hl=en&user=oQKbQ88AAAAJ&view_op=list_works&sortby=pubdate)
 * [Mohammad Reza Jokar](https://scholar.google.nl/citations?hl=en&user=yCdH2MAAAAAJ&view_op=list_works&sortby=pubdate)
 * [Medina Bandić](https://scholar.google.nl/citations?hl=en&user=Iw_L1t8AAAAJ&view_op=list_works&sortby=pubdate)
