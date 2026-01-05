@@ -41,6 +41,8 @@ The following articles have had a major influence on my research scoping. The re
 * [Resource Quantification for the No-Programming Theorem](https://arxiv.org/abs/1805.00756) <small>AutoQC</small>
 * [Large Language Models as Computable Approximations to Solomonoff Induction](https://arxiv.org/abs/2505.15784v1) <small>AIT</small>
 * [Quantum AIXI: Universal Intelligence via Quantum Information](https://arxiv.org/abs/2505.21170) <small>EQKSA</small>
+* [Towards a Generalized Theory of Observers](https://arxiv.org/abs/2504.16225) <small>EQKSA</small>
+* [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928) <small>QCA</small>
 
 ###### read in 2024
 * [The Quantum House Of Cards](https://arxiv.org/abs/2312.17570) <small>QCA</small>
