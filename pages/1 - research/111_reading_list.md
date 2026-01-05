@@ -38,3 +38,7 @@
 - [ ] [Quantum Agents for Algorithmic Discovery](https://arxiv.org/abs/2510.08159) QAS
 - [ ] [Automated Discovery of Gadgets in Quantum Circuits for Efficient Reinforcement Learning](https://arxiv.org/abs/2509.24666) QAS
 - [ ] [Agentic Exploration of Physics Models](https://arxiv.org/abs/2509.24978) AGI
+- [ ] [The Grand Challenge of Quantum Applications](https://arxiv.org/abs/2511.09124) QCA
+- [ ] [The Fast for the Curious: How to accelerate fault-tolerant quantum applications](https://arxiv.org/abs/2510.26078) QCA
+- [ ] [ReQISC: A Reconfigurable Quantum Computer Microarchitecture and Compiler Co-Design](https://arxiv.org/abs/2511.06746) QISA
+- [ ] [QSSA: An SSA-Based IR for Quantum Computing](https://dl.acm.org/doi/10.1145/3497776.3517772) QISA
