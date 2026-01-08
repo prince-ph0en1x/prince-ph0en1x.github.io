@@ -124,6 +124,7 @@ List of resources presenting a realist view of the current challenges of quantum
 * [2023 - Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/abs/2310.03011)
 * [2024 - A typology of quantum algorithms](https://arxiv.org/abs/2407.05178v1)
 * [2024 - How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities](https://arxiv.org/abs/2411.10406v1)
+* [2025 - Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928)
 
 #### 200 qubits can map to all the atoms in the Universe
 
