@@ -118,6 +118,7 @@ List of resources presenting a realist view of the current challenges of quantum
 * [2020 - The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d)
 * [2021 - Quantum Computing: From NISQ to PISQ](https://www.computer.org/csdl/magazine/mi/2021/05/09537173/1wTizdRwupa)
 * [2021 - Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103)
+* [2023 - The Quantum House Of Cards](https://arxiv.org/abs/2312.17570)
 * [2023 - Where are we heading with NISQ?](https://arxiv.org/abs/2305.09518)
 * [2023 - What will a quantum computer be good for, exactly?](https://idnm.github.io/blog/posts/what_to_do_with_a_quantum_computer/what_to_do_with_a_quantum_computer.html)
 * [2023 - Disentangling Hype from Practicality: On Realistically Achieving Quantum Advantage](https://dl.acm.org/doi/10.1145/3571725)
