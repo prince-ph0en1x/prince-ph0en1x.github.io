@@ -42,3 +42,4 @@
 - [ ] [The Fast for the Curious: How to accelerate fault-tolerant quantum applications](https://arxiv.org/abs/2510.26078) QCA
 - [ ] [ReQISC: A Reconfigurable Quantum Computer Microarchitecture and Compiler Co-Design](https://arxiv.org/abs/2511.06746) QISA
 - [ ] [QSSA: An SSA-Based IR for Quantum Computing](https://dl.acm.org/doi/10.1145/3497776.3517772) QISA
+- [ ] [What is Quantum Parallelism, Anyhow?](https://arxiv.org/abs/2405.07222v1) QCA
