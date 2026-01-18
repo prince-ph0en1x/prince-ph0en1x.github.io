@@ -18,8 +18,10 @@ permalink: "/research/teaching_supervision_talks/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
 ### Presentations and Videos
-<small>(Last updated: Dec 2025)</small>
+<small>(Last updated: Jan 2026)</small>
 
+* Future of QWorld
+    - 2026-01-18: Panel Discussion at 2nd QWorld Annual Meeting [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://qworld.net/qworld-annual-meeting-2026/)
 * Advances in Quantum Computing – Where are we now?
     - 2025-12-20: Panel Discussion at 32nd IEEE International Conference on High Performance Computing, Data, & Analytics (Industry Research and User Symposium) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://hipc.org/irus-quantum/)
 * Quantum Algorithm Design
@@ -74,7 +76,7 @@ permalink: "/research/teaching_supervision_talks/"
     - 2018-06-22: M.Sc. thesis defense at TU Delft
  
 ### Courses
-<small>(Last updated: March 2025)</small>
+<small>(Last updated: Mar 2025)</small>
 
 I aid(ed) in the development and delivery of the following courses:
 
@@ -89,7 +91,7 @@ I aid(ed) in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
-<small>(Last updated: March 2025)</small>
+<small>(Last updated: Mar 2025)</small>
 
 I (co)-supervised the following bachelor, master's, and doctoral projects while I was at TU Delft and QBee.
 
