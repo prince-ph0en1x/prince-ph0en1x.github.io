@@ -74,7 +74,10 @@ Yet, on the other hand, the oldest and arguably the most sacred text in hinduism
 
 ### Baul Philosophy
 
-Bauls, the wandering mystic minstrels of Bengal has a rich philosophy that I find as deep as that of Adi Shankaracharya's Advaitva, yet so simple that it can be understood through folk music. Etymologically, 'Baul' means mad, derived from the word 'Vatul' (mad) or 'Vyakula' (impatiently eagered). Their free spirited nature is centered on rejection of rules pertaining to orthodox religions. In Baul 'deho-tottyo' philosophy the human body is given the highest value as a microcosm of the universe. Human body, composed of 'pancha-bhuta' and the dwelling place of God, deserved the ultimate reality where one can unite with the Supreme Being to achieve 'moksha'.
+Bauls, the wandering mystic minstrels of Bengal, have a rich philosophy that I find as deep as Adi Shankaracharya's Advaita yet so simple that it can be understood through folk music. Etymologically, 'Baul' means mad, derived from the word 'Vatul' (mad) or 'Vyakula' (impatiently eager). Their free-spirited nature centers on rejecting the rules of orthodox religions. In Baul 'deho-tottyo' philosophy, the human body is given the highest value as a microcosm of the universe. The human body, composed of 'pancha-bhuta' and the dwelling place of God, deserves the ultimate reality where one can unite with the Supreme Being to achieve 'moksha'.
+
+Here's a wonderful image from [Indians in Pixel's video](https://www.youtube.com/watch?v=bUyyAFNHQF8) on Yajurveda. The video discussed the influence of East Indian philosophy on the Vedic West Indian philosophy.
+[![Baul vs. Advaita](/images/musings/iip_baul_rishi.png)](/images/musings/iip_baul_rishi.png)
 
 ##### List of Baul songs reflecting this philosophy
 * [বাড়ির কাছে আরশী নগর](https://www.youtube.com/watch?v=d-IwBrLt2aI)
