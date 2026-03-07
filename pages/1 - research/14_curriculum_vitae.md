@@ -42,6 +42,7 @@ permalink: "/research/cv/"
 * *Coordinator* - [QResearch Department](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Steering committee* - [QIndia](https://qindia.org/); India
 * *Programme committee 2026* - [International Workshop on Quantum Computing and Artificial Intelligence](https://sites.google.com/view/qcai2026/)
+* *Programme committee 2026* - [IEEE International Conference on Quantum Computing and Engineering (Quantum Week)](https://qce.quantum.ieee.org/2026/technical-papers-program-committee/)
 
 ##### Past Activities
 * *Programme committee 2026* - [IEEE International Conference on Quantum Software](https://services.conferences.computer.org/2026/qsw/)
