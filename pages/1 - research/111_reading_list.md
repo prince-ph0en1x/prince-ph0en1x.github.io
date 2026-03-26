@@ -6,9 +6,9 @@
 - [x] [A Practical Open-Source Software Stack for a Cloud-Based Quantum Computing System](https://arxiv.org/abs/2507.23165) QCA
 - [x] [Equivalence of the Symbol Grounding and Quantum System Identification Problems](https://www.mdpi.com/2078-2489/5/1/172) ARA
 - [x] [Mind the gaps: The fraught road to quantum advantage](https://arxiv.org/abs/2510.19928) QCA
+- [x] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
 
 ##### tbd
-- [ ] [Formalizing Embeddedness Failures in Universal Artificial Intelligence](https://arxiv.org/abs/2505.17882) EKSA
 - [ ] [Computational Life: How Well-formed, Self-replicating Programs Emerge from Simple Interaction](https://arxiv.org/abs/2406.19108) QuineAIT
 - [ ] [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954) QuineAGI
 - [ ] [Foundations of algorithmic thermodynamics](https://arxiv.org/abs/2308.06927) AIT
