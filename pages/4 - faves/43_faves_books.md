@@ -15,17 +15,17 @@ permalink: "/faves/books/"
 This page is intended to be my personal Goodreads mirror.
 
 #### Inspirational
-These are the books I would take with me where ever I shift. These are like my set of holy books, always bringing me up and encouraging me.
+These are like my set of holy books, always bringing me up and encouraging me.
 * Manual of The Warrior of Light (Paulo Coelho)
 * Art of War (Sun Tzu)
 
 #### Popular Science 
-* Trespassing on Einstein's Lawn (Amanda Gefter)
+* Trespassing on Einstein's Lawn (Amanda Gefter) :star:
 * Proving Darwin: Making Biology Mathematical (Gregory Chaitin)
 * QBism (Hans Christian von Baeyer)
 * Quantum Computing Since Democritus (Scott Aaronson)
 * Programming the Universe (Seth Lloyd)
-* The Information: A History, a Theory, a Flood (James Gleick)
+* The Information: A History, a Theory, a Flood (James Gleick) 
 * Sync (Steven Strogatz)
 * The Fabric of Reality: The Science of Parallel Universes and Its Implications (David Deutsch)
 * Emergence: The Connected Lives of Ants, Brains, Cities, and Software (Steven Johnson)
@@ -58,31 +58,36 @@ These are the books I would take with me where ever I shift. These are like my s
 * The Infinite Book (John D. Barrow)
 
 #### Philosophy/Metaphysics
-* Riddles of existence (Earl Brink Conee)
+* Riddles of existence (Earl Brink Conee) :star:
 * Descartes' Error (Antonio Damasio)
-* Sum: Forty Tales from the Afterlives (David Eagleman)
+* Sum: Forty Tales from the Afterlives (David Eagleman) :star:
 * The God Delusion (Richard Dawkins)
 
+#### Graphic Novels/Comics
+* Unflattening (Nick Sousanis) :star:
+* The Beyond (Jason Shiga) :star:
+* Mister Invincible: Local Hero (Pascal Jousselin) :star:
+* Lublur Prithibi (Charbak Dipta) :star:
+* The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Sydney Padua) :star:
+
 #### Fantasy/Fiction
-* Alice in Wonderland (Lewis Carroll)
+* Alice in Wonderland (Lewis Carroll) :star:
 * The Faraway Tree Stories (Enid Blyton)
 * The Lord of the Rings (J. R. R. Tolkien)
-* The Ingenious Gentleman Don Quixote of La Mancha (Miguel de Cervantes)
+* The Ingenious Gentleman Don Quixote of La Mancha (Miguel de Cervantes) :star:
 * Chariots of the Gods? (Erich von Däniken)
-
-#### Religion
-* Why I Am a Hindu (Shashi Tharoor)
-* Asura: Tale of the Vanquished (Anand Neelakantan)
-
-#### Novels
 * Angels and Demons (Dan Brown)
 * Da Vinci Code (Dan Brown)
 * The Lost Symbol (Dan Brown)
 * The Alchemist (Paulo Coelho)
 * Great Works of Anton Chekhov (Anton Chekhov)
-* The White Tiger (Aravind Adiga)
+* The White Tiger (Aravind Adiga) :star:
 * The Blue Umbrella (Ruskin Bond)
 * Brida (Paulo Coelho)
+
+#### Religion
+* Why I Am a Hindu (Shashi Tharoor) :star:
+* Asura: Tale of the Vanquished (Anand Neelakantan)
 
 #### Others
 * The Upside of Irrationality (Dan Ariely)
@@ -90,7 +95,6 @@ These are the books I would take with me where ever I shift. These are like my s
 
 #### Current Reading List:
 * Labyrinths (Jorge Luis Borges)
-* The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Sydney Padua)
 * Outgrowing God: A Beginner's Guide (Richard Dawkins)
 
 
