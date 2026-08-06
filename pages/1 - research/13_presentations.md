@@ -18,8 +18,12 @@ permalink: "/research/teaching_supervision_talks/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
 ### Presentations and Videos
-<small>(Last updated: Jan 2026)</small>
+<small>(Last updated: Aug 2026)</small>
 
+* Quantum Computing & Artificial Intelligence
+    - 2026-03-11: Invited Talk at Quantum Computing: Theory, Algorithms and Reality at Quantum Research Park, Indian Institute of Science, Bengaluru [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://iqti.iisc.ac.in/qctar-2026/)
+* The Tao of Quantum Computing
+    - 2026-02-28: Guest Speaker at Chief Technology Officer Programme Batch 02 at IIM Kozhikode
 * Future of QWorld
     - 2026-01-18: Panel Discussion at 2nd QWorld Annual Meeting [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://qworld.net/qworld-annual-meeting-2026/)
 * Advances in Quantum Computing – Where are we now?
@@ -31,7 +35,7 @@ permalink: "/research/teaching_supervision_talks/"
 * Automating Quantum Computing Software [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2025-11-02-aqse-qiskit-fall-fest-iit-guwahati-pdf/284011725)
     - 2025-11-02: Qiskit Fall Fest at Indian Institute of Technology, Guwahati
 * Quantum Computing: naam toh suna hi hoga?
-    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme at IIM Kozhikode
+    - 2025-02-22: Guest Speaker at Chief Technology Officer Programme Batch 01 at IIM Kozhikode
 * Challenges in Quantum Compilation and Algorithms [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-11-05-kaist-guest-lecture-aritra-sarkar/273096989)
     - 2024-11-05: Guest Lecture at Korea Advanced Institute of Science & Technology, Daejeon
 * Challenges in Quantum Compilation [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/slideshare.svg" width="20" height="20">](https://www.slideshare.net/slideshow/2024-10-18-iit-kgp-qiskit-fall-fest-pdf/272531424#2)
