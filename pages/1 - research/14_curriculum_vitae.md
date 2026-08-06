@@ -36,15 +36,16 @@ permalink: "/research/cv/"
 * *Senior researcher* - [Fujitsu Research India Private Limited](https://www.fujitsu.com/in/about/local/corporate/subsidiaries/); Bengaluru, India
 
 ### Pro-bono Activities
-<small>(Last updated: Feb. 2026)</small>
+<small>(Last updated: Aug. 2026)</small>
 
 * *Board member* - [QWorld](https://qworld.net/contact/); QWorld Association; Talinn; Estonia
 * *Coordinator* - [QResearch Department](https://qworld.net/qresearch/); QWorld Association; Talinn; Estonia
 * *Steering committee* - [QIndia](https://qindia.org/); India
-* *Programme committee 2026* - [International Workshop on Quantum Computing and Artificial Intelligence](https://sites.google.com/view/qcai2026/)
 * *Programme committee 2026* - [IEEE International Conference on Quantum Computing and Engineering (Quantum Week)](https://qce.quantum.ieee.org/2026/technical-papers-program-committee/)
+* *Co-chair 2027* - [Symposium on Quantum Science and Technology](https://www.comsnets.org/sqst)
 
 ##### Past Activities
+* *Programme committee 2026* - [International Workshop on Quantum Computing and Artificial Intelligence](https://qcai.uma.es/2026/)
 * *Programme committee 2026* - [IEEE International Conference on Quantum Software](https://services.conferences.computer.org/2026/qsw/)
 * *Organizing committee 2025* - [Symposium Celebrating the Quantum Century at AI-ML Systems](https://www.aimlsystems.org/2025/quantum-symposium/)
 * *Programme committee 2025* - [IEEE International Conference on Quantum Software](https://services.conferences.computer.org/2025/qsw/)
