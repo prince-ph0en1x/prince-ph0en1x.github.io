@@ -95,9 +95,19 @@ I aid(ed) in the development and delivery of the following courses:
 * [Advanced Computer Architecture](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=468002) at University of Porto <small>2020-21</small>
 
 ### Supervision
-<small>(Last updated: Mar 2025)</small>
+<small>(Last updated: Aug 2026)</small>
 
-I (co)-supervised the following bachelor, master's, and doctoral projects while I was at TU Delft and QBee.
+#### Internship supervision
+
+* **[Syed Naqi Abbas](https://www.linkedin.com/in/syed-naqi-abbas-306055291/)**
+      
+* **[Aryan Prakash](https://www.linkedin.com/in/aryan--prakash/)**
+
+* **[Niharika Verma](https://www.linkedin.com/in/vermaniharika19/)**
+
+* **[Prateek P Kulkarni](https://www.linkedin.com/in/pkulkarni2425/)**
+  
+* **[Asutosh Mishra](https://www.linkedin.com/in/amishra2003/)**
 
 #### Doctoral research co-supervision
 
