@@ -41,23 +41,30 @@ permalink: "/research/projects/"
 <!--  ... interested in a research collaboration (or master's thesis) within QCA/QML team on related topics? Contact [me](https://www.linkedin.com/in/sarkararitra/) or [Sebastian Feld](https://www.linkedin.com/in/sebastian-feld/) over LinkedIn or email.  -->
 
 ### Past Projects
-<small>(Last updated: March 2025)</small>
+<small>(Last updated: Aug 2026)</small>
 
 (in reverse chronological order) For a more updated list, check [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Qo84iBgAAAAJ&view_op=list_works&sortby=pubdate).
 
-* CutQAS: Connectivity-aware Quantum Circuit Cutting via Reinforcement Learning based Quantum Architecture Search for Quantum Chemistry <small>(QIndia, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2504.04167)
-* Quantum circuit decompiler for scalable and explainable quantum architecture search <small>(QIA '24)</small>
+* AutoQuREO: A Framework for Automated Quantum Resource Estimation and Optimization <small>(FJ, '25)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](
+https://doi.org/10.48550/arXiv.2608.12936)
+* DeComp2: Description Complexity aware Decomposition <small>(QIA, '26)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2607.23990)
+* The Tao of Agency: Autotelic AI, Embedded Agency and Dissolution of the Self <small>(QIA, '26)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2606.19924)
+* From Characterization To Construction: Generative Quantum Circuit Synthesis from Gate Set Tomography Data <small>(QML, QIA, '25)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2605.01367)
+* The computational inevitability of life: self-replication under resource-bounded nested algorithmic probability <small>(QIA, '26)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2010.09646)
+* Reinforcement Learning for Quantum Circuit Optimization: A Review <small>(QIndia, '26)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://openreview.net/forum?id=h6w1j1fjeZ)
+* CutQAS: Topology-aware quantum circuit cutting via reinforcement learning <small>(QIndia, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2504.04167)
+* DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search <small>(QIA '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2504.08310)
 * Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States <small>(QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2412.12874)
 * LEGO HQEC: A Software Tool for Analyzing Holographic Quantum Codes <small>(QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2410.22861)
 * YAQQ: Yet Another Quantum Quantizer - Design Space Exploration of Quantum Gate Sets using Novelty Search <small>(QIA, QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2406.17610)
-* Quantum instruction set optimization using description complexity coding <small>(QIA, QML, '24)</small>
+* EQISA: Energy-efficient Quantum Instruction Set Architecture using Sparse Dictionary Learning <small>(QIA, QML, '24)</small>
 * EO-GRAPE and EO-DRLPE: Open and Closed Loop Approaches for Energy Efficient Quantum Optimal Control <small>(QML, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2411.06556)
 * KANQAS: Kolmogorov Arnold Network for Quantum Architecture Search <small>(QIndia, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2406.17630)
 * Transformer Models for Quantum Gate Set Tomography <small>(QML, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2405.02097)
 * A quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search <small>(QIndia, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">]()
 * A resource-efficient variational quantum algorithm for mRNA codon optimization <small>(QBee, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">]()
 * ArtA: Artificial Architect - Automating design space exploration of spin qubit architectures <small>(QML, '24)</small>
-* Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity <small>(QML, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2402.00478)
+* Lightcone bounds for quantum circuit mapping via uncomplexity <small>(QML, '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.48550/arXiv.2402.00478)
 * Automated Quantum Software Engineering: why? what? how?  <small>(QIA, QML '24)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.1007/s10515-024-00436-x)
 * KetGPT - Dataset Augmentation of Quantum Circuits using Transformers <small>(QML, '23)</small> [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/newspaper.svg" width="20" height="20">](https://doi.org/10.1007/978-3-031-63778-0_17)
 * Qiskit Gymnasium environment for quantum circuit optimization <small>(QWorld, '23)</small>
