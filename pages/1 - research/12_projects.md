@@ -20,14 +20,15 @@ permalink: "/research/projects/"
 ### Ongoing Projects
 <small>(Last updated: March 2025)</small>
 
-* Qurator - Library Learning for Quantum Computer Engineering <small>(QIA)</small> <span style="color:red"><small>(looking for collaborators)</small></span>
+* Qurator - Library Learning for Quantum Computer Engineering <small>(QIA)</small> <!-- <span style="color:red"><small>(looking for collaborators)</small></span> -->
 * Automated identification and generative synthesis of provable quantum accelerated kernels <span style="color:red"><small>(looking for collaborators)</small></span>
-* MLC4QC: Machine learning control of quantum computation on programmable matter <small>(QML, QIA)</small>
 * KANQOC - Kolmogorov Arnold Network for Quantum Optimal Control <small>(QIndia)</small>
 * Agent-based concept discovery of quantum error correction codes <small>(QIndia, QML)</small>
 * Resource modelling of distributed quantum computing using Petri nets <small>(QIndia)</small>
 
-... interested in a research collaboration within the [Quantum Intelligence Alliance](https://github.com/Advanced-Research-Centre) team on related topics? Contact me via [LinkedIn](https://www.linkedin.com/in/sarkararitra/) or email.
+... interested in a research collaboration within the [Quantum Intelligence Alliance](https://github.com/Advanced-Research-Centre) team on related topics? 
+
+Contact me via [LinkedIn](https://www.linkedin.com/in/sarkararitra/) or email.
 
 <!-- * Algorithmic probability guided quantum geometric machine learning -->
 <!-- * Quantum accelerated probabilisitic logic programs -->
