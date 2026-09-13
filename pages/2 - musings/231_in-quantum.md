@@ -26,6 +26,7 @@ This was originally initiated as a project undertaken within QIndia and QWorld i
 #### Organizations and Industrial Associations:
 
 India's quantum industry now spans the full stack — from quantum processors, control electronics, and cryogenics to algorithms, software, simulation, sensing, communication/security, and enterprise applications. The list below is intended as a **living, non-exhaustive map of active industrial/startup groups** in India.
+
 | Organization | Type | Focus / QC layer | <!-- Selected people --> | <!-- News / further reading --> |
 |---|---|---|---|---|
 | **[Accelequant](https://accelequant.com/)** | Startup | Algorithms & Applications | <!-- Prof. Krishna V. Palem --> | <!-- [Company](https://accelequant.com/) --> |
