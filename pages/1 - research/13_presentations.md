@@ -18,8 +18,12 @@ permalink: "/research/teaching_supervision_talks/"
 <div class="medium-12 medium-pull-0 columns" markdown="1" style='text-align: left;'>
 
 ### Presentations and Videos
-<small>(Last updated: Aug 2026)</small>
+<small>(Last updated: Sep 2026)</small>
 
+* Quantum Computing: Gentle Introduction and Current Progress
+    - 2026-09-10: Invited Talk at Structured Training Program on Nano Foundations, Quantum Future at School of Materials Science and Nanotechnology, Jadavpur University, Kolkata
+* Quantum Computing & Artificial Intelligence
+    - 2026-08-19: Invited Talk at FRIPL AI Seminar
 * Quantum Computing & Artificial Intelligence
     - 2026-03-11: Invited Talk at Quantum Computing: Theory, Algorithms and Reality at Quantum Research Park, Indian Institute of Science, Bengaluru [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20">](https://iqti.iisc.ac.in/qctar-2026/)
 * The Tao of Quantum Computing
