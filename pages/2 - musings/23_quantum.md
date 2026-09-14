@@ -31,8 +31,8 @@ widget1:
 * [QC Mythbusters](#mythbusters)
 * [QC Programming Languages](#programming)
 * [Universal Gate Set](#ugs) 
-* [IN Quantum](#inq)
-* [Quantum Journals](#quj)
+* [Quantum in India](#inq)
+* [Quantum Publication Venues](#quj)
 * [Cooking the Gourmet Future](#qcook)
 * [Career in QC - a guide for highschoolers](#qccareer)
 * [Quantum Quixote](#quantumquixote)
@@ -230,7 +230,7 @@ If we design special-purpose hardware to support a specific data transform, it w
 
 [*^ back to top ^*](#toc)
 
-### IN Quantum <a name="inq"></a>
+### Quantum in India <a name="inq"></a>
 
 <div class="row t60">
 	{% include _frontpage-widget.html widget=page.widget1 %}
@@ -238,23 +238,45 @@ If we design special-purpose hardware to support a specific data transform, it w
 
 [*^ back to top ^*](#toc)
 
-### Quantum Journals <a name="quj"></a>
+### Quantum Publication Venues <a name="quj"></a>
 
-List of popular venues for quantum computing publications (in no particular order):
- - Quantum [[link](https://quantum-journal.org/)]
- - Springer Quantum Machine Intelligence [[link](https://link.springer.com/journal/42484)]
- - Wiley Advanced Quantum Technologies [[link](https://onlinelibrary.wiley.com/journal/25119044)]
- - IOP Quantum Science and Technology [[link](https://iopscience.iop.org/journal/2058-9565)]
- - Springer EPJ Quantum Technology [[link](https://epjquantumtechnology.springeropen.com)]
- - Physical Review X Quantum [[link](https://journals.aps.org/prxquantum/)]
- - IEEE Transactions on Quantum Engineering [[link](https://tqe.ieee.org)]
- - ACM Transactions on Quantum Computing [[link](https://dl.acm.org/journal/tqc)]
- - Springer Quantum Information Processing [[link](https://link.springer.com/journal/11128)]
- - Physical Review Applied [[link](https://journals.aps.org/prapplied/)]
- - Physical Review Research [[link](https://journals.aps.org/prresearch/)]
- - NPJ Quantum Information [[link](https://www.nature.com/npjqi/)]
- - Physical Review A [[link](https://journals.aps.org/pra/)]
- - Physical Review Letters [[link](https://journals.aps.org/prl/)]
+#### Journals
+
+| Venue | QC stack layers | <!-- Latest impact factor --> |
+|---|---|---|
+| [Reviews of Modern Physics](https://journals.aps.org/rmp/) | Theory; Foundations; Algorithms; Hardware | <!-- 48.9 --> |
+| [Nature Physics](https://www.nature.com/nphys/) | Foundations; Hardware; QEC; Algorithms; Applications | <!-- 18.0 --> |
+| [Physical Review X](https://journals.aps.org/prx/) | All layers; major breakthroughs | <!-- 16.8 --> |
+| [Nature Communications](https://www.nature.com/ncomms/) | All layers; Hardware; QEC; Algorithms; Applications | <!-- 15.7 --> |
+| [Physical Review X Quantum](https://journals.aps.org/prxquantum/) | All layers; major QC/QI results | <!-- 12.3 --> |
+| [Physical Review Letters](https://journals.aps.org/prl/) | All layers; breakthrough results | <!-- 9.4 --> |
+| [npj Quantum Information](https://www.nature.com/npjqi/) | Theory; Algorithms; QEC; Communication; Hardware; QML | <!-- 8.3 --> |
+| [ACM Transactions on Quantum Computing](https://dl.acm.org/journal/tqc) | Algorithms; Software & Compilers; Architecture; QML | <!-- 6.8 --> |
+| [EPJ Quantum Technology](https://epjquantumtechnology.springeropen.com/) | Algorithms; Software; Hardware; QEC; Communication; Sensing | <!-- 5.6 --> |
+| [Quantum](https://quantum-journal.org/) | Theory & Algorithms; Software & Compilers; QML; Foundations | <!-- 5.4 --> |
+| [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565) | All layers; especially engineering & applications | <!-- 5.0 --> |
+| [IEEE Journal of Selected Topics in Quantum Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2944) | Photonics; Hardware; Communication; Sensing | <!-- 4.5 --> |
+| [Quantum Machine Intelligence](https://link.springer.com/journal/42484) | QML; Algorithms; AI; Software | <!-- 4.4 --> |
+| [Physical Review Applied](https://journals.aps.org/prapplied/) | Hardware; Control; Devices; Sensing; Applications | <!-- 4.4 --> |
+| [Advanced Quantum Technologies](https://onlinelibrary.wiley.com/journal/25119044) | Hardware; Control; Sensing; Communication; Algorithms; Applications | <!-- 4.3 --> |
+| [Physical Review Research](https://journals.aps.org/prresearch/) | All layers; interdisciplinary QC | <!-- 4.2 --> |
+| [Physical Review A](https://journals.aps.org/pra/) | Theory; Algorithms; QEC; Quantum information; QML | <!-- 3.0 --> |
+| [Quantum Information Processing](https://link.springer.com/journal/11128) | Theory; Algorithms; QEC; Software; QML | <!-- 2.2 --> |
+| [Quantum Information & Computation](https://www.rintonpress.com/journals/qic/) | Theory; Algorithms; Foundations; QEC | <!-- ~1.6 --> |
+| [IEEE Transactions on Quantum Engineering](https://tqe.ieee.org/) | Hardware; Control; Software; Communication; Sensing; Engineering | <!-- — --> |
+
+#### Conferences & workshops
+
+| Venue | QC stack layers |
+|---|---|
+| [QIP — Conference on Quantum Information Processing](https://qipconference.org/) | Theory; Algorithms; QEC; Foundations; QML |
+| [IEEE International Conference on Quantum Computing and Engineering — Quantum Week / QCE](https://qce.quantum.ieee.org/) | Hardware; Software; Compilers; Algorithms; QML; Applications; Engineering |
+| [AQIS — Asian Conference on Quantum Information Science](https://aqis-conf.org/) | Theory; Algorithms; QEC; Quantum information; Hardware |
+| [TQC — International Conference on Theory of Quantum Computation, Communication and Cryptography](https://tqc.iaqi.org/) | Theory; Algorithms; Complexity; Communication; Cryptography |
+| [QCrypt](https://qcrypt.net/) | Communication; Cryptography; QKD; Security |
+| [Q-SE — Quantum Software Engineering](https://qse-conference.github.io/) | Software & Compilers; Verification; Testing; Quantum Programming |
+| [IEEE International Conference on Quantum Software — QSW](https://qsw2025.github.io/) | Software & Compilers; Quantum Programming; Applications; Engineering |
+| [APS March Meeting — Quantum Information sessions](https://marchmeeting.aps.org/) | Hardware; Algorithms; QEC; QML; Foundations |
 
 [*^ back to top ^*](#toc)
 
