@@ -32,9 +32,11 @@ India's quantum industry now spans the full stack — from quantum processors, c
 | **[Accelequant](https://accelequant.com/)** | Startup | Algorithms & Applications | <!-- Prof. Krishna V. Palem --> | <!-- [Company](https://accelequant.com/) --> |
 | **[amPICQ](https://ampicq.com/)** | Startup | Hardware (photonic IC) | <!-- — --> | <!-- [Company](https://ampicq.com/) --> |
 | **[Atom Jig](https://atomjig.com/)** | Startup | QPU / Hardware | <!-- — --> | <!-- [Company](https://atomjig.com/) --> |
+| **[Bloq](https://www.bloq.in/)** | Startup | Software & Compilers; Algorithms & Applications | <!-- Bloq India quantum team --> | <!-- [Company](https://bloqquantum.com/) --> |
 | **[BosonQ Psi](https://www.bqpsim.com/)** | Startup | Quantum Simulation | <!-- Dr. Roopesh Mathur; Jash Minocha; Aditya Singh --> | <!-- [Company / leadership](https://www.bqpsim.com/about-us) --> |
 | **[Brahmasens Technologies](https://brahmasens.com/)** | Startup | Sensing & Metrology (single photon source and detectors) | <!-- — --> | <!-- [Company](https://brahmasens.com/) --> |
 | **[Dimira Technologies](https://dimiratech.com/)** | Startup | Cryogenics & Packaging | <!-- Prof. Dipti Gupta; K. R. AjayNarayan --> | <!-- [Company](https://dimiratech.com/about) --> |
+| **[EY](https://www.ey.com/)** | MNC / professional services | Algorithms & Applications; Education & Ecosystem; quantum strategy & consulting | <!-- EY India quantum team --> | <!-- [EY Quantum](https://www.ey.com/en_gl/quantum) --> |
 | **[Fujitsu Research India](https://global.fujitsu/en-apac/local/technology/research/quantum-computing)** | MNC | Algorithms & Applications; Software & Compilers | <!-- Fujitsu Research India quantum team --> | <!-- [Fujitsu Research](https://www.fujitsu.com/in/microsite/research/) --> |
 | **[GDQ Labs](https://gdqlabs.com/)** | Startup | Sensing & Metrology | <!-- Dr. Pranab Dutta --> | <!-- [Company](https://gdqlabs.com/) --> |
 | **[HCLTech](https://www.hcltech.com/newsfeed/hcltech-progress-industrial-scale-quantum-applications-enterprises)** | MNC | Algorithms & Applications; Communication & Security | <!-- HCLTech quantum team --> | <!-- [Quantum computing](https://www.hcltech.com/blogs/quantum-computing-race-exploring-global-efforts-and-breakthroughs) --> |
