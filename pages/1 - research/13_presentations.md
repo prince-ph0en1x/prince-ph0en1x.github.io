@@ -104,14 +104,11 @@ I aid(ed) in the development and delivery of the following courses:
 #### Internship supervision
 
 * **[Syed Naqi Abbas](https://www.linkedin.com/in/syed-naqi-abbas-306055291/)**
-      
 * **[Aryan Prakash](https://www.linkedin.com/in/aryan--prakash/)**
-
 * **[Niharika Verma](https://www.linkedin.com/in/vermaniharika19/)**
-
 * **[Prateek P Kulkarni](https://www.linkedin.com/in/pkulkarni2425/)**
-  
 * **[Asutosh Mishra](https://www.linkedin.com/in/amishra2003/)**
+* **[Aditya Srivastava](https://www.linkedin.com/in/adityacodes06/)**
 
 #### Doctoral research co-supervision
 
